@@ -1,10 +1,2385 @@
 {
-  "generated_at": "2026-10-25T05:46:01.746082+00:00",
+  "generated_at": "2026-10-25T06:50:09.100746+00:00",
   "version": "2.1",
   "stats": {
-    "total": 0,
-    "verified_official": 0
+    "total": 90,
+    "verified_official": 65
   },
-  "groups": [],
-  "jobs": []
+  "groups": [
+    {
+      "category": "IT & Technology",
+      "count": 20
+    },
+    {
+      "category": "Other Jobs",
+      "count": 18
+    },
+    {
+      "category": "Banking & Finance",
+      "count": 14
+    },
+    {
+      "category": "Cashiers & Retail",
+      "count": 12
+    },
+    {
+      "category": "Office & Admin",
+      "count": 9
+    },
+    {
+      "category": "Healthcare",
+      "count": 8
+    },
+    {
+      "category": "Drivers & Logistics",
+      "count": 5
+    },
+    {
+      "category": "Education",
+      "count": 4
+    }
+  ],
+  "jobs": [
+    {
+      "id": "b2327afe15101cc4",
+      "title": "Public service vacancy circular",
+      "company": "Department of Public Service and Administration",
+      "source_name": "Department of Public Service and Administration (official careers page)",
+      "source_url": "https://www.dpsa.gov.za/newsroom/psvc/",
+      "apply_url": "https://www.dpsa.gov.za/newsroom/psvc/",
+      "found_at": "2026-10-25T06:46:38.204150+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "r 1",
+      "job_type": "",
+      "requirements": ", competencies, knowledge and experience (on a separate sheet if necessary or a CV) must be forwarded to the department in which the vacancy/vacancies exist(s). Applicants must indicate the reference number of the vacancy in their applications. Applicants requiring additional information regarding an advertised post must direct their enquiries to the department where the vacancy exists. The Department of Public Service and Administration must not be approached for such information. It must be ensured that applications reach the relevant advertising departments on or before the applicable",
+      "description": "Public service vacancy circular Home Newsroom Public service vacancy circular Public service vacancy circular 1. Introduction This Circular is, except during December, published on a weekly basis and contains the advertisements of vacant posts and jobs in Public Service departments. Although the Circular is issued by the Department of Public Service and Administration, the Department is not responsible for the content of the advertisements. Enquiries about an advertisement must be addressed to the relevant advertising department. 2. Directions to candidates Applications on form Z83 with full particulars of the applicants' training, qualifications, competencies, knowledge and experience (on a separate sheet if necessary or a CV) must be forwarded to the department in which the vacancy/vacancies exist(s). Applicants must indicate the reference number of the vacancy in their applications. Applicants requiring additional information regarding an advertised post must direct their enquiries "
+    },
+    {
+      "id": "41a55d988baa4263",
+      "title": "Newsroom Public service vacancy circular Public service vacancy circular 1. Introduction This Circular is, except during December, published on a weekly basis and contains the advertisements of vacan",
+      "company": "Department of Public Service and Administration",
+      "source_name": "Department of Public Service and Administration (official careers page)",
+      "source_url": "https://www.dpsa.gov.za/newsroom/psvc/",
+      "apply_url": "https://www.dpsa.gov.za/newsroom/",
+      "found_at": "2026-10-25T06:46:39.755310+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Drivers & Logistics",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "r 38",
+      "job_type": "",
+      "requirements": "",
+      "description": "Newsroom Newsroom Newsroom Media statements and notices Online magazines The public servant online Service delivery review Public service vacancy circular Circular 38 of 2026 Circular 37 of 2026 Circular 36 of 2026 Circular 35 of 2026 Circular 34 of 2026 Circular 33 of 2026 Circular 32 of 2026 Circular 31 of 2026 Circular 30 of 2026 Circular 29 of 2026 Circular 28 of 2026 Circular 27 of 2026 Circular 26 of 2026 Circular 25 of 2026 Circular 24 of 2026 Speeches Tenders Department of Public Service and Administration About us Legislation PAIA Policy updates Resource centre Newsroom Contact us FAQ Batho Pele AI Chatbot Elections 2026 Public service vacancy circular"
+    },
+    {
+      "id": "2b4ebc1837b7a247",
+      "title": "Editable New Z83 application form [effective from 01 January 2021] 5. Public service vacancy circular minute - year programme",
+      "company": "Department of Public Service and Administration",
+      "source_name": "Department of Public Service and Administration (official careers page)",
+      "source_url": "https://www.dpsa.gov.za/newsroom/psvc/",
+      "apply_url": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/editable%20Approved%20New%20Z83%20form%20Gazetted%206%20Nov%202020.pdf",
+      "found_at": "2026-10-25T06:46:40.671000+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "KwaZulu-Natal",
+      "province": "KwaZulu-Natal",
+      "closing_date": "",
+      "salary": "r5",
+      "job_type": "",
+      "requirements": "",
+      "description": "%PDF-1.6 % 1202 0 obj < > endobj 1333 0 obj < >/Filter/FlateDecode/ID[ < 939F8B1D52B1534DAF002D41B115A2E4> ]/Index[1202 218]/Info 1201 0 R/Length 153/Prev 2466868/Root 1203 0 R/Size 1420/Type/XRef/W[1 2 1]>>stream hbbd\u0010``b`s\u0001\u0012 \u0004u\u0010a $\u0018@1\u0010\u0006\u0011Xc« D\u001aĲ\u0001\u0011\u001201F\u0018\u0013X 4F9\u0010\b\"@\u001222\u000f,6(L#6@Q D0\u0002 k \u0010֦X @\bD < \u0000iS\u0001\u0012\\@B9\u0003\u0013#VPrd` %\u000675\u0000\u0001\u0006\u00007E! endstream endobj startxref 0 %%EOF 1419 0 obj < >stream hb```f``Y !2*:&4, < \"0(8?DWO@SK[GUM]CQIYEVN^ATL\\BRJZFPHX_\u0005J{\u0006\u0018{ `\u00037P\u0019\u0003\u0004\u0018\u0000x' endstream endobj 1203 0 obj < >/Metadata 73 0 R/Outlines 196 0 R/PageLayout/OneColumn/Pages 1200 0 R/StructTreeRoot 279 0 R/Type/Catalog>> endobj 1204 0 obj < >/ExtGState < >/Font < >/XObject < >>>/Rotate 0/StructParents 0/Tabs/R/Type/Page>> endobj 1205 0 obj < >/Subtype/Form/Type/XObject>>stream HL P C\u0013T? (\u0017\u0004/\"bGs\"ب3|߰M޴x(n\u000fhDpfmv[UV|\u000f Nx\"p)_Ę\u0012' \\\u0015`\u0000)# endstream endobj 1206 0 obj < >/Subtype/Form/Type/XObject>>stream HL1\u00120\b\u0004{^q/p8\" >/Subtype/Form/Type/XObject>>stream HL 0 \u0003\u0013\u0004l'\u0018yuڟ&@J CJ\u0011JRّ(\u000fJFC(\\ ?eL75mFlN^Vn8`?|aG*Emr,HX\u0013`\u0000.Q\"{ endstrea"
+    },
+    {
+      "id": "a84e723821a4eee2",
+      "title": "Circular dated 6 October 2026",
+      "company": "Department of Public Service and Administration",
+      "source_name": "Department of Public Service and Administration (official careers page)",
+      "source_url": "https://www.dpsa.gov.za/newsroom/psvc/",
+      "apply_url": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/Circular%20%2055%20of%202026.pdf",
+      "found_at": "2026-10-25T06:46:46.969281+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "KwaZulu-Natal",
+      "province": "KwaZulu-Natal",
+      "closing_date": "",
+      "salary": "R3",
+      "job_type": "",
+      "requirements": "",
+      "description": "%PDF-1.7 % 114 0 obj < /Filter/Adobe.PPKLite/Location(South Africa)/M(D:20261006140420+02'00')/Prop_Build < >>>/Reason(I approve this document)/Reference[ < >/Type/SigRef>>]/SubFilter/ETSI.CAdES.detached/Type/Sig>> endobj 4 0 obj < >stream x[o6\u0012 \u0003?ʇ -R$%\u0016Eq$uWcwnQ(\u0010ˮbofH9\u000f[Fڥ, < 8tW-&Wh[,M1fד2_Lfew\\`\" \u0017\u000f?\u0007{40nwݝ < FĉfjH)dUX),b.4\u0001R3)l4u֥U,K\u0005jZ\u0010~\u0010L\b +6\u0011DE0m0,-\u0019\u001bNqAi\u00150+%0Eƪk{4$Zu~g ww\u000e\u000e\u000eO\u0019\u000ey; {,*ʽ_\u0006 )d@qT ?gZǴǦ e\u0000\u0013f7l,Ϥ!l\u0013O/&zl\u001b\u0013D\u0005\u0013\u0000O\u0006U\u001a9\u001a9^\u000fDhr \u0002\u0010ikP&!\u000e;*:9?>䰣S I\u000f\u001a\u0007Ξt\u000e;\"#;&_>|~q\u000fZ`\u0013\u001aSr)Hഓpt\u0017^\u0004hst[\u0001R'X&& < =x\u0012\\ [Dszv2- !\u0013 .Dڲ\u0010\"j]\u0019 w}( \u0003\u0001|\u0006\u0012pSaɢ9bL#\u0004/S 8 W\u001b@s`O\u0013sÓSv\u0018\u0017c\u0015Mz>e c\bոRա v#)e=F < 3 \u0004^K˓&\u0003[u֒U;m ׶+Cx\u0004\u0003A\u0003\u0000\u000e-\u0017! 93:\u0002 ?Ms\u0018cޣ\u0011W4j\u0005\u001b'Q`s\u0012a/Ξ'xgi,a\u0003z6\u0012\u0012[ۤ4 < = MIh\u0003h* %\\\u0015\u0015\u0012\bQ-Sn6 - N(T\u001bPleֈQ+ 7\u0005\u0003Mh\u000e f:\u000f\u001ba Mj\u0004cys ;&iz?LJlU !)5h\\ \u0017_L _`Ϙx\u0016\u0003\u001b\u001b\u0011\u0003 \u0004Y\u0017%FyS \u001b\u00161qfr:Aj'3x*7X݃E\u0003yiqU ߴC\u0000\u0002bI)\u0013 Z^T$+\u0004\u000f:BEEu?5F `'GTB_ u\u0000,P#kVF_vc^_:\u0007{M\\ %;:KMͪ1\u001aJ^\u0012g5!+ yo &zI& JfH@ < }ܿ%\\fWN\u00030?۶ l¥Vΰ\u0003\u0017y\u0007W\u0018 < $&*Ay$i9Ă ۺ\u0014])T&LeCl͆\u001bl1\u001b6s016ZRȹŶTRDoX=\u0002mb2 ^\u0010 E[ \u0002>R)\u0019׾T/\u0002b\u0004 K < ,*?ړA\u001a%G4xq) ^a,X\u0016]\u0006ׯ\u0012qp~)*DhV\u0010dg>RAX*PX"
+    },
+    {
+      "id": "0b7633f71240bbc8",
+      "title": "Year programme 2027",
+      "company": "Department of Public Service and Administration",
+      "source_name": "Department of Public Service and Administration (official careers page)",
+      "source_url": "https://www.dpsa.gov.za/newsroom/psvc/",
+      "apply_url": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/Year%20Programme%202027.pdf",
+      "found_at": "2026-10-25T06:46:51.320538+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "R9",
+      "job_type": "",
+      "requirements": "",
+      "description": "%PDF-1.7 % 1 0 obj < >/Metadata 507 0 R/ViewerPreferences 508 0 R>> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState < >/XObject < >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 595.32 841.92] /Contents 4 0 R/Group < >/Tabs/S/StructParents 0>> endobj 4 0 obj < > stream xY \u0005?\u0001n\u0015\b\u0002H\u0002\u001b#+ yR < \u0002,٣%p9fw,$˝\u0007 V^_,v?4\u0017ϿÇo/ͳ7Qv2M׌j,C߮ѳW =ozռzM5}Us3Os; ͫ&ѷ?ϟLg_ ׷ 㦹 }mG/7y>\u0003򩚵]nf v\\F]Rd %DEk3 wyNp7?雯?;\u001bO煨0յF2 M۲߽|w˧wc31\u001a\u0012Gv2veUk/M4\u0019\u0017͋[h替l\u000enqm>\u0004 ՛ܨ`qD*C 2%XL_\u0018K?fn]̝j\u0017%ʗaLNSӛ15LҦODȋOHEB &ߓj&S =G3>|Lh ̀i>|\u001bo޿>ޭ7 w\\%өV,G\u0017\u0015\u001ai.m7nPӀ [3RXh\u0001T7C/w \u0019Vyͧ/?铭w~U_G\u00002fF_LK \u000f?[;\u00073`?o쟟y{pt 3C衳@]s:Ăt\bQ,\u0004bIC[ͻOb?^?`*M;3X \u0019 7~n65@em{\u0001~2w\u000fo~7tqӆ\u001bɡ./$3 7\u0019|7?'~i>\u0000 < ]L㺮._o$M\u0004K\u0004se~q>\u0005r>q, \u0002Z'zm\u0007 \u0015L3YTYPGyC%7.E8O\u0013F \u0019Y\"# AvV-l2\\2\u0016|֝iJM\u0006=0- \u0013?Mlzk(\u0018d\u001a[bEs%Mwcpha @[\u000eɯ s{zGFaF\u0013E,UcI N9 M3t6lBZgknaF`c_ -~ B\u001b\u000f OqWK\u000emw_\u0006\u0015w\u000fMb]2\u0017c\u001apMEG~i\u00169έpQv.\u0011v!\u0010v>\u0010vdMG?\u0000qɶ4.yk*MPR\u0017i.mp.Ӷ [\u0016\u0005m0\u0004\u0005ږ\u0006Pa `GG|\u0004G-mώJIR)t\u0004\u001a'Y]y:~g^\u000ekv\u000f!@emI$.ja^\u0002 $0NU2 X_D%\u0013&}fARи/Ƨ:\u0019Y?ǾO\u0006B\u00059K\u0001\u0019isA iDDDSA-VfKCh &(fqZc>\u000eRvD8Q/F\u0010\u0006^b\u0003T`;f`ؤZҼ\\\u0006j#j"
+    },
+    {
+      "id": "e0376e1d2754cb17",
+      "title": "Year programme 2026",
+      "company": "Department of Public Service and Administration",
+      "source_name": "Department of Public Service and Administration (official careers page)",
+      "source_url": "https://www.dpsa.gov.za/newsroom/psvc/",
+      "apply_url": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/Year%20Programme%202026.pdf",
+      "found_at": "2026-10-25T06:46:53.718450+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "R8",
+      "job_type": "",
+      "requirements": "",
+      "description": "%PDF-1.7 % 1 0 obj < >/Metadata 504 0 R/ViewerPreferences 505 0 R>> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState < >/XObject < >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 595.32 841.92] /Contents 4 0 R/Group < >/Tabs/S/StructParents 0>> endobj 4 0 obj < > stream x] ?9 w7\u0010,`I`c:N\u0016^Ȋ\u0015`Y dWUf\u001ar$_Ȑ[~>}򧿿|{o>\u0017.˷ߟ ^}g>q?/y4,ùkOsߜ?9ϾO~לw \u0014^Nͩs;q: Ci:}K(?~\u001b?:\u0017ӵ lOy\u0019 \u0017ק58O\u0014עah.\u000f6Ïo~%6Ɔwttzm\u000e#O~}k~Cn\u000e華Y\u000f_xgi>w \u000f.\u0007CEjr\u0003b\u0006\u0003U\u0016AN5\u0018\u00102\u0010~./a l?~x\u0013Gƫ L o^=>M&J\u000e\u0016E\u0001 ޾\\_}0Lu\b ti/ɧ?滗~=}\u0016\u001a yjO2\u0006$Ny\u0018W9i C-m'K\u0016ԶY9G0 iһ/SW{N=\u0010Rh7q!ܴK*3\u000f\u001akb05qk-c\u0019/-\u0004ht~ C\"KQJ>/m\u0000]^ ~ j-Hإx\u0018\u00074Rh\u000em+\u001b \u0012\u000f: v\u0019b_C\u000f\u0006 ڴ:/aZ {32LFY /a57\u0000\\cQp\u0002)d Ca?;E 28[Zd\u0017fn+3i4 h3\u0004Y5lt\u000fzĀVKC:RW\u001b\u0016\"9\"6\u0015 _H ,N-t$x06ȑ6^Rs 3\u0017V ;7 OT\u0017b\u0007ɪLgg\u0017bqyl΍*r\u0013 c\u0012jb\\6G @-}Q\u0016\u0016qOZ\u0000'%3e|\u00048)ϯC4\u0016NgxZ ?.\u0015\\n\bb\"92\u0010\u001bM\u0002ܡ_\u0003> cˆI\u0000Dv\u0012슥\bLQ|Cͳ!9縋k\u0006 ]l}\u00048XJAzu\u0017DJ\u0004 ;c\u00102 Wv5V k\u0005b\u001b>.h|%Qr Wnd.ߪхn\u0007\u0006K+At?KPklM BuG䔌|ݲ\u0003g=zA\u0012jq\u0016\u0002 \u0005Pi667iYê$\u000f/(;$ʐ\u0016~>dHgߡT\\vĔa \b`s\u0010\u0003f(\u0013fŴ\u0013f}ńI:aRER8\"L. LގR0xL )ÈI1\u001aB&,^j\u0015R3:\u000f2?|@\u0013dTi\u000fb\u0006MHE\u000e4/q3 3U[0S *]\\cf\u000e=?qyLr;\\P FȘ.0c.d\u0010T\u0011SY,"
+    },
+    {
+      "id": "0fbf29124cb67ebc",
+      "title": "Circular dated 17 October 2025 6. SMS pre-entry certificate To access the SMS pre-entry certificate course and for further details, please click on the following link:",
+      "company": "Department of Public Service and Administration",
+      "source_name": "Department of Public Service and Administration (official careers page)",
+      "source_url": "https://www.dpsa.gov.za/newsroom/psvc/",
+      "apply_url": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/Circular%20%2043%20of%202025.pdf",
+      "found_at": "2026-10-25T06:46:55.271300+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "r2",
+      "job_type": "",
+      "requirements": "",
+      "description": "%PDF-1.5 % 10 0 obj < > endobj 26 0 obj < >/Filter/FlateDecode/ID[ < 31DC61FE70B8717BB9924A53ABA98D73> ]/Index[10 38]/Info 9 0 R/Length 92/Prev 139383/Root 11 0 R/Size 48/Type/XRef/W[1 3 1]>>stream hbbd`\u0010``b``j\u0005 ~ 9d\u0007kA$w d V\u0013\u0005\"d* A X < DJՀ$ < L@[f00ҕx-@\u0001\u0000\u0012 5 endstream endobj startxref 0 %%EOF 47 0 obj < >stream hb``c``2a\u0000\u0012\u0017\u0018P\u0001#\u00100p4 A1\u0003C\u0018 G#փE\u000f5\u0018\u0004{\u0018ns~a``~A1\u0000j\u0006\u0000 Ԭ6yLr\u0007 |F\u000e\u0000\u0003\u0000 endstream endobj 11 0 obj < > endobj 12 0 obj < > endobj 13 0 obj < >stream h޼Vmo8\u0010+UoAZEKv%])\u0003M)w\u0004\"wͿ\u0019L\u0012Hhf\u0015r\u0018L\u00100\"\\\"EG\u0014Dc\u0013ɉ\u0014\u0012fHI\u0014E\\! g\u0011\u0010\u0015*¥.\u0003 \u000e\u0017b+&\u0016'܃C,I,T0nÖ\"\u0003Xg:ʒ,\u000f6Bc @ L\u0017ӫr\u001aQ>Ӏ#t31\u0012f3\u0004)` \u0004nli!\\cڈИ \u0019C\\&]-\u0002]xBg:ZQH|}[/pS͉0k5 6k9GaT%`8DyTYJI>&W9@wg\u0014\u001a\u001bi0 a0Agۍ>\u0010AaX$ \u0003pð\u0018muz, cmz $Ѫ VEp={\u000e I\u0005\u00020\u0006r2 IhAQ\u0005\u0007n7O < 0K73Q\u0012/\u0006*Ѱ]Pw. Ǖ 7eW\" \u0016\u0010OfHOy>K8D\\n?oz\u0015\u0017e0Xf\u000f# 6D 4\blo -{8\u001acGp0 xC`a): pqOr.\u001b:\u0006z·Oa8_F@#\u0014sY]^l \u0003]7\u0018e18i(s?w0Z Xq[,ECf80'\u0006ITYc/u.E!5qZk0:?jtǄ E߳r I\u00171ʉN3)%=ldg;Jk eX\u001bۼQ&@B\u001a M\u0007y\u0004s\u001b9, < \u0010:Ov3a\u000er\u0006i5&iN484@94\b\\\u00112KhrYBU\u0016UA ]lVӪ|\u0012BAfF[-J ZWWl%:lg\u0000| kd@\u00056W?wV$Eߒzæ\u0011 #UZ=nMc{,\u000587V38ʮf-l\u0003\u00175uESS:ݚvʩĻԼPH-$\u0014ދDUvlw9 Օ"
+    },
+    {
+      "id": "b6077cfdd71a9a35",
+      "title": "Public service vacancy circular var util = UIkit.util; var closeBtn = util.$('.close-btn'); var expandBtn = util.$('.expand-btn'); util.on(closeBtn, 'click', function(){ var accordionEl = util.$('[",
+      "company": "Department of Public Service and Administration",
+      "source_name": "Department of Public Service and Administration (official careers page)",
+      "source_url": "https://www.dpsa.gov.za/newsroom/psvc/",
+      "apply_url": "https://www.dpsa.gov.za/newsroom/psvc/",
+      "found_at": "2026-10-25T06:46:58.767275+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "r 1",
+      "job_type": "",
+      "requirements": ", competencies, knowledge and experience (on a separate sheet if necessary or a CV) must be forwarded to the department in which the vacancy/vacancies exist(s). Applicants must indicate the reference number of the vacancy in their applications. Applicants requiring additional information regarding an advertised post must direct their enquiries to the department where the vacancy exists. The Department of Public Service and Administration must not be approached for such information. It must be ensured that applications reach the relevant advertising departments on or before the applicable",
+      "description": "Public service vacancy circular Home Newsroom Public service vacancy circular Public service vacancy circular 1. Introduction This Circular is, except during December, published on a weekly basis and contains the advertisements of vacant posts and jobs in Public Service departments. Although the Circular is issued by the Department of Public Service and Administration, the Department is not responsible for the content of the advertisements. Enquiries about an advertisement must be addressed to the relevant advertising department. 2. Directions to candidates Applications on form Z83 with full particulars of the applicants' training, qualifications, competencies, knowledge and experience (on a separate sheet if necessary or a CV) must be forwarded to the department in which the vacancy/vacancies exist(s). Applicants must indicate the reference number of the vacancy in their applications. Applicants requiring additional information regarding an advertised post must direct their enquiries "
+    },
+    {
+      "id": "e240237cee1e9c59",
+      "title": "The group",
+      "company": "First National Bank / FirstRand",
+      "source_name": "First National Bank / FirstRand (official careers page)",
+      "source_url": "https://www.firstrand.co.za/careers/",
+      "apply_url": "https://www.firstrand.co.za/careers/",
+      "found_at": "2026-10-25T06:47:01.236636+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": "Careers - FirstRand careers people philosophy FirstRand believes that people are its single most important resource and seeks to attract, develop and retain the best industry talent. The group has a unique business philosophy which is anchored to the belief that empowering people to be accountable has contributed to the group’s success. It generates an entrepreneurial mind-set, drives innovation and liberates talent. Employees are also expected to act with integrity, practice fair play and respect diversity. Click here for jobs at FirstRand, FNB, RMB, WesBank and Ashburton investments"
+    },
+    {
+      "id": "62a7147753ccba30",
+      "title": "Investors",
+      "company": "First National Bank / FirstRand",
+      "source_name": "First National Bank / FirstRand (official careers page)",
+      "source_url": "https://www.firstrand.co.za/careers/",
+      "apply_url": "https://www.firstrand.co.za/careers/",
+      "found_at": "2026-10-25T06:47:02.354885+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": "Careers - FirstRand careers people philosophy FirstRand believes that people are its single most important resource and seeks to attract, develop and retain the best industry talent. The group has a unique business philosophy which is anchored to the belief that empowering people to be accountable has contributed to the group’s success. It generates an entrepreneurial mind-set, drives innovation and liberates talent. Employees are also expected to act with integrity, practice fair play and respect diversity. Click here for jobs at FirstRand, FNB, RMB, WesBank and Ashburton investments"
+    },
+    {
+      "id": "505d16035cb88ed1",
+      "title": "Foundations",
+      "company": "First National Bank / FirstRand",
+      "source_name": "First National Bank / FirstRand (official careers page)",
+      "source_url": "https://www.firstrand.co.za/careers/",
+      "apply_url": "https://www.firstrand.co.za/careers/",
+      "found_at": "2026-10-25T06:47:03.472511+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": "Careers - FirstRand careers people philosophy FirstRand believes that people are its single most important resource and seeks to attract, develop and retain the best industry talent. The group has a unique business philosophy which is anchored to the belief that empowering people to be accountable has contributed to the group’s success. It generates an entrepreneurial mind-set, drives innovation and liberates talent. Employees are also expected to act with integrity, practice fair play and respect diversity. Click here for jobs at FirstRand, FNB, RMB, WesBank and Ashburton investments"
+    },
+    {
+      "id": "adb3e58f8c35cafa",
+      "title": "Perspectives",
+      "company": "First National Bank / FirstRand",
+      "source_name": "First National Bank / FirstRand (official careers page)",
+      "source_url": "https://www.firstrand.co.za/careers/",
+      "apply_url": "https://www.firstrand.co.za/careers/",
+      "found_at": "2026-10-25T06:47:04.704068+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": "Careers - FirstRand careers people philosophy FirstRand believes that people are its single most important resource and seeks to attract, develop and retain the best industry talent. The group has a unique business philosophy which is anchored to the belief that empowering people to be accountable has contributed to the group’s success. It generates an entrepreneurial mind-set, drives innovation and liberates talent. Employees are also expected to act with integrity, practice fair play and respect diversity. Click here for jobs at FirstRand, FNB, RMB, WesBank and Ashburton investments"
+    },
+    {
+      "id": "7ee0558eb8cbcb7c",
+      "title": "careers people philosophy FirstRand believes that people are its single most important resource and seeks to attract, develop and retain the best industry talent. The group has a unique business phil",
+      "company": "First National Bank / FirstRand",
+      "source_name": "First National Bank / FirstRand (official careers page)",
+      "source_url": "https://www.firstrand.co.za/careers/",
+      "apply_url": "https://www.firstrand.co.za/search.html",
+      "found_at": "2026-10-25T06:47:05.813491+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": "Search - FirstRand Search All Pages Articles PDFs Images Search 0 results Exact word (match whole word only) Discovering your content..."
+    },
+    {
+      "id": "5046c8a8f29adc8f",
+      "title": "Careers",
+      "company": "First National Bank / FirstRand",
+      "source_name": "First National Bank / FirstRand (official careers page)",
+      "source_url": "https://www.firstrand.co.za/careers/",
+      "apply_url": "https://www.firstrand.co.za/careers/",
+      "found_at": "2026-10-25T06:47:07.571614+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": "Careers - FirstRand careers people philosophy FirstRand believes that people are its single most important resource and seeks to attract, develop and retain the best industry talent. The group has a unique business philosophy which is anchored to the belief that empowering people to be accountable has contributed to the group’s success. It generates an entrepreneurial mind-set, drives innovation and liberates talent. Employees are also expected to act with integrity, practice fair play and respect diversity. Click here for jobs at FirstRand, FNB, RMB, WesBank and Ashburton investments"
+    },
+    {
+      "id": "2a81a64ef887b479",
+      "title": "Skip to the content",
+      "company": "Absa Group",
+      "source_name": "Absa Group (official careers page)",
+      "source_url": "https://www.absa.africa/careers/",
+      "apply_url": "https://www.absa.africa/careers/#site-content",
+      "found_at": "2026-10-25T06:47:09.801042+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "r 2025",
+      "job_type": "Internship",
+      "requirements": "",
+      "description": "Jobs - Absa Group | Welcome to Absa Group Limited Skip to the content Select a country × South Africa Botswana Mauritius Seychelles Uganda Kenya Ghana Mozambique Tanzania Zambia × Please take note You are about to leave the Absa Group website. The content of the website you are visiting is not controlled by the Absa Group. This link is being offered for your convenience and Absa is not responsible for accuracy or security of the information provided. We recommend that you read the privacy policies and terms of the other website. The requested site will open in a new window. Cancel Accept A small business owner prepares her leather, making fine handbags for sale in her store and online. Jobs Own your career Absa is all about our people. We celebrate diversity, encourage individuality and believe the best people produce the best work - find out how you will learn and grow with us. scroll for more Jobs Job opportunities Visit our jobs portal to search and apply for available positions acr"
+    },
+    {
+      "id": "57fd04ccf63a62fa",
+      "title": "View vacancy",
+      "company": "Absa Group",
+      "source_name": "Absa Group (official careers page)",
+      "source_url": "https://www.absa.africa/careers/",
+      "apply_url": "https://www.absa.africa/careers/",
+      "found_at": "2026-10-25T06:47:10.876789+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "r 2025",
+      "job_type": "Internship",
+      "requirements": "",
+      "description": "Jobs - Absa Group | Welcome to Absa Group Limited Skip to the content Select a country × South Africa Botswana Mauritius Seychelles Uganda Kenya Ghana Mozambique Tanzania Zambia × Please take note You are about to leave the Absa Group website. The content of the website you are visiting is not controlled by the Absa Group. This link is being offered for your convenience and Absa is not responsible for accuracy or security of the information provided. We recommend that you read the privacy policies and terms of the other website. The requested site will open in a new window. Cancel Accept A small business owner prepares her leather, making fine handbags for sale in her store and online. Jobs Own your career Absa is all about our people. We celebrate diversity, encourage individuality and believe the best people produce the best work - find out how you will learn and grow with us. scroll for more Jobs Job opportunities Visit our jobs portal to search and apply for available positions acr"
+    },
+    {
+      "id": "f5502f68645c6243",
+      "title": "Careers",
+      "company": "Absa Group",
+      "source_name": "Absa Group (official careers page)",
+      "source_url": "https://www.absa.africa/careers/",
+      "apply_url": "https://www.absa.africa/careers",
+      "found_at": "2026-10-25T06:47:12.011049+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "r 2025",
+      "job_type": "Internship",
+      "requirements": "",
+      "description": "Jobs - Absa Group | Welcome to Absa Group Limited Skip to the content Select a country × South Africa Botswana Mauritius Seychelles Uganda Kenya Ghana Mozambique Tanzania Zambia × Please take note You are about to leave the Absa Group website. The content of the website you are visiting is not controlled by the Absa Group. This link is being offered for your convenience and Absa is not responsible for accuracy or security of the information provided. We recommend that you read the privacy policies and terms of the other website. The requested site will open in a new window. Cancel Accept A small business owner prepares her leather, making fine handbags for sale in her store and online. Jobs Own your career Absa is all about our people. We celebrate diversity, encourage individuality and believe the best people produce the best work - find out how you will learn and grow with us. scroll for more Jobs Job opportunities Visit our jobs portal to search and apply for available positions acr"
+    },
+    {
+      "id": "5deece50cceda345",
+      "title": "Design",
+      "company": "Absa Group",
+      "source_name": "Absa Group (official careers page)",
+      "source_url": "https://www.absa.africa/careers/",
+      "apply_url": "https://www.absa.africa/careers/design/",
+      "found_at": "2026-10-25T06:47:13.871008+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "r 12",
+      "job_type": "Internship",
+      "requirements": "",
+      "description": "Design - Absa Group | Welcome to Absa Group Limited Skip to the content Select a country × South Africa Botswana Mauritius Seychelles Uganda Kenya Ghana Mozambique Tanzania Zambia × Please take note You are about to leave the Absa Group website. The content of the website you are visiting is not controlled by the Absa Group. This link is being offered for your convenience and Absa is not responsible for accuracy or security of the information provided. We recommend that you read the privacy policies and terms of the other website. The requested site will open in a new window. Cancel Accept Jobs Design Join our fast growing design team, Absa Design Office (ADO) can accomodate you in joining our customer experience, user experience or user interface design team. We are looking for you. scroll for more Design Thinking Design thinking plays a huge role in helping us better identify, understand, and address our business and customers problems across all aspects of our business. We value sol"
+    },
+    {
+      "id": "508e813b11744b58",
+      "title": "Diversity and our people",
+      "company": "Absa Group",
+      "source_name": "Absa Group (official careers page)",
+      "source_url": "https://www.absa.africa/careers/",
+      "apply_url": "https://www.absa.africa/careers/diversity-and-our-people/",
+      "found_at": "2026-10-25T06:47:15.277612+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": "Diversity and our people - Absa Group | Welcome to Absa Group Limited Skip to the content Select a country × South Africa Botswana Mauritius Seychelles Uganda Kenya Ghana Mozambique Tanzania Zambia × Please take note You are about to leave the Absa Group website. The content of the website you are visiting is not controlled by the Absa Group. This link is being offered for your convenience and Absa is not responsible for accuracy or security of the information provided. We recommend that you read the privacy policies and terms of the other website. The requested site will open in a new window. Cancel Accept Careers Diversity and our people We want our colleagues to reflect and represent the diverse communities and cultures we serve. scroll for more To view opportunities please click here Promoting diversity What makes us different? Our diversity – the people and cultures. Our talented people are the foundation of our success, whatever their style, interest, background and beliefs. We b"
+    },
+    {
+      "id": "8e74323c6fcc7494",
+      "title": "Got the skills",
+      "company": "Absa Group",
+      "source_name": "Absa Group (official careers page)",
+      "source_url": "https://www.absa.africa/careers/",
+      "apply_url": "https://www.absa.africa/careers/got-the-skills/",
+      "found_at": "2026-10-25T06:47:16.716747+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "Internship",
+      "requirements": "prioritising exceptional service and performance. Wealth Management Expand Our private and intermediary customers get fiduciary, investment management and brokerage services including international banking that are dynamic, innovative and responsive to clients’ exact needs. Beyond Banking Expand All of our financial products and services are driven by a multitude of skills and abilities. Legal, digital design, coding, management, analysis and more are core drivers of our organisation and all offer opportunities for excellence, growth and innovation. View job opportunities Jobs Job opportunities Visit our jobs portal to search and apply for available positions across Africa. . See more Jobs Grad programmes, internships, bursaries Step into your future with an organisation that understands the power of collaborative minds in the Fourth Industrial Revolution. . See more",
+      "description": "Got the skills - Absa Group | Welcome to Absa Group Limited Skip to the content Select a country × South Africa Botswana Mauritius Seychelles Uganda Kenya Ghana Mozambique Tanzania Zambia × Please take note You are about to leave the Absa Group website. The content of the website you are visiting is not controlled by the Absa Group. This link is being offered for your convenience and Absa is not responsible for accuracy or security of the information provided. We recommend that you read the privacy policies and terms of the other website. The requested site will open in a new window. Cancel Accept Jobs Got the skills? We want you and you are guaranteed that your career at Absa will be an exciting and innovative journey. scroll for more Jobs Design Join our fast growing design team, whether you want to specialise or go the managerial route, Absa Design Office (ADO) can accommodate you in joining our customer experience, user experience or user interface design team. We are looking for y"
+    },
+    {
+      "id": "497316a757803b65",
+      "title": "Graduate opportunities",
+      "company": "Absa Group",
+      "source_name": "Absa Group (official careers page)",
+      "source_url": "https://www.absa.africa/careers/",
+      "apply_url": "https://www.absa.africa/careers/graduate-opportunities/",
+      "found_at": "2026-10-25T06:47:18.040924+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": "Graduate opportunities - Absa Group | Welcome to Absa Group Limited Skip to the content Select a country × South Africa Botswana Mauritius Seychelles Uganda Kenya Ghana Mozambique Tanzania Zambia × Please take note You are about to leave the Absa Group website. The content of the website you are visiting is not controlled by the Absa Group. This link is being offered for your convenience and Absa is not responsible for accuracy or security of the information provided. We recommend that you read the privacy policies and terms of the other website. The requested site will open in a new window. Cancel Accept Jobs Absa Graduate Programme We offer you the opportunity to be part of this exciting growth journey. scroll for more Shaping Africa’s future Absa is committed to finding local solutions to uniquely local challenges and everything we do is focused on adding value and shaping Africa’s future. Step into your future and be part of an organisation that understands the power of collaborati"
+    },
+    {
+      "id": "3e57318919205b62",
+      "title": "Top Employer",
+      "company": "Absa Group",
+      "source_name": "Absa Group (official careers page)",
+      "source_url": "https://www.absa.africa/careers/",
+      "apply_url": "https://www.absa.africa/careers/top-employer/",
+      "found_at": "2026-10-25T06:47:19.510547+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "Internship",
+      "requirements": "",
+      "description": "Top Employer - Absa Group | Welcome to Absa Group Limited Skip to the content Select a country × South Africa Botswana Mauritius Seychelles Uganda Kenya Ghana Mozambique Tanzania Zambia × Please take note You are about to leave the Absa Group website. The content of the website you are visiting is not controlled by the Absa Group. This link is being offered for your convenience and Absa is not responsible for accuracy or security of the information provided. We recommend that you read the privacy policies and terms of the other website. The requested site will open in a new window. Cancel Accept People Top Employer for the fifth consecutive year. We did this! scroll for more Top Employer for the fifth consecutive year. We did this! For the fifth year running, Absa has been recognised as a Top Employer by the globally respected Top Employers Institute. This milestone and recognition spans multiple Pan-African markets. Achieving the certification across all six markets underscores the ef"
+    },
+    {
+      "id": "26287a37354a3c73",
+      "title": "Working at Absa",
+      "company": "Absa Group",
+      "source_name": "Absa Group (official careers page)",
+      "source_url": "https://www.absa.africa/careers/",
+      "apply_url": "https://www.absa.africa/careers/working-at-absa/",
+      "found_at": "2026-10-25T06:47:20.806686+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "Internship",
+      "requirements": "",
+      "description": "Working at Absa - Absa Group | Welcome to Absa Group Limited Skip to the content Select a country × South Africa Botswana Mauritius Seychelles Uganda Kenya Ghana Mozambique Tanzania Zambia × Please take note You are about to leave the Absa Group website. The content of the website you are visiting is not controlled by the Absa Group. This link is being offered for your convenience and Absa is not responsible for accuracy or security of the information provided. We recommend that you read the privacy policies and terms of the other website. The requested site will open in a new window. Cancel Accept Careers Working at Absa We offer an opportunity to be part of our journey, driven by growth and shaped by a fundamental change in culture. scroll for more To view opportunities please click here It’s all happening at Absa We’re about big career ambitions, and we distinguish ourselves from: International banks by operating as a bank with deep African insights from our local operations Local a"
+    },
+    {
+      "id": "501882f58ab7f636",
+      "title": "Working and growing with us",
+      "company": "Absa Group",
+      "source_name": "Absa Group (official careers page)",
+      "source_url": "https://www.absa.africa/careers/",
+      "apply_url": "https://www.absa.africa/careers/working-and-growing-with-us/",
+      "found_at": "2026-10-25T06:47:22.218769+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "Internship",
+      "requirements": "",
+      "description": "Working and growing with us - Absa Group | Welcome to Absa Group Limited Skip to the content Select a country × South Africa Botswana Mauritius Seychelles Uganda Kenya Ghana Mozambique Tanzania Zambia × Please take note You are about to leave the Absa Group website. The content of the website you are visiting is not controlled by the Absa Group. This link is being offered for your convenience and Absa is not responsible for accuracy or security of the information provided. We recommend that you read the privacy policies and terms of the other website. The requested site will open in a new window. Cancel Accept Your career at Absa is guaranteed to be an exciting and innovative journey - driven by dedication to our staff, our culture and our vision of creating cutting-edge financial services. scroll for more Jobs Africa’s most dynamic financial organisation If you have big ambitions then join the club! We are all about aiming for the top…and getting there. We are unlike any other bank be"
+    },
+    {
+      "id": "7283240025aa7f1c",
+      "title": "Absa Cybersecurity Academy",
+      "company": "Absa Group",
+      "source_name": "Absa Group (official careers page)",
+      "source_url": "https://www.absa.africa/careers/",
+      "apply_url": "https://www.absa.africa/cybersecurity-academy/",
+      "found_at": "2026-10-25T06:47:23.294461+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": "Absa Cybersecurity Academy - Absa Group | Welcome to Absa Group Limited Skip to the content Select a country × South Africa Botswana Mauritius Seychelles Uganda Kenya Ghana Mozambique Tanzania Zambia × Please take note You are about to leave the Absa Group website. The content of the website you are visiting is not controlled by the Absa Group. This link is being offered for your convenience and Absa is not responsible for accuracy or security of the information provided. We recommend that you read the privacy policies and terms of the other website. The requested site will open in a new window. Cancel Accept Cybersecurity Academy scroll for more Cyber security Academy South Africa’s youth is an untapped pool of natural cybersecurity talent. The Absa Cybersecurity Academy has started to tap into this talent pool with very promising results. Together with the desperate need for in-demand skills development, we believe that Africa has potential and our vision for the Cybersecurity Academ"
+    },
+    {
+      "id": "f65f5fe34fa524e4",
+      "title": "See more People Top Employer Africa Putting our people first puts us on top. .",
+      "company": "Absa Group",
+      "source_name": "Absa Group (official careers page)",
+      "source_url": "https://www.absa.africa/careers/",
+      "apply_url": "https://www.absa.africa/careers/graduate-opportunities/",
+      "found_at": "2026-10-25T06:47:24.570166+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": "Graduate opportunities - Absa Group | Welcome to Absa Group Limited Skip to the content Select a country × South Africa Botswana Mauritius Seychelles Uganda Kenya Ghana Mozambique Tanzania Zambia × Please take note You are about to leave the Absa Group website. The content of the website you are visiting is not controlled by the Absa Group. This link is being offered for your convenience and Absa is not responsible for accuracy or security of the information provided. We recommend that you read the privacy policies and terms of the other website. The requested site will open in a new window. Cancel Accept Jobs Absa Graduate Programme We offer you the opportunity to be part of this exciting growth journey. scroll for more Shaping Africa’s future Absa is committed to finding local solutions to uniquely local challenges and everything we do is focused on adding value and shaping Africa’s future. Step into your future and be part of an organisation that understands the power of collaborati"
+    },
+    {
+      "id": "7a8129dbba968536",
+      "title": "See more Forbes 2025 Top 100 World's Best Employer We’re thrilled to announce that Absa has been recognised by Forbes as one of the World’s Best Employers for 2025! Absa has been ranked 97 globally,",
+      "company": "Absa Group",
+      "source_name": "Absa Group (official careers page)",
+      "source_url": "https://www.absa.africa/careers/",
+      "apply_url": "https://www.absa.africa/careers/top-employer/",
+      "found_at": "2026-10-25T06:47:25.638241+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "Internship",
+      "requirements": "",
+      "description": "Top Employer - Absa Group | Welcome to Absa Group Limited Skip to the content Select a country × South Africa Botswana Mauritius Seychelles Uganda Kenya Ghana Mozambique Tanzania Zambia × Please take note You are about to leave the Absa Group website. The content of the website you are visiting is not controlled by the Absa Group. This link is being offered for your convenience and Absa is not responsible for accuracy or security of the information provided. We recommend that you read the privacy policies and terms of the other website. The requested site will open in a new window. Cancel Accept People Top Employer for the fifth consecutive year. We did this! scroll for more Top Employer for the fifth consecutive year. We did this! For the fifth year running, Absa has been recognised as a Top Employer by the globally respected Top Employers Institute. This milestone and recognition spans multiple Pan-African markets. Achieving the certification across all six markets underscores the ef"
+    },
+    {
+      "id": "b456fac4053d18b8",
+      "title": "Read more Jobs Got the skills? We want you and you are guaranteed that your career at Absa will be an exciting and innovative journey.",
+      "company": "Absa Group",
+      "source_name": "Absa Group (official careers page)",
+      "source_url": "https://www.absa.africa/careers/",
+      "apply_url": "https://www.absa.africa/careers/working-and-growing-with-us/",
+      "found_at": "2026-10-25T06:47:27.074099+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "Internship",
+      "requirements": "",
+      "description": "Working and growing with us - Absa Group | Welcome to Absa Group Limited Skip to the content Select a country × South Africa Botswana Mauritius Seychelles Uganda Kenya Ghana Mozambique Tanzania Zambia × Please take note You are about to leave the Absa Group website. The content of the website you are visiting is not controlled by the Absa Group. This link is being offered for your convenience and Absa is not responsible for accuracy or security of the information provided. We recommend that you read the privacy policies and terms of the other website. The requested site will open in a new window. Cancel Accept Your career at Absa is guaranteed to be an exciting and innovative journey - driven by dedication to our staff, our culture and our vision of creating cutting-edge financial services. scroll for more Jobs Africa’s most dynamic financial organisation If you have big ambitions then join the club! We are all about aiming for the top…and getting there. We are unlike any other bank be"
+    },
+    {
+      "id": "c173d04d1b1e5959",
+      "title": "Read more jQuery(document).ready(function( $ ){ $(\".open-notification\").on(\"click\", function() { $('.exit-notification-accept').attr(\"href\",$(this).find(\"a\").attr(\"data-url\")); $('#Disclaimer",
+      "company": "Absa Group",
+      "source_name": "Absa Group (official careers page)",
+      "source_url": "https://www.absa.africa/careers/",
+      "apply_url": "https://www.absa.africa/careers/got-the-skills/",
+      "found_at": "2026-10-25T06:47:28.150139+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "Internship",
+      "requirements": "prioritising exceptional service and performance. Wealth Management Expand Our private and intermediary customers get fiduciary, investment management and brokerage services including international banking that are dynamic, innovative and responsive to clients’ exact needs. Beyond Banking Expand All of our financial products and services are driven by a multitude of skills and abilities. Legal, digital design, coding, management, analysis and more are core drivers of our organisation and all offer opportunities for excellence, growth and innovation. View job opportunities Jobs Job opportunities Visit our jobs portal to search and apply for available positions across Africa. . See more Jobs Grad programmes, internships, bursaries Step into your future with an organisation that understands the power of collaborative minds in the Fourth Industrial Revolution. . See more",
+      "description": "Got the skills - Absa Group | Welcome to Absa Group Limited Skip to the content Select a country × South Africa Botswana Mauritius Seychelles Uganda Kenya Ghana Mozambique Tanzania Zambia × Please take note You are about to leave the Absa Group website. The content of the website you are visiting is not controlled by the Absa Group. This link is being offered for your convenience and Absa is not responsible for accuracy or security of the information provided. We recommend that you read the privacy policies and terms of the other website. The requested site will open in a new window. Cancel Accept Jobs Got the skills? We want you and you are guaranteed that your career at Absa will be an exciting and innovative journey. scroll for more Jobs Design Join our fast growing design team, whether you want to specialise or go the managerial route, Absa Design Office (ADO) can accommodate you in joining our customer experience, user experience or user interface design team. We are looking for y"
+    },
+    {
+      "id": "351de5acbbad0377",
+      "title": "Skip to content",
+      "company": "Mr Price Group",
+      "source_name": "Mr Price Group (official careers page)",
+      "source_url": "https://www.mrpricegroup.com/careers/",
+      "apply_url": "https://mrpricegroup.com/careers/#content",
+      "found_at": "2026-10-25T06:47:33.847672+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "Planning Turn strategy into store reality",
+      "province": "KwaZulu-Natal",
+      "closing_date": "",
+      "salary": "r 2",
+      "job_type": "Learnership",
+      "requirements": "",
+      "description": "each person plays and sharing success in ways that feel meaningful over time. What this looks like: Pay and performance-linked rewards that reflect the impact you make Opportunities to share in the success of the business through our long-term share schemes Staff discounts across our brands to put more money back in your pocket"
+    },
+    {
+      "id": "2e197854a5febdd5",
+      "title": "Careers",
+      "company": "Mr Price Group",
+      "source_name": "Mr Price Group (official careers page)",
+      "source_url": "https://www.mrpricegroup.com/careers/",
+      "apply_url": "https://mrpricegroup.com/careers/",
+      "found_at": "2026-10-25T06:47:35.608112+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "Planning Turn strategy into store reality",
+      "province": "KwaZulu-Natal",
+      "closing_date": "",
+      "salary": "r 2",
+      "job_type": "Learnership",
+      "requirements": "",
+      "description": "each person plays and sharing success in ways that feel meaningful over time. What this looks like: Pay and performance-linked rewards that reflect the impact you make Opportunities to share in the success of the business through our long-term share schemes Staff discounts across our brands to put more money back in your pocket"
+    },
+    {
+      "id": "01f56e4dbae8fa9c",
+      "title": "Our Promise",
+      "company": "Mr Price Group",
+      "source_name": "Mr Price Group (official careers page)",
+      "source_url": "https://www.mrpricegroup.com/careers/",
+      "apply_url": "https://mrpricegroup.com/careers/",
+      "found_at": "2026-10-25T06:47:37.261018+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "Planning Turn strategy into store reality",
+      "province": "KwaZulu-Natal",
+      "closing_date": "",
+      "salary": "r 2",
+      "job_type": "Learnership",
+      "requirements": "",
+      "description": "each person plays and sharing success in ways that feel meaningful over time. What this looks like: Pay and performance-linked rewards that reflect the impact you make Opportunities to share in the success of the business through our long-term share schemes Staff discounts across our brands to put more money back in your pocket"
+    },
+    {
+      "id": "4ea43f988abcd240",
+      "title": "Our Benefits",
+      "company": "Mr Price Group",
+      "source_name": "Mr Price Group (official careers page)",
+      "source_url": "https://www.mrpricegroup.com/careers/",
+      "apply_url": "https://mrpricegroup.com/careers/#Benefits",
+      "found_at": "2026-10-25T06:47:38.948561+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "Planning Turn strategy into store reality",
+      "province": "KwaZulu-Natal",
+      "closing_date": "",
+      "salary": "r 2",
+      "job_type": "Learnership",
+      "requirements": "",
+      "description": "each person plays and sharing success in ways that feel meaningful over time. What this looks like: Pay and performance-linked rewards that reflect the impact you make Opportunities to share in the success of the business through our long-term share schemes Staff discounts across our brands to put more money back in your pocket"
+    },
+    {
+      "id": "85516d515b3ed452",
+      "title": "Our Teams",
+      "company": "Mr Price Group",
+      "source_name": "Mr Price Group (official careers page)",
+      "source_url": "https://www.mrpricegroup.com/careers/",
+      "apply_url": "https://mrpricegroup.com/careers/#ourteams",
+      "found_at": "2026-10-25T06:47:40.844243+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "Planning Turn strategy into store reality",
+      "province": "KwaZulu-Natal",
+      "closing_date": "",
+      "salary": "r 2",
+      "job_type": "Learnership",
+      "requirements": "",
+      "description": "each person plays and sharing success in ways that feel meaningful over time. What this looks like: Pay and performance-linked rewards that reflect the impact you make Opportunities to share in the success of the business through our long-term share schemes Staff discounts across our brands to put more money back in your pocket"
+    },
+    {
+      "id": "3d5910b373e6c416",
+      "title": "Our Teams OUR PASSION POWERS OUR PURPOSE Ordinary people can do extraordinary things when they love what they do – and who they do it with. At Mr Price Group, our people are at the heart of everythin",
+      "company": "Mr Price Group",
+      "source_name": "Mr Price Group (official careers page)",
+      "source_url": "https://www.mrpricegroup.com/careers/",
+      "apply_url": "https://mrpricegroup.com/careers/#ourteams",
+      "found_at": "2026-10-25T06:48:02.236739+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "Planning Turn strategy into store reality",
+      "province": "KwaZulu-Natal",
+      "closing_date": "",
+      "salary": "r 2",
+      "job_type": "Learnership",
+      "requirements": "",
+      "description": "each person plays and sharing success in ways that feel meaningful over time. What this looks like: Pay and performance-linked rewards that reflect the impact you make Opportunities to share in the success of the business through our long-term share schemes Staff discounts across our brands to put more money back in your pocket"
+    },
+    {
+      "id": "f69da787583e6da7",
+      "title": "See Our Benefits ONE GROUP. MANY BRANDS. ENDLESS OPPORTUNITIES. 32,000+ ASSOCIATES ACROSS ALL DIVISIONS THE STORY OF WHO WE ARE, BROUGHT TO LIFE. What it feels like to work here goes far beyond a job",
+      "company": "Mr Price Group",
+      "source_name": "Mr Price Group (official careers page)",
+      "source_url": "https://www.mrpricegroup.com/careers/",
+      "apply_url": "https://mrpricegroup.com/careers/#Benefits",
+      "found_at": "2026-10-25T06:48:03.849249+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "Planning Turn strategy into store reality",
+      "province": "KwaZulu-Natal",
+      "closing_date": "",
+      "salary": "r 2",
+      "job_type": "Learnership",
+      "requirements": "",
+      "description": "each person plays and sharing success in ways that feel meaningful over time. What this looks like: Pay and performance-linked rewards that reflect the impact you make Opportunities to share in the success of the business through our long-term share schemes Staff discounts across our brands to put more money back in your pocket"
+    },
+    {
+      "id": "e1d00463ef152417",
+      "title": "see more WELLNESS PROGRAMMES Monthly wellbeing initiatives with professional guidance ON-SITE WELLNESS PROVIDERS Convenient, discounted access to wellness services that save time and reduce personal",
+      "company": "Mr Price Group",
+      "source_name": "Mr Price Group (official careers page)",
+      "source_url": "https://www.mrpricegroup.com/careers/",
+      "apply_url": "https://mrpricegroup.com/careers/",
+      "found_at": "2026-10-25T06:48:05.571839+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "Planning Turn strategy into store reality",
+      "province": "KwaZulu-Natal",
+      "closing_date": "",
+      "salary": "r 2",
+      "job_type": "Learnership",
+      "requirements": "",
+      "description": "each person plays and sharing success in ways that feel meaningful over time. What this looks like: Pay and performance-linked rewards that reflect the impact you make Opportunities to share in the success of the business through our long-term share schemes Staff discounts across our brands to put more money back in your pocket"
+    },
+    {
+      "id": "93b100e343c7f724",
+      "title": "see more SKILL ENHANCEMENT Learning and development support to help you build capability over time CAREER GROWTH ACROSS THE GROUP Opportunities to grow within and across roles, teams and divisions in",
+      "company": "Mr Price Group",
+      "source_name": "Mr Price Group (official careers page)",
+      "source_url": "https://www.mrpricegroup.com/careers/",
+      "apply_url": "https://mrpricegroup.com/careers/",
+      "found_at": "2026-10-25T06:48:07.236059+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "Planning Turn strategy into store reality",
+      "province": "KwaZulu-Natal",
+      "closing_date": "",
+      "salary": "r 2",
+      "job_type": "Learnership",
+      "requirements": "",
+      "description": "each person plays and sharing success in ways that feel meaningful over time. What this looks like: Pay and performance-linked rewards that reflect the impact you make Opportunities to share in the success of the business through our long-term share schemes Staff discounts across our brands to put more money back in your pocket"
+    },
+    {
+      "id": "d6d576e5f590fa4c",
+      "title": "see more INCLUSIVE AND CONNECTED We celebrate individuality, build genuine connections, and grow together across teams and the group WE LISTEN AND ACT We listen regularly, through surveys, check-ins",
+      "company": "Mr Price Group",
+      "source_name": "Mr Price Group (official careers page)",
+      "source_url": "https://www.mrpricegroup.com/careers/",
+      "apply_url": "https://mrpricegroup.com/careers/",
+      "found_at": "2026-10-25T06:48:08.890051+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "Planning Turn strategy into store reality",
+      "province": "KwaZulu-Natal",
+      "closing_date": "",
+      "salary": "r 2",
+      "job_type": "Learnership",
+      "requirements": "",
+      "description": "each person plays and sharing success in ways that feel meaningful over time. What this looks like: Pay and performance-linked rewards that reflect the impact you make Opportunities to share in the success of the business through our long-term share schemes Staff discounts across our brands to put more money back in your pocket"
+    },
+    {
+      "id": "9013695c663a056f",
+      "title": "see more SHARES Built on our founders’ belief in rewarding contribution, our long-term share scheme gives associates the opportunity to become owners in the business BONUSES AND INCENTIVES Extra reco",
+      "company": "Mr Price Group",
+      "source_name": "Mr Price Group (official careers page)",
+      "source_url": "https://www.mrpricegroup.com/careers/",
+      "apply_url": "https://mrpricegroup.com/careers/",
+      "found_at": "2026-10-25T06:48:10.604405+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "Planning Turn strategy into store reality",
+      "province": "KwaZulu-Natal",
+      "closing_date": "",
+      "salary": "r 2",
+      "job_type": "Learnership",
+      "requirements": "",
+      "description": "each person plays and sharing success in ways that feel meaningful over time. What this looks like: Pay and performance-linked rewards that reflect the impact you make Opportunities to share in the success of the business through our long-term share schemes Staff discounts across our brands to put more money back in your pocket"
+    },
+    {
+      "id": "be8f83b9ca4ee71f",
+      "title": "see more MANDELA DAY Giving back on Mandela Day each year, in the spirit of service and collective action SUPPORTING THE FOUNDATION The option to contribute monthly to the Mr Price Foundation through",
+      "company": "Mr Price Group",
+      "source_name": "Mr Price Group (official careers page)",
+      "source_url": "https://www.mrpricegroup.com/careers/",
+      "apply_url": "https://mrpricegroup.com/careers/",
+      "found_at": "2026-10-25T06:48:12.318744+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "Planning Turn strategy into store reality",
+      "province": "KwaZulu-Natal",
+      "closing_date": "",
+      "salary": "r 2",
+      "job_type": "Learnership",
+      "requirements": "",
+      "description": "each person plays and sharing success in ways that feel meaningful over time. What this looks like: Pay and performance-linked rewards that reflect the impact you make Opportunities to share in the success of the business through our long-term share schemes Staff discounts across our brands to put more money back in your pocket"
+    },
+    {
+      "id": "20bc44cc4bfb8ce6",
+      "title": "Skip to content",
+      "company": "Pepkor",
+      "source_name": "Pepkor (official careers page)",
+      "source_url": "https://www.pepkor.co.za/careers/",
+      "apply_url": "https://pepkor.co.za/careers/#content",
+      "found_at": "2026-10-25T06:48:17.269349+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Cashiers & Retail",
+      "location": "allowance BURSARY INTERESTED",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "as indicated above, please email all required documents to careers@pepkor.co.za Curriculum Vitae (CV) Copy of your identity document Matric certificate and full academic transcript For bursary applications, please include a motivation letter motivating your application By submitting your application, you are giving Pepkor implicit consent to the storage and processing of your personal information. Pepkor strives for equal opportunity in terms of its employment equity guidelines. Quick Links About Us Investor Relations Media Statutory Information © Pepkor Holdings Limited. All rights reserved. Ethics hotline: 0800 408 408 | hotline@kpmg.co.za Page load link Go to Top",
+      "description": "Careers - Pepkor Skip to content Register for investor alerts Search for: Register for investor alerts Vacancies Current vacancies across the Pepkor group Corporate and Support Services Retail Fintech Careers at Pepkor Working at Pepkor offers employees the chance to make a meaningful impact in the lives of our customers. By providing affordable products and services that meet their needs and aspirations, our employees play a vital role in serving our communities. Our customer-focused culture is driven by core values that empower employees to deliver exceptional service while fostering personal growth and career development. Across Pepkor’s diverse businesses, we value individuals whose personal qualities align with the unique culture of each brand. At group level, our employment practices are designed to support and reflect the ethos of our customer-centric brands. Pepkor employees benefit from competitive remuneration packages and market-aligned benefits, ensuring they feel valued an"
+    },
+    {
+      "id": "ad9ac67b98b78c82",
+      "title": "Search",
+      "company": "Pepkor",
+      "source_name": "Pepkor (official careers page)",
+      "source_url": "https://www.pepkor.co.za/careers/",
+      "apply_url": "https://pepkor.co.za/careers/",
+      "found_at": "2026-10-25T06:48:18.163399+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Cashiers & Retail",
+      "location": "allowance BURSARY INTERESTED",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "as indicated above, please email all required documents to careers@pepkor.co.za Curriculum Vitae (CV) Copy of your identity document Matric certificate and full academic transcript For bursary applications, please include a motivation letter motivating your application By submitting your application, you are giving Pepkor implicit consent to the storage and processing of your personal information. Pepkor strives for equal opportunity in terms of its employment equity guidelines. Quick Links About Us Investor Relations Media Statutory Information © Pepkor Holdings Limited. All rights reserved. Ethics hotline: 0800 408 408 | hotline@kpmg.co.za Page load link Go to Top",
+      "description": "Careers - Pepkor Skip to content Register for investor alerts Search for: Register for investor alerts Vacancies Current vacancies across the Pepkor group Corporate and Support Services Retail Fintech Careers at Pepkor Working at Pepkor offers employees the chance to make a meaningful impact in the lives of our customers. By providing affordable products and services that meet their needs and aspirations, our employees play a vital role in serving our communities. Our customer-focused culture is driven by core values that empower employees to deliver exceptional service while fostering personal growth and career development. Across Pepkor’s diverse businesses, we value individuals whose personal qualities align with the unique culture of each brand. At group level, our employment practices are designed to support and reflect the ethos of our customer-centric brands. Pepkor employees benefit from competitive remuneration packages and market-aligned benefits, ensuring they feel valued an"
+    },
+    {
+      "id": "288d1eed5cf0eb21",
+      "title": "Careers Retail",
+      "company": "Pepkor",
+      "source_name": "Pepkor (official careers page)",
+      "source_url": "https://www.pepkor.co.za/careers/",
+      "apply_url": "https://pepkor.co.za/careers/",
+      "found_at": "2026-10-25T06:48:19.047077+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Cashiers & Retail",
+      "location": "allowance BURSARY INTERESTED",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "as indicated above, please email all required documents to careers@pepkor.co.za Curriculum Vitae (CV) Copy of your identity document Matric certificate and full academic transcript For bursary applications, please include a motivation letter motivating your application By submitting your application, you are giving Pepkor implicit consent to the storage and processing of your personal information. Pepkor strives for equal opportunity in terms of its employment equity guidelines. Quick Links About Us Investor Relations Media Statutory Information © Pepkor Holdings Limited. All rights reserved. Ethics hotline: 0800 408 408 | hotline@kpmg.co.za Page load link Go to Top",
+      "description": "Careers - Pepkor Skip to content Register for investor alerts Search for: Register for investor alerts Vacancies Current vacancies across the Pepkor group Corporate and Support Services Retail Fintech Careers at Pepkor Working at Pepkor offers employees the chance to make a meaningful impact in the lives of our customers. By providing affordable products and services that meet their needs and aspirations, our employees play a vital role in serving our communities. Our customer-focused culture is driven by core values that empower employees to deliver exceptional service while fostering personal growth and career development. Across Pepkor’s diverse businesses, we value individuals whose personal qualities align with the unique culture of each brand. At group level, our employment practices are designed to support and reflect the ethos of our customer-centric brands. Pepkor employees benefit from competitive remuneration packages and market-aligned benefits, ensuring they feel valued an"
+    },
+    {
+      "id": "e82c7916905c5e1e",
+      "title": "Contact Vacancies Current vacancies across the Pepkor group Corporate and Support Services",
+      "company": "Pepkor",
+      "source_name": "Pepkor (official careers page)",
+      "source_url": "https://www.pepkor.co.za/careers/",
+      "apply_url": "https://pepkor.co.za/contact/",
+      "found_at": "2026-10-25T06:48:19.922440+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Education",
+      "location": "Gauteng",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "r 2026",
+      "job_type": "",
+      "requirements": "",
+      "description": "Contact - Pepkor Skip to content Register for investor alerts Search for: Register for investor alerts Contact Kevin Springer 2026-05-27T05:40:41+00:00 Contact GENERAL ENQUIRIES – info@pepkor.co.za INVESTOR RELATIONS ENQUIRIES – investors@pepkor.co.za PRESS ENQUIRIES – press@pepkor.co.za ETHICS HOTLINE – 0800 408 408 | hotline@kpmg.co.za Corporate information Registration number 2017/221869/06 Registered address 36 Stellenberg Road Parow Industria 7493 PO Box 6100 Parow East 7500 Telephone: +27 21 929 4800 Facsimile: +27 21 929 4829 Company secretary Masood Allie Email: companysec@pepkor.co.za Independent auditor PricewaterhouseCoopers Inc. 5 Silo Square V&A Waterfront Cape Town 8012 PO Box 2799 Cape Town 8000 Equity and debt sponsor Investec Bank Limited (Registration number 1969/004763/06) 100 Grayston Drive, Sandown Sandton 2196 PO Box 78055 Sandton 2146 Media centre Group logos ACKERMANS ACKERMANS CONNECT avenida Bradlows Capfin choice clothing Code Dunns Flash Hifi corp Incredible"
+    },
+    {
+      "id": "f6f09a3b364c6aed",
+      "title": "Group Strategic Services",
+      "company": "Pepkor",
+      "source_name": "Pepkor (official careers page)",
+      "source_url": "https://www.pepkor.co.za/careers/",
+      "apply_url": "https://pepkor.co.za/vacancies-2026/",
+      "found_at": "2026-10-25T06:48:20.995968+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Cashiers & Retail",
+      "location": "Cape Town Centurion Company Pepkor Corpor",
+      "province": "Gauteng",
+      "closing_date": "26 October 2026",
+      "salary": "r 2026",
+      "job_type": "Contract",
+      "requirements": "Grade 12; Tertiary secretarial qualification or property-related qualification would be an advantage. 3 – 4 Years of Personal Assistant or other administrative work experience; Experience in the property or construction industry, leasing or legal environments will be an advantage. Computer literacy and proficiency in MS Office (Word, Excel) and G Suite (Google Sheets, Docs, etc.); experience with a Contract Management system (Agiloft) would be an advantage. Competencies required: Ability to adapt to change, Detail orientation; Able to cope under pressure, Excellent communication (both verbal and writing skills); Interpersonal skills; Team Player, Able to work independently and as part of a team; Good problem-solving skills; Good time-management and planning skills; Learning orientation; Confidence and decisiveness; Assertive; Self-motivated and uses initiative.",
+      "description": "Vacancies-2026 - Pepkor Skip to content Register for investor alerts Search for: Register for investor alerts Vacancies Current vacancies across the Pepkor group Corporate and Support Services Retail Fintech Keywords Category Finance Property Admin Job Type Contract Permanent Location Cape Town Centurion Company Pepkor Corporate Centre Pepkor Installations Pepkor Properties PURPOSE OF THE POSITION The purpose of this role is to take responsibility for and facilitate the day-to-day running of the office. To create capacity for the Property Manager/s by coordinating and monitoring the work systems and processes, ensuring efficient planning, organising and control of all clerical/administrative aspects of the office and ensuring that deadlines are met. KEY RESPONSIBILITIES Prepare Offers to Lease, Offers to renew and Letters of acceptance in line with negotiated transactions and board approvals; Communicate and follow up with landlords/developers/clients concerning renewals, deals, offers"
+    },
+    {
+      "id": "4d0de117edae3bf9",
+      "title": "Ackermans",
+      "company": "Pepkor",
+      "source_name": "Pepkor (official careers page)",
+      "source_url": "https://www.pepkor.co.za/careers/",
+      "apply_url": "https://www.ackermans.co.za/page/corporate-information/careers",
+      "found_at": "2026-10-25T06:48:21.885060+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "Contract",
+      "requirements": "",
+      "description": "Welcome to our career site - Ackermans Skip to main content This website uses cookies to ensure you get the best experience. Ackermans and our selected partners use cookies and similar technologies (together “cookies”) that are necessary to present this website, and to ensure you get the best experience of it. If you consent to it, we will also use cookies for analytics purposes. See our Cookie Policy to read more about the cookies we set. You can withdraw and manage your consent at any time, by clicking “Manage cookies” at the bottom of each website page. Accept all cookies Decline all non-necessary cookies Cookie preferences Select which cookies you accept On this site, we always set cookies that are strictly necessary, meaning they are necessary for the site to function properly. If you consent to it, we will also set other types of cookies. You can provide or withdraw your consent to the different types of cookies using the toggles below. You can change or withdraw your consent at "
+    },
+    {
+      "id": "10dcb7bc9b65be59",
+      "title": "Pepkor Speciality",
+      "company": "Pepkor",
+      "source_name": "Pepkor (official careers page)",
+      "source_url": "https://www.pepkor.co.za/careers/",
+      "apply_url": "https://speciality.erecruit.co/candidateapp/jobs/browse/?Source=Pepkor%20Website",
+      "found_at": "2026-10-25T06:48:22.903878+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "r 11",
+      "job_type": "",
+      "requirements": "",
+      "description": "Pepkor Speciality The Internet Explorer 11 browser is no longer supported. We recommend the new browser from Microsoft. Download now Browse Jobs Categories Search About Us Sign Up Log In Browse by Category Ayana (2) CODE (5) Dunns (1) Legit (1) Refinery (11) S.P.C.C (5) Speciality Shared Services (1) Style (0) Swagga (0) Tekkie Town (1) © Pepkor Holdings Limited. All rights reserved. Powered by graylink recruitment software Processing Delete Account? Remove Personal Information? Cancel Request to Remove Personal Information? Terms & Conditions Incomplete Profile You need a complete profile before you can make applications. Would you like to complete your profile now? Incomplete Applications You have incomplete applications, view the application to complete Apply Nothing yet! Profile Import Options Log In Only: Just log in and do not change my profile. Import and Keep: Import my profile and update matched sections. KEEP sections that do not match. Be sure to clean up any duplicates. Imp"
+    },
+    {
+      "id": "3c5263d43f132f7f",
+      "title": "BURSARY INTERESTED? If you are interested in the above position and meet the requirements as indicated above, please email all required documents to",
+      "company": "Pepkor",
+      "source_name": "Pepkor (official careers page)",
+      "source_url": "https://www.pepkor.co.za/careers/",
+      "apply_url": "https://pepkor.co.za/wp-content/uploads/PLR_CA_2022-bursary-ad.pdf",
+      "found_at": "2026-10-25T06:48:23.392209+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "KwaZulu-Natal",
+      "province": "KwaZulu-Natal",
+      "closing_date": "",
+      "salary": "r2",
+      "job_type": "",
+      "requirements": "",
+      "description": "%PDF-1.4 % 152 0 obj < > endobj xref 152 43 0000000016 00000 n 0000001589 00000 n 0000001762 00000 n 0000015359 00000 n 0000015785 00000 n 0000016260 00000 n 0000016297 00000 n 0000016345 00000 n 0000016507 00000 n 0000017143 00000 n 0000017669 00000 n 0000018240 00000 n 0000018780 00000 n 0000019241 00000 n 0000019760 00000 n 0000020279 00000 n 0000020669 00000 n 0000021333 00000 n 0000021871 00000 n 0000024731 00000 n 0000024786 00000 n 0000024900 00000 n 0000024984 00000 n 0000027657 00000 n 0000028021 00000 n 0000028491 00000 n 0000030678 00000 n 0000031065 00000 n 0000031513 00000 n 0000035428 00000 n 0000035911 00000 n 0000036477 00000 n 0000037767 00000 n 0000038084 00000 n 0000038450 00000 n 0000039020 00000 n 0000039590 00000 n 0000042887 00000 n 0000127847 00000 n 0000134742 00000 n 0000137661 00000 n 0000001413 00000 n 0000001156 00000 n trailer < < 34427E3D817441F3BC597B9A8A56C8F4>]/Prev 142939/XRefStm 1413>> startxref 0 %%EOF 194 0 obj < >stream hb``Pg``}$,ɀ \u0001\u0003\u0003c\u0002:\u0014302\bJ0$"
+    },
+    {
+      "id": "55deb6dc053f4693",
+      "title": "Page load link var fusionNavIsCollapsed=function(e){var t,n;window.innerWidth<=e.getAttribute(\"data-breakpoint\")?(e.classList.add(\"collapse-enabled\"),e.classList.remove(\"awb-menu_desktop\"),e.classLis",
+      "company": "Pepkor",
+      "source_name": "Pepkor (official careers page)",
+      "source_url": "https://www.pepkor.co.za/careers/",
+      "apply_url": "https://pepkor.co.za/careers/",
+      "found_at": "2026-10-25T06:48:23.991531+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Cashiers & Retail",
+      "location": "allowance BURSARY INTERESTED",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "as indicated above, please email all required documents to careers@pepkor.co.za Curriculum Vitae (CV) Copy of your identity document Matric certificate and full academic transcript For bursary applications, please include a motivation letter motivating your application By submitting your application, you are giving Pepkor implicit consent to the storage and processing of your personal information. Pepkor strives for equal opportunity in terms of its employment equity guidelines. Quick Links About Us Investor Relations Media Statutory Information © Pepkor Holdings Limited. All rights reserved. Ethics hotline: 0800 408 408 | hotline@kpmg.co.za Page load link Go to Top",
+      "description": "Careers - Pepkor Skip to content Register for investor alerts Search for: Register for investor alerts Vacancies Current vacancies across the Pepkor group Corporate and Support Services Retail Fintech Careers at Pepkor Working at Pepkor offers employees the chance to make a meaningful impact in the lives of our customers. By providing affordable products and services that meet their needs and aspirations, our employees play a vital role in serving our communities. Our customer-focused culture is driven by core values that empower employees to deliver exceptional service while fostering personal growth and career development. Across Pepkor’s diverse businesses, we value individuals whose personal qualities align with the unique culture of each brand. At group level, our employment practices are designed to support and reflect the ethos of our customer-centric brands. Pepkor employees benefit from competitive remuneration packages and market-aligned benefits, ensuring they feel valued an"
+    },
+    {
+      "id": "96d74e0ff21959ef",
+      "title": "Go to Top",
+      "company": "Pepkor",
+      "source_name": "Pepkor (official careers page)",
+      "source_url": "https://www.pepkor.co.za/careers/",
+      "apply_url": "https://pepkor.co.za/careers/",
+      "found_at": "2026-10-25T06:48:24.870117+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Cashiers & Retail",
+      "location": "allowance BURSARY INTERESTED",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "as indicated above, please email all required documents to careers@pepkor.co.za Curriculum Vitae (CV) Copy of your identity document Matric certificate and full academic transcript For bursary applications, please include a motivation letter motivating your application By submitting your application, you are giving Pepkor implicit consent to the storage and processing of your personal information. Pepkor strives for equal opportunity in terms of its employment equity guidelines. Quick Links About Us Investor Relations Media Statutory Information © Pepkor Holdings Limited. All rights reserved. Ethics hotline: 0800 408 408 | hotline@kpmg.co.za Page load link Go to Top",
+      "description": "Careers - Pepkor Skip to content Register for investor alerts Search for: Register for investor alerts Vacancies Current vacancies across the Pepkor group Corporate and Support Services Retail Fintech Careers at Pepkor Working at Pepkor offers employees the chance to make a meaningful impact in the lives of our customers. By providing affordable products and services that meet their needs and aspirations, our employees play a vital role in serving our communities. Our customer-focused culture is driven by core values that empower employees to deliver exceptional service while fostering personal growth and career development. Across Pepkor’s diverse businesses, we value individuals whose personal qualities align with the unique culture of each brand. At group level, our employment practices are designed to support and reflect the ethos of our customer-centric brands. Pepkor employees benefit from competitive remuneration packages and market-aligned benefits, ensuring they feel valued an"
+    },
+    {
+      "id": "be13559801fcd802",
+      "title": "Skip to content",
+      "company": "Eskom",
+      "source_name": "Eskom (official careers page)",
+      "source_url": "https://www.eskom.co.za/careers/",
+      "apply_url": "https://www.eskom.co.za/careers/#main",
+      "found_at": "2026-10-25T06:48:33.502447+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": "Careers - Eskom Skip to content Slide 1 It's not just a profession, it's making a difference CAREERS AT ESKOM We appreciate your interest in joining Eskom. Our recruitment website is temporarily unavailable until further notice. During this period, job applicants will not be able to create profiles or access job opportunities. Please note that all profiles and job applications submitted before the suspension remain valid. We apologise for any inconvenience and thank you for your patience. Stay tuned to our official channels for the latest information. Eskom Human Resources Eskom transforms inputs from the natural environment – coal, nuclear, fuel, diesel, water, and wind into more than 90% of the energy supplied to a wide range of customers in South Africa and the Southern African Development Community (SADC) region. A career at Eskom offers immense opportunities and benefits, as well as prospects for career growth and development. Our organisation is driven by a purpose to empower our"
+    },
+    {
+      "id": "44ac2ed1d4c42f11",
+      "title": "Toggle Menu window.location.href = \"https://eskomcareers.ci.hr\"; Slide 1 It's not just a profession, it's making a difference CAREERS AT ESKOM We appreciate your interest in joining Eskom. Our recrui",
+      "company": "Eskom",
+      "source_name": "Eskom (official careers page)",
+      "source_url": "https://www.eskom.co.za/careers/",
+      "apply_url": "https://www.eskom.co.za/",
+      "found_at": "2026-10-25T06:48:37.171152+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "r 2026",
+      "job_type": "",
+      "requirements": "",
+      "description": "Eskom Holdings SOC Ltd Skip to content Grid Access Unit Read more Slide 2 Actively working towards ADDRESSING THE ELECTRICITY SUPPLY CHALLENGES Eskom Crowdsourcing: Read more Slide 4 We are going green for our CHILDREN and GENERATIONS to come Electricity technologies: Read more Slide 1 Eskom signs land lease agreements in its LAND LEASING PROGRAMME Read more Slide 5 Actively working towards GLOBAL CLIMATE NEUTRALITY Just Energy Transition (JET): Read more Slide 3 Comitted to becoming a GREEN ENERGY COMPANY Renewable energy sources: Read more Energy Saving Read more Data Portal Read more Log a fault Read more Products Read more Application Tool Read more Tariffs, Charges Read more SSEG Read more Nersa is currently consulting on RCA Read more Just Energy Transition (JET) programme Read more Koeberg Power Station Long Term Operation Read more Battery Storage License Applications Read more Short Term Energy Purchases Programme Read more Eskom recognised as Top Employer 2026 Read more Corpo"
+    },
+    {
+      "id": "108155ffbdedf00f",
+      "title": "Your career is your profession. If you want to advance in your career, you need to have a clear vision of what you want and pursue the chances that come your way. Career growth is not a destination,",
+      "company": "Eskom",
+      "source_name": "Eskom (official careers page)",
+      "source_url": "https://www.eskom.co.za/careers/",
+      "apply_url": "https://qa.www.eskom.co.za/executivejobs/",
+      "found_at": "2026-10-25T06:48:37.480869+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
+    },
+    {
+      "id": "7ba346215c210d0c",
+      "title": "Scroll to top Scroll to top ( () => { const lazyloadRunObserver = () => { const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` ); const lazyloa",
+      "company": "Eskom",
+      "source_name": "Eskom (official careers page)",
+      "source_url": "https://www.eskom.co.za/careers/",
+      "apply_url": "https://www.eskom.co.za/careers/#wrapper",
+      "found_at": "2026-10-25T06:48:37.934274+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": "Careers - Eskom Skip to content Slide 1 It's not just a profession, it's making a difference CAREERS AT ESKOM We appreciate your interest in joining Eskom. Our recruitment website is temporarily unavailable until further notice. During this period, job applicants will not be able to create profiles or access job opportunities. Please note that all profiles and job applications submitted before the suspension remain valid. We apologise for any inconvenience and thank you for your patience. Stay tuned to our official channels for the latest information. Eskom Human Resources Eskom transforms inputs from the natural environment – coal, nuclear, fuel, diesel, water, and wind into more than 90% of the energy supplied to a wide range of customers in South Africa and the Southern African Development Community (SADC) region. A career at Eskom offers immense opportunities and benefits, as well as prospects for career growth and development. Our organisation is driven by a purpose to empower our"
+    },
+    {
+      "id": "fe44e31ac80619ff",
+      "title": "Careers Careers Joining Netcare We provide meaningful careers that connect people with purpose. We attract highly skilled, engaged, and performing employees who are passionate about providing quality",
+      "company": "Netcare",
+      "source_name": "Netcare (official careers page)",
+      "source_url": "https://www.netcare.co.za/Careers",
+      "apply_url": "https://www.netcare.co.za/Careers",
+      "found_at": "2026-10-25T06:48:42.576138+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "r 80",
+      "job_type": "Learnership",
+      "requirements": "and skills programmes including learnerships, internships, and work experiential learning. Our five Netcare education campuses have trained 50 000 nurses since 1999, and our faculty of emergency and critical care trains and produces high quality paramedics. We further provide management and leadership development programmes, study subsidies, coaching and mentoring, and programmes to support employees’ transition through various stages of their career. Growth and development We firmly believe in growing talent. We invest more than 1% of total payroll annually on developing a pipeline across the core and support areas of our business. We do this through formally accredited NQF aligned qualifications and skills programmes including learnerships, internships, and work experiential learning. Our five netcare education campuses have trained 50 000 nurses since 1999, and our faculty of emergency and critical care trains and produces high quality paramedics. We further provide management and leadership development programmes, study subsidies, coaching and mentoring, and programmes to support employees’ transition through various stages of their career. Committed to excellence The followin",
+      "description": "Netcare Careers Netcare careers View career opportunities Netcare careers View career opportunities HOME Careers Careers Joining Netcare We provide meaningful careers that connect people with purpose. We attract highly skilled, engaged, and performing employees who are passionate about providing quality health and care. by joining Netcare, you will feel a great sense of inclusion and belonging as part of a family that cares about your growth and wellbeing. You will work with the best-in-class technology with high standards of health and safety. we offer competitive remuneration and benefits that are benchmarked against the best market trends. you will enjoy a fulfilling career working in a high performance, values driven organisational culture that values diversity. Employee wellbeing Our employees have access to a number of wellness tools, including a holistic wellness programme covering physical, mental and financial wellbeing; expert advice on legal and personal relationship matters"
+    },
+    {
+      "id": "120d3f7ee15f6f27",
+      "title": "Learn more Continue #cookie-banner { position: fixed; bottom: 20px; left: 0; width: 100%; z-index: 2147483647; padding: 0 16px; box-sizing: border-box; } .cb-container { background:",
+      "company": "Netcare",
+      "source_name": "Netcare (official careers page)",
+      "source_url": "https://www.netcare.co.za/Careers",
+      "apply_url": "https://www.netcare.co.za/-Privacy-policy",
+      "found_at": "2026-10-25T06:48:43.703354+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Healthcare",
+      "location": "information",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "Contract",
+      "requirements": "as set out in the National Health Act 61 of 2003. All research participants shall be required to submit written consent. PURPOSES FOR WHICH NETCARE USES YOUR PERSONAL INFORMATION Any information collected from you may be processed for, amongst others, the following purposes: To provide you with products and services; To process your hospital admission; To make an online appointment; To assess your psychiatric, psychological or addictive condition; To assess any medical treatment you may require; To process your admission or any other enquiry; For statistical and research purposes; To diagnose and attend to technical issues, support and user queries, as well as to determine the optimal and fastest route for your device to use; To comply with legislative requirements; To process your application for a vacancy; or To detect, prevent or deal with actual or alleged fraud, security breach, or the abuse, misuse or unauthorised use of the website and/or contravention of this Privacy Policy. On admission proof of identity will be required from all patients. On admission proof of medical aid membership will be required from all patients who are members of medical aids. All existing personal",
+      "description": "Privacy policy HOME Privacy policy Privacy policy INTRODUCTION This Privacy Policy applies to the Netcare Group of Companies (“Netcare”, “Medicross”, “Netcare 911”, “Netcare Hospitals”, “NetcarePlus” companies, “Primecure”, “Akeso” or “Netcare Education”). Netcare acknowledges the rights of privacy and dignity of all persons. This includes the right to protection of private information. In compiling this policy, the statutory framework contained in the laws of South Africa, particularly the Bill of Rights and various other pieces of legislation applicable to healthcare, was given due consideration. Our Privacy Policy governs the way we, at Netcare, treat and deal or process your personal information. We respect your privacy and undertake to treat your personal information as confidential. Our Privacy Policy explains how we use, collect and share your personal information. We undertake to ensure that all patient information will be protected from unauthorised access, loss or damage and "
+    },
+    {
+      "id": "e111e809ddcf1a25",
+      "title": "Education and Training",
+      "company": "Life Healthcare",
+      "source_name": "Life Healthcare (official careers page)",
+      "source_url": "https://www.lifehealthcare.co.za/careers/",
+      "apply_url": "https://www.lifehealthcare.co.za/careers/education-and-training/",
+      "found_at": "2026-10-25T06:48:46.739194+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Healthcare",
+      "location": "the major centres in South Africa",
+      "province": "",
+      "closing_date": "",
+      "salary": "r 20",
+      "job_type": "",
+      "requirements": "",
+      "description": "Education and Training | Life Healthcare Education and Training Life Healthcare’s learning centres have a legacy of training nurses in South Africa for over 20 years. Our seven learning centres are situated in the major centres in South Africa. Our innovative theoretical and clinical training, ensures that our students receive excellent education and training. As a nursing student, you will experience a dynamic and rewarding journey of academic learning, hands-on clinical practice and personal growth. Our seven learning centres are situated in the major centres of South Africa. Our innovative theoretical and clinical training, ensures that our students receive excellent education and training. Five quick facts Established by the Life Healthcare Group in 1998. Registered as a Private Higher Education Institution with the Department of Higher Education and Training since 2008. Accredited as a Nursing Education Institution with the South African Nursing Council . Accredited by the Council"
+    },
+    {
+      "id": "40df8fb43e0d465c",
+      "title": "Careers",
+      "company": "Life Healthcare",
+      "source_name": "Life Healthcare (official careers page)",
+      "source_url": "https://www.lifehealthcare.co.za/careers/",
+      "apply_url": "https://www.lifehealthcare.co.za/careers/",
+      "found_at": "2026-10-25T06:48:49.421798+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Healthcare",
+      "location": "Gauteng",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "r 2 700",
+      "job_type": "",
+      "requirements": "",
+      "description": "Our Available Careers & Jobs | Life Healthcare Careers Life Healthcare believes that inviting the best and brightest employees will impact and improve our patient experience. As we continue to grow, we look for people who are dedicated to excellence, quality and first-class service because at Life Healthcare we know it is more than a job. It's making life better. Learn more about joining our team. Why work at Life Healthcare? Employee benefits Effective communication Continuing Professional Development Achiever awards Life employee benefits Medical aid Retirement fund Death and disability cover Long-service awards Employee share plan Leave Bursaries Employee Wellness: a voluntary, confidential support programme Read more about working at Life Healthcare. What makes our employees and services special? Life Healthcare employees are exceptional. The kind of people who become part of our family are those who are passionate about providing the best possible care to patients at all times. We"
+    },
+    {
+      "id": "1136fccfd4ebcea2",
+      "title": "A career at Life Healthcare",
+      "company": "Life Healthcare",
+      "source_name": "Life Healthcare (official careers page)",
+      "source_url": "https://www.lifehealthcare.co.za/careers/",
+      "apply_url": "https://www.lifehealthcare.co.za/careers/",
+      "found_at": "2026-10-25T06:48:52.344405+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Healthcare",
+      "location": "Gauteng",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "r 2 700",
+      "job_type": "",
+      "requirements": "",
+      "description": "Our Available Careers & Jobs | Life Healthcare Careers Life Healthcare believes that inviting the best and brightest employees will impact and improve our patient experience. As we continue to grow, we look for people who are dedicated to excellence, quality and first-class service because at Life Healthcare we know it is more than a job. It's making life better. Learn more about joining our team. Why work at Life Healthcare? Employee benefits Effective communication Continuing Professional Development Achiever awards Life employee benefits Medical aid Retirement fund Death and disability cover Long-service awards Employee share plan Leave Bursaries Employee Wellness: a voluntary, confidential support programme Read more about working at Life Healthcare. What makes our employees and services special? Life Healthcare employees are exceptional. The kind of people who become part of our family are those who are passionate about providing the best possible care to patients at all times. We"
+    },
+    {
+      "id": "61d65f7fbbbef09c",
+      "title": "Vacancies",
+      "company": "Life Healthcare",
+      "source_name": "Life Healthcare (official careers page)",
+      "source_url": "https://www.lifehealthcare.co.za/careers/",
+      "apply_url": "https://www.lifehealthcare.co.za/careers/vacancies/",
+      "found_at": "2026-10-25T06:48:55.262503+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Healthcare",
+      "location": "Gauteng",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": "Whether you are looking for an exciting career at one of our hospitals, or want to become part of our team of specialists making a difference to patients all over South Africa, working at Life Healthcare is more than just a job: it is a calling – a way to continuously develop your knowledge, skills and experience at one of South Africa’s leading healthcare companies. Did you know? The purpose of this site is to invite Life Healthcare employees and external individuals to apply for positions. These positions are not open to recruitment agencies and we do not accept unsolicited CVs from recruitment agencies. Filter vacancies Function Select function Head Office Credit risk Engineering Finance/Administration Human resources Information technology Management Nursing Life Occupational Health / Employee wellness Other Patient services Pharmacy Procurement Rehabilitation Select facility Select facility Algoa Frail Care Centre Baneng care centre Life Anncron Hospital Life Bay View Private Hospital Life Beacon Bay Hospital Life Bedford Gardens Hospital Life Brackenview Life Brenthurst Hospital Life Brooklyn Day Hospital Life Carstenhof Hospital Life Carstenview Life Chatsmed Garden Hospita"
+    },
+    {
+      "id": "9205de7ba24466b9",
+      "title": "Research and Ethics Committee",
+      "company": "Life Healthcare",
+      "source_name": "Life Healthcare (official careers page)",
+      "source_url": "https://www.lifehealthcare.co.za/careers/",
+      "apply_url": "https://www.lifehealthcare.co.za/careers/education-and-training/research-and-human-research-ethics-committee/",
+      "found_at": "2026-10-25T06:49:00.467530+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Healthcare",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "Additional research and ethics approval forms HREC amendment form HREC closeout form HREC progress report HREC study renewal This website uses cookies to provide necessary site functionality and improve your online experience. By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our communications efforts ELECTRONIC COMMUNICATIONS AND TRANSACTIONS ACT 25 OF 2002 Customize Settings Accept All Cookies × Privacy Preference Centre When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. Allow All Manage",
+      "description": "Research & Human Research Ethics Committee | Life Healthcare Research and Human Research Ethics Committee Our Human Research Ethics Committee was established and is accredited in line with the National Health Research Ethics Council since 2016. What is the main role of the committee? To approve research being conducted within Life Healthcare, and to ensure the protection of the company, employees and patients during any study. Click here to view the Life Healthcare Human Research Ethics Committee Terms of Reference , Standard Operating Procedures and the Research Governance Structures . How does it work? Individual functions have been grouped to establish their own Research and Scientific committees that will review the research proposals using expert knowledge, prior to submission to the Human Research Ethics Committee. The Human Research Ethics Committee meets monthly. Please click here for the 2026 HREC submission and meeting dates. For more information about our Human Research Ethi"
+    },
+    {
+      "id": "7555598843ae87dd",
+      "title": "Find out more . Career FAQs",
+      "company": "Life Healthcare",
+      "source_name": "Life Healthcare (official careers page)",
+      "source_url": "https://www.lifehealthcare.co.za/careers/",
+      "apply_url": "https://www.lifehealthcare.co.za/careers/education-and-training/",
+      "found_at": "2026-10-25T06:49:15.411195+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Healthcare",
+      "location": "the major centres in South Africa",
+      "province": "",
+      "closing_date": "",
+      "salary": "r 20",
+      "job_type": "",
+      "requirements": "",
+      "description": "Education and Training | Life Healthcare Education and Training Life Healthcare’s learning centres have a legacy of training nurses in South Africa for over 20 years. Our seven learning centres are situated in the major centres in South Africa. Our innovative theoretical and clinical training, ensures that our students receive excellent education and training. As a nursing student, you will experience a dynamic and rewarding journey of academic learning, hands-on clinical practice and personal growth. Our seven learning centres are situated in the major centres of South Africa. Our innovative theoretical and clinical training, ensures that our students receive excellent education and training. Five quick facts Established by the Life Healthcare Group in 1998. Registered as a Private Higher Education Institution with the Department of Higher Education and Training since 2008. Accredited as a Nursing Education Institution with the South African Nursing Council . Accredited by the Council"
+    },
+    {
+      "id": "ba030a6948c0855c",
+      "title": "Do you have a question about how to apply for a position at Life Healthcare, or what the recruitment process entails? Here are all the answers > Our DNA",
+      "company": "Life Healthcare",
+      "source_name": "Life Healthcare (official careers page)",
+      "source_url": "https://www.lifehealthcare.co.za/careers/",
+      "apply_url": "https://www.lifehealthcare.co.za/faqs/",
+      "found_at": "2026-10-25T06:49:17.627206+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 95,
+        "checks": [
+          "Found on the employer's official careers page",
+          "Apply link stays on an official/approved domain"
+        ],
+        "warnings": []
+      },
+      "category": "Healthcare",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "r 4",
+      "job_type": "Temporary",
+      "requirements": "your therapy “mix” and focus may therefore differ from your fellow patients. The intensity of therapy delivered is also dependent on your diagnostic category. In keeping with international best practice, our patients receive daily intervention (based on therapeutic need) five days a week over the length of their stay, with a reduced programme offered on Saturday mornings and most public holidays. Therapy doesn’t end in the gym, however: patients are expected to carry their newly learnt skills over into the ward environment under the guidance and with the assistance of the rehabilitation nursing team. Will my information be shared with other healthcare professionals in the ward? We will place a white board above your bed with important information necessary for the team and your visitors to comply with. This could include: Information on your diet Mobility Assistance required Wheelchair number Other similar information If you would prefer to not have this information displayed, kindly inform the unit manager who will make alternative arrangements. Regular team meetings are also scheduled where your progress is shared with the rest of the interdisciplinary team. Am I allowed to tak",
+      "description": "s of the therapy team may overlap – below are their specific roles: Therapy discipline Role and responsibility Physiotherapist Management of your physical mobility Speech therapist Management of your language abilities, communication and swallowing skills Occupational therapist Management of self-care tasks, daily activities and ordering of appropriate equipment Social worker Support you and your family through the entire rehabilitation process, providing counselling, assistance with work-related concerns, and discharge planning Psychologist Management of cognitive aspects and counselling when required Dietitian Management of specific dietary and nutritional requirements Assistants / technicians Assistance with and continuation of activities as your physiotherapist or occupational therapist prescribe Rehabilitation attendants: therapy Assistance with basic therapeutic activities as your professional therapy team prescribes Am I allowed to go home some weekends? It is important that patients and families are able to cope outside the structured ward environment. We require patients to return home on a leave of absence at least once prior to discharge. This enables you and your family"
+    },
+    {
+      "id": "3abc6a462fa464f9",
+      "title": "Job Search /",
+      "company": "Pepkor",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://pepkor.co.za/careers/",
+      "found_at": "2026-10-25T06:49:35.794312+00:00",
+      "verification": {
+        "status": "verified_official",
+        "confidence": 92,
+        "checks": [
+          "Found on a job board",
+          "Traced: same vacancy confirmed on Pepkor's official careers page",
+          "Apply link replaced with the official direct link"
+        ],
+        "warnings": []
+      },
+      "category": "Cashiers & Retail",
+      "location": "allowance BURSARY INTERESTED",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "as indicated above, please email all required documents to careers@pepkor.co.za Curriculum Vitae (CV) Copy of your identity document Matric certificate and full academic transcript For bursary applications, please include a motivation letter motivating your application By submitting your application, you are giving Pepkor implicit consent to the storage and processing of your personal information. Pepkor strives for equal opportunity in terms of its employment equity guidelines. Quick Links About Us Investor Relations Media Statutory Information © Pepkor Holdings Limited. All rights reserved. Ethics hotline: 0800 408 408 | hotline@kpmg.co.za Page load link Go to Top",
+      "description": "Careers - Pepkor Skip to content Register for investor alerts Search for: Register for investor alerts Vacancies Current vacancies across the Pepkor group Corporate and Support Services Retail Fintech Careers at Pepkor Working at Pepkor offers employees the chance to make a meaningful impact in the lives of our customers. By providing affordable products and services that meet their needs and aspirations, our employees play a vital role in serving our communities. Our customer-focused culture is driven by core values that empower employees to deliver exceptional service while fostering personal growth and career development. Across Pepkor’s diverse businesses, we value individuals whose personal qualities align with the unique culture of each brand. At group level, our employment practices are designed to support and reflect the ethos of our customer-centric brands. Pepkor employees benefit from competitive remuneration packages and market-aligned benefits, ensuring they feel valued an"
+    },
+    {
+      "id": "eb682a484ea406f1",
+      "title": "Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Never miss another job opportunity! Get notified",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/",
+      "found_at": "2026-10-25T06:49:34.802107+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "Gauteng",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "r 6314",
+      "job_type": "",
+      "requirements": "",
+      "description": "careers24 | Find & Apply For Jobs & Vacancies Online Find your dream career 6314 Jobs in South Africa Jobs | Companies | Courses Include Remote Jobs Include Remote Jobs Browse Jobs by: Search by Region Gauteng Jobs (2554) Western Cape Jobs (2252) Kwazulu Natal Jobs (706) Eastern Cape Jobs (337) Mpumalanga Jobs (296) Northern Cape Jobs (194) Free State Jobs (265) North West Jobs (205) Limpopo Jobs (242) Search by City Johannesburg Jobs (1210) Cape Town Jobs (1002) Pretoria Jobs (630) Durban Jobs (344) Port Elizabeth Jobs (143) East London Jobs (155) Nelspruit Jobs (131) Bloemfontein Jobs (185) Pietermaritzburg Jobs (177) See All Search by Sector IT Jobs (549) Finance jobs (856) Sales Jobs (1042) Engineering Jobs (922) Manufacturing Jobs (567) General Jobs (552) Accounting Jobs (245) Insurance Jobs (461) Admin Jobs (236) See All Companies Hiring Now View All Never miss a job opportunity Get Careers24 on your phone Access 1000s of jobs, on the go Filtering to find the jobs that suit you A"
+    },
+    {
+      "id": "83f583765adb5bdd",
+      "title": "CLEAR FILTERS APPLY FILTERS Location: Any South Africa Eastern Cape (226) East London Port Elizabeth Wild Coast Free State (153) Bethlehem Bloemfontein Kroonstad Welkom Gaut",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/",
+      "found_at": "2026-10-25T06:49:35.113606+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Drivers & Logistics",
+      "location": "None Select",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "R12000",
+      "job_type": "Contract",
+      "requirements": "",
+      "description": "South Africa Jobs Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Never miss another job opportunity! Get notified by email as soon as new jobs are posted for: Job Title Select Location None Select 1 Select 2 Select 3 Email Address NO THANKS! CREATE JOB ALERT REFINE YOUR SEARCH CLEAR FILTERS APPLY FILTERS Remote Jobs Include Remote Jobs Show Remote Jobs Only (113) Exclude Remote Jobs Minimum salary per month Any R12000 (1559) R24000 (1101) R36000 (752) R48000 (574) Market Related (4295) Any Academic Accounting (245) Admin (236) Advertising (31) Agriculture (198) Automotive (199) Aviation (27) Banking (70) Business Management (109) Call Centre (154) Chemical Clothing Construction (153) Consulting (210) Cruise Ship Defence Design Services (33) E-Commerce (20) Education (90) Engineering (922) Entertainment (36) Environmental (40) Fashion Finance (856) FMCG (612) Freight (71) General (552)"
+    },
+    {
+      "id": "29ee7228c7e81050",
+      "title": "Home /",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/",
+      "found_at": "2026-10-25T06:49:35.521483+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "Gauteng",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "r 6314",
+      "job_type": "",
+      "requirements": "",
+      "description": "careers24 | Find & Apply For Jobs & Vacancies Online Find your dream career 6314 Jobs in South Africa Jobs | Companies | Courses Include Remote Jobs Include Remote Jobs Browse Jobs by: Search by Region Gauteng Jobs (2554) Western Cape Jobs (2252) Kwazulu Natal Jobs (706) Eastern Cape Jobs (337) Mpumalanga Jobs (296) Northern Cape Jobs (194) Free State Jobs (265) North West Jobs (205) Limpopo Jobs (242) Search by City Johannesburg Jobs (1210) Cape Town Jobs (1002) Pretoria Jobs (630) Durban Jobs (344) Port Elizabeth Jobs (143) East London Jobs (155) Nelspruit Jobs (131) Bloemfontein Jobs (185) Pietermaritzburg Jobs (177) See All Search by Sector IT Jobs (549) Finance jobs (856) Sales Jobs (1042) Engineering Jobs (922) Manufacturing Jobs (567) General Jobs (552) Accounting Jobs (245) Insurance Jobs (461) Admin Jobs (236) See All Companies Hiring Now View All Never miss a job opportunity Get Careers24 on your phone Access 1000s of jobs, on the go Filtering to find the jobs that suit you A"
+    },
+    {
+      "id": "dfa778130238879d",
+      "title": "South Africa Date Posted Relevance 6241 South Africa Jobs",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "found_at": "2026-10-25T06:49:36.686524+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Drivers & Logistics",
+      "location": "None Select",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "R12000",
+      "job_type": "Contract",
+      "requirements": "",
+      "description": "South Africa Jobs Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Never miss another job opportunity! Get notified by email as soon as new jobs are posted for: Job Title Select Location None Select 1 Select 2 Select 3 Email Address NO THANKS! CREATE JOB ALERT REFINE YOUR SEARCH CLEAR FILTERS APPLY FILTERS Remote Jobs Include Remote Jobs Show Remote Jobs Only (113) Exclude Remote Jobs Minimum salary per month Any R12000 (1544) R24000 (1089) R36000 (742) R48000 (567) Market Related (4238) Any Academic Accounting (243) Admin (230) Advertising (29) Agriculture (197) Automotive (199) Aviation (26) Banking (70) Business Management (109) Call Centre (153) Chemical Clothing Construction (147) Consulting (208) Cruise Ship Defence Design Services (33) E-Commerce (20) Education (90) Engineering (894) Entertainment (36) Environmental (39) Fashion Finance (854) FMCG (608) Freight (70) General (549)"
+    },
+    {
+      "id": "a8e33cdcfcb5ebee",
+      "title": "Refine Search Refine Your Search Never miss another job opportunity! × Get notified by email as soon as new jobs are posted for: Job Title Select Location Eastern Cape Free State Gauteng KwaZulu-Nata",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "found_at": "2026-10-25T06:49:37.041369+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Drivers & Logistics",
+      "location": "None Select",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "R12000",
+      "job_type": "Contract",
+      "requirements": "",
+      "description": "South Africa Jobs Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Never miss another job opportunity! Get notified by email as soon as new jobs are posted for: Job Title Select Location None Select 1 Select 2 Select 3 Email Address NO THANKS! CREATE JOB ALERT REFINE YOUR SEARCH CLEAR FILTERS APPLY FILTERS Remote Jobs Include Remote Jobs Show Remote Jobs Only (113) Exclude Remote Jobs Minimum salary per month Any R12000 (1544) R24000 (1089) R36000 (742) R48000 (567) Market Related (4238) Any Academic Accounting (243) Admin (230) Advertising (29) Agriculture (197) Automotive (199) Aviation (26) Banking (70) Business Management (109) Call Centre (153) Chemical Clothing Construction (147) Consulting (208) Cruise Ship Defence Design Services (33) E-Commerce (20) Education (90) Engineering (894) Entertainment (36) Environmental (39) Fashion Finance (854) FMCG (608) Freight (70) General (549)"
+    },
+    {
+      "id": "9c958a1164af9588",
+      "title": "Goods Receiving Clerk Parow Job Type: Permanent Posted: 25 Oct 2026 13 Days left",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395551-goods-receiving-clerk-parow/?jobindex=1",
+      "found_at": "2026-10-25T06:49:37.428183+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Drivers & Logistics",
+      "location": "Western Cape",
+      "province": "Western Cape",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "Permanent",
+      "requirements": "Grade 12 (Matric) or equivalent qualification. Minimum 2 years' relevant experience in goods receiving, warehousing, stock control, or inventory management. A valid forklift license. Experience in a manufacturing or corrugated packaging environment will be advantageous. Good understanding of receiving procedures, purchase orders, supplier delivery notes, stock records, and inventory control. Strong numerical, administrative, and record-keeping skills. Basic computer literacy, including the ability to capture and maintain accurate stock records. Ability to inspect, measure, and verify materials accurately. Ability to work independently and collaboratively across departments. *Applicants with disabilities are encouraged to apply. If you require any accommodation during the application or interview process, please let us know. Apply 4 people have applied for this job. 32 people have viewed this job. Previous Next More Jobs at Caxton & CTP Publishers and Printers Limited Graduate Program Cape Town Job Type: Contract Posted 23 Oct 2026 | 29 Days left Operator - Die Cutter Cape Town Job Type: Permanent Posted 21 Oct 2026 | 7 Days left Apprenticeship Parow Job Type: Contract Posted 12 Oc",
+      "description": "plays a critical part in maintaining stock accuracy, preventing material losses and supporting the uninterrupted flow of raw materials to production. KEY RESPONSIBILITIES Receive and verify incoming raw materials, consumables and other deliveries against approved purchase orders and supplier delivery notes. Inspect deliveries for visible damage, defects, incorrect specifications, shortages, and excess quantities before acceptance. Verify material descriptions, dimensions, quantities, and quality requirements using appropriate measuring equipment where necessary. Ensure that all receiving documentation is accurate, complete, and properly maintained, including, delivery notes, and stock records. Support raw material stock counts, reconciliations, and investigations into stock variances. Ensure that raw materials issued to production are correctly identified, measured, documented, and supported by the appropriate issue slips. Coordinate with Procurement, Finance, Production, Quality and Despatch personnel to resolve stock and delivery discrepancies. Operate a forklift safely to offload, move, and position materials where required Adhere to company policies, standard operating procedu"
+    },
+    {
+      "id": "94e2f845955351cc",
+      "title": "Creditors Administrator Kia South Africa (Pty) Ltd - IMFRG Tokai Cape Town Job Type: Permanent Posted: 24 Oct 2026 7 Days left",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395550-creditors-administrator-kia-south-africa-pty-ltd-imfrg-tokai-cape-town/?jobindex=2",
+      "found_at": "2026-10-25T06:49:37.745561+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "Western Cape",
+      "province": "Western Cape",
+      "closing_date": "",
+      "salary": "r 20 000",
+      "job_type": "Permanent",
+      "requirements": "and Experience: Matric Bookkeeping and/or accounting qualification would be an advantage Minimum of 3 years' experience in the creditor's environment Minimum of 2 years' experience in the motor industry would be an advantage Skills and Attributes: Clerical Skills (Fundamental) Financial Administration Trust and Integrity Apply 4 people have applied for this job. 120 people have viewed this job. Previous Next About Motus Corporation Motus is a multi-national provider of automotive mobility solutions and vehicle products and services, delivering 77 years of steady growth and reliable value creation. Our leading market presence in South Africa is enhanced by selected international offerings in the United Kingdom, Australia, Asia and Southern and East Africa. Motus employs over 20 000 people globally and is a diversified (non-manufacturing) business in the automotive sector. Motus is South Africa’s leading automotive group, with unrivalled scale and scope across the automotive value chain. Motus offers a differentiated value proposition to OEMs, customers and business partners with a business model that integrates our four business segments: Import and Distribution, Retail and Rental,",
+      "description": "The successful incumbent will be responsible to deliver a clerical service in order to process creditors transactions accurately and timeously through the execution of predefined work objectives as per agreed standard operating procedure. Specific Roles and Responsibilities: Deliver on agreed performance targets according to set procedures and service level agreement. Report on transactional activities to provide timely information for decision making in area of accountability. Execute work in line with governance and compliance processes Identify and apply known solutions to operational problems and escalate unresolved issues Ensure that all documentation is processed accurately and correctly. Prepare all reports and submit on time as prescribed by relevant policies and procedures. Deliver work activities effectively and efficiently in order to maximise financial performance Qualifications and Experience: Matric Bookkeeping and/or accounting qualification would be an advantage Minimum of 3 years' experience in the creditor's environment Minimum of 2 years' experience in the motor industry would be an advantage Skills and Attributes: Clerical Skills (Fundamental) Financial Admini"
+    },
+    {
+      "id": "21198168bdfd12a4",
+      "title": "Readvertising: Associate Professor in the Department of Management Eastern Cape Job Type: Permanent Posted: 24 Oct 2026 13 Days left",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395549-readvertising-associate-professor-in-the-department-of-management-eastern-cape/?jobindex=3",
+      "found_at": "2026-10-25T06:49:39.445195+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Education",
+      "location": "Eastern Cape",
+      "province": "Eastern Cape",
+      "closing_date": "6 November 2026",
+      "salary": "R82 301.00",
+      "job_type": "Permanent",
+      "requirements": "Associate Professor PhD in Management or equivalent. Considerable teaching experience at the undergraduate and postgraduate levels required, including Master's and PhD levels. Experience in teaching in the following disciplinary areas: Strategic Management, Financial Management and Research Methodology, Marketing Management or equivalent Evidence of M&D Supervision where Research supervision of Master’s is required, and PhD degrees to completion is preferred. Emerging National profile in the field of Management. Track record of administration, management and/or leadership roles (leadership roles may include being part of committees at the faculty and institutional level). Experience in mentoring and developing early career academics.",
+      "description": "profile and further particulars for further information and ensure that all relevant documentation is submitted. The following documents are required: A comprehensive CV and relevant qualifications which should include the following: - Reasons for leaving your current and previous jobs. Referees who are and/or were your direct line manager, their title, name, designation and contact information which should be at least their contact number and email address. A clear and concise motivation outlining your interest in the position and your suitability in relation to the job requirements. Please attach a separate document containing your motivation letter under the additional document section of the"
+    },
+    {
+      "id": "bcf17b15c27a23d8",
+      "title": "Readvertising: Professor/Associate Professor (Permanent) & Dean (5-Year Term, Part-Time) Eastern Cape Job Type: Permanent Posted: 24 Oct 2026 13 Days left",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395548-readvertising-professor-associate-professor-permanent-dean-5-year-term-part-time-eastern-cape/?jobindex=4",
+      "found_at": "2026-10-25T06:49:40.848816+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Education",
+      "location": "Eastern Cape",
+      "province": "Eastern Cape",
+      "closing_date": "6 November 2026",
+      "salary": "r 2026",
+      "job_type": "Permanent",
+      "requirements": "Professor A PhD in Law with an LLB from a South African University. Where the LLB is not from a South African University, a demonstrable equivalence, coupled with 10 years of relevant experience, where such experience includes: - Extensive teaching at the undergraduate and postgraduate levels, in a university context. Excellent professional track record. Excellent track record of training and mentoring of junior staff. Excellent record of supervision of junior staff. Track record of research productivity, including supervision of Master’s and PhD students to completion. National and established international profile in the discipline. Track record of research productivity. Associate Professor A PhD in Law with an LLB from a South African University. Where the LLB is not from a South African University, a demonstrable equivalence, or, in exceptional circumstances, at least an LLM, preferably with progress being made toward a PhD, coupled with 10 years of relevant experience, where such experience includes: - Considerable teaching at the undergraduate and postgraduate levels, in a university context. Excellent track record of training and mentoring of junior staff. Strong record of",
+      "description": "profile and further particulars for further information and ensure that all relevant documentation is submitted. The following documents are required: A comprehensive CV and relevant qualifications which should include the following: - Reasons for leaving your current and previous jobs. Referees who are and/or were your direct line manager, their title, name, designation and contact information which should be at least their contact number and email address. A clear and concise motivation outlining your interest in the position and your suitability in relation to the job requirements. Please attach a separate document containing your motivation letter under the additional document section of the"
+    },
+    {
+      "id": "d4fa9522322052c2",
+      "title": "Cosmetic Frontshop Assistant - Somerset Mall Cape Town Job Type: Permanent Posted: 24 Oct 2026 15 Hours left",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395547-cosmetic-frontshop-assistant-somerset-mall-cape-town/?jobindex=5",
+      "found_at": "2026-10-25T06:49:42.344492+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Cashiers & Retail",
+      "location": "Western Cape",
+      "province": "Western Cape",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "Permanent",
+      "requirements": "",
+      "description": "Ensure that full ranges of products are always on the shelves and neatly presented. Maintain the stock on the shelves to ensure it has not reached its sell by date. Restock merchandise when needed to ensure maximum sales. Be responsible for accurate cash flow. Ensure that all line voids and price changes are approved and signed by a supervisor. Exchange merchandise for customers and accept return goods by customers when authorized to do so. Transact all purchases - receive and processes all payments such as cash, cards, vouchers, coupons, and other payments excepted by Dis-Chem. Restock merchandise when needed to ensure maximum sales. Delivered stock or stock pulled from the storeroom must be stored and packed in the correct space immediately. Ensure the stock on the shelves has not reached sell by dates. Provide friendly, helpful, and courteous assistance and advice to all customers. All out of stock queries from customers must be followed up with the customer service out of stock list. Ensure cash is placed in the drop safe according to Dis-Chem standard operating procedures. Be alert and verify all payments according to Dis-Chem verification procedure. Adhere to Dis-Chem secur"
+    },
+    {
+      "id": "4e46fbc5cb98c0c8",
+      "title": "TVET N6 Internship program | Managed People Solutions | Cape Town Cape Town Job Type: Internship Posted: 24 Oct 2026 60 Days left",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395546-tvet-n6-internship-program-managed-people-solutions-cape-town-cape-town/?jobindex=6",
+      "found_at": "2026-10-25T06:49:42.716631+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Cashiers & Retail",
+      "location": "Western Cape",
+      "province": "Western Cape",
+      "closing_date": "",
+      "salary": "r 18",
+      "job_type": "Internship",
+      "requirements": "Check vintage, product quality on the shelf, stock rotation, and price tags Execute merchandising activities as per cycle brief Feedback on customer complaints, queries, and requests Communicate and upkeep knowledge of product and promotions Effectively record merchandising activities Execute calls as per call cycle Advice RSM on out-of-stock products Requirements: Under the age of 28 years old. N6 TVET Certificate Management Assistant Business Management Marketing Management Stipend : R3 500 per month Duration 18 Months Please do not apply if you do not meet the requirements for the position Should you not receive any feedback within 2 weeks after the",
+      "description": "TVET N6 Internship program | Managed People Solutions | Cape Town , Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results TVET N6 Internship program | Managed People Solutions | Cape Town Cape Town Salary: Market Related Job Type: Internship Sectors: General Import & Export Reference: 208964 Apply before Dec 23 2026 | 60 Days left Apply Vacancy Details Employer: Managed People Solutions Managed People Solutions is offering internship opportunities to young, unemployed and ambitious TVET students looking for workplace experience. This opportunity is only open to individuals who have completed their TVET College N6 Certificate (looking to complete their 18-month workplace experience program to apply for N6 Diploma) in Cape Town, Western Cape . About the Programme: We are offering a dynamic 18 Months In"
+    },
+    {
+      "id": "3d99e30acb163759",
+      "title": "Fundraiser Western Cape Job Type: Permanent Posted: 24 Oct 2026 48 Days left",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395545-fundraiser-western-cape/?jobindex=7",
+      "found_at": "2026-10-25T06:49:44.187012+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Education",
+      "location": "Western Cape",
+      "province": "Western Cape",
+      "closing_date": "",
+      "salary": "r 2026",
+      "job_type": "Permanent",
+      "requirements": "Proven experience in fundraising, donor engagement, or a related field. - Strong interpersonal and communication skills, both written and verbal. - Demonstrable ability to write persuasive proposals and reports. - Excellent organisational and project management skills, with the ability to manage multiple priorities. - Proficiency in using fundraising software and CRM tools to track donor engagement and contributions. Preferred Qualifications - Experience in non-profit sector. - Familiarity with grant writing and report submission processes. - Bachelor’s degree in a relevant field such as communications, business, or non-profit management. - Certification in fundraising management or related credentials. Preference will be given to suitably qualified candidates from designated groups in line with our Employment Equity Plan. Applications close 11 December 2026. Start date: 1st February 2027. Apply 1 person has applied for this job. 146 people have viewed this job. Previous Next Similar Jobs Fundraiser Durban Job Type: Permanent Posted 06 Oct 2026 | 42 Days left",
+      "description": "We are seeking a dedicated Fundraiser who will play a pivotal role in securing financial support for our organisation’s initiatives. Your primary focus will be on developing and implementing effective fundraising strategies that engage and inspire potential donors, ensuring sustainable funding for our programmes. Key Responsibilities - Develop and execute comprehensive fundraising proposals to meet the organisation’s financial goals. - Identify, research, and engage potential individual, corporate, and foundation donors. - Cultivate and maintain strong relationships with existing and prospective donors. - Write compelling fundraising proposals and grant applications to secure funding. - Organise fundraising events and campaigns, ensuring effective promotion and execution. - Collaborate with marketing and communications teams to create impactful fundraising materials. - Monitor and report on fundraising performance, adjusting strategies as needed. - Stay informed about sector trends and best practices in fundraising to enhance effectiveness. Requirements - Proven experience in fundraising, donor engagement, or a related field. - Strong interpersonal and communication skills, both w"
+    },
+    {
+      "id": "acf5aa7c0d1a70e3",
+      "title": "Casual Frontshop Assistant (Fixed Term) - Foreshore Cape Town Job Type: Contract Posted: 23 Oct 2026 13 Days left",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395544-casual-frontshop-assistant-fixed-term-foreshore-cape-town/?jobindex=8",
+      "found_at": "2026-10-25T06:49:45.645220+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Cashiers & Retail",
+      "location": "Western Cape",
+      "province": "Western Cape",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "Contract",
+      "requirements": "Essential: Grade 12 – Matric or Senior Certificate 0 – 6 Months Retail work experience Advantageous: 1 Year work experience within Retail Certification in Retail Business Management Job Description: Ensure that full ranges of products are on the shelves at all times and neatly presented. Maintain the stock on the shelves to ensure it has not reached its sell by date. Restock merchandise when needed to ensure maximum sales. All out of stock queries from customers must be followed up on, in line with the customer service out of stock list and ensure they are dealt with in a timeous manner. Ensure delivered stock and/ or stock pulled from the storeroom are stored and packed in the correct space. Ensure merchandise displays, labels and pricing are correct at all times and report all price discrepancies to management. Ensure the storeroom organised, neat and tidy. Keep up to date with new product knowledge to effectively assist customers. Assist with restocking of merchandise and supplies when needed to ensure maximum sales. Assist with back shopping when required. All merchandise must be handled carefully to prevent any losses. Transact all purchases – receive, verify and processes a",
+      "description": "Ensure that full ranges of products are on the shelves at all times and neatly presented. Maintain the stock on the shelves to ensure it has not reached its sell by date. Restock merchandise when needed to ensure maximum sales. All out of stock queries from customers must be followed up on, in line with the customer service out of stock list and ensure they are dealt with in a timeous manner. Ensure delivered stock and/ or stock pulled from the storeroom are stored and packed in the correct space. Ensure merchandise displays, labels and pricing are correct at all times and report all price discrepancies to management. Ensure the storeroom organised, neat and tidy. Keep up to date with new product knowledge to effectively assist customers. Assist with restocking of merchandise and supplies when needed to ensure maximum sales. Assist with back shopping when required. All merchandise must be handled carefully to prevent any losses. Transact all purchases – receive, verify and processes all payments such as cash, cards, vouchers, coupons and any other acceptable payments. Exchange merchandise for customers and accept returned goods by customers when authorised to do so by the Frontsh"
+    },
+    {
+      "id": "4d0bed2ca4b56cb8",
+      "title": "Casual Cashier (Fixed Term) - N1 CIty, Goodwood Cape Town Job Type: Contract Posted: 23 Oct 2026 13 Days left",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395543-casual-cashier-fixed-term-n1-city-goodwood-cape-town/?jobindex=9",
+      "found_at": "2026-10-25T06:49:46.010958+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Cashiers & Retail",
+      "location": "Western Cape",
+      "province": "Western Cape",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "Contract",
+      "requirements": ", or attributes that make them suitable for future job opportunities within Dis-Chem Pharmacies. Purpose of the role: Support customer service at point of sale while ensuring a world-class shopping experience. Record customer transactions on the Dis-Chem operating system according to company policies & standard operating procedures, with zero tolerance toward inaccuracies & elimination of fraud risk Essential: Grade 12 / Matric A minimum of 6 months’ experience cashier/till operations experience Computer literate – MS Office Sound numerical skills Strong command of the English language Basic customer service Willing and able to work retail hours Job Description: Adhere to Dis-Chem’s customer service policies and procedures Establish a professional relationship with customers Report customer complaints and compliments to the Frontline Supervisor, or store management Adhere to the customer turnover hourly rate Be aware of current sales and promotions Ensure colleagues and customers are not exposed to any risk Carry out and manage Dis-Chem 5 star communication principles Be responsible for cash flow Ensure all line voids and price changes are approved and signed off by the supervisor",
+      "description": "Adhere to Dis-Chem’s customer service policies and procedures Establish a professional relationship with customers Report customer complaints and compliments to the Frontline Supervisor, or store management Adhere to the customer turnover hourly rate Be aware of current sales and promotions Ensure colleagues and customers are not exposed to any risk Carry out and manage Dis-Chem 5 star communication principles Be responsible for cash flow Ensure all line voids and price changes are approved and signed off by the supervisor Exchange merchandise for customers and accept returned goods by customers when authorised to do so Transact all purchases – receive and process all payments (cash, bank cards, vouchers, coupons, other forms of payments) accepted by Dis-Chem Process all loyalty cards including those of our accelerator partners (Discovery Health Care, Medihelp Lifestage, Momentum Multiply, Legacy Lifestyle, ABSA Rewards and eBucks) Ensure cash is placed in drop safe according to Dis-Chem’s SOPs Ensure usage of your code and password is restricted to only you; is safe, and is changed regularly Ensure all outgoing stock/items/scripts are scanned and paid for Ensure that all money i"
+    },
+    {
+      "id": "15125eaa151ea87b",
+      "title": "Casual Cashier (Fixed Term) - Haasendal Cape Town Job Type: Contract Posted: 23 Oct 2026 13 Days left REFINE YOUR SEARCH var vsp = {\"startIndex\":0,\"pageIndex\":1,\"pageSize\":10,\"title\":null,\"titles\":nu",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395542-casual-cashier-fixed-term-haasendal-cape-town/?jobindex=10",
+      "found_at": "2026-10-25T06:49:46.403992+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Cashiers & Retail",
+      "location": "Western Cape",
+      "province": "Western Cape",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "Contract",
+      "requirements": ", or attributes that make them suitable for future job opportunities within Dis-Chem Pharmacies. Purpose of the role: Support customer service at point of sale while ensuring a world-class shopping experience. Record customer transactions on the Dis-Chem operating system according to company policies & standard operating procedures, with zero tolerance toward inaccuracies & elimination of fraud risk Essential: Grade 12 / Matric A minimum of 6 months’ experience cashier/till operations experience Computer literate – MS Office Sound numerical skills Strong command of the English language Basic customer service Willing and able to work retail hours Job Description: Adhere to Dis-Chem’s customer service policies and procedures Establish a professional relationship with customers Report customer complaints and compliments to the Frontline Supervisor, or store management Adhere to the customer turnover hourly rate Be aware of current sales and promotions Ensure colleagues and customers are not exposed to any risk Carry out and manage Dis-Chem 5 star communication principles Be responsible for cash flow Ensure all line voids and price changes are approved and signed off by the supervisor",
+      "description": "Adhere to Dis-Chem’s customer service policies and procedures Establish a professional relationship with customers Report customer complaints and compliments to the Frontline Supervisor, or store management Adhere to the customer turnover hourly rate Be aware of current sales and promotions Ensure colleagues and customers are not exposed to any risk Carry out and manage Dis-Chem 5 star communication principles Be responsible for cash flow Ensure all line voids and price changes are approved and signed off by the supervisor Exchange merchandise for customers and accept returned goods by customers when authorised to do so Transact all purchases – receive and process all payments (cash, bank cards, vouchers, coupons, other forms of payments) accepted by Dis-Chem Process all loyalty cards including those of our accelerator partners (Discovery Health Care, Medihelp Lifestage, Momentum Multiply, Legacy Lifestyle, ABSA Rewards and eBucks) Ensure cash is placed in drop safe according to Dis-Chem’s SOPs Ensure usage of your code and password is restricted to only you; is safe, and is changed regularly Ensure all outgoing stock/items/scripts are scanned and paid for Ensure that all money i"
+    },
+    {
+      "id": "ac37917879ccecb1",
+      "title": "Simplify HR , a South African recruitment technology company. For over 20 years, we’ve helped connect job seekers with trusted employers and recruitment agencies across South Africa, making it easier",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://simplify.hr/",
+      "found_at": "2026-10-25T06:49:46.782367+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "Cape Town",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "R650",
+      "job_type": "Contract",
+      "requirements": "of the job. Must-haves and knockouts do the first pass before anyone opens a CV. 03 Interview guides, ready Structured guides and weighted scorecards for each round. Same rubric for every panellist. Brief Senior product designer · R650K · CT hybrid · fintech background a plus AI returns Senior Product Designer We're looking for a senior product designer to lead the redesign of our customer onboarding experience, partnering closely with engineering and growth to own end-to-end flows, from research through to ship. Key responsibilities Own onboarding flows end-to-end, from research to shipped product. Partner with engineering and growth to ship measurable improvements. Raise the bar on craft and mentor designers across the team. In their words People teams who got their afternoons back. \" You have established yourselves as a trusted partner who genuinely understands our business, our people, our values, our purpose, and our talent requirements. Executive Head Human Capital VKB Group \" Their platform has reduced administrative friction, improved data accuracy between systems, and enhanced employee onboarding across our markets. Chief Human Resources Officer Unifi Credit \" The system'",
+      "description": "s One-line brief in. Polished, on-brand JD out. Tuned for SA roles, sectors and seniority. 02 Questionnaires that know the role Built from the requirements of the job. Must-haves and knockouts do the first pass before anyone opens a CV. 03 Interview guides, ready Structured guides and weighted scorecards for each round. Same rubric for every panellist. Brief Senior product designer · R650K · CT hybrid · fintech background a plus AI returns Senior Product Designer We're looking for a senior product designer to lead the redesign of our customer onboarding experience, partnering closely with engineering and growth to own end-to-end flows, from research through to ship. Key responsibilities Own onboarding flows end-to-end, from research to shipped product. Partner with engineering and growth to ship measurable improvements. Raise the bar on craft and mentor designers across the team. In their words People teams who got their afternoons back. \" You have established yourselves as a trusted partner who genuinely understands our business, our people, our values, our purpose, and our talent requirements. Executive Head Human Capital VKB Group \" Their platform has reduced administrative fric"
+    },
+    {
+      "id": "e6534d02a3734e32",
+      "title": "Work For Us",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/now-hiring/646-careers24",
+      "found_at": "2026-10-25T06:49:46.991821+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "Eastern Cape Free State Gauteng KwaZulu",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "R50",
+      "job_type": "",
+      "requirements": "",
+      "description": "Careers24 Jobs and Vacancies - Careers24 We always have fun Founded January, 2006 Industry Advertising Type Corporate Reach National Employees 50 to 99 employees Follow this Company on social media We are all valued contributors I love that the Careers24 team is non-hierarchical, in the sense that everyone's ideas are valued. Innovation is important and each team member's suggestions are taken seriously. Elizabeth Mamacos Head of Content Secret Santa in July 2016 We each picked a name from a hat and spent less than R50 on a gift. Unwrapping our gifts together and finding out who bought what for whom was lots of fun! Media24 40 Heerengracht St Cape Town City Centre Cape Town South Africa 8000 Tel: +27 21 406 2382 Email: sales@careers24.com Website: http://www.careers24.com Team Building 2016 \"Climbing and completing the obstacle course was challenging but with the encouragement of great colleagues, we accomplished a great feat. Also, the team lunch at Dunes in Hout Bay was phenomenal af"
+    },
+    {
+      "id": "18e73a6484140260",
+      "title": "Advertise With Us Quick Links",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://recruiter.careers24.com/",
+      "found_at": "2026-10-25T06:49:47.303516+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "r 6",
+      "job_type": "",
+      "requirements": "",
+      "description": "Recruitment Agencies Join Careers24.com Hire Top Professionals by reaching over 6 million South Africans monthly. Contact us on +27(0)11 877 6245 or email sales@careers24.com Choose from 4 options to best suit your hiring needs Job Advertising Post your job on Careers24 and reach an audience of over a million active jobseekers a month. Get more applications - Create an online job ad post including logo Tap into our database - Ad sent to candidates who match your job ad Get more exposure - Ad distributed to a host of leading online job destinations Get responses real-time - Receive applications immediately in your email inbox Easy application management - Filter candidates with custom questionnaires 1 job ad post: R1 200.00 2 job ad posts: R2 000.00 5 job ad posts: R4 000.00 10 job ad posts: R7 500.00 *excl. VAT Get started now Head Hunting Search our database of over 3 million candidates. Unlimited candidate searches Only pay for the profiles you are interested in Automatic matching of"
+    },
+    {
+      "id": "4670cdff6be2bc77",
+      "title": "Recruiters Directory",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/now-hiring/",
+      "found_at": "2026-10-25T06:49:48.409848+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": "Featured Companies Find jobs at inspiring companies 636 Registered Companies Jobs | Companies | Courses 0-9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Companies Listed under A Home / Companies Hiring Abalobi Solutions ABSA Accenture Accounting and Financial Advisory (Pty) Ltd ACI Adcorp Insights"
+    },
+    {
+      "id": "883ef882a7906250",
+      "title": "Site Map",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/sitemap/",
+      "found_at": "2026-10-25T06:49:48.921986+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
+    },
+    {
+      "id": "cc1369cf7c013995",
+      "title": "Site Terms and Privacy Policy",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/terms/",
+      "found_at": "2026-10-25T06:49:48.924092+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
+    },
+    {
+      "id": "47154b193f9b0fe0",
+      "title": "Widgets",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/widgets/",
+      "found_at": "2026-10-25T06:49:48.928851+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
+    },
+    {
+      "id": "4822f9258c2fa51e",
+      "title": "Recruiter Terms Follow Us",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://recruiter.careers24.com/recruiter-terms",
+      "found_at": "2026-10-25T06:49:48.930827+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
+    },
+    {
+      "id": "218fe6bb4fb15805",
+      "title": "© Careers24. All rights reserved. About Careers24.com Careers24 is part of",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.instagram.com/careers24sa/",
+      "found_at": "2026-10-25T06:49:48.936868+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
+    },
+    {
+      "id": "0fb16c936e0f80fb",
+      "title": "© Careers24. All rights reserved.",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.instagram.com/careers24sa/",
+      "found_at": "2026-10-25T06:49:48.993779+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
+    }
+  ]
 }
