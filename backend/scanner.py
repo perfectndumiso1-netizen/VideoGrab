@@ -87,6 +87,7 @@ def vacancy_signal_count(text, title=""):
 
 def clean_post_title(raw, company=""):
     s = re.sub(r"\s+", " ", str(raw or "")).strip()
+    s = re.split(r"(?i)\s+job type:|\s+posted:|\s+closing date:", s)[0].strip()
     s = re.split(r"\s+[|]\s+|\s+[-–—]\s+(?=[A-Z][A-Za-z& ]{2,30}$)", s)[0].strip()
     if company and s.lower() == company.lower(): return ""
     if s.lower() in JUNK_TITLES or len(s) < 5: return ""
@@ -187,17 +188,37 @@ class TextExtractor(HTMLParser):
         if self._cap == "h1" and data.strip() and not self.h1: self.h1 = data.strip()
         if self._cap == "title" and data.strip(): self.title_tag += data.strip() + " "
 
+def extract_jobposting_ld(raw_html):
+    """schema.org JobPosting JSON-LD - the structured data most job/ATS pages embed.
+    When present it is the authoritative title/company/description for the post."""
+    for block in re.findall(r'<script[^>]+application/ld\+json[^>]*>(.*?)</script>', raw_html, re.S | re.I):
+        try: data = json.loads(html.unescape(block.strip()))
+        except Exception: continue
+        items = data if isinstance(data, list) else data.get("@graph", [data]) if isinstance(data, dict) else []
+        for it in items:
+            if isinstance(it, dict) and "jobposting" in str(it.get("@type", "")).lower():
+                return it
+    return None
+
+def strip_tags(s):
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html.unescape(str(s or "")))).strip()
+
 def page_details(url):
-    """(final_url_after_redirects, visible_text, h1_or_title) for ONE post page."""
+    """(final_url, visible_text, h1_or_title, jobposting_ld_or_None) for ONE post page."""
     final, raw_html = fetch(url)
-    if not raw_html: return final, "", ""
+    if not raw_html: return final, "", "", None
     x = TextExtractor()
     try: x.feed(raw_html)
     except Exception: pass
-    return final, re.sub(r"\s+", " ", " ".join(x.parts)).strip(), (x.h1 or x.title_tag).strip()
+    return final, re.sub(r"\s+", " ", " ".join(x.parts)).strip(), (x.h1 or x.title_tag).strip(), extract_jobposting_ld(raw_html)
 
 def page_text(url):
     return page_details(url)[1]
+
+APPLY_SIGNALS = ["apply now", "apply online", "submit your cv", "submit your application",
+                 "applications close", "closing date", "vacancy ref", "position available",
+                 "we are looking for", "successful candidate", "apply for this", "apply today",
+                 "interested candidates", "suitably qualified"]
 
 def classify(title, text, cfg):
     blob = (title + " " + text[:1500]).lower()
@@ -225,21 +246,30 @@ def extract_field(text, labels, window=1200):
 
 def enrich(job, cfg, fetch_detail=True):
     """Add category/location/closing date/description/requirements from the listing page itself."""
-    text = ""
+    text = ""; ld = None
     if fetch_detail and job.get("apply_url"):
-        final_url, text, heading = page_details(job["apply_url"])
+        final_url, text, heading, ld = page_details(job["apply_url"])
         if final_url and final_url.startswith("http"):
             job["apply_url"] = final_url          # exact URL after redirects
         post_title = clean_post_title(heading, job.get("company", ""))
         if post_title and (len(job["title"]) < 8 or title_sim(post_title, job["title"]) >= 0.35
                            or job["title"].lower() in JUNK_TITLES):
             job["title"] = post_title              # title as advertised on the post itself
+    if ld:
+        # Structured data wins: exact advertised title, real employer, full post text.
+        if ld.get("title"): job["title"] = clean_post_title(ld["title"], job.get("company", "")) or job["title"]
+        org = ld.get("hiringOrganization") or {}
+        if isinstance(org, dict) and org.get("name"): job["company"] = str(org["name"]).strip()
+        if ld.get("description"): text = strip_tags(ld["description"]) + " " + text
+        job["_ld"] = ld; job["_ld_present"] = True
     blob = job["title"] + " " + text
     if text:
         hard, soft = scam_scan(text)
         job["_hard"] = hard
         job["verification"]["warnings"] = sorted(set(job["verification"].get("warnings", []) + soft))
-    job["category"] = classify(job["title"], text, cfg)
+    job["category"] = classify(job["title"], "", cfg)
+    if job["category"] == CATEGORIES_FALLBACK:
+        job["category"] = classify(job["title"], text[:900], cfg)
     job["location"] = ""
     m = re.search(r"(?i)(location|based in| situated in)[:\s]+([A-Z][A-Za-z ]{2,40})", text)
     if m: job["location"] = m.group(2).strip()
@@ -251,10 +281,28 @@ def enrich(job, cfg, fetch_detail=True):
     job["salary"] = sal.group(1).strip() if sal else ""
     jt = re.search(r"(?i)(permanent|contract|temporary|full[- ]time|part[- ]time|learnership|internship)", blob)
     job["job_type"] = jt.group(1).title() if jt else ""
+    if job.get("_ld"):
+        ld = job.pop("_ld")
+        loc = ld.get("jobLocation") or {}
+        if isinstance(loc, list): loc = loc[0] if loc else {}
+        addr = (loc.get("address") or {}) if isinstance(loc, dict) else {}
+        if isinstance(addr, dict):
+            place = ", ".join(x for x in [addr.get("addressLocality", ""), addr.get("addressRegion", "")] if x)
+            if place: job["location"] = place; job["province"] = find_province(place) or job.get("province", "")
+        if ld.get("validThrough"): job["closing_date"] = str(ld["validThrough"])[:10]
+        if ld.get("employmentType"): job["job_type"] = str(ld["employmentType"]).replace("_", " ").title()
+        sal = ld.get("baseSalary") or {}
+        val = (sal.get("value") or {}) if isinstance(sal, dict) else {}
+        if isinstance(val, dict) and val.get("value"): job["salary"] = f"R{val['value']} {val.get('unitText','')}".strip()
+    else:
+        job.pop("_ld", None)
     job["requirements"] = extract_field(text, ["minimum requirements", "requirements", "what you will need", "qualifications", "experience and qualifications", "who we are looking for"])
     desc = extract_field(text, ["job description", "about the role", "about the position", "purpose of the role", "the role", "overview"], 1200)
+    low_text = text.lower()
+    has_apply_signal = bool(job.pop("_ld_present", False)) or any(s in low_text for s in APPLY_SIGNALS) \
+        or bool(re.search(r"\bapply\b", low_text))
     job["exact_post"] = bool(text) and is_exact_post(job.get("apply_url", "")) \
-        and vacancy_signal_count(text, job["title"]) >= 2
+        and vacancy_signal_count(text, job["title"]) >= 2 and has_apply_signal
     if not desc and text and job["exact_post"]:
         desc = text[:1000]   # only slice real post pages, never homepages
     if not job["requirements"] and desc:
