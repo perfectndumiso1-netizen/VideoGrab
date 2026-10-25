@@ -32,8 +32,8 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release create v2.2 dist/SA-Opportunities.apk \
-            --title "SA Opportunities v2.2" \
-            --notes "SA Opportunities v2.2: SA jobs grouped by type (Cashiers, Security, Drivers, Cleaners, Healthcare, Learnerships...), each with title, description, requirements, location and closing date from the official listing. Verified jobs link to the employer's official site. IMPORTANT: uninstall the old app ONE last time before installing v2.2 (the signing key changed to a permanent one). From v2.2 onwards, every new version installs as an UPDATE over the previous one - no more uninstalling, saved jobs stay. Jobs now scan every 15 minutes." \
-          || gh release upload v2.2 dist/SA-Opportunities.apk --clobber
-          echo "Direct download: https://github.com/${{ github.repository }}/releases/download/v2.2/SA-Opportunities.apk"
+          gh release create v2.3 dist/SA-Opportunities.apk \
+            --title "SA Opportunities v2.3" \
+            --notes "SA Opportunities v2.3: job alerts (background notifications for new verified jobs matching your keywords/province), Closing Soon filter with countdown badges, and a New Jobs inbox. Installs as an update over v2.2 - no uninstall needed." \
+          || gh release upload v2.3 dist/SA-Opportunities.apk --clobber
+          echo "Direct download: https://github.com/${{ github.repository }}/releases/download/v2.3/SA-Opportunities.apk"
