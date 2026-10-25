@@ -1,0 +1,32 @@
+[
+  {
+    "id": "upwork-freelancing",
+    "title": "Freelancing on Upwork",
+    "official_url": "https://www.upwork.com/freelanced-jobs/",
+    "category": "Freelancing",
+    "sa_note": "Check the platform's current terms for South African eligibility and payout options before registering.",
+    "cost_note": "Do not pay anyone outside the platform to 'unlock' work. Read the platform's current fee page.",
+    "steps": ["Open the official website (check the spelling in the address bar)", "Tap Sign Up and choose the freelancer option", "Type a clearly fictional demo email on paper first, e.g. demo@example.com - use YOUR real details only when you register yourself", "Complete your profile: skills, photo, rate and a short description", "Browse jobs and send a short, specific proposal"],
+    "warning": "Never pay a client to start a job, and never move payment off-platform for a stranger."
+  },
+  {
+    "id": "fiverr-services",
+    "title": "Selling a service on Fiverr",
+    "official_url": "https://www.fiverr.com/start_selling",
+    "category": "Freelancing",
+    "sa_note": "Check the platform's current terms for South African eligibility and payout options before registering.",
+    "cost_note": "Read the platform's current fee and payout pages before publishing a service.",
+    "steps": ["Open the official website (check the spelling in the address bar)", "Choose Become a Seller / Start Selling", "Use your own real details when YOU register - demo screens in this video use fictional placeholders and are never submitted", "Create one clear service ('gig'): title, price, delivery time, examples of your work", "Deliver on time and ask happy clients for an honest review"],
+    "warning": "Avoid anyone asking you to pay for reviews or to work outside the platform."
+  },
+  {
+    "id": "youtube-channel",
+    "title": "Starting a YouTube channel",
+    "official_url": "https://www.youtube.com/intl/ALL_za/howyoutubeworks/policies/monetization-policies/",
+    "category": "Content creation",
+    "sa_note": "Monetisation has subscriber/watch-time requirements and policy checks - read the official page linked in the description.",
+    "cost_note": "You can start with a phone. Do not buy subscribers or views.",
+    "steps": ["Open the official YouTube monetisation page and read the requirements", "Create your channel around one clear topic you know well", "Post consistently and watch your analytics to see what viewers finish", "Apply for monetisation only when you meet the official requirements"],
+    "warning": "Income is never guaranteed and usually takes time. Anyone selling guaranteed earnings is a red flag."
+  }
+]

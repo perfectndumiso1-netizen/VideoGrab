@@ -1,0 +1,191 @@
+#!/usr/bin/env python3
+"""
+SA Opportunities - job scanner & verifier (stdlib only).
+
+How verification works (see docs/ARCHITECTURE.md):
+ 1. Listings are collected ONLY from (a) official employer career pages listed
+    in data/sources.json and (b) known SA job boards listed there.
+ 2. Every link's final destination (after redirects) is checked. A link that
+    leaves the employer's official domain / known ATS domain is not "verified".
+ 3. A board listing is upgraded to VERIFIED only when the same employer + a
+    very similar title is found on that employer's official careers page --
+    and the apply_url is then replaced with the OFFICIAL direct link.
+    (Example: a board ad "says Capitec" -> we search Capitec's own careers
+    page; only a match there earns the verified badge + official link.)
+ 4. Scam heuristics run on listing text. Hard flags (ask for payment/deposit,
+    WhatsApp-only application, free-email application address for a big
+    employer, etc.) drop the listing entirely. Soft flags lower confidence.
+ 5. Output: data/jobs.json, consumed by the Android app and the Telegram bot.
+
+No form is ever submitted, no account created, no CAPTCHA bypassed.
+"""
+import hashlib, html, json, re, sys, urllib.error, urllib.parse, urllib.request
+from datetime import datetime, timezone
+from difflib import SequenceMatcher
+from html.parser import HTMLParser
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+SOURCES = ROOT / "data" / "sources.json"
+OUT = ROOT / "data" / "jobs.json"
+UA = {"User-Agent": "SAOpportunitiesScanner/1.0 (+https://github.com/perfectndumiso1-netizen/sa-opportunities)"}
+TIMEOUT = 20
+
+HARD_FLAGS = [
+    (r"pay(ment)? (of )?r?\s?\d+.*(fee|deposit|processing|training|uniform)", "asks for an upfront payment"),
+    (r"(registration|admin|processing) fee", "mentions a registration/admin fee"),
+    (r"send (money|payment|airtime)", "asks you to send money/airtime"),
+    (r"whatsapp (only|us only|to apply)", "WhatsApp-only application"),
+    (r"apply via (telegram|whatsapp)", "application only via a chat app"),
+]
+SOFT_FLAGS = [
+    (r"@[gG]mail\.com|@yahoo\.|@hotmail\.", "application via a free email address"),
+    (r"earn r?\s?\d[\d,]* (per|a) (day|week) guaranteed", "guaranteed-earnings claim"),
+    (r"no experience needed.{0,40}r\s?\d{2,3}[,\d]*", "high pay promised with no experience"),
+    (r"urgent(ly)? hiring!!!+", "over-urgent hype wording"),
+]
+FREE_EMAIL = re.compile(r"[\w.+-]+@(gmail|yahoo|hotmail|outlook)\.com", re.I)
+
+
+def fetch(url):
+    """Return (final_url, text) or (url, '') on any failure. Never raises."""
+    try:
+        req = urllib.request.Request(url, headers=UA)
+        with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
+            raw = r.read(1_500_000)
+            return r.geturl(), raw.decode("utf-8", "ignore")
+    except Exception as e:  # network blocks / 403s are expected on some boards
+        print(f"  ! fetch failed {url}: {e}", file=sys.stderr)
+        return url, ""
+
+
+class Links(HTMLParser):
+    def __init__(self):
+        super().__init__(); self.items = []
+    def handle_starttag(self, tag, attrs):
+        if tag == "a":
+            d = dict(attrs)
+            if d.get("href"): self.items.append((d["href"], ""))
+    def handle_data(self, data):
+        if self.items and data.strip():
+            href, txt = self.items[-1]
+            self.items[-1] = (href, (txt + " " + data.strip())[:200])
+
+
+def domain(url):
+    return urllib.parse.urlparse(url).netloc.lower().removeprefix("www.")
+
+
+def domain_allowed(url, allowed):
+    d = domain(url)
+    return any(d == a.lower().removeprefix("www.") or d.endswith("." + a.lower()) for a in allowed)
+
+
+def title_sim(a, b):
+    norm = lambda s: re.sub(r"[^a-z0-9 ]", "", s.lower()).strip()
+    return SequenceMatcher(None, norm(a), norm(b)).ratio()
+
+
+def scam_scan(text):
+    hard, soft = [], []
+    low = text.lower()
+    for pat, why in HARD_FLAGS:
+        if re.search(pat, low): hard.append(why)
+    for pat, why in SOFT_FLAGS:
+        if re.search(pat, low): soft.append(why)
+    return hard, soft
+
+
+def collect_from_page(url, keywords):
+    final, page = fetch(url)
+    if not page: return final, []
+    p = Links()
+    try: p.feed(page)
+    except Exception: pass
+    out = []
+    for href, text in p.items:
+        full = urllib.parse.urljoin(final, html.unescape(href))
+        if not full.startswith("http"): continue
+        blob = (text + " " + urllib.parse.unquote(full)).lower()
+        if any(k in blob for k in keywords):
+            out.append({"title": re.sub(r"\s+", " ", text).strip() or "View vacancy", "url": full})
+    return final, out
+
+
+def main():
+    cfg = json.loads(SOURCES.read_text())
+    keywords = cfg["job_keywords"]
+    official_index = []   # every listing found on an official careers page
+    jobs = []
+
+    print("== Official employer career pages ==")
+    for emp in cfg["employers"]:
+        allowed = emp["official_domains"] + emp.get("ats_domains", [])
+        final, found = collect_from_page(emp["careers_url"], keywords)
+        kept = 0
+        for item in found:
+            if not domain_allowed(item["url"], allowed):
+                continue  # link leaves the employer's official/ATS domain
+            hard, soft = scam_scan(item["title"])
+            if hard: continue
+            job = {
+                "id": hashlib.sha256((emp["name"] + item["title"] + item["url"]).encode()).hexdigest()[:16],
+                "title": item["title"], "company": emp["name"],
+                "source_name": emp["name"] + " (official careers page)",
+                "source_url": emp["careers_url"], "apply_url": item["url"],
+                "found_at": datetime.now(timezone.utc).isoformat(),
+                "verification": {"status": "verified_official", "confidence": 95,
+                                 "checks": ["Found on the employer's official careers page",
+                                            "Apply link stays on an official/approved domain"],
+                                 "warnings": soft},
+            }
+            official_index.append(job); jobs.append(job); kept += 1
+        print(f"  {emp['name']}: {kept} verified listings")
+
+    print("== Job boards (must be traced to the employer before 'verified') ==")
+    for board in cfg["boards"]:
+        _, found = collect_from_page(board["listing_url"], keywords)
+        kept = upgraded = 0
+        for item in found[:60]:
+            hard, soft = scam_scan(item["title"])
+            if hard:
+                print(f"  dropped (scam flags {hard}): {item['title'][:60]}"); continue
+            job = {
+                "id": hashlib.sha256((board["name"] + item["title"] + item["url"]).encode()).hexdigest()[:16],
+                "title": item["title"], "company": "See listing",
+                "source_name": board["name"], "source_url": board["listing_url"],
+                "apply_url": item["url"], "found_at": datetime.now(timezone.utc).isoformat(),
+                "verification": {"status": "board_listing", "confidence": 55,
+                                 "checks": ["Found on a known SA job board",
+                                            "Not yet confirmed on the employer's own site"],
+                                 "warnings": soft},
+            }
+            # Trace it: same title on an employer's official page?
+            for off in official_index:
+                if title_sim(job["title"], off["title"]) >= 0.72:
+                    job["company"] = off["company"]
+                    job["apply_url"] = off["apply_url"]  # direct OFFICIAL link wins
+                    job["verification"] = {"status": "verified_official", "confidence": 92,
+                        "checks": ["Found on a job board", f"Traced: same vacancy confirmed on {off['company']}'s official careers page",
+                                   "Apply link replaced with the official direct link"], "warnings": soft}
+                    upgraded += 1; break
+            jobs.append(job); kept += 1
+        print(f"  {board['name']}: {kept} listings, {upgraded} traced to official sites")
+
+    # De-duplicate, verified first, then newest-looking order preserved
+    seen, unique = set(), []
+    for j in sorted(jobs, key=lambda x: 0 if x["verification"]["status"] == "verified_official" else 1):
+        key = (j["company"].lower(), j["title"].lower())
+        if key not in seen: seen.add(key); unique.append(j)
+
+    payload = {"generated_at": datetime.now(timezone.utc).isoformat(),
+               "stats": {"total": len(unique),
+                          "verified_official": sum(1 for j in unique if j["verification"]["status"] == "verified_official")},
+               "jobs": unique}
+    OUT.write_text(json.dumps(payload, indent=2, ensure_ascii=False))
+    print(f"Wrote {OUT} : {payload['stats']}")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

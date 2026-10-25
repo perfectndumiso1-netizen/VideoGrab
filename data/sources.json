@@ -1,0 +1,17 @@
+{
+  "employers": [
+    {"name": "Capitec Bank", "careers_url": "https://www.capitecbank.co.za/careers/", "official_domains": ["capitecbank.co.za"], "ats_domains": ["capitec.erecruit.co", "erecruit.co"]},
+    {"name": "Standard Bank", "careers_url": "https://www.standardbank.co.za/southafrica/personal/about-us/careers", "official_domains": ["standardbank.co.za"], "ats_domains": ["standardbank.erecruit.co", "erecruit.co", "smartrecruiters.com"]},
+    {"name": "Shoprite Group", "careers_url": "https://www.shopriteholdings.co.za/careers.html", "official_domains": ["shopriteholdings.co.za", "shoprite.co.za"], "ats_domains": ["shoprite.erecruit.co", "erecruit.co"]},
+    {"name": "Clicks Group", "careers_url": "https://clicks.co.za/careers", "official_domains": ["clicks.co.za"], "ats_domains": ["clicks.erecruit.co", "erecruit.co"]},
+    {"name": "Woolworths South Africa", "careers_url": "https://www.woolworthsholdings.co.za/careers/", "official_domains": ["woolworthsholdings.co.za", "woolworths.co.za"], "ats_domains": ["erecruit.co"]},
+    {"name": "South African Police Service", "careers_url": "https://www.saps.gov.za/careers/careers.php", "official_domains": ["saps.gov.za"], "ats_domains": []},
+    {"name": "Department of Public Service and Administration", "careers_url": "https://www.dpsa.gov.za/newsroom/psvc/", "official_domains": ["dpsa.gov.za", "gov.za"], "ats_domains": []}
+  ],
+  "boards": [
+    {"name": "Careers24", "listing_url": "https://www.careers24.com/jobs/lc-south-africa/", "domains": ["careers24.com"]},
+    {"name": "PNet", "listing_url": "https://www.pnet.co.za/jobs/in-south-africa", "domains": ["pnet.co.za"]},
+    {"name": "Indeed South Africa", "listing_url": "https://za.indeed.com/jobs?l=South+Africa", "domains": ["za.indeed.com", "indeed.com"]}
+  ],
+  "job_keywords": ["vacancy", "vacancies", "job", "career", "position", "intern", "learnership", "graduate", "clerk", "assistant", "manager", "consultant", "technician", "driver", "cleaner", "security", "nurse", "teacher", "developer", "engineer", "apply"]
+}

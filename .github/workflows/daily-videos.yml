@@ -1,0 +1,27 @@
+name: Daily silent videos (3 per day)
+on:
+  schedule: [{cron: "0 4 * * *"}]   # batch generated daily; post manually or via your own scheduler
+  workflow_dispatch:
+permissions: {contents: write}
+jobs:
+  videos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-dejavu
+      - run: pip install -r backend/requirements.txt playwright && playwright install --with-deps chromium
+      - run: python3 backend/video/capture_screenshots.py || true
+      - run: python3 backend/video/make_videos.py
+      - uses: actions/upload-artifact@v4
+        with: {name: daily-videos, path: videos/out/*.mp4}
+      - name: Send videos to Telegram for review (approve before posting)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          for f in videos/out/*.mp4; do
+            curl -s -F chat_id="$TELEGRAM_CHAT_ID" -F video=@"$f" \
+              "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendVideo" || true
+          done
