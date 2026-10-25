@@ -6,6 +6,10 @@
         <com.google.android.material.chip.Chip android:id="@+id/chipVerified" style="@style/Widget.Material3.Chip.Filter" android:text="✅ Verified only" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
         <com.google.android.material.chip.Chip android:id="@+id/chipBoard" style="@style/Widget.Material3.Chip.Filter" android:text="Board listings" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
     </com.google.android.material.chip.ChipGroup>
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <Spinner android:id="@+id/spinCategory" android:layout_width="0dp" android:layout_weight="1" android:layout_height="wrap_content"/>
+        <Spinner android:id="@+id/spinProvince" android:layout_width="0dp" android:layout_weight="1" android:layout_height="wrap_content"/>
+    </LinearLayout>
     <TextView android:id="@+id/jobStatus" android:layout_width="match_parent" android:layout_height="wrap_content" android:textColor="@color/text_sub" android:padding="4dp"/>
     <FrameLayout android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
         <androidx.swiperefreshlayout.widget.SwipeRefreshLayout android:id="@+id/swipe" android:layout_width="match_parent" android:layout_height="match_parent">

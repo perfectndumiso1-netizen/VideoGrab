@@ -21,7 +21,8 @@ def main():
     fresh = [j for j in jobs if j["id"] not in seen and j["verification"]["status"] == "verified_official"]
     for j in fresh[:10]:
         badge = "✅ VERIFIED on official site"
-        msg = (f"<b>{j['title']}</b>\n{j['company']}\n{badge} "
+        meta = " • ".join(x for x in [j.get('category',''), j.get('location',''), ("Closes: "+j['closing_date']) if j.get('closing_date') else ""] if x)
+        msg = (f"<b>{j['title']}</b>\n{j['company']}" + (f"\n{meta}" if meta else "") + f"\n{badge} "
                f"(confidence {j['verification']['confidence']}%)\nApply (official link): {j['apply_url']}")
         if send(token, chat, msg): seen.add(j["id"])
     STATE.write_text(json.dumps(sorted(seen)))
