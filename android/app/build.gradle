@@ -4,7 +4,7 @@ android {
     compileSdk 34
     defaultConfig {
         applicationId "za.co.saopportunities.app"
-        minSdk 24; targetSdk 34; versionCode 5; versionName "2.3"
+        minSdk 24; targetSdk 34; versionCode 6; versionName "2.4"
         buildConfigField "String", "JOBS_JSON_URL", "\"https://raw.githubusercontent.com/perfectndumiso1-netizen/VideoGrab/main/data/jobs.json\""
         buildConfigField "String", "OPP_JSON_URL", "\"https://raw.githubusercontent.com/perfectndumiso1-netizen/VideoGrab/main/data/opportunities.json\""
     }

@@ -52,6 +52,46 @@ JUNK_TITLES = {"skip to content", "skip to the content", "careers", "career", "v
                "learn more", "read more", "vacancies", "jobs", "job search", "search jobs",
                "close", "menu", "contact us", "about us", "back", "next", "previous"}
 
+GENERIC_LAST_SEGMENTS = {"careers", "career", "jobs", "job", "vacancies", "vacancy",
+    "got-the-skills", "graduate-opportunities", "top-employer", "working-and-growing-with-us",
+    "early-careers", "students", "students-and-graduates", "working-with-us", "join-us",
+    "join-our-team", "life-at", "about", "about-us", "home", "search", "results"}
+
+def is_exact_post(url):
+    """True only if the URL points at ONE specific vacancy post - never a
+    careers homepage / listing / programme page (user requirement)."""
+    u = urllib.parse.urlparse(url)
+    path = u.path.lower()
+    segs = [s for s in path.split("/") if s]
+    if not segs: return False
+    if re.search(r"vacancies?-\d{4}$", segs[-1]): return False  # yearly listing page
+    q = urllib.parse.parse_qs(u.query.lower())
+    if any(k in q for k in ("jk", "jobid", "job_id", "vacancyid", "vacancy_id",
+                            "positionid", "postingid", "id", "ref", "reference")):
+        return True
+    if segs[-1] in GENERIC_LAST_SEGMENTS and len(segs) <= 2: return False
+    if any(any(ch.isdigit() for ch in s) and len(s) >= 4 for s in segs): return True
+    if len(segs) >= 3: return True
+    last = re.sub(r"\.(html?|php|aspx)$", "", segs[-1])
+    if len(last) >= 25 and "-" in last: return True   # long title slug, e.g. branch-consultant-cape-town-…
+    return False
+
+VACANCY_SIGNALS = ["closing date", "requirements", "qualifications", "responsibilities",
+                   "duties", "experience", "job description", "reference number",
+                   "key performance", "minimum requirement", "apply before", "salary"]
+
+def vacancy_signal_count(text, title=""):
+    low = text.lower(); n = sum(1 for s in VACANCY_SIGNALS if s in low)
+    if title and title.lower()[:25] in low: n += 1
+    return n
+
+def clean_post_title(raw, company=""):
+    s = re.sub(r"\s+", " ", str(raw or "")).strip()
+    s = re.split(r"\s+[|]\s+|\s+[-–—]\s+(?=[A-Z][A-Za-z& ]{2,30}$)", s)[0].strip()
+    if company and s.lower() == company.lower(): return ""
+    if s.lower() in JUNK_TITLES or len(s) < 5: return ""
+    return s[:100]
+
 
 def fetch(url):
     """Return (final_url, text) or (url, '') on any failure. Never raises."""
@@ -135,20 +175,29 @@ PROVINCE_CITIES = {
 class TextExtractor(HTMLParser):
     def __init__(self):
         super().__init__(); self.parts = []; self.skip = 0
+        self.h1 = ""; self.title_tag = ""; self._cap = ""
     def handle_starttag(self, tag, attrs):
         if tag in ("script", "style", "nav", "footer", "header"): self.skip += 1
+        if tag in ("h1", "title"): self._cap = tag
     def handle_endtag(self, tag):
         if tag in ("script", "style", "nav", "footer", "header") and self.skip: self.skip -= 1
+        if tag == self._cap: self._cap = ""
     def handle_data(self, data):
         if not self.skip and data.strip(): self.parts.append(data.strip())
+        if self._cap == "h1" and data.strip() and not self.h1: self.h1 = data.strip()
+        if self._cap == "title" and data.strip(): self.title_tag += data.strip() + " "
 
-def page_text(url):
-    _, raw_html = fetch(url)
-    if not raw_html: return ""
+def page_details(url):
+    """(final_url_after_redirects, visible_text, h1_or_title) for ONE post page."""
+    final, raw_html = fetch(url)
+    if not raw_html: return final, "", ""
     x = TextExtractor()
     try: x.feed(raw_html)
     except Exception: pass
-    return re.sub(r"\s+", " ", " ".join(x.parts)).strip()
+    return final, re.sub(r"\s+", " ", " ".join(x.parts)).strip(), (x.h1 or x.title_tag).strip()
+
+def page_text(url):
+    return page_details(url)[1]
 
 def classify(title, text, cfg):
     blob = (title + " " + text[:1500]).lower()
@@ -178,7 +227,13 @@ def enrich(job, cfg, fetch_detail=True):
     """Add category/location/closing date/description/requirements from the listing page itself."""
     text = ""
     if fetch_detail and job.get("apply_url"):
-        text = page_text(job["apply_url"])
+        final_url, text, heading = page_details(job["apply_url"])
+        if final_url and final_url.startswith("http"):
+            job["apply_url"] = final_url          # exact URL after redirects
+        post_title = clean_post_title(heading, job.get("company", ""))
+        if post_title and (len(job["title"]) < 8 or title_sim(post_title, job["title"]) >= 0.35
+                           or job["title"].lower() in JUNK_TITLES):
+            job["title"] = post_title              # title as advertised on the post itself
     blob = job["title"] + " " + text
     if text:
         hard, soft = scam_scan(text)
@@ -198,11 +253,26 @@ def enrich(job, cfg, fetch_detail=True):
     job["job_type"] = jt.group(1).title() if jt else ""
     job["requirements"] = extract_field(text, ["minimum requirements", "requirements", "what you will need", "qualifications", "experience and qualifications", "who we are looking for"])
     desc = extract_field(text, ["job description", "about the role", "about the position", "purpose of the role", "the role", "overview"], 1200)
-    if not desc and text:
-        # fall back to a cleaned middle slice of the page text
-        desc = text[:1000]
-    job["description"] = desc[:1200]
+    job["exact_post"] = bool(text) and is_exact_post(job.get("apply_url", "")) \
+        and vacancy_signal_count(text, job["title"]) >= 2
+    if not desc and text and job["exact_post"]:
+        desc = text[:1000]   # only slice real post pages, never homepages
+    if not job["requirements"] and desc:
+        low = desc.lower()
+        for kw in ("minimum requirements", "requirements", "qualifications", "experience required"):
+            i = low.find(kw)
+            if i >= 0: job["requirements"] = desc[i + len(kw):].strip(" :-")[:1200]; break
+    job["description"] = desc[:1200] if job["exact_post"] else ""
+    if not job["exact_post"]: job["requirements"] = ""
+    if job["exact_post"]:
+        c = job["verification"].setdefault("checks", [])
+        note = "Apply link opens the exact vacancy post (not a careers homepage)"
+        if note not in c: c.append(note)
     return job
+
+def detail_ok(job):
+    """Publish only listings we could actually read on their exact post."""
+    return bool(job.get("exact_post")) and len(job.get("description", "")) >= 120
 
 
 def main():
@@ -234,6 +304,8 @@ def main():
             }
             enrich(job, cfg)
             if job.pop("_hard", []): continue
+            if not detail_ok(job):
+                print(f"    dropped (not an exact readable post): {job['title'][:50]} -> {job['apply_url'][:70]}"); continue
             official_index.append(job); jobs.append(job); kept += 1
         print(f"  {emp['name']}: {kept} verified listings")
 
@@ -264,8 +336,10 @@ def main():
                         "checks": ["Found on a job board", f"Traced: same vacancy confirmed on {off['company']}'s official careers page",
                                    "Apply link replaced with the official direct link"], "warnings": soft}
                     upgraded += 1; break
-            enrich(job, cfg, fetch_detail=(kept < 25))
+            enrich(job, cfg, fetch_detail=True)
             job.pop("_hard", None)
+            if not detail_ok(job):
+                print(f"  dropped board item (no exact readable post): {job['title'][:50]}"); continue
             jobs.append(job); kept += 1
         print(f"  {board['name']}: {kept} listings, {upgraded} traced to official sites")
 
@@ -278,7 +352,7 @@ def main():
     from collections import Counter
     groups = [{"category": c, "count": n} for c, n in Counter(j.get("category", "Other Jobs") for j in unique).most_common()]
     payload = {"generated_at": datetime.now(timezone.utc).isoformat(),
-               "version": "2.1",
+               "version": "2.4",
                "stats": {"total": len(unique),
                           "verified_official": sum(1 for j in unique if j["verification"]["status"] == "verified_official")},
                "groups": groups,

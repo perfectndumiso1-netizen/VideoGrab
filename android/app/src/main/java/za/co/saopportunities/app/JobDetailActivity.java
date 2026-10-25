@@ -34,7 +34,9 @@ public class JobDetailActivity extends AppCompatActivity {
         s.append("\nSource: ").append(j.sourceName).append("\n\n🚫 Never pay anyone to apply for a job. Real employers do not charge applicants.");
         ((TextView) findViewById(R.id.dBody)).setText(s.toString());
         Button apply = findViewById(R.id.btnApply);
-        apply.setText(j.verified ? "Apply on official site" : "Open listing");
+        apply.setText(j.exactPost
+            ? (j.verified ? "Apply — exact official vacancy post" : "Open — exact vacancy post")
+            : (j.verified ? "Apply on official site" : "Open listing"));
         apply.setOnClickListener(v -> { if (!j.applyUrl.isEmpty()) startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(j.applyUrl))); });
         Button save = findViewById(R.id.btnSave);
         Prefs p = new Prefs(this);
