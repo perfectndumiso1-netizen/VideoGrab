@@ -1,69 +1,37 @@
 {
-  "generated_at": "2026-10-25T09:10:59.138708+00:00",
+  "generated_at": "2026-10-25T09:41:56.287645+00:00",
   "version": "2.4",
   "stats": {
-    "total": 11,
-    "verified_official": 1
+    "total": 10,
+    "verified_official": 0
   },
   "groups": [
     {
-      "category": "IT & Technology",
+      "category": "Engineering & Trades",
       "count": 5
     },
     {
       "category": "Drivers & Logistics",
-      "count": 3
+      "count": 2
     },
     {
-      "category": "Healthcare",
-      "count": 1
+      "category": "IT & Technology",
+      "count": 2
     },
     {
-      "category": "Engineering & Trades",
-      "count": 1
-    },
-    {
-      "category": "Education",
+      "category": "Office & Admin",
       "count": 1
     }
   ],
   "jobs": [
     {
-      "id": "9205de7ba24466b9",
-      "title": "Research and Human Research Ethics Committee",
-      "company": "Life Healthcare",
-      "source_name": "Life Healthcare (official careers page)",
-      "source_url": "https://www.lifehealthcare.co.za/careers/",
-      "apply_url": "https://www.lifehealthcare.co.za/careers/education-and-training/research-and-human-research-ethics-committee/",
-      "found_at": "2026-10-25T09:09:59.723575+00:00",
-      "verification": {
-        "status": "verified_official",
-        "confidence": 95,
-        "checks": [
-          "Found on the employer's official careers page",
-          "Apply link stays on an official/approved domain",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Healthcare",
-      "location": "",
-      "province": "",
-      "closing_date": "",
-      "salary": "",
-      "job_type": "",
-      "requirements": "Additional research and ethics approval forms HREC amendment form HREC closeout form HREC progress report HREC study renewal This website uses cookies to provide necessary site functionality and improve your online experience. By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our communications efforts ELECTRONIC COMMUNICATIONS AND TRANSACTIONS ACT 25 OF 2002 Customize Settings Accept All Cookies × Privacy Preference Centre When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. Allow All Manage",
-      "exact_post": true,
-      "description": "Research & Human Research Ethics Committee | Life Healthcare Research and Human Research Ethics Committee Our Human Research Ethics Committee was established and is accredited in line with the National Health Research Ethics Council since 2016. What is the main role of the committee? To approve research being conducted within Life Healthcare, and to ensure the protection of the company, employees and patients during any study. Click here to view the Life Healthcare Human Research Ethics Committee Terms of Reference , Standard Operating Procedures and the Research Governance Structures . How does it work? Individual functions have been grouped to establish their own Research and Scientific committees that will review the research proposals using expert knowledge, prior to submission to the Human Research Ethics Committee. The Human Research Ethics Committee meets monthly. Please click here for the 2026 HREC submission and meeting dates. For more information about our Human Research Ethi"
-    },
-    {
-      "id": "7c873bb070b3d7c4",
-      "title": "Construction Manager – Mechanical & Electrical Cape Town Job Type: Permanent Posted: 25 Oct 2026 61 Days left",
-      "company": "See listing",
+      "id": "c79e61a5ff8fa7bd",
+      "title": "Head of Sales",
+      "company": "Tumaini Consulting",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395561-construction-manager-mechanical-electrical-cape-town/?jobindex=1",
-      "found_at": "2026-10-25T09:10:24.324989+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395565-head-of-sales-johannesburg/?jobindex=1",
+      "found_at": "2026-10-25T09:41:17.968232+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -74,108 +42,24 @@
         ],
         "warnings": []
       },
-      "category": "IT & Technology",
-      "location": "Gauteng",
+      "category": "Office & Admin",
+      "location": "Johannesburg, Gauteng",
       "province": "Gauteng",
-      "closing_date": "",
-      "salary": "R50 000.00",
-      "job_type": "Permanent",
-      "requirements": ". Key Responsibilities Oversee the installation and commissioning of mechanical and electrical systems on site. Direct contractors, subcontractors, suppliers and installation teams to achieve project deliverables. Guide mechanical and electrical supervisors and monitor site progress. Develop, monitor and update construction programmes, implementing adjustments where necessary. Report programme changes, delays and contractual entitlements to the Project Manager. Prepare regular project progress and site reports. Enforce health and safety requirements, monitor site safety plans and audit subcontractor safety documentation. Ensure method statements and risk assessments are completed and implemented. Maintain quality documentation and ensure compliance with ISO 9001:2015 procedures. Identify construction risks, implement mitigation measures and monitor project costs. Identify opportunities for cost savings without compromising safety or quality. Liaise with client representatives and relevant external stakeholders. Coordinate all site establishment activities. Requirements Matric certificate is essential. A relevant construction or engineering qualification will be advantageous. Demons",
+      "closing_date": "2026-12-24",
+      "salary": "R1065000 YEAR",
+      "job_type": "Full Time",
+      "requirements": "· Matric is essential. · A relevant business, commercial or sales qualification is advantageous. · FAIS compliance is essential, as the incumbent will be required to act as a Key Individual (KI). · At least 5 years' experience managing large sales teams, preferably within a call centre or outbound sales environment. · Proven experience owning and growing revenue and profit performance, rather than solely operational KPIs. · Experience managing a sales operation of comparable scale. · Telesales, financial services or insurance experience is advantageous. · Strong practical knowledge of call centre processes, procedures and reporting. · Highly numerate, analytical and commercially focused. · Demonstrated leadership capability with the ability to lead through other leaders. · Strong performance management, coaching and people-development skills. Should you meet the requirements for this position, please email your updated CV attached to it .jobs@tumaini.co.za , alternatively contact XXX-XXXX or visit our website, www.tumaini.co. Correspondence will only be conducted with short listed candidates. Should you not hear from us within 3 days, please consider your application unsuccessful",
       "exact_post": true,
-      "description": "Construction Manager – Mechanical & Electrical, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Construction Manager – Mechanical & Electrical Cape Town Salary: R50 000.00 - R66 667.00 Per Month Job Type: Permanent Sectors: Engineering Reference: 2395561 Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: MSP Staffing (PTY) LTD Our client is seeking an experienced Construction Manager to oversee the safe, efficient and timely installation and commissioning of mechanical and electrical systems. This role requires a hands-on leader who can coordinate contractors, manage construction programmes, uphold quality standards and ensure projects are delivered in line with contractual requirements. Key Responsibilities Oversee the installation and commissioning of mechanical and elect"
+      "description": "Our client is seeking a commercially driven Head of Sales to take ownership of the performance, profitability and growth of a high-volume Sales Floor. Reporting directly to the Chief Executive Officer, this role is suited to an experienced sales leader... Head of Sales, Johannesburg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Head of Sales Johannesburg Salary: R88 750.00 Per Month Job Type: Permanent Sectors: IT Reference: 2395565 Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: Tumaini Consulting Our client is seeking a commercially driven Head of Sales to take ownership of the performance, profitability and growth of a high-volume Sales Floor. Reporting directly to the Chief Executive Officer, this role is suited to an experienced sales leader who can turn growth targets into prac"
     },
     {
-      "id": "d368fc81261d8609",
-      "title": "Junior Civil Engineer – Dams and Hydraulics Gauteng Job Type: Permanent Posted: 25 Oct 2026 61 Days left",
-      "company": "See listing",
+      "id": "02a88771ed3711db",
+      "title": "Java Engineer",
+      "company": "Tumaini Consulting",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395560-junior-civil-engineer-dams-and-hydraulics-gauteng/?jobindex=2",
-      "found_at": "2026-10-25T09:10:24.731530+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Drivers & Logistics",
-      "location": "Gauteng",
-      "province": "Gauteng",
-      "closing_date": "",
-      "salary": "R25 000.00",
-      "job_type": "Permanent",
-      "requirements": "BSc or BEng degree in Civil Engineering. Minimum of 2 years' postgraduate experience in dams or hydraulics. Basic engineering modelling skills. Working knowledge of AutoCAD and HEC-RAS. Willingness to participate in site visits and hands-on fieldwork. Ability to travel when required. Valid driver's licence. Strong analytical, problem-solving and communication skills. A proactive attitude and willingness to learn from experienced engineers. Only shortlisted candidates will be contacted. Submit your CV to engineering.jobs@mspstaffing.co.za or call XXX-XXXX. Visit our website for more exciting career opportunities: https://mspstaffingza.co/ Apply 10 people have viewed this job. Previous Next About MSP Staffing (PTY) LTD MSP Staffing is a Specialist Recruitment Agency that focuses on the Engineering & Construction, Mining, Finance, Trade & Technical, Supply Chain, Information Technology and Medical and Pharmaceutical sectors. MSP Staffing is dedicated to connecting top talent with opportunities both locally and abroad. With this in mind, our team of seasoned professionals bring a wealth of industry knowledge and a global perspective to the table. We have a deep understanding of the dy",
-      "exact_post": true,
-      "description": "Junior Civil Engineer – Dams and Hydraulics, Gauteng - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Junior Civil Engineer – Dams and Hydraulics Gauteng Salary: R25 000.00 - R41 667.00 Per Month Job Type: Permanent Sectors: Engineering Reference: 2395560 Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: MSP Staffing (PTY) LTD Our client is seeking a motivated Junior Civil Engineer who is eager to develop their technical expertise in dams, hydraulics and civil engineering design. This opportunity offers exposure to practical engineering projects, site inspections, design calculations and collaboration with experienced professionals in a consulting environment. Key Responsibilities Assist with civil engineering design, calculations, modelling and technical analysis. Support the development of engine"
-    },
-    {
-      "id": "bdc6987c6ff37fb4",
-      "title": "Pr Eng Civil Engineer – Bulk Water and Sewer Johannesburg Job Type: Permanent Posted: 25 Oct 2026 61 Days left",
-      "company": "See listing",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395559-pr-eng-civil-engineer-bulk-water-and-sewer-johannesburg/?jobindex=3",
-      "found_at": "2026-10-25T09:10:25.053994+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Drivers & Logistics",
-      "location": "Gauteng",
-      "province": "Gauteng",
-      "closing_date": "",
-      "salary": "R83 333.00",
-      "job_type": "Permanent",
-      "requirements": "and quality expectations. Identify opportunities to improve design efficiency through digital engineering tools and technologies. Monitor technical risks and resolve engineering challenges throughout the project lifecycle. Support project management, contract administration and implementation activities. Mentor engineers and contribute to a collaborative, high-performing technical team. Qualifications and Experience BEng or BSc Eng in Civil Engineering. Current ECSA Professional Engineer (Pr Eng) registration. 10–15 years of civil engineering experience, with specific expertise in water and wastewater treatment infrastructure and process design. A track record of managing multidisciplinary water engineering projects. Competence in Revit, Civil 3D, Navisworks and relevant engineering analysis tools. Sound understanding of water-sector legislation, standards and engineering best practices. Strong technical writing, problem-solving, leadership and stakeholder engagement skills. Valid Code B driver's licence and willingness to travel. Beneficial Experience Bulk water pipelines, stormwater systems or water resources projects. Contract management experience. Desalination or effluent reu",
-      "exact_post": true,
-      "description": "Pr Eng Civil Engineer – Bulk Water and Sewer, Johannesburg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Pr Eng Civil Engineer – Bulk Water and Sewer Johannesburg Salary: R83 333.00 - R100 000.00 Per Month Job Type: Permanent Sectors: Engineering Reference: 2395559 Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: MSP Staffing (PTY) LTD Our client is looking for an accomplished Civil Engineer to take technical ownership of water-sector infrastructure projects within a consulting engineering environment. The successful candidate will bring substantial experience in water and wastewater treatment design, strong project delivery capabilities and the ability to work collaboratively with clients and multidisciplinary teams on projects throughout Africa. Key Duties Lead the planning and desi"
-    },
-    {
-      "id": "62828c48ce78e62b",
-      "title": "Interior Architect – Wellness & Hospitality Design Cape Town Job Type: Permanent Posted: 25 Oct 2026 61 Days left",
-      "company": "See listing",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395558-interior-architect-wellness-hospitality-design-cape-town/?jobindex=4",
-      "found_at": "2026-10-25T09:10:25.365661+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Drivers & Logistics",
-      "location": "Gauteng",
-      "province": "Gauteng",
-      "closing_date": "",
-      "salary": "R29 167.00",
-      "job_type": "Permanent",
-      "requirements": "and relevant industry standards. Conduct site visits, oversee construction administration and participate in snagging and quality reviews. Collaborate with clients, hospitality operators, brand partners and multidisciplinary project teams. Mentor junior designers and support the development of wellness design capabilities. Identify business development opportunities among property developers, architectural practices, hotels, resorts and safari lodges. Attend relevant industry events and conferences to build professional networks and promote design services. Requirements SACAP registration. Relevant architectural or interior design qualifications and experience. A strong portfolio of completed spa, wellness or hospitality projects is preferred. Understanding of wellness environments, hydrothermal facilities and hospitality design principles. Ability to balance creative vision with technical feasibility, constructability and operational requirements. Knowledge of building regulations, accessibility standards and sustainable design practices. Strong communication, coordination and client relationship management skills. Ability to contribute to business development and identify new pr",
-      "exact_post": true,
-      "description": "Interior Architect – Wellness & Hospitality Design, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Interior Architect – Wellness & Hospitality Design Cape Town Salary: R29 167.00 - R45 833.00 Per Month Job Type: Permanent Sectors: Engineering Reference: 2395558 Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: MSP Staffing (PTY) LTD Our client is seeking a creative and technically proficient Interior Architect to lead the design and delivery of specialised wellness, spa and hospitality environments. This role combines architectural design leadership, wellness-focused spatial planning and business development, offering the opportunity to shape distinctive spaces that balance luxury, functionality, sustainability and guest experience. Key Responsibilities Lead the design of"
-    },
-    {
-      "id": "ad0a0c447883c43b",
-      "title": "Application Engineer – BESS & Hybrid Power Solutions Cape Town Job Type: Permanent Posted: 25 Oct 2026 61 Days left",
-      "company": "See listing",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395557-application-engineer-bess-hybrid-power-solutions-cape-town/?jobindex=5",
-      "found_at": "2026-10-25T09:10:25.739732+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395564-java-engineer-johannesburg/?jobindex=2",
+      "found_at": "2026-10-25T09:41:18.381409+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -187,23 +71,191 @@
         "warnings": []
       },
       "category": "Engineering & Trades",
-      "location": "Gauteng",
+      "location": "Johannesburg, Gauteng",
       "province": "Gauteng",
-      "closing_date": "",
-      "salary": "R41 667.00",
-      "job_type": "Permanent",
+      "closing_date": "2026-12-24",
+      "salary": "R75000 MONTH",
+      "job_type": "Full Time",
+      "requirements": "· BSc Degree in Computer Science, Software Engineering, or equivalent experience · 5+ years of professional Java development experience · Strong knowledge of Java or Kotlin and object-oriented programming principles · Experience with Spring Boot and the Spring Framework · Experience developing RESTful APIs and microservices · Strong SQL and database design experience using JPA/Hibernate · Experience with Angular · Proficiency in JUnit or similar testing frameworks Should you meet the requirements for this position, please email your updated CV attached to it .jobs@tumaini.co.za , alternatively contact XXX-XXXX or visit our website, www.tumaini.co. Correspondence will only be conducted with short listed candidates. Should you not hear from us within 3 days, please consider your application unsuccessful. Apply 2 people have viewed this job. Previous Next About Tumaini Consulting Tumaini Consulting is a Recruitment and Staffing agency that focuses on the placement of people on a permanent or contract basis, in both the public and private sectors. Our core areas of expertise lie in the Engineering, Finance, IT, Medical, Trade & Technical, Mining and Logistics sectors. At Tumaini Cons",
+      "exact_post": true,
+      "description": "Our client is seeking an experienced Java Engineer to join a collaborative software engineering team delivering innovative, cloud-ready solutions. This is an exciting opportunity for a passionate developer who enjoys solving complex technical challenge... Java Engineer, Johannesburg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Java Engineer Johannesburg Salary: R75 000.00 Per Month Job Type: Permanent Sectors: IT Reference: Java Engineer Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: Tumaini Consulting Our client is seeking an experienced Java Engineer to join a collaborative software engineering team delivering innovative, cloud-ready solutions. This is an exciting opportunity for a passionate developer who enjoys solving complex technical challenges, contributing to architecture "
+    },
+    {
+      "id": "20b9879a3f6889a1",
+      "title": "Project Manager",
+      "company": "Tumaini Consulting",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395562-project-manager-cape-town/?jobindex=3",
+      "found_at": "2026-10-25T09:41:18.815928+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Drivers & Logistics",
+      "location": "Cape Town, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-12-24",
+      "salary": "R50000 MONTH",
+      "job_type": "Full Time",
+      "requirements": ". The successful candidate will bring a minimum of six years' project man... Project Manager, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Project Manager Cape Town Salary: R50 000.00 Per Month Job Type: Permanent Sectors: IT Reference: Project Manager Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: Tumaini Consulting Our client is looking for a capable and results-driven Project Manager to oversee project delivery and ensure that objectives are achieved within agreed timelines and requirements. The successful candidate will bring a minimum of six years' project management experience, strong leadership capabilities, and the confidence to coordinate teams and engage effectively with stakeholders Requirements: · A project management-related certification; the specific certification type is flexible. · Proven experience managing projects from initiation through to completion. · Strong organisational, communication, leadership, and stakeholder management skills. · Exc",
+      "exact_post": true,
+      "description": "Our client is looking for a capable and results-driven Project Manager to oversee project delivery and ensure that objectives are achieved within agreed timelines and requirements. The successful candidate will bring a minimum of six years' project man... Project Manager, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Project Manager Cape Town Salary: R50 000.00 Per Month Job Type: Permanent Sectors: IT Reference: Project Manager Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: Tumaini Consulting Our client is looking for a capable and results-driven Project Manager to oversee project delivery and ensure that objectives are achieved within agreed timelines and requirements. The successful candidate will bring a minimum of six years' project management experience, strong "
+    },
+    {
+      "id": "e4cfc5c4d4e0dedc",
+      "title": "Construction Manager",
+      "company": "MSP Staffing (PTY) LTD",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395561-construction-manager-mechanical-electrical-cape-town/?jobindex=4",
+      "found_at": "2026-10-25T09:41:20.103020+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "Cape Town, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-12-24",
+      "salary": "R600000 YEAR",
+      "job_type": "Full Time",
+      "requirements": ". Key Responsibilities Oversee the installation and commissioning of mechanical and electrical systems on site. Direct contractors, subcontractors, suppliers and installation teams to achieve project deliverables. Guide mechanical and electrical supervisors and monitor site progress. Develop, monitor and update construction programmes, implementing adjustments where necessary. Report programme changes, delays and contractual entitlements to the Project Manager. Prepare regular project progress and site reports. Enforce health and safety requirements, monitor site safety plans and audit subcontractor safety documentation. Ensure method statements and risk assessments are completed and implemented. Maintain quality documentation and ensure compliance with ISO 9001:2015 procedures. Identify construction risks, implement mitigation measures and monitor project costs. Identify opportunities for cost savings without compromising safety or quality. Liaise with client representatives and relevant external stakeholders. Coordinate all site establishment activities. Requirements Matric certificate is essential. A relevant construction or engineering qualification will be advantageous. Demons",
+      "exact_post": true,
+      "description": "Our client is seeking an experienced Construction Manager to oversee the safe, efficient and timely installation and commissioning of mechanical and electrical systems. This role requires a hands-on leader who can coordinate contractors, manage constru... Construction Manager – Mechanical & Electrical, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Construction Manager – Mechanical & Electrical Cape Town Salary: R50 000.00 - R66 667.00 Per Month Job Type: Permanent Sectors: Engineering Reference: 2395561 Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: MSP Staffing (PTY) LTD Our client is seeking an experienced Construction Manager to oversee the safe, efficient and timely installation and commissioning of mechanical and electrical systems. This role requires a hands-on "
+    },
+    {
+      "id": "df774db3d67913d8",
+      "title": "Junior Civil Engineer",
+      "company": "MSP Staffing (PTY) LTD",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395560-junior-civil-engineer-dams-and-hydraulics-gauteng/?jobindex=5",
+      "found_at": "2026-10-25T09:41:20.529961+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Engineering & Trades",
+      "location": "Gauteng, Gauteng",
+      "province": "Gauteng",
+      "closing_date": "2026-12-24",
+      "salary": "R300000 YEAR",
+      "job_type": "Full Time",
+      "requirements": "BSc or BEng degree in Civil Engineering. Minimum of 2 years' postgraduate experience in dams or hydraulics. Basic engineering modelling skills. Working knowledge of AutoCAD and HEC-RAS. Willingness to participate in site visits and hands-on fieldwork. Ability to travel when required. Valid driver's licence. Strong analytical, problem-solving and communication skills. A proactive attitude and willingness to learn from experienced engineers. Only shortlisted candidates will be contacted. Submit your CV to engineering.jobs@mspstaffing.co.za or call XXX-XXXX. Visit our website for more exciting career opportunities: https://mspstaffingza.co/ Apply 15 people have viewed this job. Previous Next About MSP Staffing (PTY) LTD MSP Staffing is a Specialist Recruitment Agency that focuses on the Engineering & Construction, Mining, Finance, Trade & Technical, Supply Chain, Information Technology and Medical and Pharmaceutical sectors. MSP Staffing is dedicated to connecting top talent with opportunities both locally and abroad. With this in mind, our team of seasoned professionals bring a wealth of industry knowledge and a global perspective to the table. We have a deep understanding of the dy",
+      "exact_post": true,
+      "description": "Our client is seeking a motivated Junior Civil Engineer who is eager to develop their technical expertise in dams, hydraulics and civil engineering design. This opportunity offers exposure to practical engineering projects, site inspections, design cal... Junior Civil Engineer – Dams and Hydraulics, Gauteng - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Junior Civil Engineer – Dams and Hydraulics Gauteng Salary: R25 000.00 - R41 667.00 Per Month Job Type: Permanent Sectors: Engineering Reference: 2395560 Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: MSP Staffing (PTY) LTD Our client is seeking a motivated Junior Civil Engineer who is eager to develop their technical expertise in dams, hydraulics and civil engineering design. This opportunity offers exposure to practical engineering projects, "
+    },
+    {
+      "id": "98fc4717783dad62",
+      "title": "Pr Eng Civil Engineer",
+      "company": "MSP Staffing (PTY) LTD",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395559-pr-eng-civil-engineer-bulk-water-and-sewer-johannesburg/?jobindex=6",
+      "found_at": "2026-10-25T09:41:20.924804+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Engineering & Trades",
+      "location": "Johannesburg, Gauteng",
+      "province": "Gauteng",
+      "closing_date": "2026-12-24",
+      "salary": "R1000000 YEAR",
+      "job_type": "Full Time",
+      "requirements": "and quality expectations. Identify opportunities to improve design efficiency through digital engineering tools and technologies. Monitor technical risks and resolve engineering challenges throughout the project lifecycle. Support project management, contract administration and implementation activities. Mentor engineers and contribute to a collaborative, high-performing technical team. Qualifications and Experience BEng or BSc Eng in Civil Engineering. Current ECSA Professional Engineer (Pr Eng) registration. 10–15 years of civil engineering experience, with specific expertise in water and wastewater treatment infrastructure and process design. A track record of managing multidisciplinary water engineering projects. Competence in Revit, Civil 3D, Navisworks and relevant engineering analysis tools. Sound understanding of water-sector legislation, standards and engineering best practices. Strong technical writing, problem-solving, leadership and stakeholder engagement skills. Valid Code B driver's licence and willingness to travel. Beneficial Experience Bulk water pipelines, stormwater systems or water resources projects. Contract management experience. Desalination or effluent reu",
+      "exact_post": true,
+      "description": "Our client is looking for an accomplished Civil Engineer to take technical ownership of water-sector infrastructure projects within a consulting engineering environment. The successful candidate will bring substantial experience in water and wastewater... Pr Eng Civil Engineer – Bulk Water and Sewer, Johannesburg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Pr Eng Civil Engineer – Bulk Water and Sewer Johannesburg Salary: R83 333.00 - R100 000.00 Per Month Job Type: Permanent Sectors: Engineering Reference: 2395559 Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: MSP Staffing (PTY) LTD Our client is looking for an accomplished Civil Engineer to take technical ownership of water-sector infrastructure projects within a consulting engineering environment. The successful candidate will b"
+    },
+    {
+      "id": "3cf5251a8a84e92b",
+      "title": "Interior Architect",
+      "company": "MSP Staffing (PTY) LTD",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395558-interior-architect-wellness-hospitality-design-cape-town/?jobindex=7",
+      "found_at": "2026-10-25T09:41:21.355043+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Drivers & Logistics",
+      "location": "Cape Town, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-12-24",
+      "salary": "R350000 YEAR",
+      "job_type": "Full Time",
+      "requirements": "and relevant industry standards. Conduct site visits, oversee construction administration and participate in snagging and quality reviews. Collaborate with clients, hospitality operators, brand partners and multidisciplinary project teams. Mentor junior designers and support the development of wellness design capabilities. Identify business development opportunities among property developers, architectural practices, hotels, resorts and safari lodges. Attend relevant industry events and conferences to build professional networks and promote design services. Requirements SACAP registration. Relevant architectural or interior design qualifications and experience. A strong portfolio of completed spa, wellness or hospitality projects is preferred. Understanding of wellness environments, hydrothermal facilities and hospitality design principles. Ability to balance creative vision with technical feasibility, constructability and operational requirements. Knowledge of building regulations, accessibility standards and sustainable design practices. Strong communication, coordination and client relationship management skills. Ability to contribute to business development and identify new pr",
+      "exact_post": true,
+      "description": "Our client is seeking a creative and technically proficient Interior Architect to lead the design and delivery of specialised wellness, spa and hospitality environments. This role combines architectural design leadership, wellness-focused spatial plann... Interior Architect – Wellness & Hospitality Design, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Interior Architect – Wellness & Hospitality Design Cape Town Salary: R29 167.00 - R45 833.00 Per Month Job Type: Permanent Sectors: Engineering Reference: 2395558 Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: MSP Staffing (PTY) LTD Our client is seeking a creative and technically proficient Interior Architect to lead the design and delivery of specialised wellness, spa and hospitality environments. This role combines ar"
+    },
+    {
+      "id": "c352934b7df15a69",
+      "title": "Application Engineer",
+      "company": "MSP Staffing (PTY) LTD",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395557-application-engineer-bess-hybrid-power-solutions-cape-town/?jobindex=8",
+      "found_at": "2026-10-25T09:41:21.761217+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Engineering & Trades",
+      "location": "Cape Town, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-12-24",
+      "salary": "R500000 YEAR",
+      "job_type": "Full Time",
       "requirements": "and provide appropriate system design recommendations. Conduct system sizing, modelling and performance analysis for hybrid PV/BESS applications. Support the integration of battery storage into existing PV installations, assessing risks and proposing suitable technical solutions. Prepare technical specifications, engineering offers, tender documents and project proposals. Assist the sales team with quotations, customer discussions and technically appropriate solution selection. Develop technical sales resources and product value propositions. Evaluate competitor products, identify performance gaps and communicate technical differentiators. Support local engineering services and ensure proposed solutions meet regional requirements and relevant product specifications. Work with project development teams on new and existing project opportunities. Engage with grid operators, regulators, utilities and municipalities on grid connection matters and code compliance. Contribute to industry working groups and maintain awareness of regulatory and technology developments. Participate in customer calls, sales meetings, project discussions and site visits. Maintain clear technical records and s",
       "exact_post": true,
-      "description": "Application Engineer – BESS & Hybrid Power Solutions, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Application Engineer – BESS & Hybrid Power Solutions Cape Town Salary: R41 667.00 - R58 333.00 Per Month Job Type: Permanent Sectors: Engineering Reference: 2395557 Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: MSP Staffing (PTY) LTD Our client is seeking an Application Engineer with strong renewable energy engineering knowledge and a commercial mindset to support the growth of utility-scale battery energy storage and hybrid power solutions. This position offers broad technical involvement, from system modelling and design evaluation to tender preparation, grid compliance and customer engagement. Key Duties Act as a technical specialist for solar PV, BESS and hybrid po"
+      "description": "Our client is seeking an Application Engineer with strong renewable energy engineering knowledge and a commercial mindset to support the growth of utility-scale battery energy storage and hybrid power solutions. This position offers broad technical inv... Application Engineer – BESS & Hybrid Power Solutions, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Application Engineer – BESS & Hybrid Power Solutions Cape Town Salary: R41 667.00 - R58 333.00 Per Month Job Type: Permanent Sectors: Engineering Reference: 2395557 Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: MSP Staffing (PTY) LTD Our client is seeking an Application Engineer with strong renewable energy engineering knowledge and a commercial mindset to support the growth of utility-scale battery energy storage and"
     },
     {
-      "id": "97366cb1348af70c",
-      "title": "Shift Supervisor Cape Town Job Type: Permanent Posted: 25 Oct 2026 61 Days left",
-      "company": "See listing",
+      "id": "0c9f58439bd89ebf",
+      "title": "Shift Supervisor",
+      "company": "Tumaini Consulting",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395556-shift-supervisor-cape-town/?jobindex=6",
-      "found_at": "2026-10-25T09:10:26.122713+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395556-shift-supervisor-cape-town/?jobindex=9",
+      "found_at": "2026-10-25T09:41:22.155671+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -215,51 +267,23 @@
         "warnings": []
       },
       "category": "IT & Technology",
-      "location": "Gauteng",
-      "province": "Gauteng",
-      "closing_date": "",
-      "salary": "R33 333.00",
-      "job_type": "Permanent",
-      "requirements": "Grade 12 Tertiary qualification in mechanical/electrical engineering 5 years’ experience in a similar role Within the pouch making industry Strong technical and product knowledge: stand up pouches, doypacks, heat seal packs etc. Should you meet the requirements for this position, please email your updated CV attached to trade.jobs@tumaini.co.za , alternatively contact the team on 021 551 2621 or visit our website, www.tumaini.co Correspondence will only be conducted with our short-listed candidates. Should you not hear from us within 3 days, please consider your application unsuccessful Apply 28 people have viewed this job. Previous Next About Tumaini Consulting Tumaini Consulting is a Recruitment and Staffing agency that focuses on the placement of people on a permanent or contract basis, in both the public and private sectors. Our core areas of expertise lie in the Engineering, Finance, IT, Medical, Trade & Technical, Mining and Logistics sectors. At Tumaini Consulting our name embodies one of our core philosophies. In Swahili, our name means “Hope” and we believe in the enduring power of hope, a beacon that guides us in every endeavour. In all that we do, we carry the hope fo",
-      "exact_post": true,
-      "description": "Shift Supervisor, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Shift Supervisor Cape Town Salary: R33 333.00 - R41 667.00 Per Month Job Type: Permanent Sectors: Manufacturing Reference: 2395556 Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: Tumaini Consulting Are you a natural-born leader who can keep production running smoothly, motivate a team through a busy shift and spot a problem before it turns into a full-blown production drama? Do you know how to turn production targets into achievements and keep quality standards firmly in the bag? We’re looking for a hands-on, energetic Shift Supervisor to join a pouch manufacturing operation in Gauteng. This is your chance to take charge of the production floor, lead from the front and make sure every shift delivers on saf"
-    },
-    {
-      "id": "b1797fba6b7d495e",
-      "title": "Process Artisan Cape Town Job Type: Permanent Posted: 25 Oct 2026 61 Days left",
-      "company": "See listing",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395555-process-artisan-cape-town/?jobindex=7",
-      "found_at": "2026-10-25T09:10:26.499431+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "IT & Technology",
-      "location": "Western Cape",
+      "location": "Cape Town, Western Cape",
       "province": "Western Cape",
-      "closing_date": "",
-      "salary": "R33 333.00",
-      "job_type": "Permanent",
-      "requirements": "Matric Trade Test Electrician 5 years’ experience as a process Artisan with experience on bottling Equipment Candidates must be willing to relocate at their own cost Should you meet the requirements for this position, please email your updated CV attached to trade.jobs@tumaini.co.za , alternatively contact the team on 021 551 2621 or visit our website, www.tumaini.co Correspondence will only be conducted with our short-listed candidates. Should you not hear from us within 3 days, please consider your application unsuccessful. Apply 1 person has applied for this job. 23 people have viewed this job. Previous Next About Tumaini Consulting Tumaini Consulting is a Recruitment and Staffing agency that focuses on the placement of people on a permanent or contract basis, in both the public and private sectors. Our core areas of expertise lie in the Engineering, Finance, IT, Medical, Trade & Technical, Mining and Logistics sectors. At Tumaini Consulting our name embodies one of our core philosophies. In Swahili, our name means “Hope” and we believe in the enduring power of hope, a beacon that guides us in every endeavour. In all that we do, we carry the hope for a brighter tomorrow, the",
+      "closing_date": "2026-12-24",
+      "salary": "R400000 YEAR",
+      "job_type": "Full Time",
+      "requirements": "Grade 12 Tertiary qualification in mechanical/electrical engineering 5 years’ experience in a similar role Within the pouch making industry Strong technical and product knowledge: stand up pouches, doypacks, heat seal packs etc. Should you meet the requirements for this position, please email your updated CV attached to trade.jobs@tumaini.co.za , alternatively contact the team on 021 551 2621 or visit our website, www.tumaini.co Correspondence will only be conducted with our short-listed candidates. Should you not hear from us within 3 days, please consider your application unsuccessful Apply 35 people have viewed this job. Previous Next About Tumaini Consulting Tumaini Consulting is a Recruitment and Staffing agency that focuses on the placement of people on a permanent or contract basis, in both the public and private sectors. Our core areas of expertise lie in the Engineering, Finance, IT, Medical, Trade & Technical, Mining and Logistics sectors. At Tumaini Consulting our name embodies one of our core philosophies. In Swahili, our name means “Hope” and we believe in the enduring power of hope, a beacon that guides us in every endeavour. In all that we do, we carry the hope fo",
       "exact_post": true,
-      "description": "Process Artisan, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Process Artisan Cape Town Salary: R33 333.00 - R41 667.00 Per Month Job Type: Permanent Sectors: Manufacturing Reference: 2395555 Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: Tumaini Consulting We’re looking for a technically minded, hands-on Process Artisan to join a beverage manufacturing team in the Eastern Cape. If you enjoy working with processing equipment, fine-tuning production processes and making sure every batch hits the mark, this could be your next big career move! Minimum Requirements : Matric Trade Test Electrician 5 years’ experience as a process Artisan with experience on bottling Equipment Candidates must be willing to relocate at their own cost Should you meet the requirements for this"
+      "description": "Are you a natural-born leader who can keep production running smoothly, motivate a team through a busy shift and spot a problem before it turns into a full-blown production drama? Do you know how to turn production targets into achievements and keep qu... Shift Supervisor, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Shift Supervisor Cape Town Salary: R33 333.00 - R41 667.00 Per Month Job Type: Permanent Sectors: Manufacturing Reference: 2395556 Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: Tumaini Consulting Are you a natural-born leader who can keep production running smoothly, motivate a team through a busy shift and spot a problem before it turns into a full-blown production drama? Do you know how to turn production targets into achievements and keep quality sta"
     },
     {
-      "id": "d5ce59018b91ad50",
-      "title": "Fitter and Turner",
-      "company": "See listing",
+      "id": "72bd276f8c9e102c",
+      "title": "Process Artisan",
+      "company": "Tumaini Consulting",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395554-fitter-and-turner-cape-town/?jobindex=8",
-      "found_at": "2026-10-25T09:10:26.835253+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395555-process-artisan-cape-town/?jobindex=10",
+      "found_at": "2026-10-25T09:41:22.616272+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -270,71 +294,15 @@
         ],
         "warnings": []
       },
-      "category": "IT & Technology",
-      "location": "Western Cape",
+      "category": "Engineering & Trades",
+      "location": "Cape Town, Western Cape",
       "province": "Western Cape",
-      "closing_date": "",
-      "salary": "R33 333.00",
-      "job_type": "Permanent",
-      "requirements": "Matric Trade Tested Fitter and Turner National Diploma in Mechanical Engineering 10 years’ experience POST APPRENTICESHIP, with a minimum of 5 years’ experience in and injection moulding plastic factory Candidates MUST be residing in the Western Cape Should you meet the requirements for this position, please email your updated CV attached to trade.jobs@tumaini.co.za , alternatively contact the team on 021 551 2621 or visit our website, www.tumaini.co Correspondence will only be conducted with our short-listed candidates. Should you not hear from us within 3 days, please consider your application unsuccessful Apply 24 people have viewed this job. Previous Next About Tumaini Consulting Tumaini Consulting is a Recruitment and Staffing agency that focuses on the placement of people on a permanent or contract basis, in both the public and private sectors. Our core areas of expertise lie in the Engineering, Finance, IT, Medical, Trade & Technical, Mining and Logistics sectors. At Tumaini Consulting our name embodies one of our core philosophies. In Swahili, our name means “Hope” and we believe in the enduring power of hope, a beacon that guides us in every endeavour. In all that we do",
+      "closing_date": "2026-12-24",
+      "salary": "R400000 YEAR",
+      "job_type": "Full Time",
+      "requirements": "Matric Trade Test Electrician 5 years’ experience as a process Artisan with experience on bottling Equipment Candidates must be willing to relocate at their own cost Should you meet the requirements for this position, please email your updated CV attached to trade.jobs@tumaini.co.za , alternatively contact the team on 021 551 2621 or visit our website, www.tumaini.co Correspondence will only be conducted with our short-listed candidates. Should you not hear from us within 3 days, please consider your application unsuccessful. Apply 1 person has applied for this job. 26 people have viewed this job. Previous Next About Tumaini Consulting Tumaini Consulting is a Recruitment and Staffing agency that focuses on the placement of people on a permanent or contract basis, in both the public and private sectors. Our core areas of expertise lie in the Engineering, Finance, IT, Medical, Trade & Technical, Mining and Logistics sectors. At Tumaini Consulting our name embodies one of our core philosophies. In Swahili, our name means “Hope” and we believe in the enduring power of hope, a beacon that guides us in every endeavour. In all that we do, we carry the hope for a brighter tomorrow, the",
       "exact_post": true,
-      "description": "Fitter and Turner, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Fitter and Turner Cape Town Salary: R33 333.00 - R37 500.00 Per Month Job Type: Permanent Sectors: Manufacturing Reference: 2395554 Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: Tumaini Consulting We’re searching for a skilled, hands-on Fitter and Turner to join a plastic injection moulding manufacturing operation in the Western Cape. We need someone who knows their way around workshop machinery, understands mechanical systems and can keep production equipment running smoothly, because in manufacturing, a machine that isn't moving is a machine that isn't making money! Minimum Requirements : Matric Trade Tested Fitter and Turner National Diploma in Mechanical Engineering 10 years’ experience POST APPRENT"
-    },
-    {
-      "id": "3c7f43fb63d5f400",
-      "title": "Production Manager",
-      "company": "See listing",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395553-production-manager-cape-town/?jobindex=9",
-      "found_at": "2026-10-25T09:10:27.246174+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "IT & Technology",
-      "location": "Gauteng",
-      "province": "Gauteng",
-      "closing_date": "",
-      "salary": "R50 000.00",
-      "job_type": "Permanent",
-      "requirements": "Grade 12 National Diploma Electrical/Mechanical/Chemical Engineering Systems needed: BMS/Syspro/DMS/PowerBI/Plantmaster 10 years' experience in a Similar Role Within a plastic/packaging manufacturing environment Experience with Thermoforming and plastic processing of moulds is Essential Candidates should be able to set and optimise plastic processing machines Should you meet the requirements for this position, please email your updated CV attached to trade.jobs@tumaini.co.za , alternatively contact the team on 021 551 2621 or visit our website, www.tumaini.co Correspondence will only be conducted with our short-listed candidates. Should you not hear from us within 3 days, please consider your application unsuccessful. Apply 1 person has applied for this job. 25 people have viewed this job. Previous Next About Tumaini Consulting Tumaini Consulting is a Recruitment and Staffing agency that focuses on the placement of people on a permanent or contract basis, in both the public and private sectors. Our core areas of expertise lie in the Engineering, Finance, IT, Medical, Trade & Technical, Mining and Logistics sectors. At Tumaini Consulting our name embodies one of our core philosoph",
-      "exact_post": true,
-      "description": "Production Manager, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Production Manager Cape Town Salary: R50 000.00 - R58 333.00 Per Month Job Type: Permanent Sectors: Manufacturing Reference: 2395553 Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: Tumaini Consulting Do you know how to turn a sheet of plastic into a quality product, a production schedule into a well-oiled operation, and a team of operators into a high-performing crew?We're on the hunt for a hands-on, results-driven Production Manager – Thermoforming to take charge of the thermoforming department at a plastic packaging manufacturing plant in Gauteng. This isn't a role for someone who prefers to watch production from the sidelines. We need a manufacturing professional who understands the importance of temp"
-    },
-    {
-      "id": "ab97e45421ccaff4",
-      "title": "Maintenance Manager",
-      "company": "See listing",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395552-maintenance-manager-cape-town/?jobindex=10",
-      "found_at": "2026-10-25T09:10:27.577290+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Education",
-      "location": "Western Cape",
-      "province": "Western Cape",
-      "closing_date": "",
-      "salary": "R75 000.00",
-      "job_type": "Permanent",
-      "requirements": "Grade 12- Trade Test (Electrician, Millwright) National Diploma in Electrical/Mechanical Engineering GMR 2.1 Appointment 10 years’ experience in a similar position Experience with CMMs, RCM/FMEA, TPM and Statutory Compliance Within the plastics/packaging manufacturing industry Strong fault-finding experience (PLC/VSD/SCADA) Should you meet the requirements for this position, please email your updated CV attached to trade.jobs@tumaini.co.za , alternatively contact the team on 021 551 2621 or visit our website, www.tumaini.co Correspondence will only be conducted with our short-listed candidates. Should you not hear from us within 3 days, please consider your application unsuccessful. Apply 19 people have viewed this job. Previous Next About Tumaini Consulting Tumaini Consulting is a Recruitment and Staffing agency that focuses on the placement of people on a permanent or contract basis, in both the public and private sectors. Our core areas of expertise lie in the Engineering, Finance, IT, Medical, Trade & Technical, Mining and Logistics sectors. At Tumaini Consulting our name embodies one of our core philosophies. In Swahili, our name means “Hope” and we believe in the enduring p",
-      "exact_post": true,
-      "description": "Maintenance Manager, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Maintenance Manager Cape Town Salary: R75 000.00 - R83 333.00 Per Month Job Type: Permanent Sectors: Manufacturing Reference: 2395552 Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: Tumaini Consulting Do you keep calm when machines break down and know your way around a spanner, a spreadsheet and a stubborn production line? We're looking for a hands-on, technically strong Maintenance Manager to join a plastic packaging manufacturing operation in the Western Cape. We need someone who can keep machinery running, breakdowns under control and maintenance plans on track, all while ensuring that production keeps moving and the factory doesn't come to a grinding halt. Minimum Requirements: Grade 12- Trade Test "
+      "description": "We’re looking for a technically minded, hands-on Process Artisan to join a beverage manufacturing team in the Eastern Cape. If you enjoy working with processing equipment, fine-tuning production processes and making sure every batch hits the mark, this... Process Artisan, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Process Artisan Cape Town Salary: R33 333.00 - R41 667.00 Per Month Job Type: Permanent Sectors: Manufacturing Reference: 2395555 Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: Tumaini Consulting We’re looking for a technically minded, hands-on Process Artisan to join a beverage manufacturing team in the Eastern Cape. If you enjoy working with processing equipment, fine-tuning production processes and making sure every batch hits the mark, this could be y"
     }
   ]
 }
