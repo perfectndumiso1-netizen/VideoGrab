@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:padding="10dp">
+    <SearchView android:id="@+id/search" android:layout_width="match_parent" android:layout_height="wrap_content" android:queryHint="Search job title or company…"/>
+    <com.google.android.material.chip.ChipGroup android:id="@+id/chips" app:singleSelection="true" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.google.android.material.chip.Chip android:id="@+id/chipAll" style="@style/Widget.Material3.Chip.Filter" android:text="All jobs" android:checked="true" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <com.google.android.material.chip.Chip android:id="@+id/chipVerified" style="@style/Widget.Material3.Chip.Filter" android:text="✅ Verified only" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <com.google.android.material.chip.Chip android:id="@+id/chipBoard" style="@style/Widget.Material3.Chip.Filter" android:text="Board listings" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    </com.google.android.material.chip.ChipGroup>
+    <TextView android:id="@+id/jobStatus" android:layout_width="match_parent" android:layout_height="wrap_content" android:textColor="@color/text_sub" android:padding="4dp"/>
+    <FrameLayout android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+        <androidx.swiperefreshlayout.widget.SwipeRefreshLayout android:id="@+id/swipe" android:layout_width="match_parent" android:layout_height="match_parent">
+            <androidx.recyclerview.widget.RecyclerView android:id="@+id/jobList" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+        <TextView android:id="@+id/jobEmpty" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_gravity="center" android:gravity="center" android:textSize="16sp" android:textColor="@color/text_sub" android:visibility="gone"/>
+    </FrameLayout>
+</LinearLayout>
