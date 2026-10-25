@@ -7,7 +7,7 @@ It reads the published jobs.json, so answers always show verification status."""
 import json, os, time, urllib.request, urllib.parse
 TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 JOBS_URL = os.environ.get("JOBS_JSON_URL",
-    "https://raw.githubusercontent.com/perfectndumiso1-netizen/sa-opportunities/main/data/jobs.json")
+    "https://raw.githubusercontent.com/perfectndumiso1-netizen/VideoGrab/main/data/jobs.json")
 API = f"https://api.telegram.org/bot{TOKEN}"
 
 def call(method, **kw):
