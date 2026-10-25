@@ -20,11 +20,11 @@ jobs:
           fi
           ls "${ANDROID_HOME:-/usr/lib/android-sdk}/platforms"
       - working-directory: android
-        run: gradle assembleDebug --stacktrace
+        run: gradle assembleRelease --stacktrace
       - name: Prepare nicely-named APK
         run: |
           mkdir -p dist
-          cp android/app/build/outputs/apk/debug/app-debug.apk dist/SA-Opportunities.apk
+          cp android/app/build/outputs/apk/release/app-release.apk dist/SA-Opportunities.apk
           ls -lh dist/SA-Opportunities.apk
       - uses: actions/upload-artifact@v4
         with: {name: sa-opportunities-debug-apk, path: dist/SA-Opportunities.apk}
