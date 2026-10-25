@@ -18,7 +18,8 @@ public class JobDetailActivity extends AppCompatActivity {
         meta.append("📂 ").append(j.category);
         if (!j.location.isEmpty()) meta.append("   📍 ").append(j.location);
         if (!j.jobType.isEmpty()) meta.append("   🕐 ").append(j.jobType);
-        if (!j.closingDate.isEmpty()) meta.append("\n⏰ Closing date: ").append(j.closingDate);
+        if (!j.closingDate.isEmpty()) meta.append("\n⏰ Closing date: ").append(j.closingDate)
+            .append(j.closingLabel().isEmpty() ? "" : "  (" + j.closingLabel() + ")");
         if (!j.salary.isEmpty()) meta.append("\n💰 Salary: ").append(j.salary);
         ((TextView) findViewById(R.id.dMeta)).setText(meta.toString());
         StringBuilder s = new StringBuilder();

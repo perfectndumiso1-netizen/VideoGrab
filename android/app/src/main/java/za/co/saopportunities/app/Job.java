@@ -29,6 +29,30 @@ public class Job {
         s = s.replaceAll("(?i)\\s*[-|]\\s*(careers24|pnet|indeed).*$", "");
         return s.length() > 90 ? s.substring(0, 90).trim() + "…" : s;
     }
+    /** Days until closing date, or Long.MIN_VALUE if unknown. */
+    public long daysUntilClosing(){
+        if (closingDate == null || closingDate.isEmpty()) return Long.MIN_VALUE;
+        String s = closingDate.trim();
+        String[] fmts = {"d MMMM yyyy", "yyyy/MM/dd", "dd/MM/yyyy", "d MMM yyyy"};
+        for (String f : fmts){
+            try {
+                java.text.SimpleDateFormat sdf = new java.text.SimpleDateFormat(f, java.util.Locale.ENGLISH);
+                sdf.setLenient(false);
+                long diff = sdf.parse(s).getTime() - System.currentTimeMillis();
+                return Math.floorDiv(diff, 86_400_000L);
+            } catch (Exception ignored){}
+        }
+        return Long.MIN_VALUE;
+    }
+    public boolean closingSoon(){ long d = daysUntilClosing(); return d >= 0 && d <= 3; }
+    public String closingLabel(){
+        long d = daysUntilClosing();
+        if (d == Long.MIN_VALUE) return "";
+        if (d < 0) return "Closed " + (-d) + "d ago";
+        if (d == 0) return "CLOSES TODAY";
+        if (d == 1) return "Closes tomorrow";
+        return "Closes in " + d + " days";
+    }
     public static List<Job> parseJobs(String json){
         List<Job> out = new ArrayList<>();
         try { JSONArray a = new JSONObject(json).optJSONArray("jobs");

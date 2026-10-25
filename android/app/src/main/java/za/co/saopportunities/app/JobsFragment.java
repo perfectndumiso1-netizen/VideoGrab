@@ -3,6 +3,7 @@ import android.os.Bundle; import android.view.*; import android.widget.*;
 import androidx.annotation.*; import androidx.fragment.app.Fragment; import androidx.recyclerview.widget.*;
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 import com.google.android.material.chip.*;
+import android.app.AlertDialog;
 import java.util.*;
 public class JobsFragment extends Fragment {
     private JobAdapter adapter; private TextView status, empty; private SwipeRefreshLayout refresh;
@@ -26,8 +27,9 @@ public class JobsFragment extends Fragment {
         cg.setOnCheckedStateChangeListener((g, ids) -> {
             if (ids.isEmpty()) filter = "all";
             else { int id = ids.get(0);
-                filter = id == R.id.chipVerified ? "verified" : id == R.id.chipBoard ? "board" : "all"; }
+                filter = id == R.id.chipVerified ? "verified" : id == R.id.chipBoard ? "board" : id == R.id.chipClosing ? "closing" : "all"; }
             render(); });
+        v.findViewById(R.id.btnAlerts).setOnClickListener(x -> showAlertsDialog());
         String cached = new Prefs(requireContext()).cachedJobs();
         if (cached != null){ all.clear(); all.addAll(Job.parseJobs(cached)); setupSpinners(); render(); status.setText("Showing saved offline copy — refreshing…"); }
         load(); return v;
@@ -67,6 +69,23 @@ public class JobsFragment extends Fragment {
                 status.setText(all.isEmpty() ? "No connection. Pull down to try again." : "Offline — showing your last downloaded jobs."); render(); }); }
         });
     }
+    private void showAlertsDialog(){
+        Prefs prefs = new Prefs(requireContext());
+        LinearLayout box = new LinearLayout(getContext()); box.setOrientation(LinearLayout.VERTICAL); box.setPadding(40, 20, 40, 0);
+        EditText kw = new EditText(getContext()); kw.setHint("Keywords, comma separated (e.g. capitec, security, learnership)");
+        kw.setText(prefs.alertKeywords()); box.addView(kw);
+        EditText prov = new EditText(getContext()); prov.setHint("Province (optional, e.g. Gauteng)");
+        prov.setText(prefs.alertProvince()); box.addView(prov);
+        TextView note = new TextView(getContext());
+        note.setText("The app checks every ±15 minutes in the background and notifies you about NEW ✅ verified jobs matching these. Leave blank to be alerted about all new verified jobs.");
+        box.addView(note);
+        new AlertDialog.Builder(getContext()).setTitle("🔔 Job alerts").setView(box)
+            .setNegativeButton("Cancel", null)
+            .setPositiveButton("Save alerts", (d, w) -> {
+                prefs.setAlerts(kw.getText().toString(), prov.getText().toString());
+                Toast.makeText(getContext(), "Alerts saved. Allow notifications if Android asks.", Toast.LENGTH_LONG).show();
+            }).show();
+    }
     private void run(Runnable r){ if (getActivity() != null) getActivity().runOnUiThread(r); }
     private void render(){
         if (spinCategory == null) return;
@@ -74,13 +93,17 @@ public class JobsFragment extends Fragment {
         for (Job j : all){
             if ("verified".equals(filter) && !j.verified) continue;
             if ("board".equals(filter) && j.verified) continue;
+            if ("closing".equals(filter) && !j.closingSoon()) continue;
             if (!"All types".equals(category) && !category.equals(j.category)) continue;
             if (!"All provinces".equals(province) && !province.equals(j.province)) continue;
             String hay = (j.title + " " + j.company + " " + j.category + " " + j.location).toLowerCase();
             if (!query.isEmpty() && !hay.contains(query)) continue;
             out.add(j);
         }
-        adapter.setGrouped(out);
+        if ("closing".equals(filter)){
+            out.sort(Comparator.comparingLong(Job::daysUntilClosing));
+            adapter.setItems(out);
+        } else adapter.setGrouped(out);
         empty.setVisibility(out.isEmpty() ? View.VISIBLE : View.GONE);
         if (out.isEmpty()) empty.setText(all.isEmpty()
             ? "No jobs published yet.\nThe scanner runs every 15 minutes, all day.\nPull down to refresh."

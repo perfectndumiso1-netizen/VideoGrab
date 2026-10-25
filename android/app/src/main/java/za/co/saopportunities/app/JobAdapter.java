@@ -34,9 +34,10 @@ public class JobAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
         StringBuilder meta = new StringBuilder();
         if (!j.location.isEmpty()) meta.append("📍 ").append(j.location).append("   ");
         if (!j.jobType.isEmpty()) meta.append(j.jobType).append("   ");
-        if (!j.closingDate.isEmpty()) meta.append("⏰ Closes: ").append(j.closingDate).append("   ");
+        if (!j.closingDate.isEmpty()) meta.append(j.closingSoon() ? "🔴 " : "⏰ ").append(j.closingLabel().isEmpty() ? "Closes: " + j.closingDate : j.closingLabel()).append("   ");
         if (!j.salary.isEmpty()) meta.append("💰 ").append(j.salary);
         h.meta.setText(meta.length() > 0 ? meta.toString().trim() : j.sourceName);
+        h.meta.setTextColor(j.closingSoon() ? 0xFFB00020 : 0xFF5A6B62);
         if (j.verified){ h.badge.setText("✅ VERIFIED — official site"); h.badge.setBackgroundColor(0xFFE0F2E9); }
         else { h.badge.setText("⚠️ BOARD LISTING — not yet traced"); h.badge.setBackgroundColor(0xFFFFF3CD); }
         h.itemView.setOnClickListener(v -> {
