@@ -46,6 +46,12 @@ SOFT_FLAGS = [
 ]
 FREE_EMAIL = re.compile(r"[\w.+-]+@(gmail|yahoo|hotmail|outlook)\.com", re.I)
 
+# Navigation / boilerplate link texts that are not real vacancy titles
+JUNK_TITLES = {"skip to content", "skip to the content", "careers", "career", "view vacancy",
+               "home", "our promise", "our benefits", "our teams", "apply now", "apply",
+               "learn more", "read more", "vacancies", "jobs", "job search", "search jobs",
+               "close", "menu", "contact us", "about us", "back", "next", "previous"}
+
 
 def fetch(url):
     """Return (final_url, text) or (url, '') on any failure. Never raises."""
@@ -106,6 +112,8 @@ def collect_from_page(url, keywords):
     for href, text in p.items:
         full = urllib.parse.urljoin(final, html.unescape(href))
         if not full.startswith("http"): continue
+        clean = re.sub(r"\s+", " ", text).strip()
+        if clean.lower() in JUNK_TITLES or len(clean) < 4: continue
         blob = (text + " " + urllib.parse.unquote(full)).lower()
         if any(k in blob for k in keywords):
             out.append({"title": re.sub(r"\s+", " ", text).strip() or "View vacancy", "url": full})

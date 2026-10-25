@@ -1,0 +1,23 @@
+name: Telegram daily digest
+on:
+  schedule: [{cron: "30 6 * * *"}]   # 08:30 SAST daily summary post
+  workflow_dispatch:
+permissions: {contents: write}
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: python3 backend/telegram_autopost.py --mode digest
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      - run: |
+          git config user.name "sa-opportunities-bot"
+          git config user.email "actions@github.com"
+          git pull --rebase origin "${GITHUB_REF_NAME}" || true
+          git add data/.autopost.json || true
+          git diff --cached --quiet || git commit -m "Telegram digest state"
+          git push

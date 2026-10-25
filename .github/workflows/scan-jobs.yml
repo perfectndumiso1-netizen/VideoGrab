@@ -13,7 +13,8 @@ jobs:
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
       - run: python3 backend/scanner.py
-      - run: python3 backend/telegram_notify.py
+      - name: Autopost new verified jobs to Telegram (grouped by category)
+        run: python3 backend/telegram_autopost.py --mode new
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -21,7 +22,9 @@ jobs:
         run: |
           git config user.name "sa-opportunities-bot"
           git config user.email "actions@github.com"
+          git pull --rebase origin "${GITHUB_REF_NAME}" || true
           git add data/jobs.json
+          git add data/.autopost.json || true
           git add data/.notified.json || true
           git diff --cached --quiet || git commit -m "Update verified SA jobs"
           git push
