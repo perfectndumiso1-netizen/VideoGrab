@@ -29,6 +29,7 @@ public class Job {
     public static String cleanTitle(String t){
         String s = t.replaceAll("\\s+", " ").trim();
         s = s.replaceAll("(?i)\\s*[-|]\\s*(careers24|pnet|indeed).*$", "");
+        s = s.replaceAll("(?i)\\s+job type:.*$|\\s+posted:.*$|\\s+closing date:.*$", "");
         return s.length() > 90 ? s.substring(0, 90).trim() + "…" : s;
     }
     /** Days until closing date, or Long.MIN_VALUE if unknown. */
