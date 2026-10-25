@@ -6,6 +6,7 @@ public class Job {
     public String category = "Other Jobs", location = "", province = "", closingDate = "", salary = "", jobType = "";
     public String description = "", requirements = "";
     public boolean verified; public int confidence;
+    public boolean exactPost = false, exactKnown = false;
     public List<String> checks = new ArrayList<>(), warnings = new ArrayList<>();
     public static Job from(JSONObject o){
         Job j = new Job(); j.raw = o.toString();
@@ -16,6 +17,7 @@ public class Job {
         j.location = o.optString("location", ""); j.province = o.optString("province", "");
         j.closingDate = o.optString("closing_date", ""); j.salary = o.optString("salary", "");
         j.jobType = o.optString("job_type", ""); j.description = o.optString("description", "");
+        j.exactKnown = o.has("exact_post"); j.exactPost = o.optBoolean("exact_post", false);
         j.requirements = o.optString("requirements", "");
         JSONObject v = o.optJSONObject("verification");
         if (v != null){ j.verified = "verified_official".equals(v.optString("status")); j.confidence = v.optInt("confidence");

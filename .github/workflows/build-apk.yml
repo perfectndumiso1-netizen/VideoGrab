@@ -32,8 +32,8 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release create v2.3 dist/SA-Opportunities.apk \
-            --title "SA Opportunities v2.3" \
-            --notes "SA Opportunities v2.3: job alerts (background notifications for new verified jobs matching your keywords/province), Closing Soon filter with countdown badges, and a New Jobs inbox. Installs as an update over v2.2 - no uninstall needed." \
-          || gh release upload v2.3 dist/SA-Opportunities.apk --clobber
-          echo "Direct download: https://github.com/${{ github.repository }}/releases/download/v2.3/SA-Opportunities.apk"
+          gh release create v2.4 dist/SA-Opportunities.apk \
+            --title "SA Opportunities v2.4" \
+            --notes "SA Opportunities v2.4: listing accuracy fix - every job now links to its EXACT vacancy post (never a careers homepage), with the title, description and requirements taken from that post. Listings that cannot be traced to a specific readable post are dropped. Installs as an update over v2.3 - no uninstall needed." \
+          || gh release upload v2.4 dist/SA-Opportunities.apk --clobber
+          echo "Direct download: https://github.com/${{ github.repository }}/releases/download/v2.4/SA-Opportunities.apk"

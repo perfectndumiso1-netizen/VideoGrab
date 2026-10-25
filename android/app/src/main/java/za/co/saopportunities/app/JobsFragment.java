@@ -94,6 +94,7 @@ public class JobsFragment extends Fragment {
             if ("verified".equals(filter) && !j.verified) continue;
             if ("board".equals(filter) && j.verified) continue;
             if ("closing".equals(filter) && !j.closingSoon()) continue;
+            if (j.exactKnown && !j.exactPost) continue;   // never show careers-homepage links as jobs
             if (!"All types".equals(category) && !category.equals(j.category)) continue;
             if (!"All provinces".equals(province) && !province.equals(j.province)) continue;
             String hay = (j.title + " " + j.company + " " + j.category + " " + j.location).toLowerCase();
