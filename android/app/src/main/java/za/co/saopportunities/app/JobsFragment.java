@@ -83,7 +83,7 @@ public class JobsFragment extends Fragment {
         adapter.setGrouped(out);
         empty.setVisibility(out.isEmpty() ? View.VISIBLE : View.GONE);
         if (out.isEmpty()) empty.setText(all.isEmpty()
-            ? "No jobs published yet.\nThe scanner runs at 07:00, 13:00 and 19:00 (SA time).\nPull down to refresh."
+            ? "No jobs published yet.\nThe scanner runs every 15 minutes, all day.\nPull down to refresh."
             : "No jobs match your search/filters.\nTry 'All types' and 'All provinces'.");
     }
 }

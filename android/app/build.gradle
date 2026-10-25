@@ -4,17 +4,29 @@ android {
     compileSdk 34
     defaultConfig {
         applicationId "za.co.saopportunities.app"
-        minSdk 24; targetSdk 34; versionCode 3; versionName "2.1"
+        minSdk 24; targetSdk 34; versionCode 4; versionName "2.2"
         buildConfigField "String", "JOBS_JSON_URL", "\"https://raw.githubusercontent.com/perfectndumiso1-netizen/VideoGrab/main/data/jobs.json\""
         buildConfigField "String", "OPP_JSON_URL", "\"https://raw.githubusercontent.com/perfectndumiso1-netizen/VideoGrab/main/data/opportunities.json\""
+    }
+    // Permanent app signing key (dedicated to this sideloaded app, chosen by the
+    // project owner and committed so EVERY release is signed identically ->
+    // new APKs install as updates over the old app, no uninstall needed).
+    // Keep applicationId + this key + increasing versionCode forever.
+    // Generate a NEW private key before any Play Store release.
+    signingConfigs {
+        releaseSign {
+            storeFile rootProject.file("signing/sa-opportunities.p12")
+            storeType "PKCS12"
+            storePassword "167e97a96990523044f45748bfecdf76547d7da55c6cff61"
+            keyAlias "saopportunities"
+            keyPassword "167e97a96990523044f45748bfecdf76547d7da55c6cff61"
+        }
     }
     buildTypes {
         release {
             minifyEnabled false
             shrinkResources false
-            // Signed with the debug key so this downloadable build installs.
-            // For Play Store, replace with your private release keystore (never commit it).
-            signingConfig signingConfigs.debug
+            signingConfig signingConfigs.releaseSign
         }
         debug { applicationIdSuffix "" }
     }

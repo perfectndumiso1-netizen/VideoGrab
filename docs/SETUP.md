@@ -32,3 +32,6 @@ Commands: `/jobs`, `/verified`, `/help`.
 ## 5. Signing a release APK (later)
 Create a keystore, keep it OUT of GitHub, and add signing config locally.
 Never commit `*.jks`/`*.keystore` (already in .gitignore).
+
+## Updates & signing (v2.2+)
+Every release is signed with the same permanent key (`android/signing/sa-opportunities.p12`, committed by the owner's choice for this sideloaded app) and a higher `versionCode`, so users install new APKs as updates without uninstalling. Generate a new private key before any Play Store release. The job scanner runs every 15 minutes; videos remain 3 per day.
