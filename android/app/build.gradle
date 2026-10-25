@@ -4,10 +4,27 @@ android {
     compileSdk 34
     defaultConfig {
         applicationId "za.co.saopportunities.app"
-        minSdk 24; targetSdk 34; versionCode 1; versionName "1.0"
-        // After you rename the GitHub repo, update this ONE line to its raw jobs.json URL.
+        minSdk 24; targetSdk 34; versionCode 2; versionName "2.0"
         buildConfigField "String", "JOBS_JSON_URL", "\"https://raw.githubusercontent.com/perfectndumiso1-netizen/VideoGrab/main/data/jobs.json\""
+        buildConfigField "String", "OPP_JSON_URL", "\"https://raw.githubusercontent.com/perfectndumiso1-netizen/VideoGrab/main/data/opportunities.json\""
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            shrinkResources false
+            // Signed with the debug key so this downloadable build installs.
+            // For Play Store, replace with your private release keystore (never commit it).
+            signingConfig signingConfigs.debug
+        }
+        debug { applicationIdSuffix "" }
     }
     buildFeatures { buildConfig true }
     compileOptions { sourceCompatibility JavaVersion.VERSION_17; targetCompatibility JavaVersion.VERSION_17 }
+}
+dependencies {
+    implementation "androidx.appcompat:appcompat:1.7.0"
+    implementation "com.google.android.material:material:1.12.0"
+    implementation "androidx.recyclerview:recyclerview:1.3.2"
+    implementation "androidx.swiperefreshlayout:swiperefreshlayout:1.1.0"
+    implementation "androidx.cardview:cardview:1.0.0"
 }
