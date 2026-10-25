@@ -111,6 +111,91 @@ def collect_from_page(url, keywords):
             out.append({"title": re.sub(r"\s+", " ", text).strip() or "View vacancy", "url": full})
     return final, out
 
+CATEGORIES_FALLBACK = "Other Jobs"
+PROVINCE_CITIES = {
+    "Gauteng": ["johannesburg", "pretoria", "germiston", "sandton", "midrand", "roodepoort", "soweto", "benoni", "krugersdorp", "centurion", "gauteng"],
+    "Western Cape": ["cape town", "stellenbosch", "paarl", "george", "worcester", "western cape", "bellville"],
+    "KwaZulu-Natal": ["durban", "pietermaritzburg", "richards bay", "newcastle", "kwazulu-natal", "kzn", "umhlanga"],
+    "Eastern Cape": ["gqeberha", "port elizabeth", "east london", "eastern cape", "makhanda"],
+    "Free State": ["bloemfontein", "free state", "welkom"],
+    "Limpopo": ["polokwane", "limpopo", "tzaneen", "mokopane"],
+    "Mpumalanga": ["mbombela", "nelspruit", "emalahleni", "witbank", "mpumalanga"],
+    "North West": ["rustenburg", "mahikeng", "klerksdorp", "north west"],
+    "Northern Cape": ["kimberley", "upington", "northern cape"],
+}
+
+class TextExtractor(HTMLParser):
+    def __init__(self):
+        super().__init__(); self.parts = []; self.skip = 0
+    def handle_starttag(self, tag, attrs):
+        if tag in ("script", "style", "nav", "footer", "header"): self.skip += 1
+    def handle_endtag(self, tag):
+        if tag in ("script", "style", "nav", "footer", "header") and self.skip: self.skip -= 1
+    def handle_data(self, data):
+        if not self.skip and data.strip(): self.parts.append(data.strip())
+
+def page_text(url):
+    _, raw_html = fetch(url)
+    if not raw_html: return ""
+    x = TextExtractor()
+    try: x.feed(raw_html)
+    except Exception: pass
+    return re.sub(r"\s+", " ", " ".join(x.parts)).strip()
+
+def classify(title, text, cfg):
+    blob = (title + " " + text[:1500]).lower()
+    for cat in cfg.get("categories", []):
+        if any(k in blob for k in cat["keywords"]): return cat["name"]
+    return CATEGORIES_FALLBACK
+
+def find_province(text):
+    low = text.lower()
+    for prov, keys in PROVINCE_CITIES.items():
+        if any(k in low for k in keys): return prov
+    return ""
+
+DATE_RE = r"(\d{1,2}\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{4}|\d{4}/\d{2}/\d{2}|\d{1,2}/\d{1,2}/\d{4})"
+
+def extract_field(text, labels, window=1200):
+    low = text.lower()
+    for lab in labels:
+        i = low.find(lab)
+        if i >= 0:
+            chunk = text[i + len(lab): i + len(lab) + window]
+            chunk = re.split(r"(?i)(how to apply|about (the )?(company|role|position)|benefits|what we offer|application process|closing date)", chunk)[0]
+            return chunk.strip(" :-\u2022\n")[:1400]
+    return ""
+
+def enrich(job, cfg, fetch_detail=True):
+    """Add category/location/closing date/description/requirements from the listing page itself."""
+    text = ""
+    if fetch_detail and job.get("apply_url"):
+        text = page_text(job["apply_url"])
+    blob = job["title"] + " " + text
+    if text:
+        hard, soft = scam_scan(text)
+        job["_hard"] = hard
+        job["verification"]["warnings"] = sorted(set(job["verification"].get("warnings", []) + soft))
+    job["category"] = classify(job["title"], text, cfg)
+    job["location"] = ""
+    m = re.search(r"(?i)(location|based in| situated in)[:\s]+([A-Z][A-Za-z ]{2,40})", text)
+    if m: job["location"] = m.group(2).strip()
+    job["province"] = find_province(blob + " " + job["location"])
+    if not job["location"]: job["location"] = job["province"]
+    cd = re.search(r"(?i)closing date[:\s]*" + DATE_RE, text)
+    job["closing_date"] = cd.group(1) if cd else ""
+    sal = re.search(r"(?i)(R\s?\d[\d ,]*(\.\d{2})?\s?(per month|per annum|p\.a\.|per year|pm)?)", text)
+    job["salary"] = sal.group(1).strip() if sal else ""
+    jt = re.search(r"(?i)(permanent|contract|temporary|full[- ]time|part[- ]time|learnership|internship)", blob)
+    job["job_type"] = jt.group(1).title() if jt else ""
+    job["requirements"] = extract_field(text, ["minimum requirements", "requirements", "what you will need", "qualifications", "experience and qualifications", "who we are looking for"])
+    desc = extract_field(text, ["job description", "about the role", "about the position", "purpose of the role", "the role", "overview"], 1200)
+    if not desc and text:
+        # fall back to a cleaned middle slice of the page text
+        desc = text[:1000]
+    job["description"] = desc[:1200]
+    return job
+
 
 def main():
     cfg = json.loads(SOURCES.read_text())
@@ -139,6 +224,8 @@ def main():
                                             "Apply link stays on an official/approved domain"],
                                  "warnings": soft},
             }
+            enrich(job, cfg)
+            if job.pop("_hard", []): continue
             official_index.append(job); jobs.append(job); kept += 1
         print(f"  {emp['name']}: {kept} verified listings")
 
@@ -169,6 +256,8 @@ def main():
                         "checks": ["Found on a job board", f"Traced: same vacancy confirmed on {off['company']}'s official careers page",
                                    "Apply link replaced with the official direct link"], "warnings": soft}
                     upgraded += 1; break
+            enrich(job, cfg, fetch_detail=(kept < 25))
+            job.pop("_hard", None)
             jobs.append(job); kept += 1
         print(f"  {board['name']}: {kept} listings, {upgraded} traced to official sites")
 
@@ -178,9 +267,13 @@ def main():
         key = (j["company"].lower(), j["title"].lower())
         if key not in seen: seen.add(key); unique.append(j)
 
+    from collections import Counter
+    groups = [{"category": c, "count": n} for c, n in Counter(j.get("category", "Other Jobs") for j in unique).most_common()]
     payload = {"generated_at": datetime.now(timezone.utc).isoformat(),
+               "version": "2.1",
                "stats": {"total": len(unique),
                           "verified_official": sum(1 for j in unique if j["verification"]["status"] == "verified_official")},
+               "groups": groups,
                "jobs": unique}
     OUT.write_text(json.dumps(payload, indent=2, ensure_ascii=False))
     print(f"Wrote {OUT} : {payload['stats']}")

@@ -1,17 +1,458 @@
 {
   "employers": [
-    {"name": "Capitec Bank", "careers_url": "https://www.capitecbank.co.za/careers/", "official_domains": ["capitecbank.co.za"], "ats_domains": ["capitec.erecruit.co", "erecruit.co"]},
-    {"name": "Standard Bank", "careers_url": "https://www.standardbank.co.za/southafrica/personal/about-us/careers", "official_domains": ["standardbank.co.za"], "ats_domains": ["standardbank.erecruit.co", "erecruit.co", "smartrecruiters.com"]},
-    {"name": "Shoprite Group", "careers_url": "https://www.shopriteholdings.co.za/careers.html", "official_domains": ["shopriteholdings.co.za", "shoprite.co.za"], "ats_domains": ["shoprite.erecruit.co", "erecruit.co"]},
-    {"name": "Clicks Group", "careers_url": "https://clicks.co.za/careers", "official_domains": ["clicks.co.za"], "ats_domains": ["clicks.erecruit.co", "erecruit.co"]},
-    {"name": "Woolworths South Africa", "careers_url": "https://www.woolworthsholdings.co.za/careers/", "official_domains": ["woolworthsholdings.co.za", "woolworths.co.za"], "ats_domains": ["erecruit.co"]},
-    {"name": "South African Police Service", "careers_url": "https://www.saps.gov.za/careers/careers.php", "official_domains": ["saps.gov.za"], "ats_domains": []},
-    {"name": "Department of Public Service and Administration", "careers_url": "https://www.dpsa.gov.za/newsroom/psvc/", "official_domains": ["dpsa.gov.za", "gov.za"], "ats_domains": []}
+    {
+      "name": "Capitec Bank",
+      "careers_url": "https://www.capitecbank.co.za/careers/",
+      "official_domains": [
+        "capitecbank.co.za"
+      ],
+      "ats_domains": [
+        "capitec.erecruit.co",
+        "erecruit.co"
+      ]
+    },
+    {
+      "name": "Standard Bank",
+      "careers_url": "https://www.standardbank.co.za/southafrica/personal/about-us/careers",
+      "official_domains": [
+        "standardbank.co.za"
+      ],
+      "ats_domains": [
+        "standardbank.erecruit.co",
+        "erecruit.co",
+        "smartrecruiters.com"
+      ]
+    },
+    {
+      "name": "Shoprite Group",
+      "careers_url": "https://www.shopriteholdings.co.za/careers.html",
+      "official_domains": [
+        "shopriteholdings.co.za",
+        "shoprite.co.za"
+      ],
+      "ats_domains": [
+        "shoprite.erecruit.co",
+        "erecruit.co"
+      ]
+    },
+    {
+      "name": "Clicks Group",
+      "careers_url": "https://clicks.co.za/careers",
+      "official_domains": [
+        "clicks.co.za"
+      ],
+      "ats_domains": [
+        "clicks.erecruit.co",
+        "erecruit.co"
+      ]
+    },
+    {
+      "name": "Woolworths South Africa",
+      "careers_url": "https://www.woolworthsholdings.co.za/careers/",
+      "official_domains": [
+        "woolworthsholdings.co.za",
+        "woolworths.co.za"
+      ],
+      "ats_domains": [
+        "erecruit.co"
+      ]
+    },
+    {
+      "name": "South African Police Service",
+      "careers_url": "https://www.saps.gov.za/careers/careers.php",
+      "official_domains": [
+        "saps.gov.za"
+      ],
+      "ats_domains": []
+    },
+    {
+      "name": "Department of Public Service and Administration",
+      "careers_url": "https://www.dpsa.gov.za/newsroom/psvc/",
+      "official_domains": [
+        "dpsa.gov.za",
+        "gov.za"
+      ],
+      "ats_domains": []
+    },
+    {
+      "name": "First National Bank / FirstRand",
+      "careers_url": "https://www.firstrand.co.za/careers/",
+      "official_domains": [
+        "firstrand.co.za",
+        "fnb.co.za"
+      ],
+      "ats_domains": [
+        "erecruit.co",
+        "firstrand.erecruit.co"
+      ]
+    },
+    {
+      "name": "Absa Group",
+      "careers_url": "https://www.absa.africa/careers/",
+      "official_domains": [
+        "absa.africa",
+        "absa.co.za"
+      ],
+      "ats_domains": [
+        "erecruit.co",
+        "absa.erecruit.co"
+      ]
+    },
+    {
+      "name": "Nedbank",
+      "careers_url": "https://www.nedbank.co.za/content/nedbank/desktop/gt/en/aboutus/careers.html",
+      "official_domains": [
+        "nedbank.co.za"
+      ],
+      "ats_domains": [
+        "erecruit.co",
+        "nedbank.erecruit.co"
+      ]
+    },
+    {
+      "name": "Pick n Pay",
+      "careers_url": "https://www.pnp.co.za/careers",
+      "official_domains": [
+        "pnp.co.za",
+        "picknpay.co.za"
+      ],
+      "ats_domains": [
+        "erecruit.co"
+      ]
+    },
+    {
+      "name": "Mr Price Group",
+      "careers_url": "https://www.mrpricegroup.com/careers/",
+      "official_domains": [
+        "mrpricegroup.com"
+      ],
+      "ats_domains": [
+        "erecruit.co"
+      ]
+    },
+    {
+      "name": "Pepkor",
+      "careers_url": "https://www.pepkor.co.za/careers/",
+      "official_domains": [
+        "pepkor.co.za",
+        "pepstores.com",
+        "ackermans.co.za"
+      ],
+      "ats_domains": [
+        "erecruit.co"
+      ]
+    },
+    {
+      "name": "SPAR South Africa",
+      "careers_url": "https://www.spar.co.za/careers",
+      "official_domains": [
+        "spar.co.za"
+      ],
+      "ats_domains": [
+        "erecruit.co"
+      ]
+    },
+    {
+      "name": "Transnet",
+      "careers_url": "https://www.transnet.net/Careers/",
+      "official_domains": [
+        "transnet.net"
+      ],
+      "ats_domains": [
+        "erecruit.co"
+      ]
+    },
+    {
+      "name": "Eskom",
+      "careers_url": "https://www.eskom.co.za/careers/",
+      "official_domains": [
+        "eskom.co.za"
+      ],
+      "ats_domains": [
+        "erecruit.co"
+      ]
+    },
+    {
+      "name": "Sanlam",
+      "careers_url": "https://www.sanlam.co.za/careers/",
+      "official_domains": [
+        "sanlam.co.za"
+      ],
+      "ats_domains": [
+        "erecruit.co",
+        "smartrecruiters.com"
+      ]
+    },
+    {
+      "name": "Fidelity Services Group (ADT)",
+      "careers_url": "https://fidelity-services.com/careers/",
+      "official_domains": [
+        "fidelity-services.com"
+      ],
+      "ats_domains": [
+        "erecruit.co"
+      ]
+    },
+    {
+      "name": "Netcare",
+      "careers_url": "https://www.netcare.co.za/Careers",
+      "official_domains": [
+        "netcare.co.za"
+      ],
+      "ats_domains": [
+        "erecruit.co"
+      ]
+    },
+    {
+      "name": "Life Healthcare",
+      "careers_url": "https://www.lifehealthcare.co.za/careers/",
+      "official_domains": [
+        "lifehealthcare.co.za"
+      ],
+      "ats_domains": [
+        "erecruit.co"
+      ]
+    },
+    {
+      "name": "City of Cape Town",
+      "careers_url": "https://www.capetown.gov.za/work-and-skills/jobs-and-skills-development",
+      "official_domains": [
+        "capetown.gov.za"
+      ],
+      "ats_domains": [
+        "erecruit.co"
+      ]
+    },
+    {
+      "name": "City of Johannesburg",
+      "careers_url": "https://www.joburg.org.za/work_opportunities/",
+      "official_domains": [
+        "joburg.org.za"
+      ],
+      "ats_domains": []
+    }
   ],
   "boards": [
-    {"name": "Careers24", "listing_url": "https://www.careers24.com/jobs/lc-south-africa/", "domains": ["careers24.com"]},
-    {"name": "PNet", "listing_url": "https://www.pnet.co.za/jobs/in-south-africa", "domains": ["pnet.co.za"]},
-    {"name": "Indeed South Africa", "listing_url": "https://za.indeed.com/jobs?l=South+Africa", "domains": ["za.indeed.com", "indeed.com"]}
+    {
+      "name": "Careers24",
+      "listing_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "domains": [
+        "careers24.com"
+      ]
+    },
+    {
+      "name": "PNet",
+      "listing_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "domains": [
+        "pnet.co.za"
+      ]
+    },
+    {
+      "name": "Indeed South Africa",
+      "listing_url": "https://za.indeed.com/jobs?l=South+Africa",
+      "domains": [
+        "za.indeed.com",
+        "indeed.com"
+      ]
+    }
   ],
-  "job_keywords": ["vacancy", "vacancies", "job", "career", "position", "intern", "learnership", "graduate", "clerk", "assistant", "manager", "consultant", "technician", "driver", "cleaner", "security", "nurse", "teacher", "developer", "engineer", "apply"]
+  "job_keywords": [
+    "vacancy",
+    "vacancies",
+    "job",
+    "career",
+    "position",
+    "intern",
+    "learnership",
+    "graduate",
+    "clerk",
+    "assistant",
+    "manager",
+    "consultant",
+    "technician",
+    "driver",
+    "cleaner",
+    "security",
+    "nurse",
+    "teacher",
+    "developer",
+    "engineer",
+    "apply"
+  ],
+  "categories": [
+    {
+      "name": "Cashiers & Retail",
+      "keywords": [
+        "cashier",
+        "retail",
+        "sales assistant",
+        "shop assistant",
+        "store assistant",
+        "merchandiser",
+        "teller"
+      ]
+    },
+    {
+      "name": "Security",
+      "keywords": [
+        "security officer",
+        "security guard",
+        "guard",
+        "psira",
+        "control room operator"
+      ]
+    },
+    {
+      "name": "Drivers & Logistics",
+      "keywords": [
+        "driver",
+        "code 10",
+        "code 14",
+        "truck",
+        "delivery",
+        "warehouse",
+        "forklift",
+        "logistics",
+        "picker",
+        "packer"
+      ]
+    },
+    {
+      "name": "Cleaners & General Workers",
+      "keywords": [
+        "cleaner",
+        "general worker",
+        "gardener",
+        "laundry",
+        "housekeeping",
+        "cleaning"
+      ]
+    },
+    {
+      "name": "Healthcare",
+      "keywords": [
+        "nurse",
+        "nursing",
+        "pharmacist",
+        "radiographer",
+        "paramedic",
+        "doctor",
+        "healthcare",
+        "care worker"
+      ]
+    },
+    {
+      "name": "Education",
+      "keywords": [
+        "teacher",
+        "educator",
+        "lecturer",
+        "tutor",
+        "education",
+        "principal"
+      ]
+    },
+    {
+      "name": "Office & Admin",
+      "keywords": [
+        "admin",
+        "clerk",
+        "receptionist",
+        "secretary",
+        "office",
+        "data capturer",
+        "call centre",
+        "call center",
+        "customer service"
+      ]
+    },
+    {
+      "name": "Banking & Finance",
+      "keywords": [
+        "bank",
+        "finance",
+        "accountant",
+        "auditor",
+        "financial",
+        "bookkeeper",
+        "credit",
+        "insurance",
+        "consultant (financial"
+      ]
+    },
+    {
+      "name": "IT & Technology",
+      "keywords": [
+        "developer",
+        "software",
+        "it ",
+        "data analyst",
+        "systems",
+        "network",
+        "technician (it",
+        "digital"
+      ]
+    },
+    {
+      "name": "Engineering & Trades",
+      "keywords": [
+        "engineer",
+        "technician",
+        "electrician",
+        "plumber",
+        "welder",
+        "fitter",
+        "millwright",
+        "artisan",
+        "boilermaker"
+      ]
+    },
+    {
+      "name": "Hospitality & Food",
+      "keywords": [
+        "chef",
+        "waiter",
+        "waitress",
+        "bartender",
+        "hospitality",
+        "restaurant",
+        "kitchen",
+        "barista"
+      ]
+    },
+    {
+      "name": "Learnerships & Internships",
+      "keywords": [
+        "learnership",
+        "intern",
+        "internship",
+        "graduate",
+        "student",
+        "trainee",
+        "apprentice"
+      ]
+    },
+    {
+      "name": "Government & Municipal",
+      "keywords": [
+        "government",
+        "municipal",
+        "department of",
+        "saps",
+        "police Constable",
+        "Traffic Officer"
+      ]
+    }
+  ],
+  "provinces": [
+    "Gauteng",
+    "Western Cape",
+    "KwaZulu-Natal",
+    "Eastern Cape",
+    "Free State",
+    "Limpopo",
+    "Mpumalanga",
+    "North West",
+    "Northern Cape"
+  ]
 }

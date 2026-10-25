@@ -14,7 +14,18 @@ public class JobDetailActivity extends AppCompatActivity {
         TextView badge = findViewById(R.id.dBadge);
         badge.setText(j.verified ? "✅ VERIFIED — confirmed on the employer's official website" : "⚠️ BOARD LISTING — not yet traced to the employer. Be careful.");
         badge.setBackgroundColor(j.verified ? 0xFFE0F2E9 : 0xFFFFF3CD);
+        StringBuilder meta = new StringBuilder();
+        meta.append("📂 ").append(j.category);
+        if (!j.location.isEmpty()) meta.append("   📍 ").append(j.location);
+        if (!j.jobType.isEmpty()) meta.append("   🕐 ").append(j.jobType);
+        if (!j.closingDate.isEmpty()) meta.append("\n⏰ Closing date: ").append(j.closingDate);
+        if (!j.salary.isEmpty()) meta.append("\n💰 Salary: ").append(j.salary);
+        ((TextView) findViewById(R.id.dMeta)).setText(meta.toString());
         StringBuilder s = new StringBuilder();
+        if (!j.description.isEmpty()) s.append("📋 JOB DESCRIPTION\n").append(j.description).append("\n\n");
+        if (!j.requirements.isEmpty()) s.append("🎓 REQUIREMENTS\n").append(j.requirements).append("\n\n");
+        if (j.description.isEmpty() && j.requirements.isEmpty())
+            s.append("Full description and requirements are on the employer's page — tap the Apply button below to read them on the official site.\n\n");
         if (j.confidence > 0) s.append("Confidence: ").append(j.confidence).append("%\n\n");
         s.append("Checks done by SA Opportunities:\n");
         for (String c : j.checks) s.append("• ").append(c).append("\n");

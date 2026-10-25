@@ -32,8 +32,8 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release create v2.0 dist/SA-Opportunities.apk \
-            --title "SA Opportunities v2.0" \
-            --notes "SA Opportunities Android app (debug build). Verified SA jobs with official apply links, scam filtering. Install: download SA-Opportunities.apk to your Android phone, open it, and allow 'install unknown apps' for your browser/Files app when asked." \
-          || gh release upload v2.0 dist/SA-Opportunities.apk --clobber
-          echo "Direct download: https://github.com/${{ github.repository }}/releases/download/v2.0/SA-Opportunities.apk"
+          gh release create v2.1 dist/SA-Opportunities.apk \
+            --title "SA Opportunities v2.1" \
+            --notes "SA Opportunities v2.1: SA jobs grouped by type (Cashiers, Security, Drivers, Cleaners, Healthcare, Learnerships...), each with title, description, requirements, location and closing date from the official listing. Verified jobs link to the employer's official site. Install: download SA-Opportunities.apk to your Android phone, open it, and allow 'install unknown apps' for your browser/Files app when asked." \
+          || gh release upload v2.1 dist/SA-Opportunities.apk --clobber
+          echo "Direct download: https://github.com/${{ github.repository }}/releases/download/v2.1/SA-Opportunities.apk"
