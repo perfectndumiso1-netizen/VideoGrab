@@ -1,42 +1,54 @@
 {
-  "generated_at": "2026-10-25T07:32:49.263005+00:00",
+  "generated_at": "2026-10-25T08:04:37.288085+00:00",
   "version": "2.1",
   "stats": {
-    "total": 90,
+    "total": 134,
     "verified_official": 65
   },
   "groups": [
     {
-      "category": "IT & Technology",
-      "count": 20
+      "category": "Other Jobs",
+      "count": 36
     },
     {
-      "category": "Other Jobs",
-      "count": 18
+      "category": "IT & Technology",
+      "count": 28
     },
     {
       "category": "Banking & Finance",
-      "count": 14
-    },
-    {
-      "category": "Cashiers & Retail",
-      "count": 12
+      "count": 23
     },
     {
       "category": "Office & Admin",
-      "count": 9
-    },
-    {
-      "category": "Healthcare",
-      "count": 8
+      "count": 11
     },
     {
       "category": "Drivers & Logistics",
-      "count": 5
+      "count": 10
+    },
+    {
+      "category": "Healthcare",
+      "count": 10
+    },
+    {
+      "category": "Cashiers & Retail",
+      "count": 8
     },
     {
       "category": "Education",
-      "count": 4
+      "count": 5
+    },
+    {
+      "category": "Engineering & Trades",
+      "count": 1
+    },
+    {
+      "category": "Security",
+      "count": 1
+    },
+    {
+      "category": "Cleaners & General Workers",
+      "count": 1
     }
   ],
   "jobs": [
@@ -47,7 +59,7 @@
       "source_name": "Department of Public Service and Administration (official careers page)",
       "source_url": "https://www.dpsa.gov.za/newsroom/psvc/",
       "apply_url": "https://www.dpsa.gov.za/newsroom/psvc/",
-      "found_at": "2026-10-25T07:28:59.581675+00:00",
+      "found_at": "2026-10-25T08:01:00.348232+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -73,7 +85,7 @@
       "source_name": "Department of Public Service and Administration (official careers page)",
       "source_url": "https://www.dpsa.gov.za/newsroom/psvc/",
       "apply_url": "https://www.dpsa.gov.za/newsroom/",
-      "found_at": "2026-10-25T07:29:01.373002+00:00",
+      "found_at": "2026-10-25T08:01:01.715570+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -99,7 +111,7 @@
       "source_name": "Department of Public Service and Administration (official careers page)",
       "source_url": "https://www.dpsa.gov.za/newsroom/psvc/",
       "apply_url": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/editable%20Approved%20New%20Z83%20form%20Gazetted%206%20Nov%202020.pdf",
-      "found_at": "2026-10-25T07:29:03.076017+00:00",
+      "found_at": "2026-10-25T08:01:02.602316+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -125,7 +137,7 @@
       "source_name": "Department of Public Service and Administration (official careers page)",
       "source_url": "https://www.dpsa.gov.za/newsroom/psvc/",
       "apply_url": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/Circular%20%2055%20of%202026.pdf",
-      "found_at": "2026-10-25T07:29:07.309542+00:00",
+      "found_at": "2026-10-25T08:01:06.570533+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -151,7 +163,7 @@
       "source_name": "Department of Public Service and Administration (official careers page)",
       "source_url": "https://www.dpsa.gov.za/newsroom/psvc/",
       "apply_url": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/Year%20Programme%202027.pdf",
-      "found_at": "2026-10-25T07:29:10.257604+00:00",
+      "found_at": "2026-10-25T08:01:09.728287+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -177,7 +189,7 @@
       "source_name": "Department of Public Service and Administration (official careers page)",
       "source_url": "https://www.dpsa.gov.za/newsroom/psvc/",
       "apply_url": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/Year%20Programme%202026.pdf",
-      "found_at": "2026-10-25T07:29:13.713401+00:00",
+      "found_at": "2026-10-25T08:01:11.928400+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -203,7 +215,7 @@
       "source_name": "Department of Public Service and Administration (official careers page)",
       "source_url": "https://www.dpsa.gov.za/newsroom/psvc/",
       "apply_url": "https://www.dpsa.gov.za/dpsa2g/documents/vacancies/Circular%20%2043%20of%202025.pdf",
-      "found_at": "2026-10-25T07:29:15.908980+00:00",
+      "found_at": "2026-10-25T08:01:14.136197+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -229,7 +241,7 @@
       "source_name": "Department of Public Service and Administration (official careers page)",
       "source_url": "https://www.dpsa.gov.za/newsroom/psvc/",
       "apply_url": "https://www.dpsa.gov.za/newsroom/psvc/",
-      "found_at": "2026-10-25T07:29:18.795149+00:00",
+      "found_at": "2026-10-25T08:01:16.519747+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -255,7 +267,7 @@
       "source_name": "First National Bank / FirstRand (official careers page)",
       "source_url": "https://www.firstrand.co.za/careers/",
       "apply_url": "https://www.firstrand.co.za/careers/",
-      "found_at": "2026-10-25T07:29:20.822124+00:00",
+      "found_at": "2026-10-25T08:01:18.604411+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -281,7 +293,7 @@
       "source_name": "First National Bank / FirstRand (official careers page)",
       "source_url": "https://www.firstrand.co.za/careers/",
       "apply_url": "https://www.firstrand.co.za/careers/",
-      "found_at": "2026-10-25T07:29:22.070139+00:00",
+      "found_at": "2026-10-25T08:01:20.104643+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -307,7 +319,7 @@
       "source_name": "First National Bank / FirstRand (official careers page)",
       "source_url": "https://www.firstrand.co.za/careers/",
       "apply_url": "https://www.firstrand.co.za/careers/",
-      "found_at": "2026-10-25T07:29:23.055992+00:00",
+      "found_at": "2026-10-25T08:01:21.388331+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -333,7 +345,7 @@
       "source_name": "First National Bank / FirstRand (official careers page)",
       "source_url": "https://www.firstrand.co.za/careers/",
       "apply_url": "https://www.firstrand.co.za/careers/",
-      "found_at": "2026-10-25T07:29:24.101854+00:00",
+      "found_at": "2026-10-25T08:01:22.637389+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -359,7 +371,7 @@
       "source_name": "First National Bank / FirstRand (official careers page)",
       "source_url": "https://www.firstrand.co.za/careers/",
       "apply_url": "https://www.firstrand.co.za/search.html",
-      "found_at": "2026-10-25T07:29:25.373157+00:00",
+      "found_at": "2026-10-25T08:01:23.897965+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -385,7 +397,7 @@
       "source_name": "First National Bank / FirstRand (official careers page)",
       "source_url": "https://www.firstrand.co.za/careers/",
       "apply_url": "https://www.firstrand.co.za/careers/",
-      "found_at": "2026-10-25T07:29:27.095605+00:00",
+      "found_at": "2026-10-25T08:01:26.343557+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -411,7 +423,7 @@
       "source_name": "Absa Group (official careers page)",
       "source_url": "https://www.absa.africa/careers/",
       "apply_url": "https://www.absa.africa/careers/#site-content",
-      "found_at": "2026-10-25T07:29:29.808619+00:00",
+      "found_at": "2026-10-25T08:01:28.850987+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -437,7 +449,7 @@
       "source_name": "Absa Group (official careers page)",
       "source_url": "https://www.absa.africa/careers/",
       "apply_url": "https://www.absa.africa/careers/",
-      "found_at": "2026-10-25T07:29:31.041496+00:00",
+      "found_at": "2026-10-25T08:01:30.105609+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -463,7 +475,7 @@
       "source_name": "Absa Group (official careers page)",
       "source_url": "https://www.absa.africa/careers/",
       "apply_url": "https://www.absa.africa/careers",
-      "found_at": "2026-10-25T07:29:32.276589+00:00",
+      "found_at": "2026-10-25T08:01:31.409279+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -489,7 +501,7 @@
       "source_name": "Absa Group (official careers page)",
       "source_url": "https://www.absa.africa/careers/",
       "apply_url": "https://www.absa.africa/careers/design/",
-      "found_at": "2026-10-25T07:29:34.320142+00:00",
+      "found_at": "2026-10-25T08:01:33.521974+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -515,7 +527,7 @@
       "source_name": "Absa Group (official careers page)",
       "source_url": "https://www.absa.africa/careers/",
       "apply_url": "https://www.absa.africa/careers/diversity-and-our-people/",
-      "found_at": "2026-10-25T07:29:36.137986+00:00",
+      "found_at": "2026-10-25T08:01:35.366534+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -541,7 +553,7 @@
       "source_name": "Absa Group (official careers page)",
       "source_url": "https://www.absa.africa/careers/",
       "apply_url": "https://www.absa.africa/careers/got-the-skills/",
-      "found_at": "2026-10-25T07:29:37.547051+00:00",
+      "found_at": "2026-10-25T08:01:36.942151+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -567,7 +579,7 @@
       "source_name": "Absa Group (official careers page)",
       "source_url": "https://www.absa.africa/careers/",
       "apply_url": "https://www.absa.africa/careers/graduate-opportunities/",
-      "found_at": "2026-10-25T07:29:39.004004+00:00",
+      "found_at": "2026-10-25T08:01:38.254037+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -593,7 +605,7 @@
       "source_name": "Absa Group (official careers page)",
       "source_url": "https://www.absa.africa/careers/",
       "apply_url": "https://www.absa.africa/careers/top-employer/",
-      "found_at": "2026-10-25T07:29:40.268715+00:00",
+      "found_at": "2026-10-25T08:01:39.761759+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -619,7 +631,7 @@
       "source_name": "Absa Group (official careers page)",
       "source_url": "https://www.absa.africa/careers/",
       "apply_url": "https://www.absa.africa/careers/working-at-absa/",
-      "found_at": "2026-10-25T07:29:41.721021+00:00",
+      "found_at": "2026-10-25T08:01:40.964347+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -645,7 +657,7 @@
       "source_name": "Absa Group (official careers page)",
       "source_url": "https://www.absa.africa/careers/",
       "apply_url": "https://www.absa.africa/careers/working-and-growing-with-us/",
-      "found_at": "2026-10-25T07:29:43.290210+00:00",
+      "found_at": "2026-10-25T08:01:42.484057+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -671,7 +683,7 @@
       "source_name": "Absa Group (official careers page)",
       "source_url": "https://www.absa.africa/careers/",
       "apply_url": "https://www.absa.africa/cybersecurity-academy/",
-      "found_at": "2026-10-25T07:29:44.500019+00:00",
+      "found_at": "2026-10-25T08:01:43.952472+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -697,7 +709,7 @@
       "source_name": "Absa Group (official careers page)",
       "source_url": "https://www.absa.africa/careers/",
       "apply_url": "https://www.absa.africa/careers/graduate-opportunities/",
-      "found_at": "2026-10-25T07:29:46.054840+00:00",
+      "found_at": "2026-10-25T08:01:45.358014+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -723,7 +735,7 @@
       "source_name": "Absa Group (official careers page)",
       "source_url": "https://www.absa.africa/careers/",
       "apply_url": "https://www.absa.africa/careers/top-employer/",
-      "found_at": "2026-10-25T07:29:47.231642+00:00",
+      "found_at": "2026-10-25T08:01:46.562935+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -749,7 +761,7 @@
       "source_name": "Absa Group (official careers page)",
       "source_url": "https://www.absa.africa/careers/",
       "apply_url": "https://www.absa.africa/careers/working-and-growing-with-us/",
-      "found_at": "2026-10-25T07:29:48.463971+00:00",
+      "found_at": "2026-10-25T08:01:47.838443+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -775,7 +787,7 @@
       "source_name": "Absa Group (official careers page)",
       "source_url": "https://www.absa.africa/careers/",
       "apply_url": "https://www.absa.africa/careers/got-the-skills/",
-      "found_at": "2026-10-25T07:29:50.020447+00:00",
+      "found_at": "2026-10-25T08:01:49.371887+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -801,7 +813,7 @@
       "source_name": "Mr Price Group (official careers page)",
       "source_url": "https://www.mrpricegroup.com/careers/",
       "apply_url": "https://mrpricegroup.com/careers/#content",
-      "found_at": "2026-10-25T07:29:56.576195+00:00",
+      "found_at": "2026-10-25T08:01:56.495389+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -827,7 +839,7 @@
       "source_name": "Mr Price Group (official careers page)",
       "source_url": "https://www.mrpricegroup.com/careers/",
       "apply_url": "https://mrpricegroup.com/careers/",
-      "found_at": "2026-10-25T07:29:59.353719+00:00",
+      "found_at": "2026-10-25T08:01:58.376241+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -853,7 +865,7 @@
       "source_name": "Mr Price Group (official careers page)",
       "source_url": "https://www.mrpricegroup.com/careers/",
       "apply_url": "https://mrpricegroup.com/careers/",
-      "found_at": "2026-10-25T07:30:01.287749+00:00",
+      "found_at": "2026-10-25T08:02:00.198614+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -879,7 +891,7 @@
       "source_name": "Mr Price Group (official careers page)",
       "source_url": "https://www.mrpricegroup.com/careers/",
       "apply_url": "https://mrpricegroup.com/careers/#Benefits",
-      "found_at": "2026-10-25T07:30:03.335518+00:00",
+      "found_at": "2026-10-25T08:02:02.046813+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -905,7 +917,7 @@
       "source_name": "Mr Price Group (official careers page)",
       "source_url": "https://www.mrpricegroup.com/careers/",
       "apply_url": "https://mrpricegroup.com/careers/#ourteams",
-      "found_at": "2026-10-25T07:30:06.095148+00:00",
+      "found_at": "2026-10-25T08:02:03.954273+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -931,7 +943,7 @@
       "source_name": "Mr Price Group (official careers page)",
       "source_url": "https://www.mrpricegroup.com/careers/",
       "apply_url": "https://mrpricegroup.com/careers/#ourteams",
-      "found_at": "2026-10-25T07:30:29.426446+00:00",
+      "found_at": "2026-10-25T08:02:26.883789+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -957,7 +969,7 @@
       "source_name": "Mr Price Group (official careers page)",
       "source_url": "https://www.mrpricegroup.com/careers/",
       "apply_url": "https://mrpricegroup.com/careers/#Benefits",
-      "found_at": "2026-10-25T07:30:31.221195+00:00",
+      "found_at": "2026-10-25T08:02:28.805551+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -983,7 +995,7 @@
       "source_name": "Mr Price Group (official careers page)",
       "source_url": "https://www.mrpricegroup.com/careers/",
       "apply_url": "https://mrpricegroup.com/careers/",
-      "found_at": "2026-10-25T07:30:33.041312+00:00",
+      "found_at": "2026-10-25T08:02:30.683215+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1009,7 +1021,7 @@
       "source_name": "Mr Price Group (official careers page)",
       "source_url": "https://www.mrpricegroup.com/careers/",
       "apply_url": "https://mrpricegroup.com/careers/",
-      "found_at": "2026-10-25T07:30:34.808019+00:00",
+      "found_at": "2026-10-25T08:02:32.612890+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1035,7 +1047,7 @@
       "source_name": "Mr Price Group (official careers page)",
       "source_url": "https://www.mrpricegroup.com/careers/",
       "apply_url": "https://mrpricegroup.com/careers/",
-      "found_at": "2026-10-25T07:30:37.616234+00:00",
+      "found_at": "2026-10-25T08:02:35.279613+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1061,7 +1073,7 @@
       "source_name": "Mr Price Group (official careers page)",
       "source_url": "https://www.mrpricegroup.com/careers/",
       "apply_url": "https://mrpricegroup.com/careers/",
-      "found_at": "2026-10-25T07:30:39.437015+00:00",
+      "found_at": "2026-10-25T08:02:37.089237+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1087,7 +1099,7 @@
       "source_name": "Mr Price Group (official careers page)",
       "source_url": "https://www.mrpricegroup.com/careers/",
       "apply_url": "https://mrpricegroup.com/careers/",
-      "found_at": "2026-10-25T07:30:41.371129+00:00",
+      "found_at": "2026-10-25T08:02:38.810998+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1113,7 +1125,7 @@
       "source_name": "Pepkor (official careers page)",
       "source_url": "https://www.pepkor.co.za/careers/",
       "apply_url": "https://pepkor.co.za/careers/#content",
-      "found_at": "2026-10-25T07:30:46.918018+00:00",
+      "found_at": "2026-10-25T08:02:45.371408+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1139,7 +1151,7 @@
       "source_name": "Pepkor (official careers page)",
       "source_url": "https://www.pepkor.co.za/careers/",
       "apply_url": "https://pepkor.co.za/careers/",
-      "found_at": "2026-10-25T07:30:47.994721+00:00",
+      "found_at": "2026-10-25T08:02:46.436426+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1165,7 +1177,7 @@
       "source_name": "Pepkor (official careers page)",
       "source_url": "https://www.pepkor.co.za/careers/",
       "apply_url": "https://pepkor.co.za/careers/",
-      "found_at": "2026-10-25T07:30:49.068263+00:00",
+      "found_at": "2026-10-25T08:02:47.523377+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1191,7 +1203,7 @@
       "source_name": "Pepkor (official careers page)",
       "source_url": "https://www.pepkor.co.za/careers/",
       "apply_url": "https://pepkor.co.za/contact/",
-      "found_at": "2026-10-25T07:30:50.153893+00:00",
+      "found_at": "2026-10-25T08:02:48.616833+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1217,7 +1229,7 @@
       "source_name": "Pepkor (official careers page)",
       "source_url": "https://www.pepkor.co.za/careers/",
       "apply_url": "https://pepkor.co.za/vacancies-2026/",
-      "found_at": "2026-10-25T07:30:51.416939+00:00",
+      "found_at": "2026-10-25T08:02:49.898210+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1243,7 +1255,7 @@
       "source_name": "Pepkor (official careers page)",
       "source_url": "https://www.pepkor.co.za/careers/",
       "apply_url": "https://www.ackermans.co.za/page/corporate-information/careers",
-      "found_at": "2026-10-25T07:30:52.569667+00:00",
+      "found_at": "2026-10-25T08:02:51.022553+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1269,7 +1281,7 @@
       "source_name": "Pepkor (official careers page)",
       "source_url": "https://www.pepkor.co.za/careers/",
       "apply_url": "https://speciality.erecruit.co/candidateapp/jobs/browse/?Source=Pepkor%20Website",
-      "found_at": "2026-10-25T07:30:54.292393+00:00",
+      "found_at": "2026-10-25T08:02:51.511044+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1295,7 +1307,7 @@
       "source_name": "Pepkor (official careers page)",
       "source_url": "https://www.pepkor.co.za/careers/",
       "apply_url": "https://pepkor.co.za/wp-content/uploads/PLR_CA_2022-bursary-ad.pdf",
-      "found_at": "2026-10-25T07:30:55.216879+00:00",
+      "found_at": "2026-10-25T08:02:52.232119+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1321,7 +1333,7 @@
       "source_name": "Pepkor (official careers page)",
       "source_url": "https://www.pepkor.co.za/careers/",
       "apply_url": "https://pepkor.co.za/careers/",
-      "found_at": "2026-10-25T07:30:55.978688+00:00",
+      "found_at": "2026-10-25T08:02:53.073457+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1347,7 +1359,7 @@
       "source_name": "Pepkor (official careers page)",
       "source_url": "https://www.pepkor.co.za/careers/",
       "apply_url": "https://pepkor.co.za/careers/",
-      "found_at": "2026-10-25T07:30:57.029180+00:00",
+      "found_at": "2026-10-25T08:02:54.192351+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1373,7 +1385,7 @@
       "source_name": "Eskom (official careers page)",
       "source_url": "https://www.eskom.co.za/careers/",
       "apply_url": "https://www.eskom.co.za/careers/#main",
-      "found_at": "2026-10-25T07:31:03.278550+00:00",
+      "found_at": "2026-10-25T08:03:01.235472+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1399,7 +1411,7 @@
       "source_name": "Eskom (official careers page)",
       "source_url": "https://www.eskom.co.za/careers/",
       "apply_url": "https://www.eskom.co.za/",
-      "found_at": "2026-10-25T07:31:05.245201+00:00",
+      "found_at": "2026-10-25T08:03:03.170947+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1425,7 +1437,7 @@
       "source_name": "Eskom (official careers page)",
       "source_url": "https://www.eskom.co.za/careers/",
       "apply_url": "https://qa.www.eskom.co.za/executivejobs/",
-      "found_at": "2026-10-25T07:31:07.417016+00:00",
+      "found_at": "2026-10-25T08:03:03.521556+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1451,7 +1463,7 @@
       "source_name": "Eskom (official careers page)",
       "source_url": "https://www.eskom.co.za/careers/",
       "apply_url": "https://www.eskom.co.za/careers/#wrapper",
-      "found_at": "2026-10-25T07:31:07.705706+00:00",
+      "found_at": "2026-10-25T08:03:03.911030+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1477,7 +1489,7 @@
       "source_name": "Netcare (official careers page)",
       "source_url": "https://www.netcare.co.za/Careers",
       "apply_url": "https://www.netcare.co.za/Careers",
-      "found_at": "2026-10-25T07:31:13.880240+00:00",
+      "found_at": "2026-10-25T08:03:09.753460+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1503,7 +1515,7 @@
       "source_name": "Netcare (official careers page)",
       "source_url": "https://www.netcare.co.za/Careers",
       "apply_url": "https://www.netcare.co.za/-Privacy-policy",
-      "found_at": "2026-10-25T07:31:15.080589+00:00",
+      "found_at": "2026-10-25T08:03:10.123299+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1529,7 +1541,7 @@
       "source_name": "Life Healthcare (official careers page)",
       "source_url": "https://www.lifehealthcare.co.za/careers/",
       "apply_url": "https://www.lifehealthcare.co.za/careers/education-and-training/",
-      "found_at": "2026-10-25T07:31:18.308934+00:00",
+      "found_at": "2026-10-25T08:03:14.369522+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1555,7 +1567,7 @@
       "source_name": "Life Healthcare (official careers page)",
       "source_url": "https://www.lifehealthcare.co.za/careers/",
       "apply_url": "https://www.lifehealthcare.co.za/careers/",
-      "found_at": "2026-10-25T07:31:21.318010+00:00",
+      "found_at": "2026-10-25T08:03:17.137261+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1581,7 +1593,7 @@
       "source_name": "Life Healthcare (official careers page)",
       "source_url": "https://www.lifehealthcare.co.za/careers/",
       "apply_url": "https://www.lifehealthcare.co.za/careers/",
-      "found_at": "2026-10-25T07:31:24.421627+00:00",
+      "found_at": "2026-10-25T08:03:20.020365+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1607,7 +1619,7 @@
       "source_name": "Life Healthcare (official careers page)",
       "source_url": "https://www.lifehealthcare.co.za/careers/",
       "apply_url": "https://www.lifehealthcare.co.za/careers/vacancies/",
-      "found_at": "2026-10-25T07:31:27.544718+00:00",
+      "found_at": "2026-10-25T08:03:22.968761+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1633,7 +1645,7 @@
       "source_name": "Life Healthcare (official careers page)",
       "source_url": "https://www.lifehealthcare.co.za/careers/",
       "apply_url": "https://www.lifehealthcare.co.za/careers/education-and-training/research-and-human-research-ethics-committee/",
-      "found_at": "2026-10-25T07:31:33.706311+00:00",
+      "found_at": "2026-10-25T08:03:28.632625+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1659,7 +1671,7 @@
       "source_name": "Life Healthcare (official careers page)",
       "source_url": "https://www.lifehealthcare.co.za/careers/",
       "apply_url": "https://www.lifehealthcare.co.za/careers/education-and-training/",
-      "found_at": "2026-10-25T07:31:48.228123+00:00",
+      "found_at": "2026-10-25T08:03:42.205232+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1685,7 +1697,7 @@
       "source_name": "Life Healthcare (official careers page)",
       "source_url": "https://www.lifehealthcare.co.za/careers/",
       "apply_url": "https://www.lifehealthcare.co.za/faqs/",
-      "found_at": "2026-10-25T07:31:50.838277+00:00",
+      "found_at": "2026-10-25T08:03:44.849167+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 95,
@@ -1711,7 +1723,7 @@
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
       "apply_url": "https://pepkor.co.za/careers/",
-      "found_at": "2026-10-25T07:32:12.837661+00:00",
+      "found_at": "2026-10-25T08:04:05.670435+00:00",
       "verification": {
         "status": "verified_official",
         "confidence": 92,
@@ -1738,7 +1750,7 @@
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
       "apply_url": "https://www.careers24.com/",
-      "found_at": "2026-10-25T07:32:10.966513+00:00",
+      "found_at": "2026-10-25T08:04:03.561021+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -1752,10 +1764,10 @@
       "location": "Gauteng",
       "province": "Gauteng",
       "closing_date": "",
-      "salary": "r 6314",
+      "salary": "r 6317",
       "job_type": "",
       "requirements": "",
-      "description": "careers24 | Find & Apply For Jobs & Vacancies Online Find your dream career 6314 Jobs in South Africa Jobs | Companies | Courses Include Remote Jobs Include Remote Jobs Browse Jobs by: Search by Region Gauteng Jobs (2554) Western Cape Jobs (2252) Kwazulu Natal Jobs (706) Eastern Cape Jobs (337) Mpumalanga Jobs (296) Northern Cape Jobs (194) Free State Jobs (265) North West Jobs (205) Limpopo Jobs (242) Search by City Johannesburg Jobs (1210) Cape Town Jobs (1002) Pretoria Jobs (630) Durban Jobs (344) Port Elizabeth Jobs (143) East London Jobs (155) Nelspruit Jobs (131) Bloemfontein Jobs (185) Pietermaritzburg Jobs (177) See All Search by Sector IT Jobs (549) Finance jobs (856) Sales Jobs (1042) Engineering Jobs (922) Manufacturing Jobs (567) General Jobs (552) Accounting Jobs (245) Insurance Jobs (461) Admin Jobs (236) See All Companies Hiring Now View All Never miss a job opportunity Get Careers24 on your phone Access 1000s of jobs, on the go Filtering to find the jobs that suit you A"
+      "description": "careers24 | Find & Apply For Jobs & Vacancies Online Find your dream career 6317 Jobs in South Africa Jobs | Companies | Courses Include Remote Jobs Include Remote Jobs Browse Jobs by: Search by Region Gauteng Jobs (2554) Western Cape Jobs (2256) Kwazulu Natal Jobs (706) Eastern Cape Jobs (337) Mpumalanga Jobs (296) Northern Cape Jobs (194) Free State Jobs (265) North West Jobs (205) Limpopo Jobs (242) Search by City Johannesburg Jobs (1210) Cape Town Jobs (1006) Pretoria Jobs (630) Durban Jobs (344) Port Elizabeth Jobs (143) East London Jobs (155) Nelspruit Jobs (131) Bloemfontein Jobs (185) Pietermaritzburg Jobs (177) See All Search by Sector IT Jobs (549) Finance jobs (856) Sales Jobs (1042) Engineering Jobs (922) Manufacturing Jobs (571) General Jobs (552) Accounting Jobs (245) Insurance Jobs (461) Admin Jobs (236) See All Companies Hiring Now View All Never miss a job opportunity Get Careers24 on your phone Access 1000s of jobs, on the go Filtering to find the jobs that suit you A"
     },
     {
       "id": "83f583765adb5bdd",
@@ -1764,7 +1776,7 @@
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
       "apply_url": "https://www.careers24.com/jobs/",
-      "found_at": "2026-10-25T07:32:11.302312+00:00",
+      "found_at": "2026-10-25T08:04:03.885572+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -1781,7 +1793,7 @@
       "salary": "R12000",
       "job_type": "Contract",
       "requirements": "",
-      "description": "South Africa Jobs Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Never miss another job opportunity! Get notified by email as soon as new jobs are posted for: Job Title Select Location None Select 1 Select 2 Select 3 Email Address NO THANKS! CREATE JOB ALERT REFINE YOUR SEARCH CLEAR FILTERS APPLY FILTERS Remote Jobs Include Remote Jobs Show Remote Jobs Only (113) Exclude Remote Jobs Minimum salary per month Any R12000 (1559) R24000 (1101) R36000 (752) R48000 (574) Market Related (4295) Any Academic Accounting (245) Admin (236) Advertising (31) Agriculture (198) Automotive (199) Aviation (27) Banking (70) Business Management (109) Call Centre (154) Chemical Clothing Construction (153) Consulting (210) Cruise Ship Defence Design Services (33) E-Commerce (20) Education (90) Engineering (922) Entertainment (36) Environmental (40) Fashion Finance (856) FMCG (612) Freight (71) General (552)"
+      "description": "South Africa Jobs Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Never miss another job opportunity! Get notified by email as soon as new jobs are posted for: Job Title Select Location None Select 1 Select 2 Select 3 Email Address NO THANKS! CREATE JOB ALERT REFINE YOUR SEARCH CLEAR FILTERS APPLY FILTERS Remote Jobs Include Remote Jobs Show Remote Jobs Only (113) Exclude Remote Jobs Minimum salary per month Any R12000 (1565) R24000 (1107) R36000 (755) R48000 (576) Market Related (4295) Any Academic Accounting (245) Admin (236) Advertising (31) Agriculture (198) Automotive (199) Aviation (27) Banking (70) Business Management (109) Call Centre (154) Chemical Clothing Construction (153) Consulting (210) Cruise Ship Defence Design Services (33) E-Commerce (20) Education (90) Engineering (923) Entertainment (36) Environmental (40) Fashion Finance (856) FMCG (612) Freight (71) General (552)"
     },
     {
       "id": "29ee7228c7e81050",
@@ -1790,7 +1802,7 @@
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
       "apply_url": "https://www.careers24.com/",
-      "found_at": "2026-10-25T07:32:11.726165+00:00",
+      "found_at": "2026-10-25T08:04:05.359273+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -1804,19 +1816,19 @@
       "location": "Gauteng",
       "province": "Gauteng",
       "closing_date": "",
-      "salary": "r 6314",
+      "salary": "r 6319",
       "job_type": "",
       "requirements": "",
-      "description": "careers24 | Find & Apply For Jobs & Vacancies Online Find your dream career 6314 Jobs in South Africa Jobs | Companies | Courses Include Remote Jobs Include Remote Jobs Browse Jobs by: Search by Region Gauteng Jobs (2554) Western Cape Jobs (2252) Kwazulu Natal Jobs (706) Eastern Cape Jobs (337) Mpumalanga Jobs (296) Northern Cape Jobs (194) Free State Jobs (265) North West Jobs (205) Limpopo Jobs (242) Search by City Johannesburg Jobs (1210) Cape Town Jobs (1002) Pretoria Jobs (630) Durban Jobs (344) Port Elizabeth Jobs (143) East London Jobs (155) Nelspruit Jobs (131) Bloemfontein Jobs (185) Pietermaritzburg Jobs (177) See All Search by Sector IT Jobs (549) Finance jobs (856) Sales Jobs (1042) Engineering Jobs (922) Manufacturing Jobs (567) General Jobs (552) Accounting Jobs (245) Insurance Jobs (461) Admin Jobs (236) See All Companies Hiring Now View All Never miss a job opportunity Get Careers24 on your phone Access 1000s of jobs, on the go Filtering to find the jobs that suit you A"
+      "description": "careers24 | Find & Apply For Jobs & Vacancies Online Find your dream career 6319 Jobs in South Africa Jobs | Companies | Courses Include Remote Jobs Include Remote Jobs Browse Jobs by: Search by Region Gauteng Jobs (2554) Western Cape Jobs (2258) Kwazulu Natal Jobs (706) Eastern Cape Jobs (337) Mpumalanga Jobs (296) Northern Cape Jobs (194) Free State Jobs (265) North West Jobs (205) Limpopo Jobs (242) Search by City Johannesburg Jobs (1210) Cape Town Jobs (1008) Pretoria Jobs (630) Durban Jobs (344) Port Elizabeth Jobs (143) East London Jobs (155) Nelspruit Jobs (131) Bloemfontein Jobs (185) Pietermaritzburg Jobs (177) See All Search by Sector IT Jobs (549) Finance jobs (856) Sales Jobs (1042) Engineering Jobs (923) Manufacturing Jobs (572) General Jobs (552) Accounting Jobs (245) Insurance Jobs (461) Admin Jobs (236) See All Companies Hiring Now View All Never miss a job opportunity Get Careers24 on your phone Access 1000s of jobs, on the go Filtering to find the jobs that suit you A"
     },
     {
-      "id": "dfa778130238879d",
-      "title": "South Africa Date Posted Relevance 6241 South Africa Jobs",
+      "id": "3915d3db95ed8a16",
+      "title": "South Africa Date Posted Relevance 6247 South Africa Jobs",
       "company": "See listing",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
       "apply_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "found_at": "2026-10-25T07:32:13.906987+00:00",
+      "found_at": "2026-10-25T08:04:06.797132+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -1833,7 +1845,7 @@
       "salary": "R12000",
       "job_type": "Contract",
       "requirements": "",
-      "description": "South Africa Jobs Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Never miss another job opportunity! Get notified by email as soon as new jobs are posted for: Job Title Select Location None Select 1 Select 2 Select 3 Email Address NO THANKS! CREATE JOB ALERT REFINE YOUR SEARCH CLEAR FILTERS APPLY FILTERS Remote Jobs Include Remote Jobs Show Remote Jobs Only (113) Exclude Remote Jobs Minimum salary per month Any R12000 (1544) R24000 (1089) R36000 (742) R48000 (567) Market Related (4238) Any Academic Accounting (243) Admin (230) Advertising (29) Agriculture (197) Automotive (199) Aviation (26) Banking (70) Business Management (109) Call Centre (153) Chemical Clothing Construction (147) Consulting (208) Cruise Ship Defence Design Services (33) E-Commerce (20) Education (90) Engineering (894) Entertainment (36) Environmental (39) Fashion Finance (854) FMCG (608) Freight (70) General (549)"
+      "description": "South Africa Jobs Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Never miss another job opportunity! Get notified by email as soon as new jobs are posted for: Job Title Select Location None Select 1 Select 2 Select 3 Email Address NO THANKS! CREATE JOB ALERT REFINE YOUR SEARCH CLEAR FILTERS APPLY FILTERS Remote Jobs Include Remote Jobs Show Remote Jobs Only (113) Exclude Remote Jobs Minimum salary per month Any R12000 (1550) R24000 (1095) R36000 (745) R48000 (569) Market Related (4238) Any Academic Accounting (243) Admin (230) Advertising (29) Agriculture (197) Automotive (199) Aviation (26) Banking (70) Business Management (109) Call Centre (153) Chemical Clothing Construction (147) Consulting (208) Cruise Ship Defence Design Services (33) E-Commerce (20) Education (90) Engineering (895) Entertainment (36) Environmental (39) Fashion Finance (854) FMCG (608) Freight (70) General (549)"
     },
     {
       "id": "a8e33cdcfcb5ebee",
@@ -1842,7 +1854,7 @@
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
       "apply_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "found_at": "2026-10-25T07:32:14.309337+00:00",
+      "found_at": "2026-10-25T08:04:07.205429+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -1859,16 +1871,172 @@
       "salary": "R12000",
       "job_type": "Contract",
       "requirements": "",
-      "description": "South Africa Jobs Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Never miss another job opportunity! Get notified by email as soon as new jobs are posted for: Job Title Select Location None Select 1 Select 2 Select 3 Email Address NO THANKS! CREATE JOB ALERT REFINE YOUR SEARCH CLEAR FILTERS APPLY FILTERS Remote Jobs Include Remote Jobs Show Remote Jobs Only (113) Exclude Remote Jobs Minimum salary per month Any R12000 (1544) R24000 (1089) R36000 (742) R48000 (567) Market Related (4238) Any Academic Accounting (243) Admin (230) Advertising (29) Agriculture (197) Automotive (199) Aviation (26) Banking (70) Business Management (109) Call Centre (153) Chemical Clothing Construction (147) Consulting (208) Cruise Ship Defence Design Services (33) E-Commerce (20) Education (90) Engineering (894) Entertainment (36) Environmental (39) Fashion Finance (854) FMCG (608) Freight (70) General (549)"
+      "description": "South Africa Jobs Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Never miss another job opportunity! Get notified by email as soon as new jobs are posted for: Job Title Select Location None Select 1 Select 2 Select 3 Email Address NO THANKS! CREATE JOB ALERT REFINE YOUR SEARCH CLEAR FILTERS APPLY FILTERS Remote Jobs Include Remote Jobs Show Remote Jobs Only (113) Exclude Remote Jobs Minimum salary per month Any R12000 (1550) R24000 (1095) R36000 (745) R48000 (569) Market Related (4238) Any Academic Accounting (243) Admin (230) Advertising (29) Agriculture (197) Automotive (199) Aviation (26) Banking (70) Business Management (109) Call Centre (153) Chemical Clothing Construction (147) Consulting (208) Cruise Ship Defence Design Services (33) E-Commerce (20) Education (90) Engineering (895) Entertainment (36) Environmental (39) Fashion Finance (854) FMCG (608) Freight (70) General (549)"
     },
     {
-      "id": "9c958a1164af9588",
+      "id": "3636781a04708262",
+      "title": "Application Engineer – BESS & Hybrid Power Solutions Cape Town Job Type: Permanent Posted: 25 Oct 2026 61 Days left",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395557-application-engineer-bess-hybrid-power-solutions-cape-town/?jobindex=1",
+      "found_at": "2026-10-25T08:04:07.624356+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Engineering & Trades",
+      "location": "Gauteng",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "R41 667.00",
+      "job_type": "Permanent",
+      "requirements": "and provide appropriate system design recommendations. Conduct system sizing, modelling and performance analysis for hybrid PV/BESS applications. Support the integration of battery storage into existing PV installations, assessing risks and proposing suitable technical solutions. Prepare technical specifications, engineering offers, tender documents and project proposals. Assist the sales team with quotations, customer discussions and technically appropriate solution selection. Develop technical sales resources and product value propositions. Evaluate competitor products, identify performance gaps and communicate technical differentiators. Support local engineering services and ensure proposed solutions meet regional requirements and relevant product specifications. Work with project development teams on new and existing project opportunities. Engage with grid operators, regulators, utilities and municipalities on grid connection matters and code compliance. Contribute to industry working groups and maintain awareness of regulatory and technology developments. Participate in customer calls, sales meetings, project discussions and site visits. Maintain clear technical records and s",
+      "description": "Application Engineer – BESS & Hybrid Power Solutions, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Application Engineer – BESS & Hybrid Power Solutions Cape Town Salary: R41 667.00 - R58 333.00 Per Month Job Type: Permanent Sectors: Engineering Reference: 2395557 Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: MSP Staffing (PTY) LTD Our client is seeking an Application Engineer with strong renewable energy engineering knowledge and a commercial mindset to support the growth of utility-scale battery energy storage and hybrid power solutions. This position offers broad technical involvement, from system modelling and design evaluation to tender preparation, grid compliance and customer engagement. Key Duties Act as a technical specialist for solar PV, BESS and hybrid po"
+    },
+    {
+      "id": "5a52a27572168d66",
+      "title": "Shift Supervisor Cape Town Job Type: Permanent Posted: 25 Oct 2026 61 Days left",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395556-shift-supervisor-cape-town/?jobindex=2",
+      "found_at": "2026-10-25T08:04:09.224577+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "Gauteng",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "R33 333.00",
+      "job_type": "Permanent",
+      "requirements": "Grade 12 Tertiary qualification in mechanical/electrical engineering 5 years’ experience in a similar role Within the pouch making industry Strong technical and product knowledge: stand up pouches, doypacks, heat seal packs etc. Should you meet the requirements for this position, please email your updated CV attached to trade.jobs@tumaini.co.za , alternatively contact the team on 021 551 2621 or visit our website, www.tumaini.co Correspondence will only be conducted with our short-listed candidates. Should you not hear from us within 3 days, please consider your application unsuccessful Apply Previous Next About Tumaini Consulting Tumaini Consulting is a Recruitment and Staffing agency that focuses on the placement of people on a permanent or contract basis, in both the public and private sectors. Our core areas of expertise lie in the Engineering, Finance, IT, Medical, Trade & Technical, Mining and Logistics sectors. At Tumaini Consulting our name embodies one of our core philosophies. In Swahili, our name means “Hope” and we believe in the enduring power of hope, a beacon that guides us in every endeavour. In all that we do, we carry the hope for a brighter tomorrow, the hope",
+      "description": "Shift Supervisor, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Shift Supervisor Cape Town Salary: R33 333.00 - R41 667.00 Per Month Job Type: Permanent Sectors: Manufacturing Reference: 2395556 Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: Tumaini Consulting Are you a natural-born leader who can keep production running smoothly, motivate a team through a busy shift and spot a problem before it turns into a full-blown production drama? Do you know how to turn production targets into achievements and keep quality standards firmly in the bag? We’re looking for a hands-on, energetic Shift Supervisor to join a pouch manufacturing operation in Gauteng. This is your chance to take charge of the production floor, lead from the front and make sure every shift delivers on saf"
+    },
+    {
+      "id": "8c80c0954b24f35b",
+      "title": "Process Artisan Cape Town Job Type: Permanent Posted: 25 Oct 2026 61 Days left",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395555-process-artisan-cape-town/?jobindex=3",
+      "found_at": "2026-10-25T08:04:10.798187+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "Gauteng",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "R33 333.00",
+      "job_type": "Permanent",
+      "requirements": "Matric Trade Test Electrician 5 years’ experience as a process Artisan with experience on bottling Equipment Candidates must be willing to relocate at their own cost Should you meet the requirements for this position, please email your updated CV attached to trade.jobs@tumaini.co.za , alternatively contact the team on 021 551 2621 or visit our website, www.tumaini.co Correspondence will only be conducted with our short-listed candidates. Should you not hear from us within 3 days, please consider your application unsuccessful. Apply 2 people have viewed this job. Previous Next About Tumaini Consulting Tumaini Consulting is a Recruitment and Staffing agency that focuses on the placement of people on a permanent or contract basis, in both the public and private sectors. Our core areas of expertise lie in the Engineering, Finance, IT, Medical, Trade & Technical, Mining and Logistics sectors. At Tumaini Consulting our name embodies one of our core philosophies. In Swahili, our name means “Hope” and we believe in the enduring power of hope, a beacon that guides us in every endeavour. In all that we do, we carry the hope for a brighter tomorrow, the hope to make a profound impact withi",
+      "description": "Process Artisan, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Process Artisan Cape Town Salary: R33 333.00 - R41 667.00 Per Month Job Type: Permanent Sectors: Manufacturing Reference: 2395555 Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: Tumaini Consulting We’re looking for a technically minded, hands-on Process Artisan to join a beverage manufacturing team in the Eastern Cape. If you enjoy working with processing equipment, fine-tuning production processes and making sure every batch hits the mark, this could be your next big career move! Minimum Requirements : Matric Trade Test Electrician 5 years’ experience as a process Artisan with experience on bottling Equipment Candidates must be willing to relocate at their own cost Should you meet the requirements for this"
+    },
+    {
+      "id": "0923b2152212a70e",
+      "title": "Fitter and Turner Cape Town Job Type: Permanent Posted: 25 Oct 2026 61 Days left",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395554-fitter-and-turner-cape-town/?jobindex=4",
+      "found_at": "2026-10-25T08:04:12.325580+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "Gauteng",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "R33 333.00",
+      "job_type": "Permanent",
+      "requirements": "Matric Trade Tested Fitter and Turner National Diploma in Mechanical Engineering 10 years’ experience POST APPRENTICESHIP, with a minimum of 5 years’ experience in and injection moulding plastic factory Candidates MUST be residing in the Western Cape Should you meet the requirements for this position, please email your updated CV attached to trade.jobs@tumaini.co.za , alternatively contact the team on 021 551 2621 or visit our website, www.tumaini.co Correspondence will only be conducted with our short-listed candidates. Should you not hear from us within 3 days, please consider your application unsuccessful Apply Previous Next About Tumaini Consulting Tumaini Consulting is a Recruitment and Staffing agency that focuses on the placement of people on a permanent or contract basis, in both the public and private sectors. Our core areas of expertise lie in the Engineering, Finance, IT, Medical, Trade & Technical, Mining and Logistics sectors. At Tumaini Consulting our name embodies one of our core philosophies. In Swahili, our name means “Hope” and we believe in the enduring power of hope, a beacon that guides us in every endeavour. In all that we do, we carry the hope for a bright",
+      "description": "Fitter and Turner, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Fitter and Turner Cape Town Salary: R33 333.00 - R37 500.00 Per Month Job Type: Permanent Sectors: Manufacturing Reference: 2395554 Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: Tumaini Consulting We’re searching for a skilled, hands-on Fitter and Turner to join a plastic injection moulding manufacturing operation in the Western Cape. We need someone who knows their way around workshop machinery, understands mechanical systems and can keep production equipment running smoothly, because in manufacturing, a machine that isn't moving is a machine that isn't making money! Minimum Requirements : Matric Trade Tested Fitter and Turner National Diploma in Mechanical Engineering 10 years’ experience POST APPRENT"
+    },
+    {
+      "id": "c7c974e56145b3ed",
+      "title": "Production Manager Cape Town Job Type: Permanent Posted: 25 Oct 2026 61 Days left",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395553-production-manager-cape-town/?jobindex=5",
+      "found_at": "2026-10-25T08:04:14.653145+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "Gauteng",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "R50 000.00",
+      "job_type": "Permanent",
+      "requirements": "Grade 12 National Diploma Electrical/Mechanical/Chemical Engineering Systems needed: BMS/Syspro/DMS/PowerBI/Plantmaster 10 years' experience in a Similar Role Within a plastic/packaging manufacturing environment Experience with Thermoforming and plastic processing of moulds is Essential Candidates should be able to set and optimise plastic processing machines Should you meet the requirements for this position, please email your updated CV attached to trade.jobs@tumaini.co.za , alternatively contact the team on 021 551 2621 or visit our website, www.tumaini.co Correspondence will only be conducted with our short-listed candidates. Should you not hear from us within 3 days, please consider your application unsuccessful. Apply 1 person has viewed this job. Previous Next About Tumaini Consulting Tumaini Consulting is a Recruitment and Staffing agency that focuses on the placement of people on a permanent or contract basis, in both the public and private sectors. Our core areas of expertise lie in the Engineering, Finance, IT, Medical, Trade & Technical, Mining and Logistics sectors. At Tumaini Consulting our name embodies one of our core philosophies. In Swahili, our name means “Hope",
+      "description": "Production Manager, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Production Manager Cape Town Salary: R50 000.00 - R58 333.00 Per Month Job Type: Permanent Sectors: Manufacturing Reference: 2395553 Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: Tumaini Consulting Do you know how to turn a sheet of plastic into a quality product, a production schedule into a well-oiled operation, and a team of operators into a high-performing crew?We're on the hunt for a hands-on, results-driven Production Manager – Thermoforming to take charge of the thermoforming department at a plastic packaging manufacturing plant in Gauteng. This isn't a role for someone who prefers to watch production from the sidelines. We need a manufacturing professional who understands the importance of temp"
+    },
+    {
+      "id": "b81ecad77cf1f416",
+      "title": "Maintenance Manager Cape Town Job Type: Permanent Posted: 25 Oct 2026 61 Days left",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395552-maintenance-manager-cape-town/?jobindex=6",
+      "found_at": "2026-10-25T08:04:16.540063+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Education",
+      "location": "Gauteng",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "R75 000.00",
+      "job_type": "Permanent",
+      "requirements": "Grade 12- Trade Test (Electrician, Millwright) National Diploma in Electrical/Mechanical Engineering GMR 2.1 Appointment 10 years’ experience in a similar position Experience with CMMs, RCM/FMEA, TPM and Statutory Compliance Within the plastics/packaging manufacturing industry Strong fault-finding experience (PLC/VSD/SCADA) Should you meet the requirements for this position, please email your updated CV attached to trade.jobs@tumaini.co.za , alternatively contact the team on 021 551 2621 or visit our website, www.tumaini.co Correspondence will only be conducted with our short-listed candidates. Should you not hear from us within 3 days, please consider your application unsuccessful. Apply Previous Next About Tumaini Consulting Tumaini Consulting is a Recruitment and Staffing agency that focuses on the placement of people on a permanent or contract basis, in both the public and private sectors. Our core areas of expertise lie in the Engineering, Finance, IT, Medical, Trade & Technical, Mining and Logistics sectors. At Tumaini Consulting our name embodies one of our core philosophies. In Swahili, our name means “Hope” and we believe in the enduring power of hope, a beacon that guid",
+      "description": "Maintenance Manager, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Maintenance Manager Cape Town Salary: R75 000.00 - R83 333.00 Per Month Job Type: Permanent Sectors: Manufacturing Reference: 2395552 Apply before Dec 24 2026 | 61 Days left Apply Vacancy Details Employer: Tumaini Consulting Do you keep calm when machines break down and know your way around a spanner, a spreadsheet and a stubborn production line? We're looking for a hands-on, technically strong Maintenance Manager to join a plastic packaging manufacturing operation in the Western Cape. We need someone who can keep machinery running, breakdowns under control and maintenance plans on track, all while ensuring that production keeps moving and the factory doesn't come to a grinding halt. Minimum Requirements: Grade 12- Trade Test "
+    },
+    {
+      "id": "b1ae99cfdf20897d",
       "title": "Goods Receiving Clerk Parow Job Type: Permanent Posted: 25 Oct 2026 13 Days left",
       "company": "See listing",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395551-goods-receiving-clerk-parow/?jobindex=1",
-      "found_at": "2026-10-25T07:32:15.785727+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395551-goods-receiving-clerk-parow/?jobindex=7",
+      "found_at": "2026-10-25T08:04:18.171652+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -1884,17 +2052,17 @@
       "closing_date": "",
       "salary": "",
       "job_type": "Permanent",
-      "requirements": "Grade 12 (Matric) or equivalent qualification. Minimum 2 years' relevant experience in goods receiving, warehousing, stock control, or inventory management. A valid forklift license. Experience in a manufacturing or corrugated packaging environment will be advantageous. Good understanding of receiving procedures, purchase orders, supplier delivery notes, stock records, and inventory control. Strong numerical, administrative, and record-keeping skills. Basic computer literacy, including the ability to capture and maintain accurate stock records. Ability to inspect, measure, and verify materials accurately. Ability to work independently and collaboratively across departments. *Applicants with disabilities are encouraged to apply. If you require any accommodation during the application or interview process, please let us know. Apply 7 people have applied for this job. 38 people have viewed this job. Previous Next More Jobs at Caxton & CTP Publishers and Printers Limited Graduate Program Cape Town Job Type: Contract Posted 23 Oct 2026 | 29 Days left Operator - Die Cutter Cape Town Job Type: Permanent Posted 21 Oct 2026 | 7 Days left Apprenticeship Parow Job Type: Contract Posted 12 Oc",
+      "requirements": "Grade 12 (Matric) or equivalent qualification. Minimum 2 years' relevant experience in goods receiving, warehousing, stock control, or inventory management. A valid forklift license. Experience in a manufacturing or corrugated packaging environment will be advantageous. Good understanding of receiving procedures, purchase orders, supplier delivery notes, stock records, and inventory control. Strong numerical, administrative, and record-keeping skills. Basic computer literacy, including the ability to capture and maintain accurate stock records. Ability to inspect, measure, and verify materials accurately. Ability to work independently and collaboratively across departments. *Applicants with disabilities are encouraged to apply. If you require any accommodation during the application or interview process, please let us know. Apply 7 people have applied for this job. 49 people have viewed this job. Previous Next More Jobs at Caxton & CTP Publishers and Printers Limited Graduate Program Cape Town Job Type: Contract Posted 23 Oct 2026 | 29 Days left Operator - Die Cutter Cape Town Job Type: Permanent Posted 21 Oct 2026 | 7 Days left Apprenticeship Parow Job Type: Contract Posted 12 Oc",
       "description": "plays a critical part in maintaining stock accuracy, preventing material losses and supporting the uninterrupted flow of raw materials to production. KEY RESPONSIBILITIES Receive and verify incoming raw materials, consumables and other deliveries against approved purchase orders and supplier delivery notes. Inspect deliveries for visible damage, defects, incorrect specifications, shortages, and excess quantities before acceptance. Verify material descriptions, dimensions, quantities, and quality requirements using appropriate measuring equipment where necessary. Ensure that all receiving documentation is accurate, complete, and properly maintained, including, delivery notes, and stock records. Support raw material stock counts, reconciliations, and investigations into stock variances. Ensure that raw materials issued to production are correctly identified, measured, documented, and supported by the appropriate issue slips. Coordinate with Procurement, Finance, Production, Quality and Despatch personnel to resolve stock and delivery discrepancies. Operate a forklift safely to offload, move, and position materials where required Adhere to company policies, standard operating procedu"
     },
     {
-      "id": "94e2f845955351cc",
+      "id": "5cf9396e6f50d062",
       "title": "Creditors Administrator Kia South Africa (Pty) Ltd - IMFRG Tokai Cape Town Job Type: Permanent Posted: 24 Oct 2026 7 Days left",
       "company": "See listing",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395550-creditors-administrator-kia-south-africa-pty-ltd-imfrg-tokai-cape-town/?jobindex=2",
-      "found_at": "2026-10-25T07:32:16.188352+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395550-creditors-administrator-kia-south-africa-pty-ltd-imfrg-tokai-cape-town/?jobindex=8",
+      "found_at": "2026-10-25T08:04:18.584708+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -1910,17 +2078,17 @@
       "closing_date": "",
       "salary": "r 20 000",
       "job_type": "Permanent",
-      "requirements": "and Experience: Matric Bookkeeping and/or accounting qualification would be an advantage Minimum of 3 years' experience in the creditor's environment Minimum of 2 years' experience in the motor industry would be an advantage Skills and Attributes: Clerical Skills (Fundamental) Financial Administration Trust and Integrity Apply 4 people have applied for this job. 127 people have viewed this job. Previous Next About Motus Corporation Motus is a multi-national provider of automotive mobility solutions and vehicle products and services, delivering 77 years of steady growth and reliable value creation. Our leading market presence in South Africa is enhanced by selected international offerings in the United Kingdom, Australia, Asia and Southern and East Africa. Motus employs over 20 000 people globally and is a diversified (non-manufacturing) business in the automotive sector. Motus is South Africa’s leading automotive group, with unrivalled scale and scope across the automotive value chain. Motus offers a differentiated value proposition to OEMs, customers and business partners with a business model that integrates our four business segments: Import and Distribution, Retail and Rental,",
+      "requirements": "and Experience: Matric Bookkeeping and/or accounting qualification would be an advantage Minimum of 3 years' experience in the creditor's environment Minimum of 2 years' experience in the motor industry would be an advantage Skills and Attributes: Clerical Skills (Fundamental) Financial Administration Trust and Integrity Apply 4 people have applied for this job. 133 people have viewed this job. Previous Next About Motus Corporation Motus is a multi-national provider of automotive mobility solutions and vehicle products and services, delivering 77 years of steady growth and reliable value creation. Our leading market presence in South Africa is enhanced by selected international offerings in the United Kingdom, Australia, Asia and Southern and East Africa. Motus employs over 20 000 people globally and is a diversified (non-manufacturing) business in the automotive sector. Motus is South Africa’s leading automotive group, with unrivalled scale and scope across the automotive value chain. Motus offers a differentiated value proposition to OEMs, customers and business partners with a business model that integrates our four business segments: Import and Distribution, Retail and Rental,",
       "description": "The successful incumbent will be responsible to deliver a clerical service in order to process creditors transactions accurately and timeously through the execution of predefined work objectives as per agreed standard operating procedure. Specific Roles and Responsibilities: Deliver on agreed performance targets according to set procedures and service level agreement. Report on transactional activities to provide timely information for decision making in area of accountability. Execute work in line with governance and compliance processes Identify and apply known solutions to operational problems and escalate unresolved issues Ensure that all documentation is processed accurately and correctly. Prepare all reports and submit on time as prescribed by relevant policies and procedures. Deliver work activities effectively and efficiently in order to maximise financial performance Qualifications and Experience: Matric Bookkeeping and/or accounting qualification would be an advantage Minimum of 3 years' experience in the creditor's environment Minimum of 2 years' experience in the motor industry would be an advantage Skills and Attributes: Clerical Skills (Fundamental) Financial Admini"
     },
     {
-      "id": "21198168bdfd12a4",
+      "id": "71ddec0aaa45862e",
       "title": "Readvertising: Associate Professor in the Department of Management Eastern Cape Job Type: Permanent Posted: 24 Oct 2026 13 Days left",
       "company": "See listing",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395549-readvertising-associate-professor-in-the-department-of-management-eastern-cape/?jobindex=3",
-      "found_at": "2026-10-25T07:32:17.845023+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395549-readvertising-associate-professor-in-the-department-of-management-eastern-cape/?jobindex=9",
+      "found_at": "2026-10-25T08:04:20.120046+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -1940,13 +2108,13 @@
       "description": "profile and further particulars for further information and ensure that all relevant documentation is submitted. The following documents are required: A comprehensive CV and relevant qualifications which should include the following: - Reasons for leaving your current and previous jobs. Referees who are and/or were your direct line manager, their title, name, designation and contact information which should be at least their contact number and email address. A clear and concise motivation outlining your interest in the position and your suitability in relation to the job requirements. Please attach a separate document containing your motivation letter under the additional document section of the"
     },
     {
-      "id": "bcf17b15c27a23d8",
+      "id": "37544a965ebb0b00",
       "title": "Readvertising: Professor/Associate Professor (Permanent) & Dean (5-Year Term, Part-Time) Eastern Cape Job Type: Permanent Posted: 24 Oct 2026 13 Days left",
       "company": "See listing",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395548-readvertising-professor-associate-professor-permanent-dean-5-year-term-part-time-eastern-cape/?jobindex=4",
-      "found_at": "2026-10-25T07:32:19.681061+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395548-readvertising-professor-associate-professor-permanent-dean-5-year-term-part-time-eastern-cape/?jobindex=10",
+      "found_at": "2026-10-25T08:04:21.699516+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -1966,13 +2134,13 @@
       "description": "profile and further particulars for further information and ensure that all relevant documentation is submitted. The following documents are required: A comprehensive CV and relevant qualifications which should include the following: - Reasons for leaving your current and previous jobs. Referees who are and/or were your direct line manager, their title, name, designation and contact information which should be at least their contact number and email address. A clear and concise motivation outlining your interest in the position and your suitability in relation to the job requirements. Please attach a separate document containing your motivation letter under the additional document section of the"
     },
     {
-      "id": "5b8fb38ff18f1246",
-      "title": "Cosmetic Frontshop Assistant - Somerset Mall Cape Town Job Type: Permanent Posted: 24 Oct 2026 14 Hours left",
+      "id": "ae6bdc1b39b1508c",
+      "title": "REFINE YOUR SEARCH var vsp = {\"startIndex\":0,\"pageIndex\":1,\"pageSize\":10,\"title\":null,\"titles\":null,\"skills\":null,\"exludeKeywords\":null,\"locationName\":\"South Africa\",\"locationID\":1,\"posted\":0,\"posted",
       "company": "See listing",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395547-cosmetic-frontshop-assistant-somerset-mall-cape-town/?jobindex=5",
-      "found_at": "2026-10-25T07:32:21.311682+00:00",
+      "apply_url": "https://www.careers24.com/now-hiring/17324-rhodes-university/",
+      "found_at": "2026-10-25T08:04:22.103383+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -1982,144 +2150,14 @@
         ],
         "warnings": []
       },
-      "category": "Cashiers & Retail",
-      "location": "Western Cape",
-      "province": "Western Cape",
+      "category": "Security",
+      "location": "Eastern Cape Free State Gauteng KwaZulu",
+      "province": "Gauteng",
       "closing_date": "",
       "salary": "",
       "job_type": "Permanent",
       "requirements": "",
-      "description": "Ensure that full ranges of products are always on the shelves and neatly presented. Maintain the stock on the shelves to ensure it has not reached its sell by date. Restock merchandise when needed to ensure maximum sales. Be responsible for accurate cash flow. Ensure that all line voids and price changes are approved and signed by a supervisor. Exchange merchandise for customers and accept return goods by customers when authorized to do so. Transact all purchases - receive and processes all payments such as cash, cards, vouchers, coupons, and other payments excepted by Dis-Chem. Restock merchandise when needed to ensure maximum sales. Delivered stock or stock pulled from the storeroom must be stored and packed in the correct space immediately. Ensure the stock on the shelves has not reached sell by dates. Provide friendly, helpful, and courteous assistance and advice to all customers. All out of stock queries from customers must be followed up with the customer service out of stock list. Ensure cash is placed in the drop safe according to Dis-Chem standard operating procedures. Be alert and verify all payments according to Dis-Chem verification procedure. Adhere to Dis-Chem secur"
-    },
-    {
-      "id": "4e46fbc5cb98c0c8",
-      "title": "TVET N6 Internship program | Managed People Solutions | Cape Town Cape Town Job Type: Internship Posted: 24 Oct 2026 60 Days left",
-      "company": "See listing",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395546-tvet-n6-internship-program-managed-people-solutions-cape-town-cape-town/?jobindex=6",
-      "found_at": "2026-10-25T07:32:21.739053+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site"
-        ],
-        "warnings": []
-      },
-      "category": "Cashiers & Retail",
-      "location": "Western Cape",
-      "province": "Western Cape",
-      "closing_date": "",
-      "salary": "r 18",
-      "job_type": "Internship",
-      "requirements": "Check vintage, product quality on the shelf, stock rotation, and price tags Execute merchandising activities as per cycle brief Feedback on customer complaints, queries, and requests Communicate and upkeep knowledge of product and promotions Effectively record merchandising activities Execute calls as per call cycle Advice RSM on out-of-stock products Requirements: Under the age of 28 years old. N6 TVET Certificate Management Assistant Business Management Marketing Management Stipend : R3 500 per month Duration 18 Months Please do not apply if you do not meet the requirements for the position Should you not receive any feedback within 2 weeks after the",
-      "description": "TVET N6 Internship program | Managed People Solutions | Cape Town , Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results TVET N6 Internship program | Managed People Solutions | Cape Town Cape Town Salary: Market Related Job Type: Internship Sectors: General Import & Export Reference: 208964 Apply before Dec 23 2026 | 60 Days left Apply Vacancy Details Employer: Managed People Solutions Managed People Solutions is offering internship opportunities to young, unemployed and ambitious TVET students looking for workplace experience. This opportunity is only open to individuals who have completed their TVET College N6 Certificate (looking to complete their 18-month workplace experience program to apply for N6 Diploma) in Cape Town, Western Cape . About the Programme: We are offering a dynamic 18 Months In"
-    },
-    {
-      "id": "3d99e30acb163759",
-      "title": "Fundraiser Western Cape Job Type: Permanent Posted: 24 Oct 2026 48 Days left",
-      "company": "See listing",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395545-fundraiser-western-cape/?jobindex=7",
-      "found_at": "2026-10-25T07:32:23.401955+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site"
-        ],
-        "warnings": []
-      },
-      "category": "Education",
-      "location": "Western Cape",
-      "province": "Western Cape",
-      "closing_date": "",
-      "salary": "r 2026",
-      "job_type": "Permanent",
-      "requirements": "Proven experience in fundraising, donor engagement, or a related field. - Strong interpersonal and communication skills, both written and verbal. - Demonstrable ability to write persuasive proposals and reports. - Excellent organisational and project management skills, with the ability to manage multiple priorities. - Proficiency in using fundraising software and CRM tools to track donor engagement and contributions. Preferred Qualifications - Experience in non-profit sector. - Familiarity with grant writing and report submission processes. - Bachelor’s degree in a relevant field such as communications, business, or non-profit management. - Certification in fundraising management or related credentials. Preference will be given to suitably qualified candidates from designated groups in line with our Employment Equity Plan. Applications close 11 December 2026. Start date: 1st February 2027. Apply 1 person has applied for this job. 150 people have viewed this job. Previous Next Similar Jobs Fundraiser Durban Job Type: Permanent Posted 06 Oct 2026 | 42 Days left",
-      "description": "We are seeking a dedicated Fundraiser who will play a pivotal role in securing financial support for our organisation’s initiatives. Your primary focus will be on developing and implementing effective fundraising strategies that engage and inspire potential donors, ensuring sustainable funding for our programmes. Key Responsibilities - Develop and execute comprehensive fundraising proposals to meet the organisation’s financial goals. - Identify, research, and engage potential individual, corporate, and foundation donors. - Cultivate and maintain strong relationships with existing and prospective donors. - Write compelling fundraising proposals and grant applications to secure funding. - Organise fundraising events and campaigns, ensuring effective promotion and execution. - Collaborate with marketing and communications teams to create impactful fundraising materials. - Monitor and report on fundraising performance, adjusting strategies as needed. - Stay informed about sector trends and best practices in fundraising to enhance effectiveness. Requirements - Proven experience in fundraising, donor engagement, or a related field. - Strong interpersonal and communication skills, both w"
-    },
-    {
-      "id": "acf5aa7c0d1a70e3",
-      "title": "Casual Frontshop Assistant (Fixed Term) - Foreshore Cape Town Job Type: Contract Posted: 23 Oct 2026 13 Days left",
-      "company": "See listing",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395544-casual-frontshop-assistant-fixed-term-foreshore-cape-town/?jobindex=8",
-      "found_at": "2026-10-25T07:32:25.297610+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site"
-        ],
-        "warnings": []
-      },
-      "category": "Cashiers & Retail",
-      "location": "Western Cape",
-      "province": "Western Cape",
-      "closing_date": "",
-      "salary": "",
-      "job_type": "Contract",
-      "requirements": "Essential: Grade 12 – Matric or Senior Certificate 0 – 6 Months Retail work experience Advantageous: 1 Year work experience within Retail Certification in Retail Business Management Job Description: Ensure that full ranges of products are on the shelves at all times and neatly presented. Maintain the stock on the shelves to ensure it has not reached its sell by date. Restock merchandise when needed to ensure maximum sales. All out of stock queries from customers must be followed up on, in line with the customer service out of stock list and ensure they are dealt with in a timeous manner. Ensure delivered stock and/ or stock pulled from the storeroom are stored and packed in the correct space. Ensure merchandise displays, labels and pricing are correct at all times and report all price discrepancies to management. Ensure the storeroom organised, neat and tidy. Keep up to date with new product knowledge to effectively assist customers. Assist with restocking of merchandise and supplies when needed to ensure maximum sales. Assist with back shopping when required. All merchandise must be handled carefully to prevent any losses. Transact all purchases – receive, verify and processes a",
-      "description": "Ensure that full ranges of products are on the shelves at all times and neatly presented. Maintain the stock on the shelves to ensure it has not reached its sell by date. Restock merchandise when needed to ensure maximum sales. All out of stock queries from customers must be followed up on, in line with the customer service out of stock list and ensure they are dealt with in a timeous manner. Ensure delivered stock and/ or stock pulled from the storeroom are stored and packed in the correct space. Ensure merchandise displays, labels and pricing are correct at all times and report all price discrepancies to management. Ensure the storeroom organised, neat and tidy. Keep up to date with new product knowledge to effectively assist customers. Assist with restocking of merchandise and supplies when needed to ensure maximum sales. Assist with back shopping when required. All merchandise must be handled carefully to prevent any losses. Transact all purchases – receive, verify and processes all payments such as cash, cards, vouchers, coupons and any other acceptable payments. Exchange merchandise for customers and accept returned goods by customers when authorised to do so by the Frontsh"
-    },
-    {
-      "id": "4d0bed2ca4b56cb8",
-      "title": "Casual Cashier (Fixed Term) - N1 CIty, Goodwood Cape Town Job Type: Contract Posted: 23 Oct 2026 13 Days left",
-      "company": "See listing",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395543-casual-cashier-fixed-term-n1-city-goodwood-cape-town/?jobindex=9",
-      "found_at": "2026-10-25T07:32:25.715144+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site"
-        ],
-        "warnings": []
-      },
-      "category": "Cashiers & Retail",
-      "location": "Western Cape",
-      "province": "Western Cape",
-      "closing_date": "",
-      "salary": "",
-      "job_type": "Contract",
-      "requirements": ", or attributes that make them suitable for future job opportunities within Dis-Chem Pharmacies. Purpose of the role: Support customer service at point of sale while ensuring a world-class shopping experience. Record customer transactions on the Dis-Chem operating system according to company policies & standard operating procedures, with zero tolerance toward inaccuracies & elimination of fraud risk Essential: Grade 12 / Matric A minimum of 6 months’ experience cashier/till operations experience Computer literate – MS Office Sound numerical skills Strong command of the English language Basic customer service Willing and able to work retail hours Job Description: Adhere to Dis-Chem’s customer service policies and procedures Establish a professional relationship with customers Report customer complaints and compliments to the Frontline Supervisor, or store management Adhere to the customer turnover hourly rate Be aware of current sales and promotions Ensure colleagues and customers are not exposed to any risk Carry out and manage Dis-Chem 5 star communication principles Be responsible for cash flow Ensure all line voids and price changes are approved and signed off by the supervisor",
-      "description": "Adhere to Dis-Chem’s customer service policies and procedures Establish a professional relationship with customers Report customer complaints and compliments to the Frontline Supervisor, or store management Adhere to the customer turnover hourly rate Be aware of current sales and promotions Ensure colleagues and customers are not exposed to any risk Carry out and manage Dis-Chem 5 star communication principles Be responsible for cash flow Ensure all line voids and price changes are approved and signed off by the supervisor Exchange merchandise for customers and accept returned goods by customers when authorised to do so Transact all purchases – receive and process all payments (cash, bank cards, vouchers, coupons, other forms of payments) accepted by Dis-Chem Process all loyalty cards including those of our accelerator partners (Discovery Health Care, Medihelp Lifestage, Momentum Multiply, Legacy Lifestyle, ABSA Rewards and eBucks) Ensure cash is placed in drop safe according to Dis-Chem’s SOPs Ensure usage of your code and password is restricted to only you; is safe, and is changed regularly Ensure all outgoing stock/items/scripts are scanned and paid for Ensure that all money i"
-    },
-    {
-      "id": "15125eaa151ea87b",
-      "title": "Casual Cashier (Fixed Term) - Haasendal Cape Town Job Type: Contract Posted: 23 Oct 2026 13 Days left REFINE YOUR SEARCH var vsp = {\"startIndex\":0,\"pageIndex\":1,\"pageSize\":10,\"title\":null,\"titles\":nu",
-      "company": "See listing",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395542-casual-cashier-fixed-term-haasendal-cape-town/?jobindex=10",
-      "found_at": "2026-10-25T07:32:26.114609+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site"
-        ],
-        "warnings": []
-      },
-      "category": "Cashiers & Retail",
-      "location": "Western Cape",
-      "province": "Western Cape",
-      "closing_date": "",
-      "salary": "",
-      "job_type": "Contract",
-      "requirements": ", or attributes that make them suitable for future job opportunities within Dis-Chem Pharmacies. Purpose of the role: Support customer service at point of sale while ensuring a world-class shopping experience. Record customer transactions on the Dis-Chem operating system according to company policies & standard operating procedures, with zero tolerance toward inaccuracies & elimination of fraud risk Essential: Grade 12 / Matric A minimum of 6 months’ experience cashier/till operations experience Computer literate – MS Office Sound numerical skills Strong command of the English language Basic customer service Willing and able to work retail hours Job Description: Adhere to Dis-Chem’s customer service policies and procedures Establish a professional relationship with customers Report customer complaints and compliments to the Frontline Supervisor, or store management Adhere to the customer turnover hourly rate Be aware of current sales and promotions Ensure colleagues and customers are not exposed to any risk Carry out and manage Dis-Chem 5 star communication principles Be responsible for cash flow Ensure all line voids and price changes are approved and signed off by the supervisor",
-      "description": "Adhere to Dis-Chem’s customer service policies and procedures Establish a professional relationship with customers Report customer complaints and compliments to the Frontline Supervisor, or store management Adhere to the customer turnover hourly rate Be aware of current sales and promotions Ensure colleagues and customers are not exposed to any risk Carry out and manage Dis-Chem 5 star communication principles Be responsible for cash flow Ensure all line voids and price changes are approved and signed off by the supervisor Exchange merchandise for customers and accept returned goods by customers when authorised to do so Transact all purchases – receive and process all payments (cash, bank cards, vouchers, coupons, other forms of payments) accepted by Dis-Chem Process all loyalty cards including those of our accelerator partners (Discovery Health Care, Medihelp Lifestage, Momentum Multiply, Legacy Lifestyle, ABSA Rewards and eBucks) Ensure cash is placed in drop safe according to Dis-Chem’s SOPs Ensure usage of your code and password is restricted to only you; is safe, and is changed regularly Ensure all outgoing stock/items/scripts are scanned and paid for Ensure that all money i"
+      "description": "Rhodes University Jobs and Vacancies - Careers24 Rhodes University Live jobs at Rhodes University View All (7) Readvertising: Associate Professor in the Department of Management Eastern Cape Job Type: Permanent Posted 24 Oct 2026 | 13 Days left Readvertising: Professor/Associate Professor (Permanent) & Dean (5-Year Term, Part-Time) Eastern Cape Job Type: Permanent Posted 24 Oct 2026 | 13 Days left Internal Advert: Administrator RUBIC Eastern Cape Job Type: Permanent Posted 23 Oct 2026 | 6 Days left Senior Finance Administrator: Short-Term Risk and Investments Eastern Cape Job Type: Permanent Posted 15 Oct 2026 | 5 Days left Director of Community Engagement (Grade 19) Eastern Cape Job Type: Permanent Posted 15 Oct 2026 | 4 Days left Campus Guard (3 positions) Eastern Cape Job Type: Permanent Posted 14 Oct 2026 | 4 Days left CREATE AN EMAIL ALERT Find Us Main Admin Building 21 Drostdy Road Grahamstown Port Elizabeth South Africa 6139 Never miss another job opportunity at Rhodes Universit"
     },
     {
       "id": "ac37917879ccecb1",
@@ -2128,59 +2166,7 @@
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
       "apply_url": "https://simplify.hr/",
-      "found_at": "2026-10-25T07:32:26.492077+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site"
-        ],
-        "warnings": []
-      },
-      "category": "Office & Admin",
-      "location": "Cape Town",
-      "province": "Gauteng",
-      "closing_date": "",
-      "salary": "R650",
-      "job_type": "Contract",
-      "requirements": "of the job. Must-haves and knockouts do the first pass before anyone opens a CV. 03 Interview guides, ready Structured guides and weighted scorecards for each round. Same rubric for every panellist. Brief Senior product designer · R650K · CT hybrid · fintech background a plus AI returns Senior Product Designer We're looking for a senior product designer to lead the redesign of our customer onboarding experience, partnering closely with engineering and growth to own end-to-end flows, from research through to ship. Key responsibilities Own onboarding flows end-to-end, from research to shipped product. Partner with engineering and growth to ship measurable improvements. Raise the bar on craft and mentor designers across the team. In their words People teams who got their afternoons back. \" You have established yourselves as a trusted partner who genuinely understands our business, our people, our values, our purpose, and our talent requirements. Executive Head Human Capital VKB Group \" Their platform has reduced administrative friction, improved data accuracy between systems, and enhanced employee onboarding across our markets. Chief Human Resources Officer Unifi Credit \" The system'",
-      "description": "s One-line brief in. Polished, on-brand JD out. Tuned for SA roles, sectors and seniority. 02 Questionnaires that know the role Built from the requirements of the job. Must-haves and knockouts do the first pass before anyone opens a CV. 03 Interview guides, ready Structured guides and weighted scorecards for each round. Same rubric for every panellist. Brief Senior product designer · R650K · CT hybrid · fintech background a plus AI returns Senior Product Designer We're looking for a senior product designer to lead the redesign of our customer onboarding experience, partnering closely with engineering and growth to own end-to-end flows, from research through to ship. Key responsibilities Own onboarding flows end-to-end, from research to shipped product. Partner with engineering and growth to ship measurable improvements. Raise the bar on craft and mentor designers across the team. In their words People teams who got their afternoons back. \" You have established yourselves as a trusted partner who genuinely understands our business, our people, our values, our purpose, and our talent requirements. Executive Head Human Capital VKB Group \" Their platform has reduced administrative fric"
-    },
-    {
-      "id": "e6534d02a3734e32",
-      "title": "Work For Us",
-      "company": "See listing",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/now-hiring/646-careers24",
-      "found_at": "2026-10-25T07:32:26.910732+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site"
-        ],
-        "warnings": []
-      },
-      "category": "Other Jobs",
-      "location": "Eastern Cape Free State Gauteng KwaZulu",
-      "province": "Gauteng",
-      "closing_date": "",
-      "salary": "R50",
-      "job_type": "",
-      "requirements": "",
-      "description": "Careers24 Jobs and Vacancies - Careers24 We always have fun Founded January, 2006 Industry Advertising Type Corporate Reach National Employees 50 to 99 employees Follow this Company on social media We are all valued contributors I love that the Careers24 team is non-hierarchical, in the sense that everyone's ideas are valued. Innovation is important and each team member's suggestions are taken seriously. Elizabeth Mamacos Head of Content Secret Santa in July 2016 We each picked a name from a hat and spent less than R50 on a gift. Unwrapping our gifts together and finding out who bought what for whom was lots of fun! Media24 40 Heerengracht St Cape Town City Centre Cape Town South Africa 8000 Tel: +27 21 406 2382 Email: sales@careers24.com Website: http://www.careers24.com Team Building 2016 \"Climbing and completing the obstacle course was challenging but with the encouragement of great colleagues, we accomplished a great feat. Also, the team lunch at Dunes in Hout Bay was phenomenal af"
-    },
-    {
-      "id": "18e73a6484140260",
-      "title": "Advertise With Us Quick Links",
-      "company": "See listing",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://recruiter.careers24.com/",
-      "found_at": "2026-10-25T07:32:27.329551+00:00",
+      "found_at": "2026-10-25T08:04:22.497471+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -2194,19 +2180,19 @@
       "location": "",
       "province": "",
       "closing_date": "",
-      "salary": "r 6",
+      "salary": "",
       "job_type": "",
       "requirements": "",
-      "description": "Recruitment Agencies Join Careers24.com Hire Top Professionals by reaching over 6 million South Africans monthly. Contact us on +27(0)11 877 6245 or email sales@careers24.com Choose from 4 options to best suit your hiring needs Job Advertising Post your job on Careers24 and reach an audience of over a million active jobseekers a month. Get more applications - Create an online job ad post including logo Tap into our database - Ad sent to candidates who match your job ad Get more exposure - Ad distributed to a host of leading online job destinations Get responses real-time - Receive applications immediately in your email inbox Easy application management - Filter candidates with custom questionnaires 1 job ad post: R1 200.00 2 job ad posts: R2 000.00 5 job ad posts: R4 000.00 10 job ad posts: R7 500.00 *excl. VAT Get started now Head Hunting Search our database of over 3 million candidates. Unlimited candidate searches Only pay for the profiles you are interested in Automatic matching of"
+      "description": ""
     },
     {
-      "id": "4670cdff6be2bc77",
-      "title": "Recruiters Directory",
+      "id": "e6534d02a3734e32",
+      "title": "Work For Us",
       "company": "See listing",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/now-hiring/",
-      "found_at": "2026-10-25T07:32:28.492029+00:00",
+      "apply_url": "https://www.careers24.com/now-hiring/646-careers24",
+      "found_at": "2026-10-25T08:04:22.513749+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -2216,14 +2202,66 @@
         ],
         "warnings": []
       },
-      "category": "Banking & Finance",
+      "category": "Other Jobs",
       "location": "",
       "province": "",
       "closing_date": "",
       "salary": "",
       "job_type": "",
       "requirements": "",
-      "description": "Featured Companies Find jobs at inspiring companies 636 Registered Companies Jobs | Companies | Courses 0-9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Companies Listed under A Home / Companies Hiring Abalobi Solutions ABSA Accenture Accounting and Financial Advisory (Pty) Ltd ACI Adcorp Insights"
+      "description": ""
+    },
+    {
+      "id": "18e73a6484140260",
+      "title": "Advertise With Us Quick Links",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://recruiter.careers24.com/",
+      "found_at": "2026-10-25T08:04:22.515441+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
+    },
+    {
+      "id": "4670cdff6be2bc77",
+      "title": "Recruiters Directory",
+      "company": "See listing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/now-hiring/",
+      "found_at": "2026-10-25T08:04:22.518513+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
     },
     {
       "id": "883ef882a7906250",
@@ -2232,7 +2270,7 @@
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
       "apply_url": "https://www.careers24.com/sitemap/",
-      "found_at": "2026-10-25T07:32:29.003834+00:00",
+      "found_at": "2026-10-25T08:04:22.520906+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -2258,7 +2296,7 @@
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
       "apply_url": "https://www.careers24.com/terms/",
-      "found_at": "2026-10-25T07:32:29.005233+00:00",
+      "found_at": "2026-10-25T08:04:22.522173+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -2284,7 +2322,7 @@
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
       "apply_url": "https://www.careers24.com/widgets/",
-      "found_at": "2026-10-25T07:32:29.008319+00:00",
+      "found_at": "2026-10-25T08:04:22.525202+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -2310,7 +2348,7 @@
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
       "apply_url": "https://recruiter.careers24.com/recruiter-terms",
-      "found_at": "2026-10-25T07:32:29.009608+00:00",
+      "found_at": "2026-10-25T08:04:22.526470+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -2336,7 +2374,7 @@
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
       "apply_url": "https://www.instagram.com/careers24sa/",
-      "found_at": "2026-10-25T07:32:29.013510+00:00",
+      "found_at": "2026-10-25T08:04:22.530336+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -2362,7 +2400,1125 @@
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
       "apply_url": "https://www.instagram.com/careers24sa/",
-      "found_at": "2026-10-25T07:32:29.050198+00:00",
+      "found_at": "2026-10-25T08:04:22.566508+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
+    },
+    {
+      "id": "b0056d00023f65bb",
+      "title": "Johannesburg",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-johannesburg",
+      "found_at": "2026-10-25T08:04:23.141418+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Healthcare",
+      "location": "Germiston is seeking a motivated and deta",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "r9",
+      "job_type": "Full Time",
+      "requirements": "",
+      "description": "Find jobs in Johannesburg | Pnet Full time Part time Work from home Find Jobs Find Jobs Easy Apply 100 Date posted Work from home options Work type Functions Contract Experience Functions Sectors Cities Regions Application method Commute time Job language Filters Sorting Date Date posted Work from home options Work type Functions Contract Experience Functions Sectors Cities Regions Application method Commute time Job language Locations Johannesburg Gauteng Western Cape KwaZulu-Natal eThekwini Eastern Cape North West Limpopo Mpumalanga Free State Northern Cape Central Date posted New jobs 606 Last week 3407 Work from home options Partially remote 76 Fully remote 37 Work type Functions IT 950 Sales 915 Accountancy 882 Management 569 Finance 537 show more Contract Experience Functions Sectors Cities Regions Application method Easy Apply 100 On company website 26 Commute time Where do you start from? Maximum commute How do you travel to work? Job language English 6750 Locations Johannesbur"
+    },
+    {
+      "id": "0415085dfa32c3e1",
+      "title": "Cape Town",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-cape-town",
+      "found_at": "2026-10-25T08:04:23.703021+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Cashiers & Retail",
+      "location": "Cape Town",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "r 50",
+      "job_type": "Full Time",
+      "requirements": "",
+      "description": "Answers questions to providers related to Benefit Plans, Claims and related topics To communicate effectively for additional information as needed by providers Perform accurate data entry Perform eligibility and benefit verification Create effective, grammatically correct and compli JOB DESCRIPTION Answers questions to providers related to Benefit Plans, Claims and related topics To communicate effectively for additional information as needed by providers Perform accurate data entry Perform eligibility and benefit verification Create effective, grammatically correct and compli more 9 hours ago NEW Production & Inventory Co-ordinator SNC Nanofibers Cape Town SNC Nanofibers is shaping the future of advanced materials. Based in Cape Town, we are a leading global nanotechnology company with a patented high-throughput electrospinning platform, SNC BEST™, that delivers nanofiber innovation at commercial scale. From medical devices to cosmetics and clim SNC Nanofibers is shaping the future of advanced materials. Based in Cape Town, we are a leading global nanotechnology company with a patented high-throughput electrospinning platform, SNC BEST™, that delivers nanofiber innovation at comm"
+    },
+    {
+      "id": "7b4b1a626015379d",
+      "title": "Sandton",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-sandton",
+      "found_at": "2026-10-25T08:04:24.205619+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "Sandton",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "r 15",
+      "job_type": "Full Time",
+      "requirements": "and recognised compliance practices. To help ensure that the JSE Group complies with applicable legislation, policies, governance requirements and recognised compliance practices. more 2 days ago Decision Scientist Capitec Bank LTD Sandton Capitec Bank is a leading South African retail bank that focuses on essential banking services and provides innovative transacting, savings, insurance and unsecured lending products to individuals. Capitec's mission is to make banking simple and transparent to help clients - regardless of their leve Capitec Bank is a leading South African retail bank that focuses on essential banking services and provides innovative transacting, savings, insurance and unsecured lending products to individuals. Capitec's mission is to make banking simple and transparent to help clients - regardless of their leve more 3 days ago Sales Administrator Coresolve Mining Group, 155 West Street, Sandton, Johannesburg, 2196 Coresolve Mining Group is seeking an organised and proactive Sales Administrator to join our team in Sandton. We provide procurement and supply solutions to the mining and industrial sectors, working with local and international suppliers to source equ",
+      "description": "We are seeking a skilled Mobile App Developer with expertise in React Native to join our dynamic team. This role primarily focuses on developing and maintaining high-quality mobile applications for both iOS and Android platforms, ensuring a seamless user experience.Key Responsibilitie"
+    },
+    {
+      "id": "c95bd2f770896f74",
+      "title": "Pretoria",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-pretoria",
+      "found_at": "2026-10-25T08:04:24.736579+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "Gauteng",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "r 80",
+      "job_type": "Full Time",
+      "requirements": "",
+      "description": "offers Armscor is looking for a Crypologist who will design, develop, implement, test, and evaluate advanced cryptographic systems and secure communication solutions that protect the organisation’s information, digital assets, and critical infrastructure against evolving cyber threats. The role offers more 8 hours ago NEW Recruiter BUSINESS DYNAMICS CONSULTANTS Pretoria We are seeking a motivated and detail-oriented Recruiter to join our team. This role combines recruitment and talent sourcing with Industrial Psychology, supporting Australian healthcare and allied health recruitment operations. The successful candidate will be responsible for identifying and assess We are seeking a motivated and detail-oriented Recruiter to join our team. This role combines recruitment and talent sourcing with Industrial Psychology, supporting Australian healthcare and allied health recruitment operations. The successful candidate will be responsible for identifying and assess more 9 hours ago NEW SAIPA Article Clerk MKC GROUP Pretoria A medium-sized accounting practice in Lynnwood, Pretoria offers a secure opportunity for an accountant with relevant experience and/or academic training to join our"
+    },
+    {
+      "id": "4e6c86269b815c65",
+      "title": "Durban",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-durban",
+      "found_at": "2026-10-25T08:04:25.149553+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Drivers & Logistics",
+      "location": "Musgrave",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "r 55",
+      "job_type": "Full Time",
+      "requirements": "",
+      "description": "Product sampling and laboratory testing In-line quality inspection and process monitoring Application of food safety and Good Manufacturing Practices (GMP) Compliance with KORE and ISO/FSSC standards Accurate recording and interpretation of test results Identification and reporting o Job Description Product sampling and laboratory testing In-line quality inspection and process monitoring Application of food safety and Good Manufacturing Practices (GMP) Compliance with KORE and ISO/FSSC standards Accurate recording and interpretation of test results Identification and reporting o more 18 hours ago NEW Independent Contractor LegalWise Durban If you are energetic, entrepreneurial and motivated, we would like to hear from you. We are looking for superstars to join our fast-growing sales team, especially those who love working with people and who are happy to put in solid effort to achieve great results. If you are energetic, entrepreneurial and motivated, we would like to hear from you. We are looking for superstars to join our fast-growing sales team, especially those who love working with people and who are happy to put in solid effort to achieve great results. more 1 day ago Associ"
+    },
+    {
+      "id": "ff385cd68968b512",
+      "title": "Centurion",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-centurion",
+      "found_at": "2026-10-25T08:04:25.589413+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "upmarket store located in Louwlardia",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "r 680",
+      "job_type": "Full Time",
+      "requirements": ". The incumbent will be responsible for the Pretoria site training function while also supporting other sites and business units as required by operational needs. Th To coordinate, facilitate, assess, and support learning and development interventions aligned to operational and business requirements. The incumbent will be responsible for the Pretoria site training function while also supporting other sites and business units as required by operational needs. Th more 1 day ago Senior Technician Thatchfield HOA Centurion A well-established residential community in Centurion is looking for a qualified, experienced and hands-on Senior Technician to provide technical support, maintenance and infrastructure services. The successful candidate will be responsible for maintaining critical systems including access control, A well-established residential community in Centurion is looking for a qualified, experienced and hands-on Senior Technician to provide technical support, maintenance and infrastructure services. The successful candidate will be responsible for maintaining critical systems including access control, more 1 day ago Inventory Controller Tevo Warehouse Centurion Main Purpose o",
+      "description": "Brand Manager – Africa (Brand Portfolio) Location: Pretoria, South Africa (Office-based, Full-time) Reporting Structure: South African Brand Management / Export Function Geographic Scope: East Africa & West Africa (Southern Africa is managed separately within the SA structure) Job Description: Brand Manager – Africa (Brand Portfolio) Location: Pretoria, South Africa (Office-based, Full-time) Reporting Structure: South African Brand Management / Export Function Geographic Scope: East Africa & West Africa (Southern Africa is managed separately within the SA structure) more 16 hours ago NEW Send me new job matches by email. Trainer - Centurion DC Clicks Group Limited Centurion To coordinate, facilitate, assess, and support learning and development interventions aligned to operational and business requirements. The incumbent will be responsible for the Pretoria site training function while also supporting other sites and business units as required by operational needs. Th To coordinate, facilitate, assess, and support learning and development interventions aligned to operational and business requirements. The incumbent will be responsible for the Pretoria site training function while"
+    },
+    {
+      "id": "47d508974e827b4a",
+      "title": "Midrand",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-midrand",
+      "found_at": "2026-10-25T08:04:26.102535+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "Midrand",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "r 40",
+      "job_type": "Full Time",
+      "requirements": "Essential Dis-Chem Pharmacies has an opportunity available for a Junior ESG Analyst. The Junior Analyst will be responsible for Supporting the research and analysis of ESG data to identify potential ESG risks and opportunities and contribute to the development of ESG activities. Minimum RequirementsEssential more 2 days ago Budgeting Assistant - Midrand (12 month Fixed-term Contract) Dis-Chem Midrand Dis-Chem Pharmacies in Midrand has an opportunity available for a Budgeting Assistant to join the Finance team. The main purpose of the role is to provide administrative and financial support in the preparation, monitoring and reporting of budgets. The role ensures accurate maintenance of budget inf Dis-Chem Pharmacies in Midrand has an opportunity available for a Budgeting Assistant to join the Finance team. The main purpose of the role is to provide administrative and financial support in the preparation, monitoring and reporting of budgets. The role ensures accurate maintenance of budget inf more 3 days ago Senior Buyer: Spare Parts & Logistics Ad-Hoc Midrand The Category Manager for Spare Parts is strategically responsible for the end-to-end lifecycle, commercial performance, and a",
+      "description": "Coca-Cola Beverages Africa (CCBA) presents an exciting opportunity for a Procurement Specialist, to join the Finance team at CCBA: South Africa.CCBA is the 8th largest Coca-Cola authorised bottler in the world by revenue, and the largest on the continent. It accounts for over 40% of a Job DescriptionCoca-Cola Beverages Africa (CCBA) presents an exciting opportunity for a Procurement Specialist, to join the Finance team at CCBA: South Africa.CCBA is the 8th largest Coca-Cola authorised bottler in the world by revenue, and the largest on the continent. It accounts for over 40% of a more 1 day ago Send me new job matches by email. Country Lead: Sustainability Coca-Cola Beverages South Africa Midrand Job DescriptionCoca-Cola Beverages Africa (CCBA) presents an exciting opportunity for a Country Lead: Sustainability, to join the Public Affairs, Communication & Sustainability team at CCBA: South Africa. CCBA is the 8th largest Coca-Cola authorised bottler in the world by revenue, and the larg Job DescriptionCoca-Cola Beverages Africa (CCBA) presents an exciting opportunity for a Country Lead: Sustainability, to join the Public Affairs, Communication & Sustainability team at CCBA: South A"
+    },
+    {
+      "id": "2e2752dccc02b181",
+      "title": "Northern Suburbs",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-northern-suburbs",
+      "found_at": "2026-10-25T08:04:26.568134+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Healthcare",
+      "location": "Cape TownAn established motor dealership",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "",
+      "description": "As the Financial Accountant, you'll manage and maintain company records, focus on Fixed Assets, Insurance and Stock. You will also assist with the monthly Management Reference: CPT006844-N-1Our client based in the Northern Suburbs is looking for a Financial Accountant to join their team.Role OverviewAs the Financial Accountant, you'll manage and maintain company records, focus on Fixed Assets, Insurance and Stock. You will also assist with the monthly Management more 1 day ago Business Development/Key Account Manager Switch Recruit (Pty) Ltd CPT - Northern Suburbs Reference: JHB000813-SDW-1An international airfreight business is seeking an experienced Key Account Manager/Sales Executive with a strong operational background to join its Cape Town team. This is an excellent opportunity for a logistics professional who understands airfreight operations, enjoys bu Reference: JHB000813-SDW-1An international airfreight business is seeking an experienced Key Account Manager/Sales Executive with a strong operational background to join its Cape Town team. This is an excellent opportunity for a logistics professional who understands airfreight operations, enjoys bu more 1 day ago Locations No"
+    },
+    {
+      "id": "65f7428e92e2c792",
+      "title": "Stellenbosch",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-stellenbosch",
+      "found_at": "2026-10-25T08:04:27.048073+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "a pharmacy within the scope of practice o",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "",
+      "description": "Sinapi Biomedical is seeking a qualified and experienced Toolmaker to join their manufacturing team. The primary responsibility of this role is the servicing, maintenance, repair and upkeep of all injection moulding moulds and associated tooling. The successful candidate will also be"
+    },
+    {
+      "id": "35dcc31b9a28b809",
+      "title": "Gqeberha",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-gqeberha",
+      "found_at": "2026-10-25T08:04:27.486849+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Drivers & Logistics",
+      "location": "Lorraine",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "R18,000",
+      "job_type": "Full Time",
+      "requirements": "Essential:Grade 12 – Matric or Senior Certificate0 – 6 Months Retail work e Dis-Chem Gqeberha stores requires Frontshop Assistants, to uphold the merchandising standards whilst supporting the customer service at point of sales in accordance with Dis-Chem policies and procedures.Minimum Requirements: Essential:Grade 12 – Matric or Senior Certificate0 – 6 Months Retail work e more 3 days ago Sales Representative Interwaste (Pty) Ltd. Gqeberha Interwaste, a leader in waste management solutions across Southern Africa, is seeking a seasoned Sales Representative to join our team at the Gqeberha Branch. With a commitment to sustainability, innovation, and operational excellence, Interwaste is dedicated to creating a better future by tran Interwaste, a leader in waste management solutions across Southern Africa, is seeking a seasoned Sales Representative to join our team at the Gqeberha Branch. With a commitment to sustainability, innovation, and operational excellence, Interwaste is dedicated to creating a better future by tran more 4 days ago Receptionist - UPD Port Elizabeth Clicks Group Limited Gqeberha (Port Elizabeth) We are looking to recruit a permanent Receptionist to work for U",
+      "description": "Our client, a company specialising in LED lighting products and solutions, is seeking a motivated and customer-focused Internal Sales Representative to join their team in Gqeberha. Location: Gqeberha (Port Elizabeth), Eastern Cape"
+    },
+    {
+      "id": "d4680c6568451a56",
+      "title": "Halfway House",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-halfway-house",
+      "found_at": "2026-10-25T08:04:28.510928+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "upmarket store located in Louwlardia",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "r 1",
+      "job_type": "Full Time",
+      "requirements": "of the business across digital, print, soci Enerji Electrical / Synerji is looking for a creative, organised and enthusiastic Junior Graphic Designer to join our marketing team and work closely with the Marketing Manager. This is a hands-on role supporting the day-to-day design requirements of the business across digital, print, soci more 3 hours ago NEW IT Helpdesk Technician Edgy Nicollo Group t/a Edgy Nicollo Collection Pretoria We’re looking for an IT Support Technician to help keep our computers, software, and networks running smoothly. You’ll provide hands-on support to our team, solve technical problems, and make sure everyone can work without interruptions. We’re looking for an IT Support Technician to help keep our computers, software, and networks running smoothly. You’ll provide hands-on support to our team, solve technical problems, and make sure everyone can work without interruptions. more 4 hours ago NEW Accounts Receivable & Accounts Payable Accountant (Shared Services Accountant) Sausage Saloon Bedfordview, Head Office Department: Finance Reports To: Financial Manager / Group Financial Controller Availability Requirement: Candidates must be immediatley available E",
+      "description": "Are you curious, innovative and passionate about IT Hardware and Infrastructure? Do you take ownership, embrace challenges, and love problem-solving? We’re a world-leading smart mobility SaaS tech company with almost 2,000,000 active users. Our teams are collaborative, vibrant an Job description: Are you curious, innovative and passionate about IT Hardware and Infrastructure? Do you take ownership, embrace challenges, and love problem-solving? We’re a world-leading smart mobility SaaS tech company with almost 2,000,000 active users. Our teams are collaborative, vibrant an more 7 hours ago NEW Learning And Development Specialist Smollan Financial Services Johannesburg At Smollan, We’re on an evolutionary journey where we’re shifting our story. We’re looking for truly unique people who believe in fostering a diverse and inclusive environment. Where our people are cared for, happy and inspired in building an extraordinary place to work. Job Summary:Smollan is At Smollan, We’re on an evolutionary journey where we’re shifting our story. We’re looking for truly unique people who believe in fostering a diverse and inclusive environment. Where our people are cared for, happy and inspired"
+    },
+    {
+      "id": "1fbfc6c4ff7d87da",
+      "title": "Randburg",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-randburg",
+      "found_at": "2026-10-25T08:04:28.949031+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "a pharmacy within the scope of practice o",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "r 2",
+      "job_type": "Full Time",
+      "requirements": "of the business across digital, print, soci Enerji Electrical / Synerji is looking for a creative, organised and enthusiastic Junior Graphic Designer to join our marketing team and work closely with the Marketing Manager. This is a hands-on role supporting the day-to-day design requirements of the business across digital, print, soci more 17 hours ago NEW Pharmacist Assistant - QPB - Clicks Northriding Clicks Group Limited Randburg Responsible for providing pharmaceutical care services (within scope of practice) and performing day-to-day dispensary administration according to company's Standard Operating Plans (SOPs). Responsible for providing pharmaceutical care services (within scope of practice) and performing day-to-day dispensary administration according to company's Standard Operating Plans (SOPs). more 1 day ago ASSM Development Officer Mintek Randburg Mintek has an exciting position for an ASSM Development Officer to support the coordination of artisanal and small-scale mining (ASSM) activities, with emphasis on formalisation, basic compliance, and sustainable practices. The role includes assisting with the delivery of training programmes, provid Mintek has an exciting pos",
+      "description": "includes assisting with the delivery of training programmes, provid Mintek has an exciting position for an ASSM Development Officer to support the coordination of artisanal and small-scale mining (ASSM) activities, with emphasis on formalisation, basic compliance, and sustainable practices. The role includes assisting with the delivery of training programmes, provid more 1 day ago Head: Fire Assay and Reference Material Group Mintek Randburg Mintek has an exciting career opportunity for the Head: Fire Assay and Reference Material Group, within the Analytical Chemistry Division. The successful candidate will lead research and innovation in analytical chemistry, through proposing appropriate work, leading technical output and developing a Mintek has an exciting career opportunity for the Head: Fire Assay and Reference Material Group, within the Analytical Chemistry Division. The successful candidate will lead research and innovation in analytical chemistry, through proposing appropriate work, leading technical output and developing a more 1 day ago Send me new job matches by email. Clinic Nurse Practitioner - Cresta Dis-Chem Randburg Dis-Chem is looking for a Qualified Clinic Nurse"
+    },
+    {
+      "id": "36fe98217190a21b",
+      "title": "Wynberg",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-wynberg",
+      "found_at": "2026-10-25T08:04:29.388140+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "the East Rand of Johannesburg",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "r000546",
+      "job_type": "Full Time",
+      "requirements": ", providing suitable solutions and ensuring that the sales process runs Turnstar is looking for an enthusiastic, customer-focused and organised Internal Salesperson to join our Johannesburg branch. The successful candidate will be responsible for assisting customers, understanding their requirements, providing suitable solutions and ensuring that the sales process runs more 2 days ago Accountant The HR Company Wynberg Reference: Dur000546-Kogie-2Our client in Wynberg is seeking a personable, experienced and detail-oriented Accountant to take responsibility for the accounting function across multiple business entities.The successful candidate will be technically strong, highly organised and able to work independen Reference: Dur000546-Kogie-2Our client in Wynberg is seeking a personable, experienced and detail-oriented Accountant to take responsibility for the accounting function across multiple business entities.The successful candidate will be technically strong, highly organised and able to work independen more 1 day ago Production Manager - Luxury Kitchens *MUST ALREADY BE IN GAUTENG* LINEAR CONCEPTS Wynberg, Sandton Linear Concepts, South Africa's premier manufacturer of luxury",
+      "description": "We are seeking a skilled Mobile App Developer with expertise in React Native to join our dynamic team. This role primarily focuses on developing and maintaining high-quality mobile applications for both iOS and Android platforms, ensuring a seamless user experience.Key Responsibilitie"
+    },
+    {
+      "id": "0cd5aad25fabacf3",
+      "title": "Sunninghill",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-sunninghill",
+      "found_at": "2026-10-25T08:04:29.980028+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "Sunninghill",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "R1",
+      "job_type": "Full Time",
+      "requirements": ", the successful applicant could be required to perform new development on project r The main purpose of the successful applicant will be to operate as a senior developer and perform programming activities relating to day-to-day changes as requested by the users. Depending on the project requirements, the successful applicant could be required to perform new development on project r more 1 week ago NON-CLINICAL ADMIN ASSISTANT: PRE-AUTHORISATION Universal Health Sunninghill, Johannesburg To provide an administrative support to a Pre-Authorisation Call Centre daily. To perform all the non-clinical administrative tasks, filing and record keeping. Provide support to the clinical staff by following up on pending cases and pulling of reports from the system. Usually aligned with employee To provide an administrative support to a Pre-Authorisation Call Centre daily. To perform all the non-clinical administrative tasks, filing and record keeping. Provide support to the clinical staff by following up on pending cases and pulling of reports from the system. Usually aligned with employee more 1 week ago DUR PHARMACIST ASSISTANT Universal Health Sunninghill, Johannesburg The DUR Pharmacist As",
+      "description": "is accountable for developin Area of specialization: To provide strategic leadership and executive oversight of NTCSA's Corporate Services portfolio, encompassing Security, SHREQ, Facilities Management, Communications and Stakeholder Management, Marketing and Branding, and Fleet Management. The role is accountable for developin more 1 day ago Business Support Administrator Ad-Hoc Client - 10749040 Sunninghill We are looking for a proactive, organised and driven Business Support Administrator to provide administrative and operational support across various areas of the business. This is an all-rounder position suited to someone who enjoys being involved in different areas rather than performing one We are looking for a proactive, organised and driven Business Support Administrator to provide administrative and operational support across various areas of the business. This is an all-rounder position suited to someone who enjoys being involved in different areas rather than performing one more 2 days ago GENERAL MANAGER - OPERATIONS Universal Health Sunninghill, Johannesburg The operations director oversees all operational aspects of company strategy, helps set strategic goals and is"
+    },
+    {
+      "id": "144b0db82806cadc",
+      "title": "Kempton Park",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-kempton-park",
+      "found_at": "2026-10-25T08:04:30.497578+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "Munich",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "r 1",
+      "job_type": "Full Time",
+      "requirements": "The successful candidate will manage and control the regional creditor’s function, regional supplier accounts, ensuring accurate reconciliations, and adherence to company financial, legal, and SHEQ requirements more 4 days ago Production Supervisor The Lion Match Company (Pty) Ltd Kempton Park The opportunity has arisen for a suitable individual to join our production at Chloorkop (Gauteng). The role requires a knowledgeable, skilled, practical, enthusiastic, and highly energised person with requisite knowledge and familiarity of the FMCG and or manufacturing environment. The opportunity has arisen for a suitable individual to join our production at Chloorkop (Gauteng). The role requires a knowledgeable, skilled, practical, enthusiastic, and highly energised person with requisite knowledge and familiarity of the FMCG and or manufacturing environment. more 4 days ago Site Facilities Supervisor The Lion Match Company (Pty) Ltd Kempton Park To manage, maintain, improve, and preserve all site infrastructure, buildings, grounds, and support facilities across a 55,000m² manufacturing site. The incumbent is responsible for ensuring that all buildings, roads, utilities, drainage systems,",
+      "description": "Reporting to the Production & Factory Manager, the successful candidate will take full ownership of shift operations within the c Production Shift Supervisor – Must have 5+ years’ manufacturing experience. Location: Kempton Park, Gauteng Remuneration: Market related"
+    },
+    {
+      "id": "63e5eed2db51559c",
+      "title": "Brackenfell, Cape Town",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-brackenfell_cape-town",
+      "found_at": "2026-10-25T08:04:31.852169+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "Cape Town",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "r 50",
+      "job_type": "Full Time",
+      "requirements": ", maintenance strategies include Planned, Corrective and Proactive Maint OverviewTo provide and maintain a working environment that is safe and risk-free by safely performing plant and machinery maintenance (electrical, mechanical, facilities & PLC program) as per PEPSICO and OHS Act requirements, maintenance strategies include Planned, Corrective and Proactive Maint more 15 hours ago NEW Network Specialist TooMuchWifi Cape Town Permanent Employee (Full Time) Network Cape Town About Us TooMuchWifi is a leading provider of fast, reliable and affordable internet connectivity to aspirational communities in South Africa. We are a fast-growing company with a great culture which encapsulates our values - Accountability, Kindness Permanent Employee (Full Time) Network Cape Town About Us TooMuchWifi is a leading provider of fast, reliable and affordable internet connectivity to aspirational communities in South Africa. We are a fast-growing company with a great culture which encapsulates our values - Accountability, Kindness more 14 hours ago NEW Cosmetic Frontshop Assistant - Somerset Mall Dis-Chem Cape Town Dis-Chem Pharmacies requires a Cosmetic Frontshop Assistant for their Somerset Ma",
+      "description": "Answers questions to providers related to Benefit Plans, Claims and related topics To communicate effectively for additional information as needed by providers Perform accurate data entry Perform eligibility and benefit verification Create effective, grammatically correct and compli JOB DESCRIPTION Answers questions to providers related to Benefit Plans, Claims and related topics To communicate effectively for additional information as needed by providers Perform accurate data entry Perform eligibility and benefit verification Create effective, grammatically correct and compli more 2 hours ago NEW Production & Inventory Co-ordinator SNC Nanofibers Cape Town SNC Nanofibers is shaping the future of advanced materials. Based in Cape Town, we are a leading global nanotechnology company with a patented high-throughput electrospinning platform, SNC BEST™, that delivers nanofiber innovation at commercial scale. From medical devices to cosmetics and clim SNC Nanofibers is shaping the future of advanced materials. Based in Cape Town, we are a leading global nanotechnology company with a patented high-throughput electrospinning platform, SNC BEST™, that delivers nanofiber innovation at comm"
+    },
+    {
+      "id": "25986a372a02b416",
+      "title": "Century City",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-century-city",
+      "found_at": "2026-10-25T08:04:32.288305+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "Century City",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "r 6 000",
+      "job_type": "Full Time",
+      "requirements": "",
+      "description": "combines technical sales, business development and partner management, working with distributors, wholesalers, system integrators, panel builders and r Our client is seeking an Industrial Automation Sales Manager to grow sales and strengthen its channel partner network across South Africa. The role combines technical sales, business development and partner management, working with distributors, wholesalers, system integrators, panel builders and r more 4 days ago Credit Controller Professional Recruitment Network Century City Our client is looking for an experienced Credit Controller to join their team. The position is based in Century City, Cape Town Our client is looking for an experienced Credit Controller to join their team. The position is based in Century City, Cape Town more 4 days ago L2 Infrastructure Engineer Equity People Century City Join this top MSP and build a long-term, rewarding career. Stunning Employer that embraces a culture of teamwork and continuous growth and development. If you are an highly motivated individual passionate about IT and service delivery, and if you are looking for a platform to build a su Join this top MSP and build a long-term, rewarding ca"
+    },
+    {
+      "id": "fffeb30956e35d93",
+      "title": "Germiston",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-germiston",
+      "found_at": "2026-10-25T08:04:32.613220+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Cleaners & General Workers",
+      "location": "Johannesburg requires the services of a T",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "r 55",
+      "job_type": "Full Time",
+      "requirements": "/Demand Planning to join our Reman Division. This Specialised Diagnostic Level role is integral to ensuring the availability, accuracy, and efficient planning of remanufactured components and raw mater Komatsu South Africa is seeking a highly skilled Specialist: Remanufacturing Materials Requirements/Demand Planning to join our Reman Division. This Specialised Diagnostic Level role is integral to ensuring the availability, accuracy, and efficient planning of remanufactured components and raw mater more 7 hours ago NEW Specialist: Procurement Komatsu South Africa Germiston We are seeking a dynamic and experienced Procurement Specialist to join our team at our Remufacturing department in Germiston to drive strategic sourcing and supplier management within the heavy earth-moving equipment sector. This role is critical to ensuring the timely and cost-effective acqui We are seeking a dynamic and experienced Procurement Specialist to join our team at our Remufacturing department in Germiston to drive strategic sourcing and supplier management within the heavy earth-moving equipment sector. This role is critical to ensuring the timely and cost-effective acqui more 7 hours ago NEW Artisan",
+      "description": "Tosas is looking for an experienced and safety-focused Millwright to join our maintenance team in Wadeville. The primary purpose of this role is to ensure the reliable operation of plant and equipment through the installation, maintenance, fault-finding, and repair of industrial Purpose of the Role: Tosas is looking for an experienced and safety-focused Millwright to join our maintenance team in Wadeville. The primary purpose of this role is to ensure the reliable operation of plant and equipment through the installation, maintenance, fault-finding, and repair of industrial more 6 hours ago NEW Raw and Packaging Material Planner PepsiCo Germiston OverviewCall off raw and packaging material from approved suppliers. Liaise with internal and external stakeholders to ensure uninterrupted supply to all relevant production plants. Manage ageing stock through the supply chain to ensure minimum impact on write offs ResponsibilitiesManage Key Stakeho OverviewCall off raw and packaging material from approved suppliers. Liaise with internal and external stakeholders to ensure uninterrupted supply to all relevant production plants. Manage ageing stock through the supply chain to ensure minim"
+    },
+    {
+      "id": "47533a79ef0f023d",
+      "title": "Roodepoort",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-roodepoort",
+      "found_at": "2026-10-25T08:04:33.126449+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "Gauteng and service Lenasia",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "r 2",
+      "job_type": "Full Time",
+      "requirements": "…Essential:Grade 12 / Matr Dis-Chem Pharmacies require a Health Merchandiser for their store in Westgate Mall. Your responsibilities lie in ensuring Dis-Chem’s basic merchandising standards are properly executed and maintained. Provide customers with outstanding customer service. Minimum Requirements…Essential:Grade 12 / Matr more 1 day ago Hybrid Sales Representative - Tier 2 (Field Sales Department) - Johannesburg (Lenasia, Randburg and Roodepoort) Diplomat Distributors SA Pty Ltd Lenasia, Randburg & Roodepoort Easy Apply Diplomat South Africa is recruiting for the role of Sales Representative based in Gauteng and service Lenasia, Randburg & Roodepoort . This position will report to the Regional Manager. Job Objective: To manage the merchandising team and ensure that all customers receive a professional me Diplomat South Africa is recruiting for the role of Sales Representative based in Gauteng and service Lenasia, Randburg & Roodepoort . This position will report to the Regional Manager. Job Objective: To manage the merchandising team and ensure that all customers receive a professional me more 2 days ago Pharmacist Assistant QPB - Clicks Riverview Shopping Centre Clicks Group L",
+      "description": "will develop and implement robust procurement strategies, policies, and procedures to ensure cost-effective The main purpose of the job is to lead the procurement function, manage the acquisition of goods and services in line with SENTECH's strategic objectives and operational requirements. The role will develop and implement robust procurement strategies, policies, and procedures to ensure cost-effective more 6 hours ago NEW Manager: Warehouse and Logistics Sentech LTD Radiokop, Roodepoort The main purpose of the job is to lead and manage the overall logistics operations, including transportation, warehousing, inventory management, and distribution. The role will develop and implement efficient logistics strategies to optimise supply chain processes and ensure the timely delivery of p The main purpose of the job is to lead and manage the overall logistics operations, including transportation, warehousing, inventory management, and distribution. The role will develop and implement efficient logistics strategies to optimise supply chain processes and ensure the timely delivery of p more 6 hours ago NEW Fleet Operations Coordinator Hakki Africa (Pty) Ltd Roodepoort About Hakki Afric"
+    },
+    {
+      "id": "a5481e2603305065",
+      "title": "Boksburg",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-boksburg",
+      "found_at": "2026-10-25T08:04:33.608505+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "the East Rand of Johannesburg",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "r 2027",
+      "job_type": "Full Time",
+      "requirements": ", or attributes that make them suitable for future job opportunities within Di Dis-Chem Pharmacies is looking for a Casual Cashier for their Sunward Park store. The aim of a strategic talent pool is to have a readily available and pre-screened group of individuals with specific skills, qualifications, or attributes that make them suitable for future job opportunities within Di more 3 days ago Quality Controller TW Profile Services Boksburg We are currently recruiting for a Quality Controller position. We are currently recruiting for a Quality Controller position. 4 days ago Key Accounts: Mining Hitachi Construction Machinery Southern Africa Co. (Pty) Ltd. Boksburg Hitachi Construction Machinery Southern Africa Co. (Pty) Ltd is looking for a Key Accounts: Mining to join the Sales Division in Boksburg. HCSA is a world leading manufacturer of construction and mining equipment with a strong focus on a consistent development to provide customers with the technolog Hitachi Construction Machinery Southern Africa Co. (Pty) Ltd is looking for a Key Accounts: Mining to join the Sales Division in Boksburg. HCSA is a world leading manufacturer of construction and mining equipment with a strong",
+      "description": "combines hands-on technical expertise with team leadership, project management, customer AMS Haden Instrument and Mining is seeking an experienced Technical Manager to lead technical operations, including the repair, maintenance and installation of electrical and instrumentation equipment. The role combines hands-on technical expertise with team leadership, project management, customer more 2 days ago Sales Representative UNICO Boksburg, Benoni, Brakpan, Kempton Park We’re looking for an experienced and driven individual to join our sales team. If you’re confident approaching clients, building relationships and identifying new business opportunities, this could be the right fit for you. A minimum of 1 year of sales experience is required. We’re looking for some We’re looking for an experienced and driven individual to join our sales team. If you’re confident approaching clients, building relationships and identifying new business opportunities, this could be the right fit for you. A minimum of 1 year of sales experience is required. We’re looking for some more 2 days ago Casual Cashier - Sunward Park Dis-Chem Boksburg Dis-Chem Pharmacies is looking for a Casual Cashier for their S"
+    },
+    {
+      "id": "6c5bd2e48df823b6",
+      "title": "Gauteng",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-gauteng",
+      "found_at": "2026-10-25T08:04:34.191710+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "the Centurion Distribution Center and wil",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "r 55",
+      "job_type": "Full Time",
+      "requirements": "of the business across digital, print, soci Enerji Electrical / Synerji is looking for a creative, organised and enthusiastic Junior Graphic Designer to join our marketing team and work closely with the Marketing Manager. This is a hands-on role supporting the day-to-day design requirements of the business across digital, print, soci more 5 hours ago NEW Marketing Officer Mimed Gauteng Mimed Holdings is a growing private healthcare and industrial health group operating across South Africa, delivering Primary Health Care (PHC), Occupational Health and Safety (OHS), Emergency Medical Services (EMS), and community health outreach. Through our sister company KMJ Mining and Engineering Mimed Holdings is a growing private healthcare and industrial health group operating across South Africa, delivering Primary Health Care (PHC), Occupational Health and Safety (OHS), Emergency Medical Services (EMS), and community health outreach. Through our sister company KMJ Mining and Engineering more 8 hours ago NEW Workshop Technician (JHB) Maxwell and Spark Pty (Ltd) Gauteng Who are we? /About us Maxwell+spark, a leader in Li-ion technology for industrial mobility systems, offers a unique and compe",
+      "description": "includes assisting customers with deli products, preparing and packaging food items where required, maintaining product displays, monitoring pr The Deli Service Area Assistant is responsible for providing efficient customer service and supporting the daily operations of the deli department. The role includes assisting customers with deli products, preparing and packaging food items where required, maintaining product displays, monitoring pr more 10 hours ago NEW Social Media & Consumer Agent Amka Products Pty Ltd Gauteng Social Media Community & Consumer Agent Centurion, Gauteng | Permanent Are you passionate about social media, consumer engagement, and creating exceptional customer experiences? An exciting opportunity exists for a Social Media Community & Consumer Agent to join a dynamic Consumer Relations Social Media Community & Consumer Agent Centurion, Gauteng | Permanent Are you passionate about social media, consumer engagement, and creating exceptional customer experiences? An exciting opportunity exists for a Social Media Community & Consumer Agent to join a dynamic Consumer Relations more 4 hours ago NEW IT Support Engineer Network Alliance (Pty) Ltd Gauteng Our company"
+    },
+    {
+      "id": "b97cc15a0365b7ff",
+      "title": "Western Cape",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-western-cape",
+      "found_at": "2026-10-25T08:04:34.629394+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "George report directly to the Factory Man",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "",
+      "description": "Find jobs in Western Cape | Pnet Full time Part time Work from home Find Jobs Find Jobs Easy Apply 104 Date posted Work from home options Work type Functions Contract Experience Functions Sectors Cities Regions Application method Commute time Job language Filters Sorting Date Date posted Work from home options Work type Functions Contract Experience Functions Sectors Cities Regions Application method Commute time Job language Locations Cape Town Northern Suburbs Stellenbosch Brackenfell, Cape Town Century City Bellville Somerset West Paarl Southern Suburbs Durbanville George Claremont Firgrove Franschhoek Milnerton Parow Ceres Table View Worcester Kuils River Gauteng Western Cape KwaZulu-Natal eThekwini Eastern Cape North West Limpopo Mpumalanga Free State Northern Cape Central Date posted New jobs 245 Last week 2545 Work from home options Partially remote 126 Fully remote 34 Work type Functions IT 625 Accountancy 554 Sales 511 Management 401 Construction 286 show more Contract Experie"
+    },
+    {
+      "id": "4dffcd449b04783c",
+      "title": "KwaZulu-Natal",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-kwazulu-natal",
+      "found_at": "2026-10-25T08:04:35.618352+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Education",
+      "location": "Gauteng",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Matric (Grade 12). Diploma/Degree in Supply Chain/Logistics (advantageous). Minimum 3–5 years operational experience in a logistics, tran One of our Transportation clients are looking for a highly experienced and skilled VPC Coordinator to manage their team in Camperdown. Minimum Requirements: Matric (Grade 12). Diploma/Degree in Supply Chain/Logistics (advantageous). Minimum 3–5 years operational experience in a logistics, tran more 1 week ago Transport Manager Tumaini Consulting KwaZulu Natal One of our FMCG clients are looking for a highly experienced and skilled Transport Manager to manage their team in Durban. Minimum Requirements: National Senior Certificate with Higher Grade Math. Tertiary Diploma, Degree or, Honors Degree in Logistics and Transportation Management or a One of our FMCG clients are looking for a highly experienced and skilled Transport Manager to manage their team in Durban. Minimum Requirements: National Senior Certificate with Higher Grade Math. Tertiary Diploma, Degree or, Honors Degree in Logistics and Transportation Management or a more 1 week ago Continuous Improvement Specialist - KZN Tumaini Consulting KwaZulu Natal Our client is looking for a resul",
+      "description": "Find jobs in Kwazulu Natal | Pnet Full time Part time Work from home Find Jobs Find Jobs Date posted Work type Functions Contract Experience Functions Sectors Cities Regions Commute time Job language Filters Sorting Date Date posted Work type Functions Contract Experience Functions Sectors Cities Regions Commute time Job language Locations Johannesburg Durban Centurion Sunninghill Century City Germiston Pietermaritzburg Pinetown Durban North Newcastle Kloof Morningside Ballito Table View Hilton Jeffreys Bay Sandown Underberg Vryheid Gauteng Western Cape KwaZulu-Natal eThekwini Eastern Cape Date posted New jobs 5 Last week 45 Work type Functions IT 22 Sales 19 Management 11 Construction 8 Accountancy 7 show more Contract Experience Functions Sectors Cities Regions Commute time Where do you start from? Maximum commute How do you travel to work? Job language English 99 Locations Johannesburg Durban Centurion Sunninghill Century City Germiston Pietermaritzburg Pinetown Durban North Newcast"
+    },
+    {
+      "id": "2de876826239c15c",
+      "title": "eThekwini",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-ethekwini",
+      "found_at": "2026-10-25T08:04:36.039480+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Drivers & Logistics",
+      "location": "Durban",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "R000061",
+      "job_type": "Full Time",
+      "requirements": "",
+      "description": "Find jobs in Ethekwini | Pnet Full time Part time Work from home Find Jobs Find Jobs Easy Apply 52 Date posted Work from home options Work type Functions Contract Experience Functions Sectors Cities Regions Application method Commute time Job language Filters Sorting Date Date posted Work from home options Work type Functions Contract Experience Functions Sectors Cities Regions Application method Commute time Job language Locations Durban Umhlanga Pinetown Westville Durban North Hillcrest Kloof Berea La Lucia Mount Edgecombe Jacobs Bluff Umlazi Cato Ridge Hammarsdale New Germany Amanzimtoti Tongaat Waterfall Mobeni Gauteng Western Cape KwaZulu-Natal eThekwini Eastern Cape North West Limpopo Mpumalanga Free State Northern Cape Central Date posted New jobs 94 Last week 1093 Work from home options Partially remote 77 Fully remote 34 Work type Functions Sales 347 Management 224 IT 176 Accountancy 150 Logistics 148 show more Contract Experience Functions Sectors Cities Regions Application m"
+    },
+    {
+      "id": "211a0e05c24f7880",
+      "title": "Eastern Cape",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-eastern-cape",
+      "found_at": "2026-10-25T08:04:36.503968+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Drivers & Logistics",
+      "location": "the Gamtoos Valley",
+      "province": "Gauteng",
+      "closing_date": "",
+      "salary": "R000431",
+      "job_type": "Full Time",
+      "requirements": "5+ years’ experience in a similar role in the manufacturing industry. 3 years’ managerial experience. Knowledge of QA standar One of the leading FMCG manufacturing companies in Eastern Cape is currently looking for a skilled Operations Manager to join their team. Minimum Requirements: 5+ years’ experience in a similar role in the manufacturing industry. 3 years’ managerial experience. Knowledge of QA standar more 3 days ago Locations Gqeberha East London Middelburg Kariega Humansdorp Nqweba Woodstock Jeffreys Bay Makhanda Silverton Bedford Nxuba Stutterheim Komani Newlands, Alfred Nzo Qonce Saint Francis Bay Umtata Addo Port Alfred Gauteng Western Cape KwaZulu-Natal eThekwini Eastern Cape North West Limpopo Mpumalanga Free State Northern Cape Jobs by email Frequently Asked Questions How many jobs are there in Eastern Cape? There are 848 jobs within 20 miles of Eastern Cape available on Pnet right now. How many temporary and part-time jobs are available in Eastern Cape? There are 0 temporary jobs and 22 part-time jobs available in Eastern Cape.",
+      "description": "requires a maintenance candidate who can work confidently across electrical, mechanical and automated plant systems Role Responsibilities: Maintain, repair and service pr A Millwright is required to minimise downtime of production equipment at our client’s Eastern Cape facility. The role requires a maintenance candidate who can work confidently across electrical, mechanical and automated plant systems Role Responsibilities: Maintain, repair and service pr more 14 hours ago NEW Production Manager - Eastern Cape Tumaini Consulting Eastern Cape Our client is seeking a results-driven Production Manager to take responsibility for the effective coordination and performance of beverage manufacturing operations in the Western Cape. This position will suit a hands-on leader who understands high-volume production, quality control and the importan Our client is seeking a results-driven Production Manager to take responsibility for the effective coordination and performance of beverage manufacturing operations in the Western Cape. This position will suit a hands-on leader who understands high-volume production, quality control and the importan more 14 hours ago NEW Sales Consultant Italtile C"
+    },
+    {
+      "id": "9f1a43ebbef18cfb",
+      "title": "North West",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-north-west",
+      "found_at": "2026-10-25T08:04:37.116713+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "North West",
+      "province": "North West",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
+    },
+    {
+      "id": "bd85e4e348a4f4e3",
+      "title": "Mpumalanga",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-mpumalanga",
+      "found_at": "2026-10-25T08:04:37.118416+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "Mpumalanga",
+      "province": "Mpumalanga",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
+    },
+    {
+      "id": "879351861c0cf5bd",
+      "title": "Limpopo",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-limpopo",
+      "found_at": "2026-10-25T08:04:37.119781+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "Limpopo",
+      "province": "Limpopo",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
+    },
+    {
+      "id": "5a1b577f3ecab775",
+      "title": "Free State",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-free-state",
+      "found_at": "2026-10-25T08:04:37.120892+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "Free State",
+      "province": "Free State",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
+    },
+    {
+      "id": "26e1939e95189293",
+      "title": "Northern Cape .res-vwwq58{box-sizing:border-box;margin:0;min-width:0;font-family:Relative Pro,Arial,sans-serif;font-weight:350;color:#0C2577;font-size:16px;line-height:24px;margin-top:0px;margin-bott",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-northern-cape",
+      "found_at": "2026-10-25T08:04:37.122481+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "Northern Cape",
+      "province": "Northern Cape",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
+    },
+    {
+      "id": "b508e150e2f6a2cb",
+      "title": "Central .res-s8wxnl{box-sizing:border-box;margin:0;min-width:0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-d",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-central",
+      "found_at": "2026-10-25T08:04:37.134264+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
+    },
+    {
+      "id": "da1247a0630042b1",
+      "title": "New jobs .res-zydzpz{box-sizing:border-box;margin:0;min-width:0;width:-webkit-fit-content;width:-moz-fit-content;width:fit-content;border-radius:4px;font-weight:500;background-color:#E8ECF3;color:#0C",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-south-africa?action=facet_selected;age;age_1&ag=age_1",
+      "found_at": "2026-10-25T08:04:37.145708+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
+    },
+    {
+      "id": "519f5334973c30f5",
+      "title": "Last week 8120 Work from home options",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-south-africa?action=facet_selected;age;age_7&ag=age_7",
+      "found_at": "2026-10-25T08:04:37.156901+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
+    },
+    {
+      "id": "fabd4f04f8b93bfe",
+      "title": "Partially remote 163",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-south-africa?action=facet_selected;workFromHome;2&wfh=2",
+      "found_at": "2026-10-25T08:04:37.160723+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
+    },
+    {
+      "id": "99d28ab19f246b3c",
+      "title": "Fully remote 34 Work type Functions .res-1bfmv52{box-sizing:border-box;margin:0;min-width:0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-fl",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-south-africa?action=facet_selected;workFromHome;1&wfh=1",
+      "found_at": "2026-10-25T08:04:37.163088+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
+    },
+    {
+      "id": "ee136150b596b296",
+      "title": "Sales 1897 .res-e35u2g{box-sizing:border-box;margin:0;min-width:40px;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-moz",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-south-africa?action=facet_selected;disciplines;Sales&di=Sales",
+      "found_at": "2026-10-25T08:04:37.174634+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
+    },
+    {
+      "id": "7bb7c2a22070e43c",
+      "title": "IT 1772",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-south-africa?action=facet_selected;disciplines;IT&di=IT",
+      "found_at": "2026-10-25T08:04:37.186228+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
+    },
+    {
+      "id": "0a24f55cbf976eb9",
+      "title": "Accountancy 1768",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-south-africa?action=facet_selected;disciplines;Accountancy&di=Accountancy",
+      "found_at": "2026-10-25T08:04:37.187222+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
+    },
+    {
+      "id": "b56a39f06abef6a9",
+      "title": "Management 1290",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-south-africa?action=facet_selected;disciplines;Management&di=Management",
+      "found_at": "2026-10-25T08:04:37.188982+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
+    },
+    {
+      "id": "991af0604690743f",
+      "title": "Logistics 971 .res-kiloy0{box-sizing:border-box;margin:0;min-width:48px;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-appearance:none;-",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-south-africa?action=facet_selected;disciplines;Logistics&di=Logistics",
+      "found_at": "2026-10-25T08:04:37.190734+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Drivers & Logistics",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
+    },
+    {
+      "id": "d35dbcbc0259cbae",
+      "title": "Easy Apply 249",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-south-africa?action=facet_selected;applicationMethod;INTERNAL&am=INTERNAL",
+      "found_at": "2026-10-25T08:04:37.202831+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
+    },
+    {
+      "id": "54d7d75feae626e9",
+      "title": "On company website 64 Commute time .res-1tu3c53{box-sizing:border-box;margin:0;min-width:0;padding-left:16px;padding-right:16px;padding-top:8px;padding-bottom:16px;}.res-1tu3c53 [aria-checked=\"true\"]",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-south-africa?action=facet_selected;applicationMethod;EXTERNAL&am=EXTERNAL",
+      "found_at": "2026-10-25T08:04:37.204545+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "",
+      "province": "",
+      "closing_date": "",
+      "salary": "",
+      "job_type": "",
+      "requirements": "",
+      "description": ""
+    },
+    {
+      "id": "bf4fbb543b7a84ae",
+      "title": "English 14952 Locations",
+      "company": "See listing",
+      "source_name": "PNet",
+      "source_url": "https://www.pnet.co.za/jobs/in-south-africa",
+      "apply_url": "https://www.pnet.co.za/jobs/in-south-africa?action=facet_selected;detectedLanguages;en&fdl=en",
+      "found_at": "2026-10-25T08:04:37.217052+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
