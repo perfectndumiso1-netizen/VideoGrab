@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
             else show(new JobsFragment());
             return true;
         });
-    }
         scheduleJobChecks();
     }
     private void scheduleJobChecks(){
