@@ -1,5 +1,8 @@
 name: Telegram test post
-on: {workflow_dispatch:}
+on:
+  workflow_dispatch:
+  push:
+    paths: ["telegram-test.trigger"]
 jobs:
   test:
     runs-on: ubuntu-latest
