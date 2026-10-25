@@ -11,9 +11,14 @@ jobs:
         with: {gradle-version: "8.7"}
       - run: |
           echo "ANDROID_HOME=$ANDROID_HOME ANDROID_SDK_ROOT=$ANDROID_SDK_ROOT"
-          ls "$ANDROID_HOME/platforms" || true
-          yes | sdkmanager --licenses >/dev/null 2>&1 || true
-          sdkmanager "platforms;android-34" "build-tools;34.0.0"
+          ls "${ANDROID_HOME:-/usr/lib/android-sdk}/platforms" || true
+          SDKMGR="$(command -v sdkmanager || find "${ANDROID_HOME:-/usr/lib/android-sdk}" -name sdkmanager -type f 2>/dev/null | head -1)"
+          echo "sdkmanager: $SDKMGR"
+          if [ -n "$SDKMGR" ]; then
+            yes | "$SDKMGR" --licenses >/dev/null 2>&1 || true
+            "$SDKMGR" "platforms;android-34" "build-tools;34.0.0" || true
+          fi
+          ls "${ANDROID_HOME:-/usr/lib/android-sdk}/platforms"
       - working-directory: android
         run: gradle assembleDebug --stacktrace
       - uses: actions/upload-artifact@v4
