@@ -1,5 +1,6 @@
 name: Build Android APK (debug)
 on: [workflow_dispatch, push]
+permissions: {contents: write}
 jobs:
   apk:
     runs-on: ubuntu-latest
@@ -11,7 +12,6 @@ jobs:
         with: {gradle-version: "8.7"}
       - run: |
           echo "ANDROID_HOME=$ANDROID_HOME ANDROID_SDK_ROOT=$ANDROID_SDK_ROOT"
-          ls "${ANDROID_HOME:-/usr/lib/android-sdk}/platforms" || true
           SDKMGR="$(command -v sdkmanager || find "${ANDROID_HOME:-/usr/lib/android-sdk}" -name sdkmanager -type f 2>/dev/null | head -1)"
           echo "sdkmanager: $SDKMGR"
           if [ -n "$SDKMGR" ]; then
@@ -21,5 +21,19 @@ jobs:
           ls "${ANDROID_HOME:-/usr/lib/android-sdk}/platforms"
       - working-directory: android
         run: gradle assembleDebug --stacktrace
+      - name: Prepare nicely-named APK
+        run: |
+          mkdir -p dist
+          cp android/app/build/outputs/apk/debug/app-debug.apk dist/SA-Opportunities.apk
+          ls -lh dist/SA-Opportunities.apk
       - uses: actions/upload-artifact@v4
-        with: {name: sa-opportunities-debug-apk, path: android/app/build/outputs/apk/debug/*.apk}
+        with: {name: sa-opportunities-debug-apk, path: dist/SA-Opportunities.apk}
+      - name: Publish / update GitHub Release with direct APK download
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create v1.0 dist/SA-Opportunities.apk \
+            --title "SA Opportunities v1.0" \
+            --notes "SA Opportunities Android app (debug build). Verified SA jobs with official apply links, scam filtering. Install: download SA-Opportunities.apk to your Android phone, open it, and allow 'install unknown apps' for your browser/Files app when asked." \
+          || gh release upload v1.0 dist/SA-Opportunities.apk --clobber
+          echo "Direct download: https://github.com/${{ github.repository }}/releases/download/v1.0/SA-Opportunities.apk"
