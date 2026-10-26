@@ -1,33 +1,41 @@
 {
-  "generated_at": "2026-10-26T06:04:24.538426+00:00",
+  "generated_at": "2026-10-26T06:57:13.974585+00:00",
   "version": "2.4",
   "stats": {
-    "total": 4,
+    "total": 9,
     "verified_official": 0
   },
   "groups": [
     {
-      "category": "IT & Technology",
-      "count": 2
+      "category": "Cashiers & Retail",
+      "count": 5
     },
     {
-      "category": "Learnerships & Internships",
+      "category": "Other Jobs",
       "count": 1
     },
     {
-      "category": "Office & Admin",
+      "category": "Cleaners & General Workers",
+      "count": 1
+    },
+    {
+      "category": "Healthcare",
+      "count": 1
+    },
+    {
+      "category": "Education",
       "count": 1
     }
   ],
   "jobs": [
     {
-      "id": "2a9befbc5e4da79a",
-      "title": "TVET N6 Internship program",
-      "company": "Managed People Solutions",
+      "id": "05a948d8e3995b55",
+      "title": "Sales Assistant - Cape Union Mart",
+      "company": "Cape Union Mart International",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395590-tvet-n6-internship-program-managed-people-solutions-nelspruit-mpumalanga-mpumalanga/?jobindex=1",
-      "found_at": "2026-10-26T06:03:44.590194+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395623-sales-assistant-cape-union-mart-waterfall-rustenburg/?jobindex=1",
+      "found_at": "2026-10-26T06:56:37.175310+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -38,24 +46,24 @@
         ],
         "warnings": []
       },
-      "category": "Learnerships & Internships",
-      "location": "Mpumalanga, Mpumalanga",
-      "province": "Mpumalanga",
-      "closing_date": "2026-12-25",
-      "salary": "r 18",
-      "job_type": "Intern",
-      "requirements": "Check vintage, product quality on the shelf, stock rotation, and price tags Execute merchandising activities as per cycle brief Feedback on customer complaints, queries, and requests Communicate and upkeep knowledge of product and promotions Effectively record merchandising activities Execute calls as per call cycle Advice RSM on out-of-stock products Requirements: Under the age of 28 years old. N6 TVET Certificate Management Assistant Business Management Marketing Management Stipend : R3 500 per month Duration 18 Months Please do not apply if you do not meet the requirements for the position Should you not receive any feedback within 2 weeks after the",
+      "category": "Cashiers & Retail",
+      "location": "Rustenburg, North West",
+      "province": "North West",
+      "closing_date": "2026-10-29",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Honesty in dealing with cash and finances. Building & maintaining relationships Innovation & change management Thinking adaptability Taking ownership Problem solving Trustworthy and honest Time management Exceptional customer service Minimum Requirement. Essential: Matric or Equivalent Up to 6 months retail experience Special conditions of employment: Clear Credit and Criminal record Willing and able to work retail hours. South African citizen Advantageous: 1 year work experience within retail. Microsoft – Computer Proficiency Ability to communicate effectively. Knowledge of current clothing trends/outdoor lifestyle (depending on the brand applying for) Willing and able to work retail hours. Apply Previous Next More Jobs at Cape Union Mart International View All (20) Shift Supervisor - Old Khaki - Tygervalley Cape Town Job Type: Permanent Posted 23 Oct 2026 | 2 Days left Shift Leader - Cape Union Mart - Canal Walk Milnerton Job Type: Permanent Posted 22 Oct 2026 | 3 Days left eCommerce Product Coordinator - Old Khaki Cape Town Job Type: Permanent Posted 13 Oct 2026 | 50 Days left Footwear Designer - Cape Union Mart Cape Town Job Type: Permanent Posted 13 Oct 2026 | 48 Days left",
       "exact_post": true,
-      "description": "Managed People Solutions is offering internship opportunities to young, unemployed and ambitious TVET students looking for workplace experience. This opportunity is only open to individuals who have completed their TVET College N6 Certificate (looking ... TVET N6 Internship program | Managed People Solutions | Nelspruit | Mpumalanga., Mpumalanga - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results TVET N6 Internship program | Managed People Solutions | Nelspruit | Mpumalanga. Mpumalanga Salary: Market Related Job Type: Internship Sectors: General Import & Export Reference: 208987 Apply before Dec 25 2026 | 61 Days left Apply Vacancy Details Employer: Managed People Solutions Managed People Solutions is offering internship opportunities to young, unemployed and ambitious TVET students looking for workplace experience. This o"
+      "description": "Duties and Responsibilities: Exceed customer expectations by practicing customer selling techniques. Adhere to stock loss controls in store. Ensure individual targets are met consistently. Ability to maximise and drive sales by identifying opportuni... Sales Assistant - Cape Union Mart - Waterfall, Rustenburg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / North West Back to Search Results Sales Assistant - Cape Union Mart - Waterfall Rustenburg Salary: Market Related Job Type: Permanent Sectors: Retail Sales Reference: 209013 Apply before Oct 29 2026 | 4 Days left Apply Vacancy Details Employer: Cape Union Mart International Duties and Responsibilities: Exceed customer expectations by practicing customer selling techniques. Adhere to stock loss controls in store. Ensure individual targets are met consistently. Ability to maximise and driv"
     },
     {
-      "id": "16b5be3db757bbf5",
-      "title": "Claims Assessor",
-      "company": "Hire Resolve",
+      "id": "499fd72cc1542a18",
+      "title": "Assembly Production Manager",
+      "company": "Ntice Search",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395589-claims-assessor-cape-town/?jobindex=2",
-      "found_at": "2026-10-26T06:03:44.988778+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395622-assembly-production-manager-plastics-west-rand/?jobindex=2",
+      "found_at": "2026-10-26T06:56:38.372819+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -66,71 +74,211 @@
         ],
         "warnings": []
       },
-      "category": "Office & Admin",
+      "category": "Other Jobs",
+      "location": "West Rand, Gauteng",
+      "province": "Gauteng",
+      "closing_date": "2026-11-25",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Matric with Mathematics and English. A qualification in Mechanical Engineering, Production, Operations, Manufacturing or Industrial Engineering . A Supervisory Management Certificate would be advantageous. Minimum 5 years' production experience within plastics manufacturing , preferably injection moulding. Minimum 5 years' supervisory or management experience in a manufacturing environment. Proven practical experience applying Takt Time and One-Piece Flow methodologies. Strong working knowledge of Lean Manufacturing and 6S principles. Six Sigma Yellow Belt or Green Belt certification, or demonstrable practical experience. Computer literacy, including MS Office . Willingness to work shifts, overtime and extended hours as operationally required. Ideal Candidate A hands-on, results-driven manufacturing leader with strong technical knowledge, excellent people-management skills and a structured approach to problem-solving. The ideal candidate will be comfortable working on the production floor, managing operational challenges and driving measurable improvements in productivity, quality and efficiency within a fast-paced plastics manufacturing environment. Please note: Only candidates w",
+      "exact_post": true,
+      "description": "Assembly Production Manager - Plastics Manufacturing Location: West Rand, Johannesburg Department: Manufacturing Reporting to: Factory Manager The Opportunity A leading manufacturing business is seeking an experienced Assembly & Production Manager to o... Assembly Production Manager - Plastics, West Rand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Assembly Production Manager - Plastics West Rand Salary: Market Related Job Type: Permanent Sectors: Manufacturing Reference: 74409 Apply before Nov 25 2026 | 31 Days left Apply Vacancy Details Employer: Ntice Search Assembly Production Manager - Plastics Manufacturing Location: West Rand, Johannesburg Department: Manufacturing Reporting to: Factory Manager The Opportunity A leading manufacturing business is seeking an experienced Assembly & Production Manager t"
+    },
+    {
+      "id": "f52a18e864ad6009",
+      "title": "Casual Cashier (Fixed Term)",
+      "company": "Dis-Chem Pharmacies Limited",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395621-casual-cashier-fixed-term-table-view-cape-town/?jobindex=3",
+      "found_at": "2026-10-26T06:56:38.704610+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Cashiers & Retail",
+      "location": "Cape Town, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-02",
+      "salary": "",
+      "job_type": "Contractor",
+      "requirements": ", or attributes that make them s... Casual Cashier (Fixed Term) - Table View, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Casual Cashier (Fixed Term) - Table View Cape Town Salary: Market Related Job Type: Contract Sectors: General Retail Reference: 209012 Apply before Nov 02 2026 | 8 Days left Apply Vacancy Details Employer: Dis-Chem Pharmacies Limited Dis-Chem Pharmacies is looking for a Casual Cashier for their Table View store. The aim of a strategic talent pool is to have a readily available and pre-screened group of individuals with specific skills, qualifications, or attributes that make them suitable for future job opportunities within Dis-Chem Pharmacies. Purpose of the role: Support customer service at point of sale while ensuring a world-class shopping experience. Record customer transactions on the Dis-Chem operating system according to company policies & standard operating procedures, with zero tolerance toward inaccuracies & elimination of fraud risk Essential: Grade 12 /",
+      "exact_post": true,
+      "description": "Adhere to Dis-Chem’s customer service policies and procedures Establish a professional relationship with customers Report customer complaints and compliments to the Frontline Supervisor, or store management Adhere to the customer turnover hourly rate Be aware of current sales and promotions Ensure colleagues and customers are not exposed to any risk Carry out and manage Dis-Chem 5 star communication principles Be responsible for cash flow Ensure all line voids and price changes are approved and signed off by the supervisor Exchange merchandise for customers and accept returned goods by customers when authorised to do so Transact all purchases – receive and process all payments (cash, bank cards, vouchers, coupons, other forms of payments) accepted by Dis-Chem Process all loyalty cards including those of our accelerator partners (Discovery Health Care, Medihelp Lifestage, Momentum Multiply, Legacy Lifestyle, ABSA Rewards and eBucks) Ensure cash is placed in drop safe according to Dis-Chem’s SOPs Ensure usage of your code and password is restricted to only you; is safe, and is changed regularly Ensure all outgoing stock/items/scripts are scanned and paid for Ensure that all money i"
+    },
+    {
+      "id": "b92eb3f62114540d",
+      "title": "Casual Frontshop Assistant - Matlosana Mall, Klerksdorp",
+      "company": "Dis-Chem Pharmacies Limited",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395620-casual-frontshop-assistant-matlosana-mall-klerksdorp-klerksdorp/?jobindex=4",
+      "found_at": "2026-10-26T06:56:39.041766+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Cashiers & Retail",
+      "location": "Klerksdorp, North West",
+      "province": "North West",
+      "closing_date": "2026-11-02",
+      "salary": "",
+      "job_type": "Other",
+      "requirements": "Essential Grade 12 – Matric or Senior Certificate. 0–6 months’ retail work experience. Advantageous 1 year’s work experience within a retail environment. Certification in Retail Business Management. Duties and Responsibilities Ensure the full range of products is available on the shelves at all times and neatly presented. Maintain stock on the shelves and ensure products have not reached their sell-by date. Restock merchandise when required to maximise sales. Follow up on all customer out-of-stock queries in line with the customer service out-of-stock list and ensure they are addressed timeously. Ensure delivered stock and/or stock pulled from the storeroom is stored and packed in the correct space. Ensure merchandise displays, labels and pricing are correct at all times and report price discrepancies to management. Ensure the storeroom is organised, neat and tidy. Keep up to date with new product knowledge to effectively assist customers. Assist with restocking merchandise and supplies when required to maximise sales. Assist with back shopping when required. Handle all merchandise carefully to prevent losses. Transact all purchases by receiving, verifying and processing payments,",
+      "exact_post": true,
+      "description": "Dis-Chem Pharmacies’ Matlosana Mall Store in Klerksdorp has an opportunity available for a Frontshop Assistant to join the team. The successful candidate will be responsible for upholding Dis-Chem merchandising standards while supporting customer serv... Casual Frontshop Assistant - Matlosana Mall, Klerksdorp, Klerksdorp - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / North West Back to Search Results Casual Frontshop Assistant - Matlosana Mall, Klerksdorp Klerksdorp Salary: Market Related Job Type: Part-Time Sectors: Retail Sales Reference: 209011 Apply before Nov 02 2026 | 8 Days left Apply Vacancy Details Employer: Dis-Chem Pharmacies Limited Dis-Chem Pharmacies’ Matlosana Mall Store in Klerksdorp has an opportunity available for a Frontshop Assistant to join the team. The successful candidate will be responsible for upholding Dis-Chem "
+    },
+    {
+      "id": "1a657006d9cc27ad",
+      "title": "Mobile Technician – Hydrogen Carbon Cleaning (JB6325)",
+      "company": "Kontak Recruitment",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395619-mobile-technician-hydrogen-carbon-cleaning-jb6325-gauteng/?jobindex=5",
+      "found_at": "2026-10-26T06:56:39.400533+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Cleaners & General Workers",
+      "location": "Gauteng, Gauteng",
+      "province": "Gauteng",
+      "closing_date": "2026-11-07",
+      "salary": "R9500 MONTH",
+      "job_type": "Full Time",
+      "requirements": "Matric (Grade 12). Must reside in or around Krugersdorp, Gauteng. Basic knowledge of cars and vehicle engines. Basic Microsoft Office skills. Good verbal communication and interpersonal skills. Professional, well-presented and well-spoken. Reliable, punctual and able to manage appointments independently. Sober habits. Contactable references. Advantageous: Previous sales experience. Experience in customer service, the automotive industry or a mobile-service environment. A genuine interest in cars and vehicle technology. Duties and Responsibilities: Travel to various car dealerships and customer locations in and around Krugersdorp using your own reliable vehicle. Perform hydrogen carbon-cleaning services in accordance with company training, procedures and safety requirements. Plan and manage appointments effectively, ensuring punctuality and efficient time management. Maintain accurate records of appointments, services performed and work completed. Explain the carbon-cleaning process to customers and ensure a professional customer experience. Build and maintain positive working relationships with Service Managers, Service Advisors, Dealer Principals and other dealership personnel.",
+      "exact_post": true,
+      "description": "Our client is looking for a reliable, motivated and customer-focused Mobile Technician to join its growing business in Krugersdorp. This is an excellent opportunity for someone with a basic understanding of cars who enjoys working with people and is keen to develop their skills in a specialised automotive service. The successful candidate will work with various car dealerships in and around Krugersdorp, providing hydrogen carbon-cleaning services that help improve engine performance and support reduced emissions. Full training and ongoing support will be provided, along with the opportunity to earn performance-based incentives and grow within an expanding, environmentally conscious industry."
+    },
+    {
+      "id": "5351b6dbbb36c2bf",
+      "title": "Branch Manager",
+      "company": "Pepkor Lifestyle",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395618-branch-manager-gauteng/?jobindex=6",
+      "found_at": "2026-10-26T06:56:39.766245+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Cashiers & Retail",
+      "location": "Gauteng, Gauteng",
+      "province": "Gauteng",
+      "closing_date": "2026-10-30",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "for entrepreneurs. Join our team and be part of our exciting journey as we continue to transform homes and enrich the lives of our customers and employees. \"Talent wins games, but teamwork and intelligence wins championships\" - Michael Jordan Similar Jobs View All (60) Branch Manager Bloemfontein Job Type: Permanent Posted 12 Oct 2026 | 47 Days left Branch Manager East London Job Type: Permanent Posted 29 Sep 2026 | 34 Days left Branch Manager Durban Job Type: Permanent Posted 06 Oct 2026 | 41 Days left Branch Manager - Bloemfontein Bloemfontein Job Type: Permanent Posted 13 Oct 2026 | 49 Days left More Jobs at Pepkor Lifestyle View All (40) Salesperson North West Job Type: Permanent Posted 26 Oct 2026 | 15 Hours left Salesperson (Fixed Term Contract) Tokai Job Type: Contract Posted 23 Oct 2026 | 5 Days left Sales Supervisor Sandton Job Type: Permanent Posted 23 Oct 2026 | 3 Days left Debtors Coordinator Sandton Job Type: Permanent Posted 23 Oct 2026 | 26 Days left",
+      "exact_post": true,
+      "description": "Introduction Are you an entrepreneurial leader ready to take full ownership of a retail store? As a Branch Manager, your primary role will be to strategically lead and optimize your store's total operational performance. From driving daily sales and pr... Branch Manager, Gauteng - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Branch Manager Gauteng Salary: Market Related Job Type: Permanent Sectors: Retail Management Reference: 208942 Apply before Oct 30 2026 | 5 Days left Apply Vacancy Details Employer: Pepkor Lifestyle Introduction Are you an entrepreneurial leader ready to take full ownership of a retail store? As a Branch Manager , your primary role will be to strategically lead and optimize your store's total operational performance . From driving daily sales and profitability to ensuring world-class customer serv"
+    },
+    {
+      "id": "ed6e2094bdee9c4b",
+      "title": "Postdoctoral Fellow",
+      "company": "Durban University of Technology",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395616-postdoctoral-fellow-durban/?jobindex=7",
+      "found_at": "2026-10-26T06:56:40.119755+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Healthcare",
+      "location": "Durban, KwaZulu-Natal",
+      "province": "KwaZulu-Natal",
+      "closing_date": "2026-10-30",
+      "salary": "R300 000 per annum",
+      "job_type": "Contractor",
+      "requirements": "A PhD in Environmental Science, Environmental or Analytical Chemistry, Environmental Biotechnology, Microbiology, Chemical or Environmental Engineering, or a closely related field (degree must have been awarded within the last 5 years) Demonstrated experience in the sampling, extraction and characterisation of microplastics and/or emerging contaminants in water, wastewater or sludge Hands-on experience with relevant analytical techniques (e.g., FTIR, Raman spectroscopy, Py-GC/MS, SEM-EDX, LC-MS/MS, GC-MS) Strong understanding of the fate and transport of contaminants in wastewater treatment processes and the aquatic environment Strong publication record in peer-reviewed, accredited journals related to said focus area Candidates must not have held a previous Post-Doctoral Fellowship at DUT Must below 40 years of age or younger at the time of application. Experience with wastewater treatment processes, including advanced treatment technologies (e.g., membrane filtration, advanced oxidation, adsorption) Prior experience in microplastics protocol optimization and identification using advanced instrumentation Experience in mathematical modeling of the fate of emerging contaminants in d",
+      "exact_post": true,
+      "description": "of microplastics as carriers of contaminants of concern. Design and execute high-quality, independent research within the specified focus area Develop and apply robust sampling, extraction and analytical protocols for microplastics and emerging contaminants in complex environmental matrices. Evaluate the performance of conventional and advanced treatment processes in removing microplastics and CECs. Disseminate research outcomes through publications in peer-reviewed journals and presentations at national and international conferences Mentor and support postgraduate (MSc and PhD) students, contributing meaningfully to the Chair's broader academic and research community Collaborate in the preparation of grant proposals, technical reports and project documentation, including engagement with industry, municipal and government stakeholders. To provide an opportunity to promising young researchers from different universities to enhance their research skills and expertise To expand on existing research and ideas and to pursue new lines of research To interact with other academics and post-doctoral fellows To develop knowledge for stakeholders such as the government, business, industry, a"
+    },
+    {
+      "id": "31455ce2b97054f1",
+      "title": "Salesperson",
+      "company": "Pepkor Lifestyle",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395615-salesperson-north-west/?jobindex=8",
+      "found_at": "2026-10-26T06:56:40.470979+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Cashiers & Retail",
+      "location": "North West, North West",
+      "province": "North West",
+      "closing_date": "2026-10-26",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Grade 12 7 – 12 Months sales experience preferably in Retail Competencies Team work Self-Motivation/Drive Customer Service orientated Interpersonal skills Communication Initiative Attention to detail Sales and prospecting processes Business Policies & Procedures Basic Retail Knowledge Extensive product knowledge within all categories Taking Action Courage & Confidence Emotional Maturity Personal Resilience Drive & Energy If you are a motivated and results-oriented individual with a passion for sales, we want to hear from you. Join our team and help us grow our customer base and drive revenue for the organization. Apply 3 people have viewed this job. Previous Next About Pepkor Lifestyle Creating a comfortable lifestyle Pepkor Lifestyle gives value-conscious mass-market customers the opportunity and means to create a comfortable lifestyle, transforming houses into homes. Value lifestyle product offering The Pepkor Lifestyle brands provide quality, value-for-money furniture, appliances and household goods from well-known international brands to locally manufactured household names. Products cover all aspects of life, from leisure for families to small office requirements for entrepre",
+      "exact_post": true,
+      "description": "Introduction We are looking for a dynamic and result driven Salesperson to join our team. The ideal candidate will be responsible for selling products to customers and ensuring customer satisfaction. The Salesperson will be required to develop and ma... Salesperson , North West - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Salesperson North West Salary: Market Related Job Type: Permanent Sectors: Retail Sales Reference: 208932 Apply before Oct 26 2026 | 15 Hours left Apply Vacancy Details Employer: Pepkor Lifestyle Introduction We are looking for a dynamic and result driven Salesperson to join our team. The ideal candidate will be responsible for selling products to customers and ensuring customer satisfaction. The Salesperson will be required to develop and maintain relationships with customers, identify their needs"
+    },
+    {
+      "id": "56eabc4d2c21ac75",
+      "title": "Transitions Manager",
+      "company": "EXL Service",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395614-transitions-manager-cape-town-cbd/?jobindex=10",
+      "found_at": "2026-10-26T06:56:41.178036+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Education",
       "location": "Cape Town, Western Cape",
       "province": "Western Cape",
       "closing_date": "2026-12-25",
-      "salary": "",
+      "salary": "R1 YEAR",
       "job_type": "Full Time",
-      "requirements": "✅ Matric certificate; a relevant post-school qualification will be advantageous. ✅Previous experience in claims assessment, claims administration, warranty claims, or a similar role. ✅Experience within the automotive industry will be highly advantageous. ✅Strong analytical, numerical, and problem-solving skills. ✅Excellent attention to detail and accuracy. ✅Good written and verbal communication skills. ✅Proficiency in Microsoft Office and the ability to work with claims management systems. If you meet the above requirements and want to make a career-changing move, apply today by emailing your CV to manufacturing@hireresolve.za.com or visit website: www.hireresolve.co.za Apply 2 people have viewed this job. Previous Next About Hire Resolve Hire Resolve removes the stress of the career search by understanding you as an individual. We take more than just your qualifications into account, considering factors like your salary and",
+      "requirements": "* Graduate / Post Graduate in any stream * PMP, PgMP certification (preferred) Work Experience Requirements: * 10+ years of experience, most of which should be in BPO environment * 3+ years of the BPO experience should be in Transitions * Program Management experience of a small to medium size engagement * Valid (10 year / 5 year) US &/or UK Visa will be an added advantage ** In alignment with the Employment Equity Act, preference will be given to applicants from historically underrepresented groups/ aligned with our EE targets ** Transitions Manager, Cape Town CBD - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape / Cape Town Back to Search Results Transitions Manager Cape Town CBD Salary: On Application Job Type: Permanent Sectors: Call Centre Reference: 21911 Apply before Dec 25 2026 | 61 Days left Apply External Application Vacancy Details Employer: EXL Service Basic Function: The incumbent will be responsible for leading Transitions anywhere from across the EXL global footprint. The candidate should have an in-depth kn",
       "exact_post": true,
-      "description": "A leading organisation in the automotive industry is looking for a detail-oriented and analytical Claims Assessor to join its team. The successful candidate will be responsible for assessing and processing claims, verifying supporting documentation, in... Claims Assessor, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Claims Assessor Cape Town Salary: Market Related Job Type: Permanent Sectors: Admin Automotive Reference: 208986 Apply before Dec 25 2026 | 61 Days left Apply Vacancy Details Employer: Hire Resolve A leading organisation in the automotive industry is looking for a detail-oriented and analytical Claims Assessor to join its team. The successful candidate will be responsible for assessing and processing claims, verifying supporting documentation, investigating discrepancies, and ens"
-    },
-    {
-      "id": "49fb562e3763fd0b",
-      "title": "Estimator",
-      "company": "confidential",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395582-estimator-substations-gauteng/?jobindex=7",
-      "found_at": "2026-10-26T06:03:47.007758+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "IT & Technology",
-      "location": "Gauteng, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-10-31",
-      "salary": "R80000 MONTH",
-      "job_type": "Full Time",
-      "requirements": ". • Develop material, labour, plant, subcontractor, and equipment cost estimates. • Compile pricing schedules and commercial submissions. • Maintain estimating databases and historical cost information. • Review engineering designs and technical documentation. • Identify scope gaps, risks, and opportunities during the tender process. • Liaise with engineering teams to clarify technical requirements. • Evaluate alternative construction methodologies and value-engineering opportunities. • Conduct commercial reviews of tender opportunities. • Identify project risks and develop appropriate pricing strategies. • Prepare bid assumptions, exclusions, qualifications, and contingencies. • Support contract review processes and tender negotiations. • Obtain quotations from suppliers and subcontractors. • Evaluate supplier pricing and technical compliance. • Build and maintain strong relationships with vendors and strategic partners. • Prepare tender summaries and management reports. • Present estimate reviews and recommendations to management. • Support bid submissions and clarification meetings with customers. • Assist with project handovers to operations following award. Candidate Requireme",
-      "exact_post": true,
-      "description": "The company is seeking an experienced Estimator to prepare accurate and competitive cost estimates for substation projects, supporting tender submissions and business development across South Africa and the broader region. • Prepare detailed cost esti... • Diploma or Degree in Electrical Engineering, Construction Management, Quantity Surveying, or a related field. • Minimum 5–10 years' estimating experience within the electrical, transmission, distribution, or construction sector. • Proven experience estimating substation projects within HV and MV environments. • Strong knowledge of EPC, construction, and project costing principles. • Ability to interpret electrical drawings, specifications, and BOQs. • Proficiency in Microsoft Excel and estimating software. Estimator - Substations, Gauteng - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Bac"
-    },
-    {
-      "id": "7a0f66d04b961c7b",
-      "title": "Mid-Senior OutSystems Developer",
-      "company": "Hire Resolve",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395579-mid-senior-outsystems-developer-centurion/?jobindex=10",
-      "found_at": "2026-10-26T06:03:48.203129+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "IT & Technology",
-      "location": "Pretoria, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-12-26",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "OutSystems Expertise: 3 to 5 years of hands-on OutSystems development experience, including proven background with OutSystems Developer Cloud (ODC) and Reactive Web Applications. Certifications: OutSystems Associate Reactive Developer certification (minimum). Technical Proficiency: Hands-on experience consuming and exposing REST APIs, along with strong SQL and relational database skills. Delivery & SDLC: Solid understanding of the full software development lifecycle (SDLC) and Agile delivery methodologies. Problem Solving & Communication: Excellent debugging and troubleshooting skills, paired with strong stakeholder engagement and communication abilities. Preferred Qualifications Advanced Certifications: Additional OutSystems credentials, such as OutSystems 11 or ODC-related certifications. Cloud & Integration: Experience working with Azure, cloud-native environments, or complex enterprise system integrations. DevOps Knowledge: Understanding of CI/CD pipelines and modern DevOps practices.",
-      "exact_post": true,
-      "description": "A prominent, SANAS-accredited Broad-Based Black Economic Empowerment (B-BBEE) verification agency is seeking a Mid-Senior OutSystems Developer who will drive low-code innovation and build high-impact enterprise applications as part of our expanding eng... Mid-Senior OutSystems Developer, Centurion - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng / Pretoria Back to Search Results Mid-Senior OutSystems Developer Centurion Salary: Market Related Job Type: Permanent Sectors: IT Reference: 208977 Apply before Dec 26 2026 | 62 Days left Apply Vacancy Details Employer: Hire Resolve A prominent, SANAS-accredited Broad-Based Black Economic Empowerment (B-BBEE) verification agency is seeking a Mid-Senior OutSystems Developer who will drive low-code innovation and build high-impact enterprise applications as part of our expanding engineering t"
+      "description": "Basic Function:The incumbent will be responsible for leading Transitions anywhere from across the EXL global footprint. The candidate should have an in-depth knowledge of business process Transitions. The incumbent will be responsible in ensuring that ... Education Requirements: * Graduate / Post Graduate in any stream * PMP, PgMP certification (preferred) Work Experience Requirements: * 10+ years of experience, most of which should be in BPO environment * 3+ years of the BPO experience should be in Transitions * Program Management experience of a small to medium size engagement * Valid (10 year / 5 year) US &/or UK Visa will be an added advantage ** In alignment with the Employment Equity Act, preference will be given to applicants from historically underrepresented groups/ aligned with our EE targets ** Transitions Manager, Cape Town CBD - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Messa"
     }
   ]
 }
