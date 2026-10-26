@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T11:24:00.634354+00:00",
+  "generated_at": "2026-10-26T13:48:14.647886+00:00",
   "version": "2.4",
   "stats": {
     "total": 10,
@@ -7,91 +7,39 @@
   },
   "groups": [
     {
-      "category": "Office & Admin",
-      "count": 3
-    },
-    {
-      "category": "Drivers & Logistics",
-      "count": 3
-    },
-    {
       "category": "Engineering & Trades",
-      "count": 2
+      "count": 3
     },
     {
       "category": "IT & Technology",
+      "count": 2
+    },
+    {
+      "category": "Office & Admin",
+      "count": 2
+    },
+    {
+      "category": "Drivers & Logistics",
       "count": 1
     },
     {
-      "category": "Cleaners & General Workers",
+      "category": "Cashiers & Retail",
+      "count": 1
+    },
+    {
+      "category": "Banking & Finance",
       "count": 1
     }
   ],
   "jobs": [
     {
-      "id": "ec0d2f1eaa8fd6db",
-      "title": "Technician",
-      "company": "Unique Personnel",
+      "id": "3833f98e7dac186f",
+      "title": "Key Account Manager",
+      "company": "Goldman Tech Resourcing",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395745-technician-east-rand/?jobindex=1",
-      "found_at": "2026-10-26T11:23:15.401718+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Engineering & Trades",
-      "location": "East Rand, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-11-25",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "Grade 12 / Matric. Relevant technical qualification in Mechanical, Electrical, Mechatronics, CNC or related field. Previous experience working with CNC machinery, preferably fibre laser cutting machines. Experience in machine installation, commissioning, servicing and fault-finding. Strong mechanical and electrical troubleshooting ability. Good technical and communication skills. Ability to work independently and under pressure. Valid driver's licence. Willingness to travel to customer sites. Technician, East Rand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Technician East Rand Salary: (Negotiable) Job Type: Permanent Sectors: General Reference: 80870 Apply before Nov 25 2026 | 31 Days left Apply External Application Vacancy Details Employer: Unique Personnel Install, commission and maintain CNC laser cutting machines. Diagnose and repair mechanical, electrical, pneumatic and machine-control faults. Conduct preventative maintenance and machine inspections. Attend breakdowns and service calls and prov",
-      "exact_post": true,
-      "description": "Install, commission and maintain CNC laser cutting machines. Diagnose and repair mechanical, electrical, pneumatic and machine-control faults. Conduct preventative maintenance and machine inspections. Attend breakdowns and service calls and provide te... Minimum Requirements Grade 12 / Matric. Relevant technical qualification in Mechanical, Electrical, Mechatronics, CNC or related field. Previous experience working with CNC machinery, preferably fibre laser cutting machines. Experience in machine installation, commissioning, servicing and fault-finding. Strong mechanical and electrical troubleshooting ability. Good technical and communication skills. Ability to work independently and under pressure. Valid driver's licence. Willingness to travel to customer sites. Technician, East Rand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng"
-    },
-    {
-      "id": "873b239ac449a71f",
-      "title": "Loyalty Operations Administrator - Paarl, Cape Town - R45,000 – R50,000",
-      "company": "Recruitment Legends",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395744-loyalty-operations-administrator-paarl-cape-town-r45-000-r50-000-cape-town/?jobindex=2",
-      "found_at": "2026-10-26T11:23:15.916026+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Office & Admin",
-      "location": "Cape Town, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-12-25",
-      "salary": "R45000 MONTH",
-      "job_type": "Full Time",
-      "requirements": "About You 2–4 years of experience in loyalty, CRM, or customer operations administration. Relevant diploma or degree in Commerce, Marketing, or a related field (matric plus strong relevant experience will be considered). Strong attention to detail and comfort working with data and reporting. Customer service orientation and query resolution experience. Experience with loyalty platforms, retail, or agri-retail environments (advantageous). Apply 4 people have viewed this job. Previous Next More Jobs at Recruitment Legends View All (221) E-Commerce & Digital Product Specialist - Paarl, Cape Town - R45,000 – R50,000 Cape Town Job Type: Permanent Posted 26 Oct 2026 | 61 Days left Customer Growth Delivery & Enablement Manager - Paarl, Cape Town - R45,000 – R50,000 Cape Town Job Type: Permanent Posted 26 Oct 2026 | 61 Days left Sales Engineer-South Africa Market, Johannesburg Johannesburg Job Type: Permanent Posted 26 Oct 2026 | 61 Days left Sales Engineer-Sub-Sahara Africa Johannesburg Job Type: Permanent Posted 26 Oct 2026 | 61 Days left",
-      "exact_post": true,
-      "description": "Loyalty Operations Administrator This role exists to run the day-to-day operations of the loyalty programme for farmer and retail walk-in customers, serving as the operational engine behind the programme. It contributes to the business by maintaining accurate accruals, redemptions, and tier movements while resolving customer queries. Main focus areas include overseeing platform operations, executing campaigns with partner agencies, tracking key performance indicators, ensuring regulatory compliance, and supporting the programme rollout. Key Responsibilities Apply 2–4 years of experience to monitor loyalty platform performance and data accuracy, escalating system issues to the agency partner and CRM System Administrator. Manage member queries and escalations relating to points, tiers, rewards, and account access. Support the design and execution of loyalty campaigns, promotions, and the prize ladder in partnership with Marketing and the appointed agency. Track and report on core loyalty KPIs including enrolment, active engagement, redemption rates, and tier movement across Farmer and Retail constituencies. Maintain loyalty programme documentation and terms and conditions, ensuring"
-    },
-    {
-      "id": "1069826cf2610cd0",
-      "title": "E-Commerce & Digital Product Specialist - Paarl, Cape Town - R45,000 – R50,000",
-      "company": "Recruitment Legends",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395743-e-commerce-digital-product-specialist-paarl-cape-town-r45-000-r50-000-cape-town/?jobindex=3",
-      "found_at": "2026-10-26T11:23:18.363727+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395823-key-account-manager-cape-town/?jobindex=1",
+      "found_at": "2026-10-26T13:47:39.434660+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -106,20 +54,76 @@
       "location": "Cape Town, Western Cape",
       "province": "Western Cape",
       "closing_date": "2026-12-25",
-      "salary": "R45000 MONTH",
+      "salary": "R50000 YEAR",
       "job_type": "Full Time",
-      "requirements": "About You 3+ years of experience in digital product, e-commerce, or app product management, with demonstrable ownership of a live platform. Relevant degree in Information Systems, Computer Science, Engineering, Business, Marketing, or a related field. Track record across the full product lifecycle: roadmap, UX/design input, build oversight, testing, and post-launch growth. Working knowledge of e-commerce platforms, analytics tools, agile delivery, and UX principles, with comfort briefing and managing technical partners. Commercially minded, customer-obsessed, and able to translate data into decisions. Self-starter who can build a function from where it is today and grow with it. Experience in retail or agri-retail (advantageous). Experience with account-based or credit-linked customer platforms (advantageous). Exposure to ERP integration (advantageous). Apply 7 people have viewed this job. Previous Next More Jobs at Recruitment Legends View All (221) Loyalty Operations Administrator - Paarl, Cape Town - R45,000 – R50,000 Cape Town Job Type: Permanent Posted 26 Oct 2026 | 61 Days left Customer Growth Delivery & Enablement Manager - Paarl, Cape Town - R45,000 – R50,000 Cape Town Job",
+      "requirements": "are met. · Manage commercial contracts, negotiations and billing-related instructions. · Identify appropriate upselling and cross-selling opportunities. · Maintain accurate CRM and customer success records. · Conduct regular account reviews focused on adoption, satisfaction and success metrics. · Collaborate with Product and Development teams regarding customer feedback and feature testing. · Provide quality assurance and support where required. · Develop strong knowledge of the product portfolio, customers and market. Requirements: 4+ years' experience in Account Management and/or Customer Success within a B2B SaaS, recruitment technology or HR technology environment. Relevant tertiary qualification in IT, Commerce or a related field. Understanding of recruitment technology and corporate HR processes. Proven track record in customer retention, expansion and satisfaction. Experience engaging with C-level executives and senior stakeholders. Strong CRM or customer success platform experience, such as HubSpot, Intercom or Jira. Excellent communication, negotiation and problem-solving skills. Strong commercial and relationship-management capability. Data-driven approach with the abili",
       "exact_post": true,
-      "description": "E-Commerce & Digital Product Specialist This build-and-grow role exists to take full ownership of the app and online platform rather than simply maintaining existing systems. The position serves as the single point of accountability for digital performance, turning digital features into adoption, transactions, and customer loyalty while expanding the digital function as the channel scales. Main focus areas include shaping the product roadmap, designing customer experiences across ordering, click-and-collect, catalogue browsing, and account self-service, overseeing releases and testing, and collaborating across internal departments to integrate systems. Key Responsibilities Design and continuously improve customer experiences across ordering, click-and-collect, catalogue browsing, and account self-service for grain, fuel, and credit accounts. Manage the end-to-end release cycle by specifying features, prioritising the backlog, and coordinating development partners and internal IT through to launch. Plan and run functional QA, user acceptance testing, and A/B experiments to ensure quality releases and evidence-based design decisions. Drive key growth metrics including adoption, act"
+      "description": "Our client is seeking a strategic and relationship-focused Key Account Manager to manage and grow strong partnerships with medium to enterprise-level customers. This is a customer success-focused position rather than a traditional sales role, with resp... Key Account Manager, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Key Account Manager Cape Town Salary: R4 167.00 Per Month Job Type: Permanent Sectors: IT Reference: KAM02 Apply before Dec 25 2026 | 61 Days left Apply Vacancy Details Employer: Goldman Tech Resourcing Our client is seeking a strategic and relationship-focused Key Account Manager to manage and grow strong partnerships with medium to enterprise-level customers. This is a customer success-focused position rather than a traditional sales role, with responsibility for ensuring c"
     },
     {
-      "id": "3e5da8ad4444b3c8",
-      "title": "Customer Growth Delivery & Enablement Manager - Paarl, Cape Town - R45,000 – R50,000",
-      "company": "Recruitment Legends",
+      "id": "f4f767a3837e5b65",
+      "title": "Temporary Financial Assistant - VKB Fuels, Head Office Reitz",
+      "company": "VKB Group",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395742-customer-growth-delivery-enablement-manager-paarl-cape-town-r45-000-r50-000-cape-town/?jobindex=4",
-      "found_at": "2026-10-26T11:23:18.833308+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395822-temporary-financial-assistant-vkb-fuels-head-office-reitz-free-state/?jobindex=2",
+      "found_at": "2026-10-26T13:47:39.763136+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "Free State, Free State",
+      "province": "Free State",
+      "closing_date": "2026-11-06",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Qualifications Grade 12 / NQF Level 4. National Diploma and/or Advanced Certificate in a relevant financial field will be advantageous. Essential Experience 2 to 3 years' experience in an accounting or finance-related role. Proven experience in bookkeeping and financial administration. Experience working in a fast-paced operational environment. Experience using financial management systems. Exposure to BC(Business Central) or similar financial software will be advantageous. Competencies Attention to detail Accountability Decision making Planning and organising Analytical thinking Problem solving Time management Professional communication Compliance and governance awareness Ability to work under pressure Teamwork and collaboration Confidentiality and integrity Skills Required Bookkeeping and financial record management Financial reporting and analysis Bank and balance sheet reconciliations Invoice processing and billing administration BC (Business Central) or similar ERP systems Microsoft Excel Microsoft Word Microsoft Outlook Financial data management Key Responsibilities Maintain accurate financial and accounting records. Process accounts payable and accounts receivable transacti",
+      "exact_post": true,
+      "description": "and the values of our organisation. Apply 1 person has viewed this job. Previous Next About VKB Group VKB is a South African agricultural enterprise with the unique vision to focus on alliances with industry related stakeholders. These alliances have developed into the dynamic utilisation of a wide range of agricultural value chain solutions. Producers in the area in which we conduct business, own and control the VKB Group. Our strategy therefore remains focused on keeping the company as an authentic agricultural producer business, which could also add value for a broader base of general consumers. The VKB Group continues to capitalize on its rich heritage of almost 100 years by applying the sound cooperative principles of the past. These principles ensure that any association with the Group remains a valuable experience, not only for its shareholders, but also for its suppliers, employees and customers. More Jobs at VKB Group View All (19) Millwright - VKB Engineering Services, Petrus Steyn Free State Job Type: Permanent Posted 26 Oct 2026 | 12 Days left Quality Assurance Graduate - I&T, Head Office Reitz Free State Job Type: Contract Posted 23 Oct 2026 | 14 Days left Executive H"
+    },
+    {
+      "id": "8aeda084462144b4",
+      "title": "Senior Finance Administrator: Short-Term Risk and Investments (Readvertisement)",
+      "company": "Rhodes University",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395821-senior-finance-administrator-short-term-risk-and-investments-readvertisement-eastern-cape/?jobindex=3",
+      "found_at": "2026-10-26T13:47:40.071925+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "Eastern Cape, Eastern Cape",
+      "province": "Eastern Cape",
+      "closing_date": "2026-11-13",
+      "salary": "R367 497",
+      "job_type": "Full Time",
+      "requirements": "Grade 12 (a National Diploma NQF Level 6 would be an advantage), preferably in accounting, plus approximately 6 years relevant experience, where such experience includes: Proven ability to work effectively under pressure and meet strict deadlines. Previous experience in a pressurised accounting administrative environment Demonstrated experience and competence in account reconciliations, including bank and control accounts. Strong computer literacy, with experience in computerised accounting systems. Insurance administration experience will be an advantage. Supervisory or team coordination experience would be advantageous. Experience using finance-related ERP systems (e.g., SAP, Oracle, PeopleSoft) will be an advantage.",
+      "exact_post": true,
+      "description": "includes oversight of the University’s bank accounts, ensuring all exceptions and variances are promptly identified, investigated, and resolved. It also encompasses responsibility for the preparation, completion, and submission of VAT returns and related administrative functions. Additionally, the position provides comprehensive administrative and accounting support to ensure the maintenance of a high standard of communication, accuracy, and service delivery at all times. The Requirements Grade 12 (a National Diploma NQF Level 6 would be an advantage), preferably in accounting, plus approximately 6 years relevant experience, where such experience includes: Proven ability to work effectively under pressure and meet strict deadlines. Previous experience in a pressurised accounting administrative environment Demonstrated experience and competence in account reconciliations, including bank and control accounts. Strong computer literacy, with experience in computerised accounting systems. Insurance administration experience will be an advantage. Supervisory or team coordination experience would be advantageous. Experience using finance-related ERP systems (e.g., SAP, Oracle, PeopleSoft"
+    },
+    {
+      "id": "71a5a4ab86c3e05b",
+      "title": "Solutions Architect",
+      "company": "Goldman Tech Resourcing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395820-solutions-architect-cape-town/?jobindex=4",
+      "found_at": "2026-10-26T13:47:40.404737+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -134,48 +138,20 @@
       "location": "Cape Town, Western Cape",
       "province": "Western Cape",
       "closing_date": "2026-12-25",
-      "salary": "R45000 MONTH",
+      "salary": "R950000 YEAR",
       "job_type": "Full Time",
-      "requirements": "About You 5+ years of experience in programme or project delivery, digital rollout, sales enablement, or multi-site retail operations. Relevant degree in Business, Commerce, Information Systems, or a related field. Proven experience driving adoption of a system, process, or capability programme across a distributed field network. Track record of structured change management and training delivery. Strong stakeholder management, comfortable working across agencies, IT, marketing, and branch operations. Experience in agri-retail, CRM/loyalty rollouts, sales enablement programmes, or franchise/multi-branch environments (advantageous). Apply 1 person has applied for this job. 1 person has viewed this job. Previous Next More Jobs at Recruitment Legends View All (221) Loyalty Operations Administrator - Paarl, Cape Town - R45,000 – R50,000 Cape Town Job Type: Permanent Posted 26 Oct 2026 | 61 Days left E-Commerce & Digital Product Specialist - Paarl, Cape Town - R45,000 – R50,000 Cape Town Job Type: Permanent Posted 26 Oct 2026 | 61 Days left Sales Engineer-South Africa Market, Johannesburg Johannesburg Job Type: Permanent Posted 26 Oct 2026 | 61 Days left Sales Engineer-Sub-Sahara Africa",
+      "requirements": ". Provide technical leadership and communicate architectural decisions to diverse audiences. Requirements: Relevant tertiary qualification in Information Technology, Computer Science, Engineering, or a related field, or equivalent practical experience. At least 10 years of experience in software delivery, solution design, or the software development lifecycle. Minimum of 3 years in a Solution Architect, Application Architect, Technical Lead, or similar role. At least 2 years of demonstrable experience designing and delivering AWS cloud solutions. Practical exposure to AI-enabled applications, generative AI, machine learning services, and intelligent automation. Strong understanding of modern web application architecture, including single-page applications (SPAs), React, and TypeScript. Proven experience working with agile teams and stakeholders across business and IT. Excellent leadership, communication, and influencing skills. Should you meet the requirements for this position, please email your CV to it.vacancy@stand-outstaffing.co.za . You can also contact the team on 031 350 4019 or alternatively you can visit our website www.stand-outstaffing.co.za Should you not hear from us",
       "exact_post": true,
-      "description": "Customer Growth Delivery & Enablement Manager This role exists as a delivery, adoption, and capability-building role rather than a build role, serving as the day-to-day link between implementation agency partners and the branch network. It contributes to the business by ensuring go-live readiness and putting Business Relationship Managers (BRMs) and branch teams in a position to actively use new systems and tools. The main focus areas are owning the rollout of CRM, loyalty, and digital platforms across the full branch network, running sales enablement and training, and driving adoption once platforms are live. Key Responsibilities Own the end-to-end rollout of CRM, loyalty, and digital platforms across all branches and formats, utilizing 5+ years of required experience in programme or project delivery, digital rollout, sales enablement, or multi-site retail operations. Act as the day-to-day delivery counterpart to appointed implementation agencies, tracking milestones, issues, and go-live readiness. Own the broader sales tools and enablement function for BRMs and branch teams, covering sales process, toolkits, and floor-level capability building beyond platform training alone. De"
+      "description": "Our client is seeking an experienced Solutions Architect to drive the design and delivery of scalable, secure, and innovative technology solutions. This opportunity is ideal for a technically strong professional with extensive software delivery expe... Solutions Architect, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Solutions Architect Cape Town Salary: R79 167.00 Per Month Job Type: Permanent Sectors: IT Reference: SA03 Apply before Dec 25 2026 | 61 Days left Apply Vacancy Details Employer: Goldman Tech Resourcing Our client is seeking an experienced Solutions Architect to drive the design and delivery of scalable, secure, and innovative technology solutions. This opportunity is ideal for a technically strong professional with extensive software delivery experience, AWS cloud expertise, an"
     },
     {
-      "id": "8b7cf1dca9a16431",
-      "title": "Expeditor",
-      "company": "confidential",
+      "id": "91f92c75c17c03ee",
+      "title": "Project Engineer (Mechanical)",
+      "company": "LRHR (Pty) Ltd t/a Lotus HR and Recruitment",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395741-expeditor-western-cape/?jobindex=5",
-      "found_at": "2026-10-26T11:23:19.487282+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Drivers & Logistics",
-      "location": "Western Cape, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-10-31",
-      "salary": "",
-      "job_type": "Contractor",
-      "requirements": "and when needed (with reasonable notice). • Operate in pressure environment • Attention to detail • Effective time management • High-energy self-starter as well as collaborative team player Expeditor, Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Expeditor Western Cape Salary: Market Related Job Type: Contract Sectors: Logistics Reference: 2395741 Apply before Oct 31 2026 | 6 Days left Apply Vacancy Details Expediting the collection and delivery of loads. The Expeditor is responsible for the on-time collection and delivery of all loads. Escalating any deviances and issues observed. Providing the client with updates of deliveries. Logging any claims formally to all parties concerned. Pro-active communication with loading and off-loading points, vendors, controllers and management Escalation to relevant Operations Controllers about exceptions on loads (via telephone and e-mail) Adherence to incident/accident protocols and procedures Adherence to pallet management procedures Debriefing dayshift and com",
-      "exact_post": true,
-      "description": "Expediting the collection and delivery of loads. The Expeditor is responsible for the on-time collection and delivery of all loads. Escalating any deviances and issues observed. Providing the client with updates of deliveries. Logging any claims fo... Education, skills and Behavioural Competencies • Matric / Grade 12 Tertiary qualification will be an advantage • Previous experience in tracking/expediting environment an advantage • At least two years’ proper and similar experience in vehicle tracking/expediting • Excellent communication skills – daily contact with clients, dispatch teams, delivery points, subcontractors and drivers • Computer literacy – experienced in working on a transport operational system, MS Word, PowerPoint and MS Excel skills • Well versed in e-mail etiquette and MS Outlook with good writing skills • A professional and service-driven approach to dealing with clients and service providers alike • Neat and punctual with the natural ability to organize • The ability"
-    },
-    {
-      "id": "9c0e189379d51295",
-      "title": "Jnr User Support Technician",
-      "company": "Stefanutti Stocks",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395740-jnr-user-support-technician-johannesburg/?jobindex=6",
-      "found_at": "2026-10-26T11:23:20.006177+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395608-project-engineer-mechanical-cape-town/?jobindex=5",
+      "found_at": "2026-10-26T13:47:40.779486+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -187,51 +163,23 @@
         "warnings": []
       },
       "category": "Engineering & Trades",
-      "location": "Johannesburg, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-10-30",
+      "location": "Cape Town, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-25",
       "salary": "",
-      "job_type": "Contractor",
-      "requirements": "Grade 12 / National Senior Certificate (Matric) A+ certification N+ certification ITIL Foundation (Information Technology Infrastructure Library) certification Microsoft 365 Certified: Fundamentals (MS-900), will be an advantage Microsoft Azure Fundamentals (AZ-900), will be an advantage Skills: Strong communication and interpersonal skills Customer-focused approach Problem-solving ability Effective time management and prioritisation Ability to work independently and within a team Experience: 0-2 years IT Support/Helpdesk experience We are committed to Employment Equity when recruiting internally and externally. It is company policy to promote from within wherever possible. Therefore, please be aware that internal candidates will be considered first before reviewing external applicants, provided that this supports the achievement of our Employment Equity goals. Apply Previous Next More Jobs at Stefanutti Stocks View All (14) Snr Buyer KwaZulu-Natal Job Type: Permanent Posted 22 Oct 2026 | 4 Days left Health & Safety Officer Johannesburg Job Type: Contract Posted 21 Oct 2026 | 56 Days left Senior Digital Delivery Coordinator Cape Town Job Type: Contract Posted 20 Oct 2026 | 6 Days",
-      "exact_post": true,
-      "description": "Stefanutti Stocks Inland is seeking a Junior User Support Technician to provide first-line IT and Helpdesk support, resolve incidents, manage user accounts, maintain IT assets and documentation, and ensure SLA compliance. This is a site-based position ... Jnr User Support Technician, Johannesburg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Jnr User Support Technician Johannesburg Salary: Market Related Job Type: Contract Sectors: Accounting Engineering Reference: 208327 Apply before Oct 30 2026 | 5 Days left Apply Vacancy Details Employer: Stefanutti Stocks Stefanutti Stocks Inland is seeking a Junior User Support Technician to provide first-line IT and Helpdesk support, resolve incidents, manage user accounts, maintain IT assets and documentation, and ensure SLA compliance. This is a site-based position "
-    },
-    {
-      "id": "81c5aa05a01a28b3",
-      "title": "Handyman",
-      "company": "SOUTH AFRICAN BROADCASTING CORPORATION SOC LIMITED",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395738-handyman-south-africa/?jobindex=7",
-      "found_at": "2026-10-26T11:23:20.419396+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Office & Admin",
-      "location": "ZA, ZA",
-      "province": "Gauteng",
-      "closing_date": "2026-11-01",
-      "salary": "R 2026",
       "job_type": "Full Time",
-      "requirements": "QUALIFICATIONS * NQF 4 / N3 Certificate in Carpentry or Bricklayer or Paining * Matric EXPERIENCE * 1 year experience in locksmith services and general building maintenance KNOWLEDGE * OHS and Building Regulations (Limited) * Communication skills (required) * Computer literate (limited) * Understanding of related policy * Customer relationship (required) * Teamwork (required) Candidate Requirements * OPERATIONAL PLAN * Conduct daily routine building inspections and remove assets that are blocking walkways. * Assist Artisans and participate in general maintenance work and office alterations. * Ensure that the storeroom and tools are always in a clean condition. * Provide lock smith services – cutting of keys, labeling of keys, changing & replacing of locks, open locked doors. * Carry and transport office furniture and other assets from one location to the other as required. * Process space set for functions and always ensure client satisfaction. * Ensure that buildings are safe and report any faults Assist both at Radio Park and Television Centre 2. GOVERNANCE, RISK AND COMPLIANCE * Ensure compliance to OHS act * Ensure compliance to National Building Regulation Act 3. ADMINISTRATI",
+      "requirements": "TO MEET FOR CONSIDERATION You will have completed a tertiary qualification in Mechanical Engineering , coupled with 2-5+ years experience as a Project Engineer in the heavy engineering/ construction sector, specifically managing projects in steel structure, piping and related engineering solutions You will have experience in NEC3 contracts, as well as ISO 9001 and ISO 45001 You will have demonstrated experience in full turkey project management experience in leading projects from quotation to finalization, as well as being able to coordinate quality/NDT, procure the highest quality materials, review costs, liaise with clients and stakeholders and ensure a smooth production and installation phase. You will have proven expert organisational and problem solving skills, be able to communicate effectively and take ownership of projects to finalization. You will be flexible to travel extensively when required. You must have contactable references, a valid driver’s licence, own car and a clear criminal and credit record Please note that should you not be currently resident in the region and area advertised but still wish to apply, the cost of travel for interviews and relocation will be",
       "exact_post": true,
-      "description": "RE-ADVERTISEMENT PLEASE NOTE CLOSING DATE: 01 NOVEMBER 2026 Position: Handyman: Locksmith and furniture removal services Reporting Line: Real Estate Supevisor Division: Logistical Services Scale Code: 406B (Paterson B3, Peromnes 16) Position ID: 600... * OPERATIONAL PLAN * Conduct daily routine building inspections and remove assets that are blocking walkways. * Assist Artisans and participate in general maintenance work and office alterations. * Ensure that the storeroom and tools are always in a clean condition. * Provide lock smith services – cutting of keys, labeling of keys, changing & replacing of locks, open locked doors. * Carry and transport office furniture and other assets from one location to the other as required. * Process space set for functions and always ensure client satisfaction. * Ensure that buildings are safe and report any faults Assist both at Radio Park and Television Centre 2. GOVERNANCE, RISK AND COMPLIANCE * Ensure compliance to OHS act * Ensure compliance t"
+      "description": "Our client, a prestigious turnkey engineering solutions company, focuses on steel fabrication and mechanical systems, seeks to employ a Project Engineer, with a solid background in the fabrication of steel structures, piping, marine repair and bulk storage tanker, to join their dynamic and progressive technical operations and projects team Please note this role is geared specifically to candidates with a background in steel structural fabrication, engineering solutions and construction and maintenance in the oil & gas, petrochemical, marine and power plant sector. Project Engineer (Mechanical), Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Project Engineer (Mechanical) Cape Town Salary: Market Related Job Type: Permanent Sectors: Engineering Reference: CPT000319/MdW Apply before Nov 25 2026 |"
     },
     {
-      "id": "4b5ca294004ce3af",
-      "title": "Sales Representative",
-      "company": "Unique Personnel",
+      "id": "3cc438cead8d7e69",
+      "title": "Emedded Firmware Developer",
+      "company": "Recruitpro Solutions",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395739-sales-representative-east-rand/?jobindex=8",
-      "found_at": "2026-10-26T11:23:20.836973+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395675-emedded-firmware-developer-pretoria-east/?jobindex=6",
+      "found_at": "2026-10-26T13:47:41.297400+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -242,24 +190,24 @@
         ],
         "warnings": []
       },
-      "category": "Drivers & Logistics",
-      "location": "East Rand, Gauteng",
+      "category": "IT & Technology",
+      "location": "Pretoria, Gauteng",
       "province": "Gauteng",
       "closing_date": "2026-11-25",
       "salary": "",
       "job_type": "Full Time",
-      "requirements": "Suggested additions for your review; edit or remove as needed. Grade 12 (matric); a technical qualification or sales/marketing diploma is advantageous. Proven track record in B2B or technical sales, preferably in industrial machinery, metal fabrication, welding or engineering consumables. Working knowledge of laser and plasma cutting and welding applications is advantageous. Valid driver's licence and own reliable vehicle; willingness to travel regularly within the territory. Proficiency in Microsoft Office and CRM systems. Strong verbal and written communication in English; Afrikaans is advantageous. Skills and Attributes Self-motivated, target-driven and resilient in cold-calling environments. Strong relationship-building, negotiation and presentation skills. Able to work independently and manage time and territory effectively. Disciplined in record-keeping and following company processes. Commercially minded, with good market and competitor awareness. Sales Representative, East Rand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / G",
+      "requirements": "B.Eng, B.Tech or BSc in Electronic, Electrical, Computer or Mechatronic Engineering, or Computer Science with an embedded focus Minimum of 3 years’ experience developing embedded firmware in a product development or R&D environment Strong C, and C++ for embedded systems Microcontroller experience (for example ARM Cortex-M, STM32, NXP, Nordic or Microchip) Experience with an RTOS (for example FreeRTOS or Zephyr) or bare-metal real-time design Peripheral interfaces: SPI, I2C, UART, CAN, ADC and GPIO Communication protocols (for example BLE, LoRa, Thread, Modbus or RS-485) Ability to read schematics and debug hardware with an oscilloscope, logic analyser and JTAG/SWD debugger Git version control, and structured testing and documentation practice Able to work independently and in a small engineering team Willingness to meet security and vetting requirements for defence-related projects Advantageous IoT product development, including low-power design and over-the-air firmware updates Aerospace, defence or other safety-critical development experience (for example DO-178C or MISRA C) Experience working within an ISO 9001 quality management system Embedded Linux, or FPGA / digital hardwar",
       "exact_post": true,
-      "description": "To actively develop the Western Cape/Durban African market by identifying and building relationships with key decision-makers, unlocking business opportunities for Consumables, Laser Welding and Laser and Plasma Cutting, with ad ho... Minimum Requirements Suggested additions for your review; edit or remove as needed. Grade 12 (matric); a technical qualification or sales/marketing diploma is advantageous. Proven track record in B2B or technical sales, preferably in industrial machinery, metal fabrication, welding or engineering consumables. Working knowledge of laser and plasma cutting and welding applications is advantageous. Valid driver's licence and own reliable vehicle; willingness to travel regularly within the territory. Proficiency in Microsoft Office and CRM systems. Strong verbal and written communication in English; Afrikaans is advantageous. Skills and Attributes Self-motivated, target-driven and resilient in cold-calling environments. Strong relationship-building, negotiation and presentation skills. Able to work independently and manage time and territory effectively. Disciplined in record-keeping and following company processes. Commercially minded, with good market"
+      "description": "Our client, a specialist electronic engineering company with more than 25 years’ experience, is looking for an Embedded Engineer to join its R&D and product development team. You’ll design, develop and test the firmware and digital hardware inside electronic sub-systems and IoT products, across both commercial and aerospace and defence projects. The work runs within an ISO 9001 quality framework and covers the full product life cycle, from early development through to production support. Emedded Firmware Developer, Pretoria East - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng / Pretoria Back to Search Results Emedded Firmware Developer Pretoria East Salary: Market Related Job Type: Permanent Sectors: Engineering Reference: Rec000432/CM Apply before Nov 25 2026 | 30 Days left Apply External Application Vacancy Details Employer: Recruitpro Solutions"
     },
     {
-      "id": "1f7efc2a1d8ae4c8",
-      "title": "Admin Clerk",
-      "company": "confidential",
+      "id": "ab67783e4267f62f",
+      "title": "Field Service Engineer",
+      "company": "Recruitpro Solutions",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395737-admin-clerk-western-cape/?jobindex=9",
-      "found_at": "2026-10-26T11:23:21.343362+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395642-field-service-engineer-cape-town-southern-suburbs/?jobindex=7",
+      "found_at": "2026-10-26T13:47:41.615618+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -270,43 +218,99 @@
         ],
         "warnings": []
       },
-      "category": "Office & Admin",
-      "location": "Western Cape, Western Cape",
+      "category": "Engineering & Trades",
+      "location": "Cape Town Southern Suburbs, Western Cape",
       "province": "Western Cape",
-      "closing_date": "2026-10-31",
-      "salary": "",
-      "job_type": "Contractor",
-      "requirements": "and when needed (with reasonable notice Operate in pressure environment Attention to detail Effective time management High-energy self-starter as well as collaborative team player Admin Clerk, Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Admin Clerk Western Cape Salary: Market Related Job Type: Contract Sectors: Admin Reference: 2395737 Apply before Oct 31 2026 | 6 Days left Apply Vacancy Details Accurate and timeous scanning of all PODs . Scanning of documents onto the system Filing of tax invoices Perform various reconciliations to ensure accurate filing and processing of documents take place Achieve 100% compliance with document handling SOPs and security protocols. Manage and complete post listings Administration support as required by the POD department Required Skills Admin: 3 to 4 years Clerical Work: 3 to 4 years Candidate Requirements Education • Matric / Grade 12 Experience Previous experience in invoicing, PODs and Tax invoices A meticulous approach to administrative tasks Proficient in",
-      "exact_post": true,
-      "description": "Accurate and timeous scanning of all PODs. Scanning of documents onto the system Filing of tax invoices Perform various reconciliations to ensure accurate filing and processing of documents take place Achieve 100% compliance with document handli... Education • Matric / Grade 12 Experience Previous experience in invoicing, PODs and Tax invoices A meticulous approach to administrative tasks Proficient in the use of Microsoft Office suite (Outlook, Word, Excel) Good telephone manners and writing skills, well versed in e-mail etiquette, service driven and a definite team player Good time management skills to adhere to strict POD deadlines Ability to work under pressure, with high level of attention to detail and accuracy Behavioural Competencies Willing to work extended hours, public holidays, festive periods, and weekends as determined by operational requirements and when needed (with reasonable notice Operate in pressure environment Attention to detail Effective time management High-ener"
-    },
-    {
-      "id": "65352861e9dd531b",
-      "title": "Contract Manager",
-      "company": "Empact Group",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395736-contract-manager-commercial-cleaning-eastern-cape/?jobindex=10",
-      "found_at": "2026-10-26T11:23:22.687413+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Cleaners & General Workers",
-      "location": "Eastern Cape, Eastern Cape",
-      "province": "Eastern Cape",
-      "closing_date": "2026-12-25",
+      "closing_date": "2026-11-25",
       "salary": "",
       "job_type": "Full Time",
-      "requirements": "Proven experience in contract management, preferably within the cleaning or facilities management industry. - Strong understanding of cleaning processes, materials, and equipment. - Excellent communication and interpersonal skills, with the ability to build relationships with various stakeholders. - Strong organizational and problem-solving capabilities. - Proficient in Microsoft Office Suite - Ability to work independently and manage multiple projects simultaneously. Preferred Qualifications - Relevant qualification in Facilities Management, Contract Management, or a related field. - Certification in Cleaning Management or related health and safety standards. - Experience in a retail or commercial setting would be an advantage. Apply Previous Next More Jobs at Empact Group View All (31) Stores Manager Durban Job Type: Permanent Posted 26 Oct 2026 | 19 Days left Regional Manager Eastern Cape Job Type: Permanent Posted 26 Oct 2026 | 61 Days left Regional Manager Johannesburg Job Type: Permanent Posted 26 Oct 2026 | 19 Days left Waitron Bellville Job Type: Contract Posted 23 Oct 2026 | 19 Days left",
+      "requirements": "B.Tech, B.Eng or N.Dip in Mechanical, Electrical or Electromechanical Engineering 2 to 5 years’ experience in a related position, preferably in a similar field Knowledge of ISO 9001, ISO 3834, ISO 14001, ISO 45001, ASME Boiler and Pressure Vessel Code, SANS 347 and SANS 329 / SANS 13577 Ability to interpret electrical wiring diagrams Strong fault-finding and diagnostic skills across mechanical, electrical and control systems Computer literacy in MS Word, Excel and MS Teams Valid driver’s licence Valid passport and willingness to travel nationally and internationally Able to work independently and as part of a team Advantageous Registered Gas Practitioner / Gas License holder, or actively working towards registration Practical experience with steam and hot water boilers (fire-tube, water-tube, steam generators) Working knowledge of pressure vessels and steam and condensate systems, including piping and auxiliaries Prior field service or commissioning experience in the combustion or industrial services industry Exposure to industrial combustion equipment, burners or thermal systems Experience compiling safety files and handover documentation Apply 65 people have viewed this job. Pre",
       "exact_post": true,
-      "description": "We are seeking a detail-oriented Contract Manager to oversee and manage the cleaning contracts for our clients' facilities. This role focuses on coordinating between staff and management to ensure compliance with service agreements and maintaining high... Contract Manager - Commercial Cleaning , Eastern Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Contract Manager - Commercial Cleaning Eastern Cape Salary: Market Related Job Type: Permanent Sectors: General Management Reference: 209144 Apply before Dec 25 2026 | 61 Days left Apply Vacancy Details Employer: Empact Group We are seeking a detail-oriented Contract Manager to oversee and manage the cleaning contracts for our clients' facilities. This role focuses on coordinating between staff and management to ensure compliance with service agreements and maintainin"
+      "description": "Our client, a specialist in combustion technology, is seeking a technically competent Combustion Engineer to join its Field Services team. You’ll be responsible for the installation, commissioning, servicing, fault-finding and repair of combustion systems at client sites, including boilers, burners, fuel trains, control systems and auxiliary equipment. You’ll work independently on site while keeping to high standards of safety, quality and compliance. You’ll report to the Lead Combustion Engineer / Branch Manager. Field Service Engineer, Cape Town Southern Suburbs - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Field Service Engineer Cape Town Southern Suburbs Salary: Market Related Job Type: Permanent Sectors: Engineering Reference: Rec000436/DL Apply before Nov 25 2026 | 30 Days left Apply External Application Vacancy Details Employer: Recruitpro Solutions"
+    },
+    {
+      "id": "807e072520dadd0d",
+      "title": "SALES REPRESENTATIVE",
+      "company": "Pronto Labour Team",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395241-sales-representative-fmcg-midrand/?jobindex=8",
+      "found_at": "2026-10-26T13:47:41.979880+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Cashiers & Retail",
+      "location": "Johannesburg, Gauteng",
+      "province": "Gauteng",
+      "closing_date": "2026-11-25",
+      "salary": "R2 500 000.00 Per Month",
+      "job_type": "Full Time",
+      "requirements": "",
+      "exact_post": true,
+      "description": "FEMALE SALES REPRESENTATIVE with FMCG Industryexperience (Not Retail)* Bilingual - Afrikaans & English- Kempton Park/Midrand area, East Rand SALES REPRESENTATIVE - FMCG, Midrand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng / Johannesburg Back to Search Results SALES REPRESENTATIVE - FMCG Midrand Salary: Up to R2 500 000.00 Per Month Job Type: Permanent Sectors: Sales Reference: JHB002178/JC Apply before Nov 25 2026 | 30 Days left Apply External Application Vacancy Details Employer: Pronto Labour Team FEMALE SALES REPRESENTATIVE with FMCG Industryexperience (Not Retail)* Bilingual - Afrikaans & English- Kempton Park/Midrand area, East Rand FEMALE SALES REPRESENTANTIVE * Minimum 4-5 Years' experience in a FMCG Industry (NOT RETAIL) - Essential * Bilingual - Afrikaans & English * Diploma/Degree in Sales/Marketing - An Advantage * C"
+    },
+    {
+      "id": "03caec6db4c0952b",
+      "title": "SENIOR ACCOUNTANT",
+      "company": "Pronto Labour Team",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2394099-senior-accountant-east-rand/?jobindex=9",
+      "found_at": "2026-10-26T13:47:42.366613+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "East Rand, Gauteng",
+      "province": "Gauteng",
+      "closing_date": "2026-11-25",
+      "salary": "r4",
+      "job_type": "Full Time",
+      "requirements": "* Experience in Coting, Budgeting & ROI Analysis * Good Communication Skills in Afrikaans & English * Willing to take part in the Weekend Duty Roster4 DUTIES: * Reconciliations & Month-End * Management Accounts & Budgeting * Costing & Profitability * Purchasing, Invoicing & Controls * Assets, Projects & Administration Apply 441 people have viewed this job. Previous Next Similar Jobs View All (35) Senior Accountant Randburg Job Type: Permanent Posted 08 Oct 2026 | 43 Days left Senior Accountant Johannesburg Job Type: Permanent Posted 22 Oct 2026 | 57 Days left Accountant (Senior) Johannesburg Job Type: Permanent Posted 11 Sep 2026 | 16 Days left Senior SAIPA Accountant Centurion Job Type: Permanent Posted 03 Sep 2026 | 8 Days left More Jobs at Pronto Labour Team View All (104) OPERATIONS SUPPORT MANAGER West Rand Job Type: Permanent Posted 26 Oct 2026 | 30 Days left SALES REPRESENTATIVE - FMCG Midrand Job Type: Permanent Posted 26 Oct 2026 | 30 Days left PRODUCTION MANAGER - Printing exp East Rand Job Type: Permanent Posted 26 Oct 2026 | 30 Days left DEPUTY CHIEF OPERATING OFFICER(COO) Durban Job Type: Permanent Posted 26 Oct 2026 | 30 Days left",
+      "exact_post": true,
+      "description": "SENIOR ACCOUNTANT - BCOM ACCOUNTING DEGREE or EquivalentExperience in Agriculture/Feedlot or Livestock Environment - will be an Advantage -Delmas area, Gauteng/Mphumalanga SENIOR ACCOUNTANT, East Rand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results SENIOR ACCOUNTANT East Rand Salary: Market Related Job Type: Permanent Sectors: Finance Reference: JHB002172/JC Apply before Nov 25 2026 | 30 Days left Apply External Application Vacancy Details Employer: Pronto Labour Team SENIOR ACCOUNTANT - BCOM ACCOUNTING DEGREE or EquivalentExperience in Agriculture/Feedlot or Livestock Environment - will be an Advantage -Delmas area, Gauteng/Mphumalanga SENIOR ACCOUNTANT * Bcom Accounting Degree or Equivalent * Advanced Microsoft Excel Skills * Working knowledge of Sage Pastel * Valid Driver's License Advantages: * Experience"
+    },
+    {
+      "id": "4edb2f8a946519e9",
+      "title": "OPERATIONS SUPPORT MANAGER",
+      "company": "Pronto Labour Team",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2392797-operations-support-manager-west-rand/?jobindex=10",
+      "found_at": "2026-10-26T13:47:42.738229+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Engineering & Trades",
+      "location": "West Rand, Gauteng",
+      "province": "Gauteng",
+      "closing_date": "2026-11-25",
+      "salary": "R28000 MONTH",
+      "job_type": "Full Time",
+      "requirements": "",
+      "exact_post": true,
+      "description": "JUNIOR OPERATIONS SUPPORT MANAGER with Degree in MECHANICAL OR CHEMICAL Engineering within a FMCG Industry - ESSENTIAL- Nasrec area, Gauteng OPERATIONS SUPPORT MANAGER, West Rand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results OPERATIONS SUPPORT MANAGER West Rand Salary: R28 000.00 - R30 000.00 Per Month Job Type: Permanent Sectors: Engineering Reference: JHB002164/JC Apply before Nov 25 2026 | 30 Days left Apply External Application Vacancy Details Employer: Pronto Labour Team JUNIOR OPERATIONS SUPPORT MANAGER with Degree in MECHANICAL OR CHEMICAL Engineering within a FMCG Industry - ESSENTIAL- Nasrec area, Gauteng JUNIOR OPERATIONS SUPPORT MANAGER with FMCG Industry experience - ESSENTIAL * MUST have a Degree in MECHANICAL OR CHEMICAL Engineering * MUST have Minimum 3-4 Year's FMCG Industry experience * Str"
     }
   ]
 }
