@@ -1,213 +1,37 @@
 {
-  "generated_at": "2026-10-26T08:32:05.504188+00:00",
+  "generated_at": "2026-10-26T09:17:14.905857+00:00",
   "version": "2.4",
   "stats": {
-    "total": 10,
+    "total": 8,
     "verified_official": 0
   },
   "groups": [
     {
-      "category": "Banking & Finance",
-      "count": 3
-    },
-    {
-      "category": "Drivers & Logistics",
-      "count": 2
-    },
-    {
       "category": "Cashiers & Retail",
-      "count": 2
+      "count": 4
     },
     {
       "category": "Engineering & Trades",
+      "count": 2
+    },
+    {
+      "category": "Drivers & Logistics",
       "count": 1
     },
     {
-      "category": "Other Jobs",
-      "count": 1
-    },
-    {
-      "category": "Office & Admin",
+      "category": "Hospitality & Food",
       "count": 1
     }
   ],
   "jobs": [
     {
-      "id": "f81140dbe2f4bca6",
-      "title": "Demand Planner",
-      "company": "Goldman Tech Resourcing",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395669-demand-planner-western-cape/?jobindex=1",
-      "found_at": "2026-10-26T08:31:16.220924+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Drivers & Logistics",
-      "location": "Western Cape, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-12-25",
-      "salary": "R500000 YEAR",
-      "job_type": "Full Time",
-      "requirements": "· National Senior Certificate. · Degree in Supply Chain Management. Should you meet the requirements for this position, please email your CV to supplychain.vacancy@stand-outstaffing.co.za or you can also contact the recruitment team on XXX-XXXX. Correspondence will only be conducted with short listed candidates. Should you not hear from us within 3 days, please consider your application unsuccessful. Apply Previous Next About Goldman Tech Resourcing Goldman Tech Resourcing, TA Stand-Out Staffing, is one of South Africa’s most agile recruitment companies that focus on placing professionals and skilled people in contract and permanent employment. Our mission is to be the most respected Recruitment Company within the IT, Finance and Mining Sectors by: Providing our clients with any number of quality candidates with the right technical skills and experience for a particular position. Providing the candidates we choose to work with a number of attractive career opportunities in a short space of time. Focusing on niche segments of market and knowing these segments intimately. Similar Jobs View All (13) Junior Demand Planner – JHB Johannesburg Job Type: Permanent Posted 14 Oct 2026 | 49",
-      "exact_post": true,
-      "description": "We’re looking for a Demand Planner to help us anticipate customer needs, improve forecast accuracy, and keep products flowing. If you thrive on analysing trends and solving supply chain challenges, we’d love to hear from you! Experience Required: ... Demand Planner, Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Demand Planner Western Cape Salary: R41 667.00 - R50 000.00 Per Month Job Type: Permanent Sectors: Logistics Reference: ZH23039DP Apply before Dec 25 2026 | 61 Days left Apply Vacancy Details Employer: Goldman Tech Resourcing We’re looking for a Demand Planner to help us anticipate customer needs, improve forecast accuracy, and keep products flowing. If you thrive on analysing trends and solving supply chain challenges, we’d love to hear from you! Experience Required: · Must have a minimum of 6 ye"
-    },
-    {
-      "id": "e253d33fd601ea80",
-      "title": "Credit Controller Supervisor",
-      "company": "Fidelity Services Group",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395668-credit-controller-supervisor-midrand/?jobindex=2",
-      "found_at": "2026-10-26T08:31:16.694618+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Banking & Finance",
-      "location": "Johannesburg, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-11-02",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "and Skills: 1. Bachelor’s degree in finance, Accounting, or related field. 2. Proven experience in credit control or accounts receivable management. 3. Previous supervisory or team leadership experience. 4. Strong understanding of credit control processes and principles. 5. Excellent communication and interpersonal skills. 6. Ability to prioritize and manage multiple tasks effectively. 7. Proficiency in Microsoft Excel and other accounting software. 8. Attention to detail and high level of accuracy. 9. Knowledge of relevant legislation and regulations related to credit control. 10. Professional certification (e.g., CICM) is a plus. We reserve the right not to make an appointment to any advertised position. Whilst preference is given to existing employees at all times and the choice made is purely on merit, Historically Disadvantaged Candidates and Black Female Candidates are encouraged and supported in the FSG team. Whilst black female candidates will be given priority as per our transformation policy subject to the above criteria. Fidelity Services Group (Pty) Ltd supports global fair practice and business ethics on continuous development of our human capital as the key resource",
-      "exact_post": true,
-      "description": "Credit Control Supervisor Job Summary: The Credit Control Supervisor is responsible for leading and overseeing the credit control team to ensure efficient and effective collection of outstanding debts and manage the credit control process. The Credi... Credit Controller Supervisor, Midrand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng / Johannesburg Back to Search Results Credit Controller Supervisor Midrand Salary: Market Related Job Type: Permanent Sectors: General Security Reference: 209067 Apply before Nov 02 2026 | 8 Days left Apply Vacancy Details Employer: Fidelity Services Group Credit Control Supervisor Job Summary: The Credit Control Supervisor is responsible for leading and overseeing the credit control team to ensure efficient and effective collection of outstanding debts and manage the credit control process. The Cre"
-    },
-    {
-      "id": "b9295845322a2e9f",
-      "title": "Supervisor: Foreman",
-      "company": "Motus Corporation",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395667-supervisor-foreman-multifranchise-garsfontein-pretoria/?jobindex=3",
-      "found_at": "2026-10-26T08:31:17.132743+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Engineering & Trades",
-      "location": "Pretoria, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-11-02",
-      "salary": "r 20 000",
-      "job_type": "Full Time",
-      "requirements": "and Experience : Minimum Qualifications and Experience needed: Qualified Technician Must have workshop Foreman experience Apply Previous Next About Motus Corporation Motus is a multi-national provider of automotive mobility solutions and vehicle products and services, delivering 77 years of steady growth and reliable value creation. Our leading market presence in South Africa is enhanced by selected international offerings in the United Kingdom, Australia, Asia and Southern and East Africa. Motus employs over 20 000 people globally and is a diversified (non-manufacturing) business in the automotive sector. Motus is South Africa’s leading automotive group, with unrivalled scale and scope across the automotive value chain. Motus offers a differentiated value proposition to OEMs, customers and business partners with a business model that integrates our four business segments: Import and Distribution, Retail and Rental, Mobility Solutions and Aftermarket Parts, providing multiple customer touchpoints that support resilience and meet customers’ mobility needs across the vehicle ownership cycle. Motus has long-standing importer, distribution and retail partnerships with leading OEMs, re",
-      "exact_post": true,
-      "description": "The responsibilities of a Foreman include the following tasks: Recruits hire and motivate qualified Service Technicians. Assists technicians in developing their skills. Understands keeps abreast of, and complies with all regulations that affect service... Supervisor: Foreman - Multifranchise Garsfontein , Pretoria - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Supervisor: Foreman - Multifranchise Garsfontein Pretoria Salary: Market Related Job Type: Permanent Sectors: Engineering Automotive Reference: 209065 Apply before Nov 02 2026 | 8 Days left Apply Vacancy Details Employer: Motus Corporation The responsibilities of a Foreman include the following tasks: Recruits hire and motivate qualified Service Technicians. Assists technicians in developing their skills. Understands keeps abreast of, and complies with"
-    },
-    {
-      "id": "d749e2d77f7df964",
-      "title": "Credit Controller",
-      "company": "Fidelity Services Group",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395666-credit-controller-midrand-midrand/?jobindex=4",
-      "found_at": "2026-10-26T08:31:18.458329+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Banking & Finance",
-      "location": "Johannesburg, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-11-02",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "Matric Credit Management or Finance related qualification 2-3 Years Collections e... Credit Controller - Midrand, Midrand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng / Johannesburg Back to Search Results Credit Controller - Midrand Midrand Salary: Market Related Job Type: Permanent Sectors: Accounting Security Reference: 209064 Apply before Nov 02 2026 | 8 Days left Apply Vacancy Details Employer: Fidelity Services Group Introduction Collect on outstanding amounts ensuring good results in: debtors days (DSO), cash collection and reduction of bad debt expense/write off Minimum Requirements Matric Credit Management or Finance related qualification 2-3 Years Collections experience in a high volume consumer environment Strong knowledge of Microsoft Office & Excel Working knowledge of LSN and SAP Strong People & Communication skills Job Specification Telephonically contact clients with due or overdue amounts in order to obtain payment for the arrears Accurately record notes resulting from outbound calls to clients in the Listen",
-      "exact_post": true,
-      "description": "Introduction Collect on outstanding amounts ensuring good results in: debtors days (DSO), cash collection and reduction of bad debt expense/write off Minimum Requirements Matric Credit Management or Finance related qualification 2-3 Years Collections e... Credit Controller - Midrand, Midrand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng / Johannesburg Back to Search Results Credit Controller - Midrand Midrand Salary: Market Related Job Type: Permanent Sectors: Accounting Security Reference: 209064 Apply before Nov 02 2026 | 8 Days left Apply Vacancy Details Employer: Fidelity Services Group Introduction Collect on outstanding amounts ensuring good results in: debtors days (DSO), cash collection and reduction of bad debt expense/write off Minimum Requirements Matric Credit Management or Finance related qualification 2-3 Years Coll"
-    },
-    {
-      "id": "c2489f4cb5989c6f",
-      "title": "Warehouse Manager",
-      "company": "Goldman Tech Resourcing",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395665-warehouse-manager-johannesburg/?jobindex=5",
-      "found_at": "2026-10-26T08:31:18.911901+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Drivers & Logistics",
-      "location": "Johannesburg, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-12-25",
-      "salary": "R500000 YEAR",
-      "job_type": "Full Time",
-      "requirements": "Must have a minimum of 8 years’ expe... Warehouse Manager, Johannesburg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Warehouse Manager Johannesburg Salary: R41 667.00 - R54 167.00 Per Month Job Type: Permanent Sectors: Logistics Reference: ZH23038WM Apply before Dec 25 2026 | 61 Days left Apply Vacancy Details Employer: Goldman Tech Resourcing We’re looking for a Warehouse Manager to oversee efficient warehouse operations and ensure our hydroponic growing supplies and greenhouse products reach customers accurately and on time. Minimum Requirements: Must have a minimum of 8 years’ experience within the agricultural industry. Must have a minimum of 5 years’ experience as a Warehouse Manager . National Senior Certificate. National Diploma in Warehouse Management or similar. Should you meet the requirements for this position, please email your CV to supplychain.vacancy@stand-outstaffing.co.za or you can also contact the recruitment team on XXX-XXXX. Correspondence will only be conducted with short listed",
-      "exact_post": true,
-      "description": "We’re looking for a Warehouse Manager to oversee efficient warehouse operations and ensure our hydroponic growing supplies and greenhouse products reach customers accurately and on time. Minimum Requirements: Must have a minimum of 8 years’ expe... Warehouse Manager, Johannesburg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Warehouse Manager Johannesburg Salary: R41 667.00 - R54 167.00 Per Month Job Type: Permanent Sectors: Logistics Reference: ZH23038WM Apply before Dec 25 2026 | 61 Days left Apply Vacancy Details Employer: Goldman Tech Resourcing We’re looking for a Warehouse Manager to oversee efficient warehouse operations and ensure our hydroponic growing supplies and greenhouse products reach customers accurately and on time. Minimum Requirements: Must have a minimum of 8 years’ experience within the"
-    },
-    {
-      "id": "aac486bf29d3bc2b",
-      "title": "Production Planner",
-      "company": "Ntice Search",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395664-production-planner-midrand/?jobindex=6",
-      "found_at": "2026-10-26T08:31:20.163687+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Other Jobs",
-      "location": "Johannesburg, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-11-25",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "Bachelor's degree in Supply Chain Management, Operations Management, Business Administration, Inventory Management, or a related field - Minimum of 5 years' experience in production planning, manufacturing, inventory management, and/or supply chain roles within an FMCG environment - Experience with production planning and inventory management systems, preferably SAP - Demonstrated experience in production scheduling, demand forecasting, material planning, and inventory control - Experience with audits and inventory-related internal controls - Proven leadership and team management capabilities - Strong analytical, problem-solving, communication, and organisational skills Advantageous - APICS certification - Certified in Production and Inventory Management (CPIM) - Experience with capacity planning, continuous improvement programmes, and manufacturing performance optimisation - Knowledge of manufacturing cost control, supplier management, and production efficiency metrics Key Competencies - Production and supply chain planning - Inventory and warehouse management - Analytical thinking and problem-solving - Leadership, coaching, and team development - Strong communication and stake",
-      "exact_post": true,
-      "description": "An exciting opportunity awaits an experienced and results-driven Production Planner to make a meaningful impact within a fast-paced FMCG manufacturing environment. This pivotal role is responsible for driving operational efficiency and optimising end-t... Production Planner, Midrand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng / Johannesburg Back to Search Results Production Planner Midrand Salary: Market Related Job Type: Permanent Sectors: Manufacturing Reference: 74443 Apply before Nov 25 2026 | 31 Days left Apply Vacancy Details Employer: Ntice Search An exciting opportunity awaits an experienced and results-driven Production Planner to make a meaningful impact within a fast-paced FMCG manufacturing environment. This pivotal role is responsible for driving operational efficiency and optimising end-to-end manufacturing and su"
-    },
-    {
-      "id": "81b3977d8a4ebe07",
-      "title": "Casual Frontshop Assistant (Fixed Term)",
+      "id": "6019ab5a9e5dff04",
+      "title": "Casual Cashier (Fixed Term)",
       "company": "Dis-Chem Pharmacies Limited",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395663-casual-frontshop-assistant-fixed-term-oudtshoorn-western-cape/?jobindex=7",
-      "found_at": "2026-10-26T08:31:21.759284+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395684-casual-cashier-fixed-term-garden-route-mall-western-cape/?jobindex=1",
+      "found_at": "2026-10-26T09:16:34.421862+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -224,18 +48,18 @@
       "closing_date": "2026-11-02",
       "salary": "",
       "job_type": "Contractor",
-      "requirements": "Essential: ... Casual Frontshop Assistant (Fixed Term) - Oudtshoorn, Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Casual Frontshop Assistant (Fixed Term) - Oudtshoorn Western Cape Salary: Market Related Job Type: Contract Sectors: General Retail Reference: 209063 Apply before Nov 02 2026 | 8 Days left Apply Vacancy Details Employer: Dis-Chem Pharmacies Limited Dis- Chem requires a Frontshop Assistant for their Oudtshoorn store, to uphold the merchandising standards whilst supporting the customer service at point of sales in accordance with Dis-Chem policies and procedures. Minimum Requirements: Essential: Grade 12 – Matric or Senior Certificate 0 – 6 Months Retail work experience Advantageous: 1 Year work experience within Retail Certification in Retail Business Management Job Description: Ensure that full ranges of products are on the shelves at all times and neatly presented. Maintain the stock on the shelves to ensure it has not reached its sell by date. Restock merchandise when needed to ensur",
+      "requirements": ", or attributes that make... Casual Cashier (Fixed Term) - Garden Route Mall, Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Casual Cashier (Fixed Term) - Garden Route Mall Western Cape Salary: Market Related Job Type: Contract Sectors: General Retail Reference: 209091 Apply before Nov 02 2026 | 8 Days left Apply Vacancy Details Employer: Dis-Chem Pharmacies Limited Dis-Chem Pharmacies is looking for a Casual Cashier for their Garden Route Mall store. The aim of a strategic talent pool is to have a readily available and pre-screened group of individuals with specific skills, qualifications, or attributes that make them suitable for future job opportunities within Dis-Chem Pharmacies. Purpose of the role: Support customer service at point of sale while ensuring a world-class shopping experience. Record customer transactions on the Dis-Chem operating system according to company policies & standard operating procedures, with zero tolerance toward inaccuracies & elimination of fraud risk Essential: Grade",
       "exact_post": true,
-      "description": "Ensure that full ranges of products are on the shelves at all times and neatly presented. Maintain the stock on the shelves to ensure it has not reached its sell by date. Restock merchandise when needed to ensure maximum sales. All out of stock queries from customers must be followed up on, in line with the customer service out of stock list and ensure they are dealt with in a timeous manner. Ensure delivered stock and/ or stock pulled from the storeroom are stored and packed in the correct space. Ensure merchandise displays, labels and pricing are correct at all times and report all price discrepancies to management. Ensure the storeroom organised, neat and tidy. Keep up to date with new product knowledge to effectively assist customers. Assist with restocking of merchandise and supplies when needed to ensure maximum sales. Assist with back shopping when required. All merchandise must be handled carefully to prevent any losses. Transact all purchases – receive, verify and processes all payments such as cash, cards, vouchers, coupons and any other acceptable payments. Exchange merchandise for customers and accept returned goods by customers when authorised to do so by the Frontsh"
+      "description": "Adhere to Dis-Chem’s customer service policies and procedures Establish a professional relationship with customers Report customer complaints and compliments to the Frontline Supervisor, or store management Adhere to the customer turnover hourly rate Be aware of current sales and promotions Ensure colleagues and customers are not exposed to any risk Carry out and manage Dis-Chem 5 star communication principles Be responsible for cash flow Ensure all line voids and price changes are approved and signed off by the supervisor Exchange merchandise for customers and accept returned goods by customers when authorised to do so Transact all purchases – receive and process all payments (cash, bank cards, vouchers, coupons, other forms of payments) accepted by Dis-Chem Process all loyalty cards including those of our accelerator partners (Discovery Health Care, Medihelp Lifestage, Momentum Multiply, Legacy Lifestyle, ABSA Rewards and eBucks) Ensure cash is placed in drop safe according to Dis-Chem’s SOPs Ensure usage of your code and password is restricted to only you; is safe, and is changed regularly Ensure all outgoing stock/items/scripts are scanned and paid for Ensure that all money i"
     },
     {
-      "id": "46fb412356209b56",
-      "title": "Cosmetics Consultant",
-      "company": "Dis-Chem Pharmacies Limited",
+      "id": "35376b0e835dadf8",
+      "title": "Junior Merchandiser",
+      "company": "Managed People Solutions",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395662-cosmetics-consultant-mall-of-tembisa-gauteng/?jobindex=8",
-      "found_at": "2026-10-26T08:31:22.181769+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395683-junior-merchandiser-managed-people-solutions-worcester-western-cape-western-cape/?jobindex=2",
+      "found_at": "2026-10-26T09:16:34.997349+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -247,23 +71,23 @@
         "warnings": []
       },
       "category": "Cashiers & Retail",
-      "location": "Gauteng, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-11-01",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "",
+      "location": "Western Cape, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-12-25",
+      "salary": "r 18",
+      "job_type": "Intern",
+      "requirements": "Check vintage, product quality on the shelf, stock rotation, and price tags Execute merchandising activities as per cycle brief Feedback on customer complaints, queries, and requests Communicate and upkeep knowledge of product and promotions Effectively record merchandising activities Execute calls as per call cycle Advice RSM on out-of-stock products Requirements: Under the age of 28 years old. N6 TVET Certificate Management Assistant Business Management Marketing Management Stipend : R3 500 per month Duration 18 Months Please do not apply if you do not meet the requirements for the position Should you not receive any feedback within 2 weeks after the",
       "exact_post": true,
-      "description": "Escalate serious and unresolved customer complaint to the manager Provide a high level of customer care and service Demonstrate products through makeovers, cosmetics demonstration, spray promotions and/or activities Manage stock levels according to Dis-Chem procedures – report on short, damage and expired stock to manager Ensure merchandising and displays are set up attractively Maximise store income by achieving department, brand and vendor sales Keep up to date regarding products, brands and the retail industry Be responsible for all cosmetics, fragrances and beauty house promotions Manage Salon appointments Adhere to Dis-Chem policies and procedures, SOPs and health and safety rules and regulations Competencies: Essential: Strong command of English (written and oral) Be a team player Provide excellent customer service Understand stock reports and sales (target and commission calculations) Work according to a task schedule Advantageous: Promotions, personal selling, sales targets, customer liaison and product knowledge Previous sales and promotional training Manage expired, damaged stock, and ensure stock rotation Bilingual Stock management Special conditions of employment: Wil"
+      "description": "Managed People Solutions is offering internship opportunities to young, unemployed and ambitious TVET students looking for workplace experience. This opportunity is only open to individuals who have completed their TVET College N6 Certificate (looking ... Junior Merchandiser | Managed People Solutions | Worcester | Western Cape , Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Junior Merchandiser | Managed People Solutions | Worcester | Western Cape Western Cape Salary: Market Related Job Type: Internship Sectors: General Import & Export Reference: 209090 Apply before Dec 25 2026 | 61 Days left Apply Vacancy Details Employer: Managed People Solutions Managed People Solutions is offering internship opportunities to young, unemployed and ambitious TVET students looking for workplace experience. This opportun"
     },
     {
-      "id": "4009e652690563e7",
-      "title": "Senior People Business Partner",
-      "company": "Weaver Fintech Ltd",
+      "id": "13c0a57d12f07d7b",
+      "title": "Casual Frontshop Assistant (Fixed Term)",
+      "company": "Dis-Chem Pharmacies Limited",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395661-senior-people-business-partner-cape-town/?jobindex=9",
-      "found_at": "2026-10-26T08:31:22.620240+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395680-casual-frontshop-assistant-fixed-term-garden-walk-western-cape/?jobindex=5",
+      "found_at": "2026-10-26T09:16:36.185288+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -274,24 +98,136 @@
         ],
         "warnings": []
       },
-      "category": "Banking & Finance",
-      "location": "Cape Town, Western Cape",
+      "category": "Cashiers & Retail",
+      "location": "Western Cape, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-02",
+      "salary": "",
+      "job_type": "Contractor",
+      "requirements": "... Casual Frontshop Assistant (Fixed Term) - Garden Walk, Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Casual Frontshop Assistant (Fixed Term) - Garden Walk Western Cape Salary: Market Related Job Type: Contract Sectors: General Retail Reference: 209082 Apply before Nov 02 2026 | 8 Days left Apply Vacancy Details Employer: Dis-Chem Pharmacies Limited Dis- Chem requires a Frontshop Assistant for their Garden Walk, Hartenbos store, to uphold the merchandising standards whilst supporting the customer service at point of sales in accordance with Dis-Chem policies and procedures. Minimum Requirements: Essential: Grade 12 – Matric or Senior Certificate 0 – 6 Months Retail work experience Advantageous: 1 Year work experience within Retail Certification in Retail Business Management Job Description: Ensure that full ranges of products are on the shelves at all times and neatly presented. Maintain the stock on the shelves to ensure it has not reached its sell by date. Restock merchandise when needed to ens",
+      "exact_post": true,
+      "description": "Ensure that full ranges of products are on the shelves at all times and neatly presented. Maintain the stock on the shelves to ensure it has not reached its sell by date. Restock merchandise when needed to ensure maximum sales. All out of stock queries from customers must be followed up on, in line with the customer service out of stock list and ensure they are dealt with in a timeous manner. Ensure delivered stock and/ or stock pulled from the storeroom are stored and packed in the correct space. Ensure merchandise displays, labels and pricing are correct at all times and report all price discrepancies to management. Ensure the storeroom organised, neat and tidy. Keep up to date with new product knowledge to effectively assist customers. Assist with restocking of merchandise and supplies when needed to ensure maximum sales. Assist with back shopping when required. All merchandise must be handled carefully to prevent any losses. Transact all purchases – receive, verify and processes all payments such as cash, cards, vouchers, coupons and any other acceptable payments. Exchange merchandise for customers and accept returned goods by customers when authorised to do so by the Frontsh"
+    },
+    {
+      "id": "a3eb564a8e40b6f3",
+      "title": "Business Development Engineer",
+      "company": "Unique Personnel",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395679-business-development-engineer-east-rand/?jobindex=6",
+      "found_at": "2026-10-26T09:16:36.509086+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Engineering & Trades",
+      "location": "East Rand, Gauteng",
+      "province": "Gauteng",
+      "closing_date": "2026-11-25",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Tertiary qualification in Engineering (Mechanical/Metallurgical/Chemical) Sales and Marketing tertiary qualification would be an advantageous At least 5 years relevant sales experience. Exposure in a Process Plant is advantageous Good communication skills, aligns performance for success, customer focused, persuasive, quality orientated, builds a successful team and strategic working relationships Proficient in Microsoft Office Suite (MS Word, Excel, PowerPoint and Outlook) Fair amount of travelling is required Business Development Engineer, East Rand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Business Development Engineer East Rand Salary: (Negotiable) Job Type: Permanent Sectors: Mining Reference: 80864 Apply before Nov 25 2026 | 31 Days left Apply External Application Vacancy Details Employer: Unique Personnel REPORTING TO THE GENERAL MANAGER, INTERNATIONAL BUSINESS The Position will be responsible for the India and Turkey regions. JOB PURPOSE: To facilitate business development and maximise comp",
+      "exact_post": true,
+      "description": "REPORTING TO THE GENERAL MANAGER, INTERNATIONAL BUSINESS The Position will be responsible for the India and Turkey regions. JOB PURPOSE: To facilitate business development and maximise company profits by ensuring participation in the target market JOB ... QUALIFICATION & REQUIREMENTS: Tertiary qualification in Engineering (Mechanical/Metallurgical/Chemical) Sales and Marketing tertiary qualification would be an advantageous At least 5 years relevant sales experience. Exposure in a Process Plant is advantageous Good communication skills, aligns performance for success, customer focused, persuasive, quality orientated, builds a successful team and strategic working relationships Proficient in Microsoft Office Suite (MS Word, Excel, PowerPoint and Outlook) Fair amount of travelling is required Business Development Engineer, East Rand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE "
+    },
+    {
+      "id": "db49fb30a663c281",
+      "title": "Supervisor (Marikana)",
+      "company": "Finstone SA",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395647-supervisor-marikana-rustenburg/?jobindex=7",
+      "found_at": "2026-10-26T09:16:36.955044+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Drivers & Logistics",
+      "location": "Rustenburg, North West",
+      "province": "North West",
+      "closing_date": "2026-10-30",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Minimum Academic & Experience required for this position: Grade 12. At least 2 years Supervisor Experience (Factory & Granite). Experience and valid certificate for forklift, overhead crane and saw machinery will be advantage. Knowledge of general maintenance. Must be able to work on heights. General: The Applicant should be in residing in Marikana or surrounding areas. Valid SA code 08 driver licence and own vehicle. Core Competencies: Strong mechanical aptitude and machinery operation skills. Attention to detail with a high level of accuracy. Proven leadership and servant leadership approach. Excellent communication and interpersonal skills. Strong teamwork and collaboration capabilities. Analytical and problem-solving mindset. Committed to continuous learning and operational improvement. Supervisor (Marikana), Rustenburg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / North West Back to Search Results Supervisor (Marikana) Rustenburg Salary: Market Related Job Type: Permanent Sectors: Warehousing Manufacturing Retail",
+      "exact_post": true,
+      "description": "Finstone SA is looking for a Supervisor who is highly organized, operational orientated, professional and skilled with exceptional machinery skills to lead the Factory. Summary purpose/expectations: The purpose of this role is to oversee daily o... Requirements: Minimum Academic & Experience required for this position: Grade 12. At least 2 years Supervisor Experience (Factory & Granite). Experience and valid certificate for forklift, overhead crane and saw machinery will be advantage. Knowledge of general maintenance. Must be able to work on heights. General: The Applicant should be in residing in Marikana or surrounding areas. Valid SA code 08 driver licence and own vehicle. Core Competencies: Strong mechanical aptitude and machinery operation skills. Attention to detail with a high level of accuracy. Proven leadership and servant leadership approach. Excellent communication and interpersonal skills. Strong teamwork and collaboration capabilities. Analytical and problem-solving mindse"
+    },
+    {
+      "id": "85c8ad480f8e5ae8",
+      "title": "Millwright - VKB Engineering Services, Petrus Steyn",
+      "company": "VKB Group",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395678-millwright-vkb-engineering-services-petrus-steyn-free-state/?jobindex=8",
+      "found_at": "2026-10-26T09:16:37.316031+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Engineering & Trades",
+      "location": "Free State, Free State",
+      "province": "Free State",
+      "closing_date": "2026-11-06",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Grade 12 / NQF Level 4. Valid Trade Certificate: Millwright (essential). Strong mechanical and electrical experience (both fields essential). Code B driver’s license. Clear criminal record. Must have at least 10 years' experience in maintenance of electrical and mechanical equipment. Must have ability to use Microsoft packages including Teams, word, excel, PowerPoint and outlook. Ability to use PRAGMA maintenance program Would be beneficial if you have experience in agricultural environment. Ability to weld with both stick and CO2 welding Ability to read and interpret electrical and mechanical drawings Not afraid to work at hights (must) Skills & Competencies Ability to work independently and take ownership of tasks. Knowledge in maintenance repair of conveyor, bucket elevators and chain conveyors. Knowledge on bearing installation and selection. knowledge on electrical cable termination Ability to use lifting equipment. Strong problem-solving and fault-finding skills. Ability to work under pressure. Team player with excellent communication and interpersonal skills. Committed to continuous improvement and quality outcomes. Why VKB? At VKB, your work matters. You’ll join a team tha",
+      "exact_post": true,
+      "description": "About the VKB Group The VKB Group is a proudly South African agricultural company, supporting farmers and producing farm-fresh foods for consumers. Beyond our consumer brands, VKB is represented regionally by VKB, GWK, and NTK. Our roots are deeply pla... Millwright - VKB Engineering Services, Petrus Steyn, Free State - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Millwright - VKB Engineering Services, Petrus Steyn Free State Salary: Market Related Job Type: Permanent Sectors: Agriculture Engineering Reference: 209054 Apply before Nov 06 2026 | 12 Days left Apply Vacancy Details Employer: VKB Group About the VKB Group The VKB Group is a proudly South African agricultural company, supporting farmers and producing farm-fresh foods for consumers. Beyond our consumer brands, VKB is represented regionally by VKB, GWK, and "
+    },
+    {
+      "id": "2a7add3e61e0a9d9",
+      "title": "Barista/ Waiter",
+      "company": "Faircape",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395677-barista-waiter-western-cape/?jobindex=9",
+      "found_at": "2026-10-26T09:16:37.836967+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Hospitality & Food",
+      "location": "Western Cape, Western Cape",
       "province": "Western Cape",
       "closing_date": "2026-12-25",
       "salary": "",
       "job_type": "Full Time",
-      "requirements": "to ensure high performance. The candidate will utilise analytics and reports for decision making for the business unit heads. More",
+      "requirements": "Clear health record. Clear criminal record. Clear credit record. Contactable references. Faircape offers a competitive salary. The salary will be dependent on experience, qualifications, skills and attributes. Your total package includes a set basic salary, as well as provision for Sunday pay (at time and a half), public holiday pay (at double time), and quarterly performance bonuses paid every three months after successful probation. Working Hours You will be required to work 16.25 shifts per month. Normal working days are Mondays to Sundays from 07h00 to 19h00, according to the roster. Please Note Your application will only be considered should you complete the following: The one-way online interview – the link will automatically be sent once you submit your online application. The interview may be completed at your own convenience and will be reviewed by the team. Written references are compulsory and applications submitted without these will not be considered. Should you not receive a response within 2 weeks of applying, please consider your application unsuccessful. Apply 2 people have viewed this job. Previous Next More Jobs at Faircape View All (26) Registered Nurse - Pool",
       "exact_post": true,
-      "description": "Stay abreast of industry trends and proactively contribute towards the development and implementation of the People strategy Conduct internal and external trend analysis and provide the business with talent insights and recommendations Engage with business to obtain business insights to ensure alignment of People initiatives and plans to support business needs Partner with stakeholders to empower them with relevant tools and resources that allow them to effectively lead and inspire their teams, as well as manage performance Communicate and share relevant People reports/dashboards with insights to middle and snr management during departmental management meetings Continuously improve people processes (through innovation and/or automation) to enhance the employee experience Drive recruitment needs of the business by partnering with the Talent Acquisition Specialist to bring in the best talent Implement the performance excellence process, ensuring compliance across the business units and supporting managers where where poor performance arises Collaborate with relevant colleagues to execute People initiatives and projects Manage learning initiatives and facilitate specific interventio"
+      "description": "Faircape Restaurant and Catering, part of Faircape Life retirement villages, oprerates in 6 prime locations across the Western Cape, providing dining services to village residents and patients in the onsite healthcare centres. We are seeking a profes... Barista/ Waiter, Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Barista/ Waiter Western Cape Salary: Market Related Job Type: Permanent Sectors: Hospitality General Reference: 209077 Apply before Dec 25 2026 | 61 Days left Apply Vacancy Details Employer: Faircape Faircape Restaurant and Catering, part of Faircape Life retirement villages, oprerates in 6 prime locations across the Western Cape, providing dining services to village residents and patients in the onsite healthcare centres. We are seeking a professional, well-presented and customer-focused Bari"
     },
     {
-      "id": "2a8dd5eba00b221b",
-      "title": "Senior Investment Analyst (iOCOOO180)",
-      "company": "iOCO",
+      "id": "f6086f5af435d337",
+      "title": "Casual Frontshop Assistant (Fixed Term) - Sandown, Parklands",
+      "company": "Dis-Chem Pharmacies Limited",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395660-senior-investment-analyst-iocooo180-johannesburg/?jobindex=10",
-      "found_at": "2026-10-26T08:31:23.918533+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395676-casual-frontshop-assistant-fixed-term-sandown-parklands-cape-town/?jobindex=10",
+      "found_at": "2026-10-26T09:16:38.153781+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -302,15 +238,15 @@
         ],
         "warnings": []
       },
-      "category": "Office & Admin",
-      "location": "Johannesburg, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-12-25",
+      "category": "Cashiers & Retail",
+      "location": "Cape Town, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-02",
       "salary": "",
-      "job_type": "Full Time",
-      "requirements": "",
+      "job_type": "Contractor",
+      "requirements": "Ess... Casual Frontshop Assistant (Fixed Term) - Sandown, Parklands, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Casual Frontshop Assistant (Fixed Term) - Sandown, Parklands Cape Town Salary: Market Related Job Type: Contract Sectors: General Retail Reference: 209078 Apply before Nov 02 2026 | 8 Days left Apply Vacancy Details Employer: Dis-Chem Pharmacies Limited Dis- Chem requires a Frontshop Assistant for their Sandown, Parklands store, to uphold the merchandising standards whilst supporting the customer service at point of sales in accordance with Dis-Chem policies and procedures. Minimum Requirements: Essential: Grade 12 – Matric or Senior Certificate 0 – 6 Months Retail work experience Advantageous: 1 Year work experience within Retail Certification in Retail Business Management Job Description: Ensure that full ranges of products are on the shelves at all times and neatly presented. Maintain the stock on the shelves to ensure it has not reached its sell by date. Restock merchan",
       "exact_post": true,
-      "description": "will identify, assess ... Senior Investment Analyst (iOCOOO180), Johannesburg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Senior Investment Analyst (iOCOOO180) Johannesburg Salary: Market Related Job Type: Permanent Sectors: Investment Finance Reference: 209059 Apply before Dec 25 2026 | 61 Days left Apply Vacancy Details Employer: iOCO The Senior Investment Analyst will support the Group Chief Financial Officer in driving the Group’s capital allocation strategy through rigorous investment evaluation, portfolio monitoring and strategic decision support. The role will identify, assess and monitor investment opportunities, optimise capital deployment, and provide insights that enhance shareholder value. The ideal candidate will possess strong private equity, corporate finance and investment analysis experience, with the ability to translate complex financial information into clear strategic recommendations for executive decision-making. What you'll do: Capital Allocation & Investment Analysis Support t"
+      "description": "Ensure that full ranges of products are on the shelves at all times and neatly presented. Maintain the stock on the shelves to ensure it has not reached its sell by date. Restock merchandise when needed to ensure maximum sales. All out of stock queries from customers must be followed up on, in line with the customer service out of stock list and ensure they are dealt with in a timeous manner. Ensure delivered stock and/ or stock pulled from the storeroom are stored and packed in the correct space. Ensure merchandise displays, labels and pricing are correct at all times and report all price discrepancies to management. Ensure the storeroom organised, neat and tidy. Keep up to date with new product knowledge to effectively assist customers. Assist with restocking of merchandise and supplies when needed to ensure maximum sales. Assist with back shopping when required. All merchandise must be handled carefully to prevent any losses. Transact all purchases – receive, verify and processes all payments such as cash, cards, vouchers, coupons and any other acceptable payments. Exchange merchandise for customers and accept returned goods by customers when authorised to do so by the Frontsh"
     }
   ]
 }
