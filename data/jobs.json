@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T04:45:40.528161+00:00",
+  "generated_at": "2026-10-26T05:20:40.939245+00:00",
   "version": "2.4",
   "stats": {
     "total": 10,
@@ -7,16 +7,20 @@
   },
   "groups": [
     {
-      "category": "Engineering & Trades",
-      "count": 4
-    },
-    {
-      "category": "Office & Admin",
+      "category": "IT & Technology",
       "count": 3
     },
     {
-      "category": "IT & Technology",
+      "category": "Engineering & Trades",
+      "count": 3
+    },
+    {
+      "category": "Office & Admin",
       "count": 2
+    },
+    {
+      "category": "Other Jobs",
+      "count": 1
     },
     {
       "category": "Drivers & Logistics",
@@ -25,13 +29,97 @@
   ],
   "jobs": [
     {
-      "id": "1f13678e09322d41",
+      "id": "9ac9390cf1d6b483",
+      "title": "Mid-Senior OutSystems Developer",
+      "company": "Hire Resolve",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395579-mid-senior-outsystems-developer-centurion/?jobindex=1",
+      "found_at": "2026-10-26T05:20:03.376145+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "Pretoria, Gauteng",
+      "province": "Gauteng",
+      "closing_date": "2026-12-26",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "OutSystems Expertise: 3 to 5 years of hands-on OutSystems development experience, including proven background with OutSystems Developer Cloud (ODC) and Reactive Web Applications. Certifications: OutSystems Associate Reactive Developer certification (minimum). Technical Proficiency: Hands-on experience consuming and exposing REST APIs, along with strong SQL and relational database skills. Delivery & SDLC: Solid understanding of the full software development lifecycle (SDLC) and Agile delivery methodologies. Problem Solving & Communication: Excellent debugging and troubleshooting skills, paired with strong stakeholder engagement and communication abilities. Preferred Qualifications Advanced Certifications: Additional OutSystems credentials, such as OutSystems 11 or ODC-related certifications. Cloud & Integration: Experience working with Azure, cloud-native environments, or complex enterprise system integrations. DevOps Knowledge: Understanding of CI/CD pipelines and modern DevOps practices.",
+      "exact_post": true,
+      "description": "A prominent, SANAS-accredited Broad-Based Black Economic Empowerment (B-BBEE) verification agency is seeking a Mid-Senior OutSystems Developer who will drive low-code innovation and build high-impact enterprise applications as part of our expanding eng... Mid-Senior OutSystems Developer, Centurion - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng / Pretoria Back to Search Results Mid-Senior OutSystems Developer Centurion Salary: Market Related Job Type: Permanent Sectors: IT Reference: 208977 Apply before Dec 26 2026 | 62 Days left Apply Vacancy Details Employer: Hire Resolve A prominent, SANAS-accredited Broad-Based Black Economic Empowerment (B-BBEE) verification agency is seeking a Mid-Senior OutSystems Developer who will drive low-code innovation and build high-impact enterprise applications as part of our expanding engineering t"
+    },
+    {
+      "id": "4facf8175c37cd3f",
+      "title": "Stock Controller",
+      "company": "Hire Resolve",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395578-stock-controller-free-state/?jobindex=2",
+      "found_at": "2026-10-26T05:20:03.758556+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "Free State, Free State",
+      "province": "Free State",
+      "closing_date": "2026-11-26",
+      "salary": "R16 000",
+      "job_type": "Full Time",
+      "requirements": "Matric / Grade 12. At least 5 years’ relevant experience in an FMCG environment. Extensive knowledge and experience using Syspro . Excellent computer literacy, particularly Microsoft Excel. Basic accounting knowledge. Experience in stock control, inventory management and production administration. Key Responsibilities Monitor and control raw materials, premixes, medication and production inventory. Coordinate stock replenishment with Procurement and follow up on outstanding deliveries. Confirm purchase orders on Syspro and assist with sourcing new commodities when required. Coordinate daily, weekly and month-end stock counts. Reconcile theoretical stock levels against physical counts and investigate discrepancies. Prepare stock variance reports, inventory spreadsheets and production reports. Update Syspro with reconciled stock counts and maintain accurate inventory records. Reconcile production data with raw material usage and stock movements. Manage goods received notes (GRNs), purchase orders and stock transfers. Monitor stock usage, identify potential wastage and assist with surplus or obsolete stock. Maintain accurate documentation, filing systems and inventory statistics. Con",
+      "exact_post": true,
+      "description": "An opportunity is available for an experienced Stock Controller to oversee inventory management and production-related stock administration within a manufacturing environment. The successful candidate will be responsible for monitoring stock levels, co... Stock Controller, Free State - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Stock Controller Free State Salary: Market Related Job Type: Permanent Sectors: Agriculture Procurement Reference: 208933 Apply before Nov 26 2026 | 32 Days left Apply Vacancy Details Employer: Hire Resolve An opportunity is available for an experienced Stock Controller to oversee inventory management and production-related stock administration within a manufacturing environment. The successful candidate will be responsible for monitoring stock levels, coordinating replenishment, managing inv"
+    },
+    {
+      "id": "c7989cdcfc592717",
+      "title": "Sales Representative",
+      "company": "Unique Personnel",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395577-sales-representative-durban/?jobindex=3",
+      "found_at": "2026-10-26T05:20:04.239809+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "Durban, KwaZulu-Natal",
+      "province": "KwaZulu-Natal",
+      "closing_date": "2026-11-25",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Experience in welding or metal fabrication Apply 1 person has viewed this job. Previous Next Similar Jobs View All (61) Sales Consultant Pinetown Job Type: Permanent Posted 23 Oct 2026 | 58 Days left Sales Consultant KwaZulu-Natal Job Type: Permanent Posted 21 Oct 2026 | 56 Days left External Sales Representative Durban Job Type: Permanent Posted 28 Sep 2026 | 33 Days left Sales Representative (New Business) Durban Job Type: Permanent Posted 09 Oct 2026 | 44 Days left More Jobs at Unique Personnel View All (143) Product Manager Johannesburg Job Type: Permanent Posted 23 Oct 2026 | 28 Days left External Sales Representative Durban Job Type: Permanent Posted 23 Oct 2026 | 28 Days left Senior Final Inspector East Rand Job Type: Permanent Posted 23 Oct 2026 | 28 Days left Procurement and Stores Supervisor East Rand Job Type: Permanent Posted 22 Oct 2026 | 27 Days left",
+      "exact_post": true,
+      "description": "Proven sales experience, preferably in industrial equipment, welding or manufacturing. Technical aptitude and willingness to learn our products. Strong communication skills and confidence in conducting customer demonstrations. Ability to prospect, bui... Experience in welding or metal fabrication Sales Representative , Durban - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / KwaZulu-Natal Back to Search Results Sales Representative Durban Salary: (Negotiable) Job Type: Permanent Sectors: General Reference: 80862 Apply before Nov 25 2026 | 31 Days left Apply External Application Vacancy Details Employer: Unique Personnel Proven sales experience, preferably in industrial equipment, welding or manufacturing. Technical aptitude and willingness to learn our products. Strong communication skills and confidence in conducting customer demonstrations"
+    },
+    {
+      "id": "41e32d99794c0730",
       "title": "AI Engineer",
       "company": "MSP Staffing (PTY) LTD",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395575-ai-engineer-johannesburg/?jobindex=1",
-      "found_at": "2026-10-26T04:44:39.913106+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395575-ai-engineer-johannesburg/?jobindex=4",
+      "found_at": "2026-10-26T05:20:04.685942+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -53,13 +141,13 @@
       "description": "focuses on Generative AI, traditional ML pipelines, data platforms and reliable, efficient and secure AI systems. Key... AI Engineer, Johannesburg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results AI Engineer Johannesburg Salary: R44 000.00 Per Month Job Type: Permanent Sectors: IT Reference: AIEJHB10 Apply before Dec 24 2026 | 60 Days left Apply Vacancy Details Employer: MSP Staffing (PTY) LTD Design, build and deploy scalable AI and Machine Learning solutions across Data Engineering, DevOps and Machine Learning. The role focuses on Generative AI, traditional ML pipelines, data platforms and reliable, efficient and secure AI systems. Key Requirements Design and implement end-to-end AI/ML pipelines from data ingestion through model deployment and monitoring. Build and optimise Generative AI applications using RAG and LLM frameworks. Develop scalable data processing workflows using modern Big Data tools. Implement MLOps practices for model lifecycle management, versioning and automated deployment. Collabora"
     },
     {
-      "id": "452fe5a882a3e52a",
+      "id": "fa760c396380bec0",
       "title": "Senior Full-Stack Software Developer (Python)",
       "company": "MSP Staffing (PTY) LTD",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395574-senior-full-stack-software-developer-python-cape-town/?jobindex=2",
-      "found_at": "2026-10-26T04:44:41.296407+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395574-senior-full-stack-software-developer-python-cape-town/?jobindex=5",
+      "found_at": "2026-10-26T05:20:05.169677+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -81,13 +169,13 @@
       "description": "requires a pragmatic engineering approach, strong problem-solving skills, end-to-end ownership and the ability to mentor developers while contributing to high-quality software solutions. Experience: · 7–10+ years of professional experience in full-stack software development within enterprise or product-based environments. · Strong Python development experience, including advanced object-oriented programming, asynchronous programming and software development best practices. · Experience with Python frameworks such as Django, Flask or FastAPI. · Experience developing front-end applications using Angular, React or Vue. · Hands-on experience designing and implementing RESTful APIs and event-driven microservices. · Strong SQL skills and experience with relational databases, preferably SQL Server, as well as exposure to NoSQL databases. · Experience integrating enterprise systems, including ERP, finance, logistics or third-party SaaS platforms. · Experience with Git, CI/CD pipelines and containerisation technologies such as Docker. Advantageous · Relevant professional software development or cloud certifications. · Experience with Kubernetes and DevSecOps practices. · Experience in fint"
     },
     {
-      "id": "64cfd7e715c0294b",
+      "id": "050ff1fd02bc50a6",
       "title": "Application Developer (.NET / C# / SQL Server)",
       "company": "MSP Staffing (PTY) LTD",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395573-application-developer-net-c-sql-server-cape-town/?jobindex=3",
-      "found_at": "2026-10-26T04:44:42.949895+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395573-application-developer-net-c-sql-server-cape-town/?jobindex=6",
+      "found_at": "2026-10-26T05:20:05.562078+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -109,13 +197,13 @@
       "description": "Our client is seeking an experienced Application Developer to join their team, responsible for the development and support of a global Life Health business application. The successful candidate will be responsible for developing, testing, maintaining, ... Application Developer (.NET / C# / SQL Server), Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Application Developer (.NET / C# / SQL Server) Cape Town Salary: R66 667.00 - R72 500.00 Per Month Job Type: Permanent Sectors: IT Reference: APPDEV-GENRE-1026 Apply before Dec 24 2026 | 60 Days left Apply Vacancy Details Employer: MSP Staffing (PTY) LTD Our client is seeking an experienced Application Developer to join their team, responsible for the development and support of a global Life Health business application. The successful candidate will"
     },
     {
-      "id": "b7d40aaa3b05f1c2",
+      "id": "7c6d74f207859056",
       "title": "Senior Product Engineer (Backend, AI Agents)",
       "company": "MSP Staffing (PTY) LTD",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395572-senior-product-engineer-backend-ai-agents-pretoria/?jobindex=4",
-      "found_at": "2026-10-26T04:44:44.232735+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395572-senior-product-engineer-backend-ai-agents-pretoria/?jobindex=7",
+      "found_at": "2026-10-26T05:20:05.907649+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -137,13 +225,13 @@
       "description": "Our client is seeking an experienced Senior Product Engineer to join their backend engineering team, responsible for building and maintaining the platform that powers AI agents across WhatsApp, voice, webchat, and email. The successful candidate will b... Senior Product Engineer (Backend, AI Agents), Pretoria - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Senior Product Engineer (Backend, AI Agents) Pretoria Salary: R10 000.00 Per Month Job Type: Permanent Sectors: IT Reference: SENPROD-N1958-1026 Apply before Dec 24 2026 | 60 Days left Apply Vacancy Details Employer: MSP Staffing (PTY) LTD Our client is seeking an experienced Senior Product Engineer to join their backend engineering team, responsible for building and maintaining the platform that powers AI agents across WhatsApp, voice, webchat, and email. "
     },
     {
-      "id": "45b275821fa1df5b",
+      "id": "df07e7c95ee428d9",
       "title": "Senior Android Mobile Engineer (DevOps)",
       "company": "MSP Staffing (PTY) LTD",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395571-senior-android-mobile-engineer-devops-johannesburg/?jobindex=5",
-      "found_at": "2026-10-26T04:44:45.559419+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395571-senior-android-mobile-engineer-devops-johannesburg/?jobindex=8",
+      "found_at": "2026-10-26T05:20:07.250339+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -165,13 +253,13 @@
       "description": "Our client is seeking an experienced Senior Android Mobile Engineer to join their team, responsible for designing, developing, maintaining, and optimising Android applications deployed on custom Android devices for Point of Sale and payment solutions. ... Senior Android Mobile Engineer (DevOps), Johannesburg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Senior Android Mobile Engineer (DevOps) Johannesburg Salary: R8 333.00 Per Month Job Type: Permanent Sectors: IT Benefits: Pension Reference: SENAND-DEVOPS-1026 Apply before Dec 24 2026 | 60 Days left Apply Vacancy Details Employer: MSP Staffing (PTY) LTD Our client is seeking an experienced Senior Android Mobile Engineer to join their team, responsible for designing, developing, maintaining, and optimising Android applications deployed on custom Android dev"
     },
     {
-      "id": "cc7514db5c3660ae",
+      "id": "6bbe90e8a64aa128",
       "title": "Technical Delivery Lead",
       "company": "Tumaini Consulting",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395570-technical-delivery-lead-cape-town/?jobindex=6",
-      "found_at": "2026-10-26T04:44:46.207603+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395570-technical-delivery-lead-cape-town/?jobindex=9",
+      "found_at": "2026-10-26T05:20:07.695593+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -193,13 +281,13 @@
       "description": "Our client is seeking an experienced Technical Delivery Lead to provide technical leadership across the full lifecycle of digital technology initiatives. This role is ideal for a senior technical professional who combines strong software engineering ex... Technical Delivery Lead, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Technical Delivery Lead Cape Town Salary: R80 000.00 Per Month Job Type: Permanent Sectors: IT Reference: 2395570 Apply before Dec 24 2026 | 60 Days left Apply Vacancy Details Employer: Tumaini Consulting Our client is seeking an experienced Technical Delivery Lead to provide technical leadership across the full lifecycle of digital technology initiatives. This role is ideal for a senior technical professional who combines strong software engineering expertise with archit"
     },
     {
-      "id": "eb6005259d6a3bc2",
+      "id": "347ee91040d05a82",
       "title": "Incentives & Recognition Manager",
       "company": "Tumaini Consulting",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395569-incentives-recognition-manager-johannesburg/?jobindex=7",
-      "found_at": "2026-10-26T04:44:46.634113+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395569-incentives-recognition-manager-johannesburg/?jobindex=10",
+      "found_at": "2026-10-26T05:20:08.089570+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -219,90 +307,6 @@
       "requirements": "· BCom Marketing, BCom Communications or equivalent qualification is advantageous. · 3–5 years' experience in a comparable role within a fast-paced, performance-driven environment. · Demonstrated experience in budget management, financial administration and cash handling, incentives. · Strong numerical and analytical ability. · Advanced Microsoft Excel skills; proficiency in Word and PowerPoint. · Experience with Canva and video editing tools. · Familiarity with AI and digital tools for content, communication and reporting. · Social media management experience, particularly Facebook and LinkedIn. · Event management experience is advantageous. · Strong organisational, communication and stakeholder management skills. · Ability to manage multiple projects and deadlines while maintaining accuracy and quality. Should you meet the requirements for this position, please email your updated CV attached to it .jobs@tumaini.co.za , alternatively contact XXX-XXXX or visit our website, www.tumaini.co. Correspondence will only be conducted with short listed candidates. Should you not hear from us within 3 days, please consider your application unsuccessful. Apply 2 people have applied for this",
       "exact_post": true,
       "description": "Our client is seeking a driven and highly organised Incentives & Recognition Manager to bring sales incentive programmes, recognition initiatives and internal engagement campaigns to life. This fully office-based role in Randburg combines creativity wi... Incentives & Recognition Manager, Johannesburg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Incentives & Recognition Manager Johannesburg Salary: R50 000.00 Per Month Job Type: Permanent Sectors: IT Reference: Incentives & Recognition Manager Apply before Dec 24 2026 | 60 Days left Apply Vacancy Details Employer: Tumaini Consulting Our client is seeking a driven and highly organised Incentives & Recognition Manager to bring sales incentive programmes, recognition initiatives and internal engagement campaigns to life. This fully office-based role in Randbu"
-    },
-    {
-      "id": "b27cf28f18c80aee",
-      "title": "Apparel and Textiles Buyer",
-      "company": "JobConnect",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395567-apparel-and-textiles-buyer-sandton/?jobindex=8",
-      "found_at": "2026-10-26T04:44:47.153738+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Office & Admin",
-      "location": "Johannesburg, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-12-24",
-      "salary": "R25000 MONTH",
-      "job_type": "Full Time",
-      "requirements": "Proven experience in clothing or textile procurement Hands-on knowledge of fabric quality and shrinkage testing, and the ability to spot poor material Experience importing from China and managing overseas suppliers Understanding of the South African market for corporate and promotional clothing Knowledge of import processes and costing, including duties and landed cost Strong negotiation, communication and attention to detail Ideally a qualification in procurement, supply chain, textiles or fashion merchandising Nice to have Knowledge of branding methods (embroidery, screen print, heat transfer) and how fabric choice affects them Familiarity with South African labelling and compliance requirements for clothing Experience with Chinese sourcing platforms and agents, and basic Mandarin or experience working with translators Required Skills Purchasing: 2 to 3 years Textile And Apparel: 2 to 3 years Candidate Requirements Previous purchasing experience with textiles and apparel Apply 9 people have applied for this job. 247 people have viewed this job. Previous Next More Jobs at JobConnect View All (16) Production Planner Sandton Job Type: Permanent Posted 14 Oct 2026 | 49 Days left Jun",
-      "exact_post": true,
-      "description": "Role: Procurement Officer / Buyer, Apparel & Textiles Division: Corporate and promotional clothing Purpose Source and import quality clothing and fabric (mainly from China) for promotional and corporate gifting orders. Make sure materials meet quality... Previous purchasing experience with textiles and apparel Apparel and Textiles Buyer, Sandton - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng / Johannesburg Back to Search Results Apparel and Textiles Buyer Sandton Salary: R25 000.00 - R30 000.00 Per Month (Negotiable) Job Type: Permanent Sectors: Clothing Reference: JC0016 Apply before Dec 24 2026 | 60 Days left Apply Vacancy Details Employer: JobConnect Role: Procurement Officer / Buyer, Apparel & Textiles Division: Corporate and promotional clothing Purpose Source and import quality clothing and fabric (mainly from China) for pro"
-    },
-    {
-      "id": "1c67d8dacf6fefda",
-      "title": "Ecommerce Engineer / Head of Ecommerce Technology",
-      "company": "Tumaini Consulting",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395566-ecommerce-engineer-head-of-ecommerce-technology-johannesburg/?jobindex=9",
-      "found_at": "2026-10-26T04:44:47.614634+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Engineering & Trades",
-      "location": "Johannesburg, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-12-24",
-      "salary": "R60000 MONTH",
-      "job_type": "Full Time",
-      "requirements": "· BSc Degree in IT, Computer Science, Software Engineering, or related field (non-negotiable) · Extensive senior-level experience in ecommerce or digital commerce engineering · Strong understanding of ecommerce platforms (Shopify, Magento, WooCommerce, or similar) · Solid frontend and backend development skills (HTML, CSS, JavaScript, Node.js, PHP, or Python) · Experience with REST APIs, system integrations, and cloud platforms (AWS, Azure, or Google Cloud) · Strong knowledge of SQL/NoSQL databases and Git version control · Experience with website performance optimisation and technical SEO · Proven leadership capability in cross-functional environments · Strong commercial acumen and business understanding Should you meet the requirements for this position, please email your updated CV attached to it .jobs@tumaini.co.za , alternatively contact XXX-XXXX or visit our website, www.tumaini.co. Correspondence will only be conducted with short listed candidates. Should you not hear from us within 3 days, please consider your application unsuccessful. Apply 188 people have viewed this job. Previous Next About Tumaini Consulting Tumaini Consulting is a Recruitment and Staffing agency that",
-      "exact_post": true,
-      "description": "Our client within a leading retail and digital commerce environment is seeking a highly experienced Ecommerce Engineer to take ownership of their ecommerce technology function in Linbro Offices (Hybrid). This is a senior-level opportunity suited to a s... Ecommerce Engineer / Head of Ecommerce Technology, Johannesburg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Ecommerce Engineer / Head of Ecommerce Technology Johannesburg Salary: R60 000.00 Per Month Job Type: Permanent Sectors: IT Reference: Ecommerce Engineer Apply before Dec 24 2026 | 60 Days left Apply Vacancy Details Employer: Tumaini Consulting Our client within a leading retail and digital commerce environment is seeking a highly experienced Ecommerce Engineer to take ownership of their ecommerce technology function in Linbro Offices (Hybrid). Thi"
-    },
-    {
-      "id": "224ebb4a45a6f3e1",
-      "title": "Head of Sales",
-      "company": "Tumaini Consulting",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395565-head-of-sales-johannesburg/?jobindex=10",
-      "found_at": "2026-10-26T04:44:48.075184+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Office & Admin",
-      "location": "Johannesburg, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-12-24",
-      "salary": "R1065000 YEAR",
-      "job_type": "Full Time",
-      "requirements": "· Matric is essential. · A relevant business, commercial or sales qualification is advantageous. · FAIS compliance is essential, as the incumbent will be required to act as a Key Individual (KI). · At least 5 years' experience managing large sales teams, preferably within a call centre or outbound sales environment. · Proven experience owning and growing revenue and profit performance, rather than solely operational KPIs. · Experience managing a sales operation of comparable scale. · Telesales, financial services or insurance experience is advantageous. · Strong practical knowledge of call centre processes, procedures and reporting. · Highly numerate, analytical and commercially focused. · Demonstrated leadership capability with the ability to lead through other leaders. · Strong performance management, coaching and people-development skills. Should you meet the requirements for this position, please email your updated CV attached to it .jobs@tumaini.co.za , alternatively contact XXX-XXXX or visit our website, www.tumaini.co. Correspondence will only be conducted with short listed candidates. Should you not hear from us within 3 days, please consider your application unsuccessful",
-      "exact_post": true,
-      "description": "Our client is seeking a commercially driven Head of Sales to take ownership of the performance, profitability and growth of a high-volume Sales Floor. Reporting directly to the Chief Executive Officer, this role is suited to an experienced sales leader... Head of Sales, Johannesburg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Head of Sales Johannesburg Salary: R88 750.00 Per Month Job Type: Permanent Sectors: IT Reference: 2395565 Apply before Dec 24 2026 | 60 Days left Apply Vacancy Details Employer: Tumaini Consulting Our client is seeking a commercially driven Head of Sales to take ownership of the performance, profitability and growth of a high-volume Sales Floor. Reporting directly to the Chief Executive Officer, this role is suited to an experienced sales leader who can turn growth targets into prac"
     }
   ]
 }
