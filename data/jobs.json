@@ -1,245 +1,37 @@
 {
-  "generated_at": "2026-10-26T19:39:10.623468+00:00",
+  "generated_at": "2026-10-26T23:24:13.947973+00:00",
   "version": "2.4",
   "stats": {
-    "total": 10,
+    "total": 9,
     "verified_official": 0
   },
   "groups": [
     {
-      "category": "Hospitality & Food",
-      "count": 2
-    },
-    {
-      "category": "IT & Technology",
-      "count": 2
+      "category": "Office & Admin",
+      "count": 4
     },
     {
       "category": "Cashiers & Retail",
-      "count": 2
+      "count": 3
     },
     {
-      "category": "Cleaners & General Workers",
+      "category": "Education",
       "count": 1
     },
     {
       "category": "Banking & Finance",
-      "count": 1
-    },
-    {
-      "category": "Other Jobs",
-      "count": 1
-    },
-    {
-      "category": "Education",
       "count": 1
     }
   ],
   "jobs": [
     {
-      "id": "34080723f438a735",
-      "title": "Housekeeping Attendant",
-      "company": "Helderberg Personnel cc",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395672-housekeeping-attendant-stellenbosch/?jobindex=1",
-      "found_at": "2026-10-26T19:38:02.513927+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Cleaners & General Workers",
-      "location": "Stellenbosch, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-11-25",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "Previous experience as a Housekeeping Attendant, Room Attendant or in a similar role within a luxury hotel, lodge, guest house or hospitality establishment is essential. Passion for delivering exceptional guest service and maintaining the highest housekeeping standards. High attention to detail with a strong commitment to cleanliness and presentation. Well-presented, professional and guest-focused. Positive attitude with the ability to work effectively as part of a team. Reliable, trustworthy and able to work efficiently in a fast-paced environment. Good communication skills in English (Afrikaans will be advantageous). Physically fit and able to perform the demands of the role. Willingness to work shifts, weekends and public holidays. Apply 98 people have viewed this job. Previous Next About Helderberg Personnel cc Based in Somerset West, Helderberg Personnel was established in 1998. The company initially started doing placements in the Helderberg Basin and over the years expanded nationally. Our background has proved to be invaluable in providing a high standard of recruitment, screening, evaluation and placement of candidates. Our Value proposition: The true value proposition o",
-      "exact_post": true,
-      "description": ". Willingness to work shifts, weekends and public holidays. Apply 98 people have viewed this job. Previous Next About Helderberg Personnel cc Based in Somerset West, Helderberg Personnel was established in 1998. The company initially started doing placements in the Helderberg Basin and over the years expanded nationally. Our background has proved to be invaluable in providing a high standard of recruitment, screening, evaluation and placement of candidates. Our Value proposition: The true value proposition of the Helderberg Personnel brand is our commitment to attending to our clients’ needs, culture and values and to ensure that, through comprehensive interviews with candidates, the overall match is determined to ensure a long term relationship. The identity of the client remains confidential at all times. We understand that our function is to ensure that the candidate must become a strategic partner to a business instead of a mere employee. Helderberg Personnel has achieved a steady growth over the last years and we have evolved into one of the leading agencies in the region. We have made placements cross functional, cross industry and up to senior management level. More Jobs at"
-    },
-    {
-      "id": "1f3a9fdadde3a456",
-      "title": "SAIPA Trainee Accountant",
-      "company": "Helderberg Personnel cc",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395849-saipa-trainee-accountant-durbanville/?jobindex=2",
-      "found_at": "2026-10-26T19:38:03.552814+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Banking & Finance",
-      "location": "Cape Town Northern Suburbs, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-11-25",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "Include: Matric Qualification B.Comm degree No experience is required Confident and articulate Fully bilingual in Afrikaans and English Willingness to learn and succeed Organised and excellent planning skills Willingness to complete a 3 year SAIPA article program Apply 2 people have viewed this job. Previous Next About Helderberg Personnel cc Based in Somerset West, Helderberg Personnel was established in 1998. The company initially started doing placements in the Helderberg Basin and over the years expanded nationally. Our background has proved to be invaluable in providing a high standard of recruitment, screening, evaluation and placement of candidates. Our Value proposition: The true value proposition of the Helderberg Personnel brand is our commitment to attending to our clients’ needs, culture and values and to ensure that, through comprehensive interviews with candidates, the overall match is determined to ensure a long term relationship. The identity of the client remains confidential at all times. We understand that our function is to ensure that the candidate must become a strategic partner to a business instead of a mere employee. Helderberg Personnel has achieved a ste",
-      "exact_post": true,
-      "description": "Durbanville. My client, an Accounting, Auditing and Advisory firm, is seeking to employ a confident and articulate aspirant 1st year SAIPA Trainee Accountant. This is an excellent opportunity for young dynamic B Comm graduate to pursue a career in an accounting practice. SAIPA Trainee Accountant , Durbanville - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape / Cape Town Northern Suburbs Back to Search Results SAIPA Trainee Accountant Durbanville Salary: Market Related Job Type: Permanent Sectors: Finance Reference: SW006677/AM Apply before Nov 25 2026 | 31 Days left Apply External Application Vacancy Details Employer: Helderberg Personnel cc Durbanville. My client, an Accounting, Auditing and Advisory firm, is seeking to employ a confident and articulate aspirant 1st year SAIPA Trainee Accountant. This is an excellent opportunit"
-    },
-    {
-      "id": "3ea74b36469d576e",
-      "title": "Restaurant Manager",
-      "company": "Helderberg Personnel cc",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395837-restaurant-manager-western-cape/?jobindex=3",
-      "found_at": "2026-10-26T19:38:03.930941+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Hospitality & Food",
-      "location": "Western Cape, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-11-25",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "",
-      "exact_post": true,
-      "description": "RESTAURANT MANAGER – BOUTIQUE HOSPITALITY DESTINATIONFRANSCHHOEK: An exciting opportunity awaits at a beautiful boutique hospitality destination in the Franschhoek Valley.Our client is seeking an experienced Restaurant Manager to take ownership of the day-to-day operation and lead the team across restaurant service, weddings, functions and special events — ensuring every detail is executed to the highest standard.This is a hands-on leadership role for someone who understands that outstanding hospitality is found in both the big moments and the small details. Restaurant Manager, Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Restaurant Manager Western Cape Salary: Market Related Job Type: Permanent Sectors: Hospitality Reference: SW006605/CL Apply before Nov 25 2026 | 30 Days left Apply External Applicatio"
-    },
-    {
-      "id": "c6bb412ed1ac64f5",
-      "title": "PRODUCT MANAGER â AUTOMOTIVE / COMMERCIAL VEHICLE PARTS (KEMPTON PARK)",
-      "company": "MPRTC Recruitment",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395843-product-manager-automotive-commercial-vehicle-parts-kempton-park-east-rand/?jobindex=4",
-      "found_at": "2026-10-26T19:38:04.895389+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Other Jobs",
-      "location": "East Rand, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-11-25",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "Tertiary qualification in Marketing, Engineering, Business Management or a related field Experience in product management, product marketing or product data management advantageous Advanced Microsoft Excel skills and strong overall computer literacy Strong Microsoft PowerPoint skills and experience with Canva, Photoshop or similar design software Knowledge of product pricing, market analysis, supplier sourcing and product lifecycle management Experience managing product data, online catalogues or ERP systems advantageous Ability to analyse sales trends, margins, stock levels and financial performance Strong commercial and financial acumen Fluent in English; Afrikaans advantageous Excellent communication, presentation, analytical and problem-solving skills Highly organised, detail-oriented, self-motivated and results-driven By submitting any Personal Information to MPRTC in any form you acknowledge that such conduct constitutes a reasonable unconditional, specific and voluntary consent to the (processing and storing of such Personal Information by MPRTC and/or MPRTC’s clients and/or verification information suppliers. You voluntarily consent that for the purposes of potentially gai",
-      "exact_post": true,
-      "description": "Manage and grow a product portfolio through product sourcing, pricing, supplier management, catalogue data, demand planning and product marketing to achieve sales and profitability targets. PRODUCT MANAGER â€“ AUTOMOTIVE / COMMERCIAL VEHICLE PARTS (KEMPTON PARK), East Rand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results PRODUCT MANAGER â€“ AUTOMOTIVE / COMMERCIAL VEHICLE PARTS (KEMPTON PARK) East Rand Salary: Market Related Job Type: Permanent Sectors: Motoring Reference: NEL012953/AB Apply before Nov 25 2026 | 30 Days left Apply External Application Vacancy Details Employer: MPRTC Recruitment Manage and grow a product portfolio through product sourcing, pricing, supplier management, catalogue data, demand planning and product marketing to achieve sales and profitability targets. Requirements Tertiary qualifi"
-    },
-    {
-      "id": "984420d95da9062b",
-      "title": "HEAD CHEF â 5 STAR HOSPITALITY (NELSPRUIT / BARBERTON)",
-      "company": "MPRTC Recruitment",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395748-head-chef-5-star-hospitality-nelspruit-barberton-mpumalanga/?jobindex=5",
-      "found_at": "2026-10-26T19:38:05.853715+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "IT & Technology",
-      "location": "Mpumalanga, Mpumalanga",
-      "province": "Mpumalanga",
-      "closing_date": "2026-11-25",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "Qualified Chef with relevant culinary certificates. Minimum 5 years' experience in a 5-star hospitality At least 3 years' experience as a Head Chef. Experience with menu planning, stock control, ordering, and kitchen management. Strong knowledge of food safety, hygiene, and dietary requirements. Team player with excellent leadership and organisational skills. Must be based in the Nelspruit/Barberton area or have reliable transport. Position is live-in and requires immediate availability. By submitting any Personal Information to MPRTC in any form you acknowledge that such conduct constitutes a reasonable unconditional, specific and voluntary consent to the (processing and storing of such Personal Information by MPRTC and/or MPRTC’s clients and/or verification information suppliers. You voluntarily consent that for the purposes of potentially gaining future employment opportunities, thorough background screening which may include but will not be limited to criminal, fraud, ITC and employment reference checks may be conducted. Should you have not been contacted within 14 days, please consider your application unsuccessful. You have the right to “Opt-Out” of electronic communication",
-      "exact_post": true,
-      "description": "Join a luxury lodge as a Head Chef, responsible for preparing exceptional 5-star cuisine, managing kitchen operations, and delivering outstanding dining experiences for guests. HEAD CHEF â€“ 5 STAR HOSPITALITY (NELSPRUIT / BARBERTON), Mpumalanga - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results HEAD CHEF â€“ 5 STAR HOSPITALITY (NELSPRUIT / BARBERTON) Mpumalanga Salary: Market Related Job Type: Permanent Sectors: Hospitality Reference: NEL012888/AL Apply before Nov 25 2026 | 30 Days left Apply External Application Vacancy Details Employer: MPRTC Recruitment Join a luxury lodge as a Head Chef, responsible for preparing exceptional 5-star cuisine, managing kitchen operations, and delivering outstanding dining experiences for guests. Requirements: Qualified Chef with relevant culinary certificates. Minimum 5 years' experienc"
-    },
-    {
-      "id": "4def3de1a91d499d",
-      "title": "COORDINATOR / GUIDE â VOLUNTEER CONSERVATION (MPUMALANGA)",
-      "company": "MPRTC Recruitment",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395749-coordinator-guide-volunteer-conservation-mpumalanga-mbombela/?jobindex=6",
-      "found_at": "2026-10-26T19:38:07.576268+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Hospitality & Food",
-      "location": "Mbombela, Mpumalanga",
-      "province": "Mpumalanga",
-      "closing_date": "2026-11-25",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "Minimum 3 years’ experience in guiding, volunteer coordination and working with high-level guests Fluent in English; Afrikaans and additional languages advantageous Valid driver’s licence and Professional Driving Permit (PDP) Must be comfortable in a live-in role Flexible, hands-on and willing to assist across different operational areas Experience with game drives and wildlife-related activities advantageous Able to work with guests, volunteers and staff in a professional manner By submitting any Personal Information to MPRTC in any form you acknowledge that such conduct constitutes a reasonable unconditional, specific and voluntary consent to the (processing and storing of such Personal Information by MPRTC and/or MPRTC’s clients and/or verification information suppliers. You voluntarily consent that for the purposes of potentially gaining future employment opportunities, thorough background screening which may include but will not be limited to criminal, fraud, ITC and employment reference checks may be conducted. Should you have not been contacted within 14 days, please consider your application unsuccessful. You have the right to “Opt-Out” of electronic communications from us",
-      "exact_post": true,
-      "description": "Coordinate volunteers and assist with guest guiding and daily sanctuary operations, including animal-related activities and general support. This is a live-in position. COORDINATOR / GUIDE â€“ VOLUNTEER CONSERVATION (MPUMALANGA), Mbombela - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Mpumalanga Back to Search Results COORDINATOR / GUIDE â€“ VOLUNTEER CONSERVATION (MPUMALANGA) Mbombela Salary: Market Related Job Type: Permanent Sectors: Hospitality Reference: NEL012951/AL Apply before Nov 25 2026 | 30 Days left Apply External Application Vacancy Details Employer: MPRTC Recruitment Coordinate volunteers and assist with guest guiding and daily sanctuary operations, including animal-related activities and general support. This is a live-in position. Requirements Minimum 3 years’ experience in guiding, volunteer coordination and working with "
-    },
-    {
-      "id": "6f3109b55b9dfe18",
-      "title": "ACCOUNT MANAGER â AGRICULTURE / AGRONOMY (HOESPRUIT)",
-      "company": "MPRTC Recruitment",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395818-account-manager-agriculture-agronomy-hoespruit-limpopo/?jobindex=7",
-      "found_at": "2026-10-26T19:38:08.337406+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "IT & Technology",
-      "location": "Limpopo, Limpopo",
-      "province": "Limpopo",
-      "closing_date": "2026-11-25",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "BSc Agriculture or National Diploma in Agriculture 1–5 years’ relevant experience Strong sales aptitude and interest in business development Knowledge of agronomy, pesticides or agricultural testing advantageous Experience in agricultural sales or client relationship management advantageous Fluent in English and Afrikaans Computer literate, particularly in Microsoft Office Valid driver’s licence and willingness to travel to farms and clients Strong communication, negotiation and relationship-building skills Results-driven, proactive and comfortable working towards sales targets By submitting any Personal Information to MPRTC in any form you acknowledge that such conduct constitutes a reasonable unconditional, specific and voluntary consent to the (processing and storing of such Personal Information by MPRTC and/or MPRTC’s clients and/or verification information suppliers. You voluntarily consent that for the purposes of potentially gaining future employment opportunities, thorough background screening which may include but will not be limited to criminal, fraud, ITC and employment reference checks may be conducted. Should you have not been contacted within 14 days, please consider",
-      "exact_post": true,
-      "description": "Develop agricultural client relationships and grow sales of pesticide testing services and agronomic consultancy, providing technical support to citrus, avocado and subtropical fruit producers. ACCOUNT MANAGER â€“ AGRICULTURE / AGRONOMY (HOESPRUIT), Limpopo - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results ACCOUNT MANAGER â€“ AGRICULTURE / AGRONOMY (HOESPRUIT) Limpopo Salary: Market Related Job Type: Permanent Sectors: Agriculture Sales Reference: NEL012952/AL Apply before Nov 25 2026 | 30 Days left Apply External Application Vacancy Details Employer: MPRTC Recruitment Develop agricultural client relationships and grow sales of pesticide testing services and agronomic consultancy, providing technical support to citrus, avocado and subtropical fruit producers. Requirements BSc Agriculture or National Diploma in Agricultur"
-    },
-    {
-      "id": "75fea658b6d6c527",
+      "id": "ac51f36e218e28f3",
       "title": "Frontshop Assistant - President Boulevard",
       "company": "Dis-Chem Pharmacies Limited",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395852-frontshop-assistant-president-boulevard-rustenburg-rustenburg/?jobindex=8",
-      "found_at": "2026-10-26T19:38:09.130801+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395852-frontshop-assistant-president-boulevard-rustenburg-rustenburg/?jobindex=1",
+      "found_at": "2026-10-26T23:23:20.967817+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -261,13 +53,13 @@
       "description": "Ensure that full ranges of products are on the shelves at all times and neatly presented. Maintain the stock on the shelves to ensure it has not reached its sell by date. Restock merchandise when needed to ensure maximum sales. All out of stock queries from customers must be followed up on, in line with the customer service out of stock list and ensure they are dealt with in a timeous manner. Ensure delivered stock and/ or stock pulled from the storeroom are stored and packed in the correct space. Ensure merchandise displays, labels and pricing are correct at all times and report all price discrepancies to management. Ensure the storeroom organised, neat and tidy. Keep up to date with new product knowledge to effectively assist customers. Assist with restocking of merchandise and supplies when needed to ensure maximum sales. Assist with back shopping when required. All merchandise must be handled carefully to prevent any losses. Transact all purchases – receive, verify and processes all payments such as cash, cards, vouchers, coupons and any other acceptable payments. Exchange merchandise for customers and accept returned goods by customers when authorised to do so by the Frontsh"
     },
     {
-      "id": "9c47b86d663f38c2",
+      "id": "8a34a5c82c452dc6",
       "title": "Casual Gift Wrapper",
       "company": "Dis-Chem Pharmacies Limited",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395851-casual-gift-wrapper-carnival-mall-gauteng/?jobindex=9",
-      "found_at": "2026-10-26T19:38:09.514879+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395851-casual-gift-wrapper-carnival-mall-gauteng/?jobindex=2",
+      "found_at": "2026-10-26T23:23:21.301648+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -289,13 +81,13 @@
       "description": "Gift Wrapping: Assist customers in selecting appropriate wrapping materials. Wrap each package in a professional manner and in accordance with specified guidelines. Remove price tag from packaged products and include gift receipts in wrapping. Clearly organize and store wrapped packages in gift wrap holding area, as assigned. Perform other duties as requested. Customer Service: Provide friendly, helpful and courteous assistance to all customers. Greet customers and determine their needs and wants. All customer queries must be dealt with and resolved within a reasonable time. The correct uniform and name badge must be worn at all times. Report bad and suspicious behaviour – staff and customers – to management. Competencies Essential: Attention to detail Basic Customer Service Special conditions of employment: South African citizen MIE, clear criminal and credit Remuneration and"
     },
     {
-      "id": "5f1ef2d993cf432e",
+      "id": "bf7a598fd3bd71c9",
       "title": "Lecturer (Part-Time)",
       "company": "Durban University of Technology",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395850-lecturer-part-time-durban/?jobindex=10",
-      "found_at": "2026-10-26T19:38:09.938035+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395850-lecturer-part-time-durban/?jobindex=3",
+      "found_at": "2026-10-26T23:23:22.408749+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -312,9 +104,177 @@
       "closing_date": "2026-10-30",
       "salary": "r 2026",
       "job_type": "Contractor",
-      "requirements": "A completed Masters/M. Tech in Information Technology, Computer Science, Information Securit... Lecturer (Part-Time), Durban - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / KwaZulu-Natal Back to Search Results Lecturer (Part-Time) Durban Salary: Market Related Job Type: Contract Sectors: Education Reference: 209223 Apply before Oct 30 2026 | 5 Days left Apply Vacancy Details Employer: Durban University of Technology Advertisement Short Course Unit Part-time Lecturer (Introduction to Data Science and Generative AI) (2 x posts) Ref: SCU-DSGA-L01 Minimum requirements: A completed Masters/M. Tech in Information Technology, Computer Science, Information Security, Information Systems, Statistics, Mathematics or an appropriate associated field. However, Doctorate/PhD candidates would be given higher preference. At least 3 years lecturing/ facilitation experience for industry. Additional Recommendations: Research track record (publications in Data Science, Artificial Intelligence, GenAI). Lecturing experience at a University of Technology or",
+      "requirements": "A completed Masters/M. Tech in Information Technology, Computer Science, Information Securit... Lecturer (Part-Time), Durban - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / KwaZulu-Natal Back to Search Results Lecturer (Part-Time) Durban Salary: Market Related Job Type: Contract Sectors: Education Reference: 209223 Apply before Oct 30 2026 | 4 Days left Apply Vacancy Details Employer: Durban University of Technology Advertisement Short Course Unit Part-time Lecturer (Introduction to Data Science and Generative AI) (2 x posts) Ref: SCU-DSGA-L01 Minimum requirements: A completed Masters/M. Tech in Information Technology, Computer Science, Information Security, Information Systems, Statistics, Mathematics or an appropriate associated field. However, Doctorate/PhD candidates would be given higher preference. At least 3 years lecturing/ facilitation experience for industry. Additional Recommendations: Research track record (publications in Data Science, Artificial Intelligence, GenAI). Lecturing experience at a University of Technology or",
       "exact_post": true,
-      "description": "Advertisement Short Course Unit Part-time Lecturer (Introduction to Data Science and Generative AI) (2 x posts) Ref: SCU-DSGA-L01 Minimum requirements: A completed Masters/M. Tech in Information Technology, Computer Science, Information Securit... Lecturer (Part-Time), Durban - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / KwaZulu-Natal Back to Search Results Lecturer (Part-Time) Durban Salary: Market Related Job Type: Contract Sectors: Education Reference: 209223 Apply before Oct 30 2026 | 5 Days left Apply Vacancy Details Employer: Durban University of Technology Advertisement Short Course Unit Part-time Lecturer (Introduction to Data Science and Generative AI) (2 x posts) Ref: SCU-DSGA-L01 Minimum requirements: A completed Masters/M. Tech in Information Technology, Computer Science, Information Security, Information Systems, Statistics,"
+      "description": "Advertisement Short Course Unit Part-time Lecturer (Introduction to Data Science and Generative AI) (2 x posts) Ref: SCU-DSGA-L01 Minimum requirements: A completed Masters/M. Tech in Information Technology, Computer Science, Information Securit... Lecturer (Part-Time), Durban - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / KwaZulu-Natal Back to Search Results Lecturer (Part-Time) Durban Salary: Market Related Job Type: Contract Sectors: Education Reference: 209223 Apply before Oct 30 2026 | 4 Days left Apply Vacancy Details Employer: Durban University of Technology Advertisement Short Course Unit Part-time Lecturer (Introduction to Data Science and Generative AI) (2 x posts) Ref: SCU-DSGA-L01 Minimum requirements: A completed Masters/M. Tech in Information Technology, Computer Science, Information Security, Information Systems, Statistics,"
+    },
+    {
+      "id": "ca5fab0a254d7c13",
+      "title": "Liberty",
+      "company": "EQ-FIN",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395847-liberty-wealth-planner-training-from-1st-day-western-cape/?jobindex=4",
+      "found_at": "2026-10-26T23:23:22.809739+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "Western Cape, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-10-27",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Before applying, you'll need: ✅ South African ID ✅ Matric certificate ✅ Own reliable vehicle ✅ Clear credit record (no listed debt) ✅ No criminal record ✅ Laptop and cell phone is essential ✅ Min 3 years working experience Apply 1 person has applied for this job. 30 people have viewed this job. Previous Next About EQ-FIN EQ-FIN is an outsourced assurance management company which represents Liberty Life and Stanlib in the South African financial services industry. While we distribute Liberty life insurance and risk products, retirement planning solutions, short and long-term savings products, medical aids and corporate",
+      "exact_post": true,
+      "description": "What if your next career move isn't in the same industry you're in today? Let's be honest. Most people don't wake up one morning and decide they want to become a Wealth Planner. In fact, many of the most successful advisers at Liberty started their ... Before applying, you'll need: ✅ South African ID ✅ Matric certificate ✅ Own reliable vehicle ✅ Clear credit record (no listed debt) ✅ No criminal record ✅ Laptop and cell phone is essential ✅ Min 3 years working experience Liberty | Wealth Planner | Training from 1st day, Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Liberty | Wealth Planner | Training from 1st day Western Cape Salary: Market Related Bonus: Yes Job Type: Permanent Sectors: Petrochemical Benefits: Bonus Training Reference: Petrochemical Apply before Oct 27 2026 | 22 Hours left Apply Vacancy"
+    },
+    {
+      "id": "da6645fbd0423d8d",
+      "title": "Retail Store Assistant",
+      "company": "Dis-Chem Pharmacies Limited",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395846-retail-store-assistant-pinecrest-pinetown/?jobindex=6",
+      "found_at": "2026-10-26T23:23:23.927446+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Cashiers & Retail",
+      "location": "Durban Western Suburbs, KwaZulu-Natal",
+      "province": "KwaZulu-Natal",
+      "closing_date": "2026-11-09",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Essential: Grade 12 / Matric Basic computer skills (Word, Excel and Outlook). SAP. Retail experience Job Specification: Manage and report all customer complements and complaints to management. Establish a professional relationship with customers. Ensure all customer stock queries are dealt with and resolved. Maintain effective external communication with customers when they require feedback. Assist customer with any enquiries and refer customers to the appropriate departments where applicable. Adhere to the customer turnover per hour rate as per company benchmark. Manage the shorts and overs at the point of sale, including the floats. Manage refund and return transactions. Ensure that back shopping and returned goods are handled correctly. Verify and review deliveries and invoices for total accuracy. Assist the Receiving Manager in preparing and logging Distribution Centre claims on the Distribution Centre claims system. Manage and control high risk stock Prepare the run reconciliation on a daily basis. Prepare, order and receive the branch change requirements to ensure cashiers have enough change to ensure the best customer service levels. Maintain effective liaison between rele",
+      "exact_post": true,
+      "description": "Dis-Chem Pharmacies’ Pinecrest store has an opportunity available for a Retail Store Assistant to join the team. The main purpose of this role will be to assist with the overall management of the store to ensure, operational and administrative duties a... Retail Store Assistant - Pinecrest, Pinetown - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / KwaZulu-Natal / Durban Western Suburbs Back to Search Results Retail Store Assistant - Pinecrest Pinetown Salary: Market Related Job Type: Permanent Sectors: FMCG General Reference: 188236 Apply before Nov 09 2026 | 14 Days left Apply Vacancy Details Employer: Dis-Chem Pharmacies Limited Dis-Chem Pharmacies’ Pinecrest store has an opportunity available for a Retail Store Assistant to join the team. The main purpose of this role will be to assist with the overall management of the store to ensure, "
+    },
+    {
+      "id": "8cb112d1c6438130",
+      "title": "Internal Sales Clerk",
+      "company": "Placement Point (Pty) Ltd",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395845-internal-sales-clerk-durban-south-coast/?jobindex=7",
+      "found_at": "2026-10-26T23:23:24.261839+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "Durban South Coast, KwaZulu-Natal",
+      "province": "KwaZulu-Natal",
+      "closing_date": "2026-12-25",
+      "salary": "R15000 MONTH",
+      "job_type": "Full Time",
+      "requirements": "· Team Player · Assist the sales teams with processing orders from the Reps and a Retail chain · Process orders, invoice clients, m... Internal Sales Clerk, Durban South Coast - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / KwaZulu-Natal Back to Search Results Internal Sales Clerk Durban South Coast Salary: R15 000.00 Per Month Job Type: Permanent Sectors: Admin Warehousing FMCG Reference: CSIT Apply before Dec 25 2026 | 60 Days left Apply Vacancy Details Employer: Placement Point (Pty) Ltd A well established company based in Uvongo is looking for an Internal Sales Clerk . Requirements : · Team Player · Assist the sales teams with processing orders from the Reps and a Retail chain · Process orders, invoice clients, mark for deliveries · Deal with walk in clients · Process orders · Pastel (latest version) · Must be flexible to work late / long hours · Own car is essential · Working Hours (based on a staff roster) Willing to work Mondays – Fridays and on Weekends and public holidays Apply 9 people have applied for this job. 76 people h",
+      "exact_post": true,
+      "description": "A well established company based in Uvongo is looking for an Internal Sales Clerk. Requirements: · Team Player · Assist the sales teams with processing orders from the Reps and a Retail chain · Process orders, invoice clients, m... Internal Sales Clerk, Durban South Coast - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / KwaZulu-Natal Back to Search Results Internal Sales Clerk Durban South Coast Salary: R15 000.00 Per Month Job Type: Permanent Sectors: Admin Warehousing FMCG Reference: CSIT Apply before Dec 25 2026 | 60 Days left Apply Vacancy Details Employer: Placement Point (Pty) Ltd A well established company based in Uvongo is looking for an Internal Sales Clerk . Requirements : · Team Player · Assist the sales teams with processing orders from the Reps and a Retail chain · Process orders, invoice clients, mark for deliveries · Deal wi"
+    },
+    {
+      "id": "aa916400304fce3d",
+      "title": "Customer Service Co-ordinator",
+      "company": "Ares Holdings",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395842-customer-service-co-ordinator-cape-town/?jobindex=8",
+      "found_at": "2026-10-26T23:23:24.646537+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "Cape Town, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-05",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "The minimum education and experience requirements that are required to be considered Education Grade 12 Relevant tertiary qualification or coursework in Business Administration, Customer Service, Retail Management or a related field (advantageous). Experience Minimum 2–3 years’ experience in a customer service, sales support or administrative support role, preferably within a retail, wholesale or e‑commerce environment. Experience working with customer enquiries, order administration and issue resolution. Exposure to sales administration or order processing is advantageous. Experience using customer service software, CRM systems or ERP tools. Experience working in a fast‑paced, deadline‑driven environment, supporting multiple stakeholders. Industry experience within footwear, apparel or lifestyle brands (Beneficial) Industry Knowledge Working understanding of customer service best practices within a commercial or retail environment. Basic understanding of sales operations processes, including order capture, stock availability and delivery coordination. Familiarity with CRM systems and the importance of accurate data management. Understanding of how Customer Service interacts with",
+      "exact_post": true,
+      "description": "JOB TITLE : Customer Service Co-ordinator Department : Ares Holdings, Brands Reporting to : Sales Operations Manager Direct reports : N/A Key customers :... Customer Service Co-ordinator, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Customer Service Co-ordinator Cape Town Salary: Market Related Job Type: Permanent Sectors: Retail Sales Reference: 208671 Apply before Nov 05 2026 | 10 Days left Apply Vacancy Details Employer: Ares Holdings JOB TITLE : Customer Service Co-ordinator Department : Ares Holdings, Brands Reporting to : Sales Operations Manager Direct reports : N/A Key customers : Marketing team, Warehouse and distribution teams Main purpose : To provide end‑to‑end operational and customer service support to the Sales and Commercial teams by ensuring accurate order processing, effect"
+    },
+    {
+      "id": "d87870f922ee689e",
+      "title": "Armed Response Officer",
+      "company": "Fidelity Services Group",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395841-armed-response-officer-mpumalanga/?jobindex=9",
+      "found_at": "2026-10-26T23:23:24.993750+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "Mpumalanga, Mpumalanga",
+      "province": "Mpumalanga",
+      "closing_date": "2026-11-02",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Matric Grade C PSIRA accredited and registered with Response Minimum of 3 years in security industry No criminal record Willing to undergo criminal chec... Armed Response Officer , Mpumalanga - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Armed Response Officer Mpumalanga Salary: Market Related Job Type: Permanent Sectors: Security Management Reference: 209216 Apply before Nov 02 2026 | 7 Days left Apply Vacancy Details Employer: Fidelity Services Group Fidelity ADT is looking for armed response officers around Johannesburg with following requirements Matric Grade C PSIRA accredited and registered with Response Minimum of 3 years in security industry No criminal record Willing to undergo criminal checks regularly Must be physically fit and in good health – not afraid of heights Computer literate an advantage Must have estate/residential experience Must reside in short traveling distance to Secunda Firearm Competency – Handgun for Business Purposes Must have valid driver's license. Female candidates are also accept",
+      "exact_post": true,
+      "description": "Fidelity ADT is looking for armed response officers around Johannesburg with following requirementsMatric Grade C PSIRA accredited and registered with Response Minimum of 3 years in security industry No criminal record Willing to undergo criminal chec... Armed Response Officer , Mpumalanga - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Armed Response Officer Mpumalanga Salary: Market Related Job Type: Permanent Sectors: Security Management Reference: 209216 Apply before Nov 02 2026 | 7 Days left Apply Vacancy Details Employer: Fidelity Services Group Fidelity ADT is looking for armed response officers around Johannesburg with following requirements Matric Grade C PSIRA accredited and registered with Response Minimum of 3 years in security industry No criminal record Willing to undergo criminal checks regularly Must be"
+    },
+    {
+      "id": "0732a0fcd64dda62",
+      "title": "Controller: Vehicle Stock",
+      "company": "Motus Corporation",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395840-controller-vehicle-stock-ud-bloemfontein-bloemfontein/?jobindex=10",
+      "found_at": "2026-10-26T23:23:25.385126+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "Bloemfontein, Free State",
+      "province": "Free State",
+      "closing_date": "2026-11-02",
+      "salary": "r 20 000",
+      "job_type": "Full Time",
+      "requirements": "3 years previous stock controller experience Knowledge of Drive and E- UD is essential A minimum of Grade 12 Clear Criminal Record A Valid Driver’s License Computer Literate – Excel & MS Word Good Interpersonal & Communication Skills with ability to operate under pressure and in a team environment Apply 5 people have applied for this job. 89 people have viewed this job. Previous Next About Motus Corporation Motus is a multi-national provider of automotive mobility solutions and vehicle products and services, delivering 77 years of steady growth and reliable value creation. Our leading market presence in South Africa is enhanced by selected international offerings in the United Kingdom, Australia, Asia and Southern and East Africa. Motus employs over 20 000 people globally and is a diversified (non-manufacturing) business in the automotive sector. Motus is South Africa’s leading automotive group, with unrivalled scale and scope across the automotive value chain. Motus offers a differentiated value proposition to OEMs, customers and business partners with a business model that integrates our four business segments: Import and Distribution, Retail and Rental, Mobility Solutions and",
+      "exact_post": true,
+      "description": "Motus UD Bloemfontein currently holds a vacancy for a Controller: Vehicle Stock. The person in this position will be responsible for ensuring that vehicle stock is controlled & procured so as maximize stock turnover. Ensure receipt of vehicle documents... Controller: Vehicle Stock - UD Bloemfontein, Bloemfontein - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Free State Back to Search Results Controller: Vehicle Stock - UD Bloemfontein Bloemfontein Salary: Market Related Job Type: Permanent Sectors: Admin Automotive Reference: 209211 Apply before Nov 02 2026 | 7 Days left Apply Vacancy Details Employer: Motus Corporation Motus UD Bloemfontein currently holds a vacancy for a Controller: Vehicle Stock . The person in this position will be responsible for ensuring that vehicle stock is controlled & procured so as maximize stock turnover. Ensu"
     }
   ]
 }
