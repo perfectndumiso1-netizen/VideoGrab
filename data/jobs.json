@@ -1,37 +1,45 @@
 {
-  "generated_at": "2026-10-27T02:18:38.839771+00:00",
+  "generated_at": "2026-10-27T08:12:44.889929+00:00",
   "version": "2.4",
   "stats": {
-    "total": 9,
+    "total": 10,
     "verified_official": 0
   },
   "groups": [
     {
-      "category": "Office & Admin",
+      "category": "Cashiers & Retail",
       "count": 4
     },
     {
-      "category": "Cashiers & Retail",
-      "count": 3
+      "category": "Other Jobs",
+      "count": 2
+    },
+    {
+      "category": "Learnerships & Internships",
+      "count": 1
+    },
+    {
+      "category": "Office & Admin",
+      "count": 1
     },
     {
       "category": "Education",
       "count": 1
     },
     {
-      "category": "Banking & Finance",
+      "category": "Drivers & Logistics",
       "count": 1
     }
   ],
   "jobs": [
     {
-      "id": "5946d70d87602ca8",
-      "title": "Frontshop Assistant - President Boulevard",
-      "company": "Dis-Chem Pharmacies Limited",
+      "id": "4b8a8a85e06362cd",
+      "title": "Internal Sales Representative",
+      "company": "Unique Personnel",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395852-frontshop-assistant-president-boulevard-rustenburg-rustenburg/?jobindex=1",
-      "found_at": "2026-10-27T02:17:53.690740+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395917-internal-sales-representative-south-africa/?jobindex=1",
+      "found_at": "2026-10-27T08:12:00.277886+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -42,24 +50,24 @@
         ],
         "warnings": []
       },
-      "category": "Cashiers & Retail",
-      "location": "Rustenburg, North West",
-      "province": "North West",
-      "closing_date": "2026-10-27",
+      "category": "Learnerships & Internships",
+      "location": "ZA, ZA",
+      "province": "Gauteng",
+      "closing_date": "2026-11-26",
       "salary": "",
       "job_type": "Full Time",
-      "requirements": "",
+      "requirements": "Matric or other office sales qualification Microsoft Office Proficient Apply 1 person has viewed this job. Previous Next Similar Jobs View All (38) Internal Sales Representative Gauteng Job Type: Permanent Posted 23 Sep 2026 | 27 Days left Internal Sales Representative Sandton Job Type: Permanent Posted 23 Sep 2026 | 27 Days left Junior Internal Sales Representative Midrand Job Type: Permanent Posted 22 Sep 2026 | 26 Days left Internal Sales Representative - Construction - Steel Cape Town Job Type: Permanent Posted 09 Sep 2026 | 13 Days left More Jobs at Unique Personnel View All (156) Key Accounts Manager Johannesburg Job Type: Permanent Posted 27 Oct 2026 | 31 Days left Financial Manager Cape Town Job Type: Permanent Posted 26 Oct 2026 | 30 Days left Internal Sales Sandton Job Type: Permanent Posted 26 Oct 2026 | 30 Days left General Administrator East Rand Job Type: Permanent Posted 26 Oct 2026 | 30 Days left",
       "exact_post": true,
-      "description": "Ensure that full ranges of products are on the shelves at all times and neatly presented. Maintain the stock on the shelves to ensure it has not reached its sell by date. Restock merchandise when needed to ensure maximum sales. All out of stock queries from customers must be followed up on, in line with the customer service out of stock list and ensure they are dealt with in a timeous manner. Ensure delivered stock and/ or stock pulled from the storeroom are stored and packed in the correct space. Ensure merchandise displays, labels and pricing are correct at all times and report all price discrepancies to management. Ensure the storeroom organised, neat and tidy. Keep up to date with new product knowledge to effectively assist customers. Assist with restocking of merchandise and supplies when needed to ensure maximum sales. Assist with back shopping when required. All merchandise must be handled carefully to prevent any losses. Transact all purchases – receive, verify and processes all payments such as cash, cards, vouchers, coupons and any other acceptable payments. Exchange merchandise for customers and accept returned goods by customers when authorised to do so by the Frontsh"
+      "description": "To plan and carry out internal sales activities within his/her define sales are To create sales order on computer system To liaise with customers when there is a possible stock shortage To liaise with representative on price and material supplied ... Matric or other office sales qualification Microsoft Office Proficient Internal Sales Representative, South Africa - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search Back to Search Results Internal Sales Representative South Africa Salary: (Negotiable) Job Type: Permanent Sectors: Manufacturing Reference: 80877 Apply before Nov 26 2026 | 31 Days left Apply External Application Vacancy Details Employer: Unique Personnel To plan and carry out internal sales activities within his/her define sales are To create sales order on computer system To liaise with customers when there is a possible stock shortage To liaise w"
     },
     {
-      "id": "8a34a5c82c452dc6",
-      "title": "Casual Gift Wrapper",
-      "company": "Dis-Chem Pharmacies Limited",
+      "id": "b6b86f946d1e92b2",
+      "title": "Store Manager",
+      "company": "The Building Company",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395851-casual-gift-wrapper-carnival-mall-gauteng/?jobindex=2",
-      "found_at": "2026-10-27T02:17:54.181850+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395916-store-manager-timbercity-klerksoord-gauteng/?jobindex=2",
+      "found_at": "2026-10-27T08:12:01.729666+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -73,77 +81,77 @@
       "category": "Cashiers & Retail",
       "location": "Gauteng, Gauteng",
       "province": "Gauteng",
-      "closing_date": "2026-11-01",
-      "salary": "",
-      "job_type": "Other",
-      "requirements": "",
-      "exact_post": true,
-      "description": "Gift Wrapping: Assist customers in selecting appropriate wrapping materials. Wrap each package in a professional manner and in accordance with specified guidelines. Remove price tag from packaged products and include gift receipts in wrapping. Clearly organize and store wrapped packages in gift wrap holding area, as assigned. Perform other duties as requested. Customer Service: Provide friendly, helpful and courteous assistance to all customers. Greet customers and determine their needs and wants. All customer queries must be dealt with and resolved within a reasonable time. The correct uniform and name badge must be worn at all times. Report bad and suspicious behaviour – staff and customers – to management. Competencies Essential: Attention to detail Basic Customer Service Special conditions of employment: South African citizen MIE, clear criminal and credit Remuneration and"
-    },
-    {
-      "id": "bf7a598fd3bd71c9",
-      "title": "Lecturer (Part-Time)",
-      "company": "Durban University of Technology",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395850-lecturer-part-time-durban/?jobindex=3",
-      "found_at": "2026-10-27T02:17:55.546815+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Education",
-      "location": "Durban, KwaZulu-Natal",
-      "province": "KwaZulu-Natal",
-      "closing_date": "2026-10-30",
-      "salary": "r 2026",
-      "job_type": "Contractor",
-      "requirements": "A completed Masters/M. Tech in Information Technology, Computer Science, Information Securit... Lecturer (Part-Time), Durban - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / KwaZulu-Natal Back to Search Results Lecturer (Part-Time) Durban Salary: Market Related Job Type: Contract Sectors: Education Reference: 209223 Apply before Oct 30 2026 | 4 Days left Apply Vacancy Details Employer: Durban University of Technology Advertisement Short Course Unit Part-time Lecturer (Introduction to Data Science and Generative AI) (2 x posts) Ref: SCU-DSGA-L01 Minimum requirements: A completed Masters/M. Tech in Information Technology, Computer Science, Information Security, Information Systems, Statistics, Mathematics or an appropriate associated field. However, Doctorate/PhD candidates would be given higher preference. At least 3 years lecturing/ facilitation experience for industry. Additional Recommendations: Research track record (publications in Data Science, Artificial Intelligence, GenAI). Lecturing experience at a University of Technology or",
-      "exact_post": true,
-      "description": "Advertisement Short Course Unit Part-time Lecturer (Introduction to Data Science and Generative AI) (2 x posts) Ref: SCU-DSGA-L01 Minimum requirements: A completed Masters/M. Tech in Information Technology, Computer Science, Information Securit... Lecturer (Part-Time), Durban - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / KwaZulu-Natal Back to Search Results Lecturer (Part-Time) Durban Salary: Market Related Job Type: Contract Sectors: Education Reference: 209223 Apply before Oct 30 2026 | 4 Days left Apply Vacancy Details Employer: Durban University of Technology Advertisement Short Course Unit Part-time Lecturer (Introduction to Data Science and Generative AI) (2 x posts) Ref: SCU-DSGA-L01 Minimum requirements: A completed Masters/M. Tech in Information Technology, Computer Science, Information Security, Information Systems, Statistics,"
-    },
-    {
-      "id": "2ed71431c36b699c",
-      "title": "Liberty",
-      "company": "EQ-FIN",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395847-liberty-wealth-planner-training-from-1st-day-western-cape/?jobindex=4",
-      "found_at": "2026-10-27T02:17:56.941093+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Banking & Finance",
-      "location": "Western Cape, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-10-27",
+      "closing_date": "2026-11-25",
       "salary": "",
       "job_type": "Full Time",
-      "requirements": "Before applying, you'll need: ✅ South African ID ✅ Matric certificate ✅ Own reliable vehicle ✅ Clear credit record (no listed debt) ✅ No criminal record ✅ Laptop and cell phone is essential ✅ Min 3 years working experience Apply 1 person has applied for this job. 53 people have viewed this job. Previous Next About EQ-FIN EQ-FIN is an outsourced assurance management company which represents Liberty Life and Stanlib in the South African financial services industry. While we distribute Liberty life insurance and risk products, retirement planning solutions, short and long-term savings products, medical aids and corporate",
+      "requirements": "Grade 12 Preferably a commerce bachelor’s degree / or equivalent experience Preferably Financial or Management diploma 5-10 years retail experience Minimum of 3 years in a junior-mid level management position Previous industry related experience Financial acumen Inwards and Outwards Logistics/Procurement skills Merchandising principles Preferably have knowledge of Occupational Health and Safety Act Apply Previous Next More Jobs at The Building Company View All (131) Drivers 3501-9000 kg - TimberCity Vereeniging Gauteng Job Type: Permanent Posted 27 Oct 2026 | 30 Days left Sales Coordinator - Emalahleni (Witbank) BUCO eMalahleni Job Type: Permanent Posted 27 Oct 2026 | 30 Days left Regional Merchandise Manager - BUCO Port Elizabeth North End Eastern Cape Job Type: Permanent Posted 27 Oct 2026 | 30 Days left Head Of Department - BUCO Hazeyview Mpumalanga Job Type: Permanent Posted 27 Oct 2026 | 30 Days left",
       "exact_post": true,
-      "description": "What if your next career move isn't in the same industry you're in today? Let's be honest. Most people don't wake up one morning and decide they want to become a Wealth Planner. In fact, many of the most successful advisers at Liberty started their ... Before applying, you'll need: ✅ South African ID ✅ Matric certificate ✅ Own reliable vehicle ✅ Clear credit record (no listed debt) ✅ No criminal record ✅ Laptop and cell phone is essential ✅ Min 3 years working experience Liberty | Wealth Planner | Training from 1st day, Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Liberty | Wealth Planner | Training from 1st day Western Cape Salary: Market Related Bonus: Yes Job Type: Permanent Sectors: Petrochemical Benefits: Bonus Training Reference: Petrochemical Apply before Oct 27 2026 | 19 Hours left Apply Vacancy"
+      "description": "Introduction: The main purpose is to drive and grow the profitability of the Store through the effective management of its employees, financial, and technological resources, and ensuring efficient application of the company’s policies and procedures a... Store Manager - Timbercity Klerksoord, Gauteng - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Store Manager - Timbercity Klerksoord Gauteng Salary: Market Related Job Type: Permanent Sectors: Retail Reference: 808613060102 Apply before Nov 25 2026 | 30 Days left Apply External Application Vacancy Details Employer: The Building Company Introduction: The main purpose is to drive and grow the profitability of the Store through the effective management of its employees, financial, and technological resources, and ensuring efficient application of the company’s policies an"
     },
     {
-      "id": "da6645fbd0423d8d",
-      "title": "Retail Store Assistant",
-      "company": "Dis-Chem Pharmacies Limited",
+      "id": "5b3067121361d49a",
+      "title": "Senior Database Administrator (SQL Server",
+      "company": "iOCO",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395846-retail-store-assistant-pinecrest-pinetown/?jobindex=6",
-      "found_at": "2026-10-27T02:17:57.858232+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395915-senior-database-administrator-sql-server-azure-informix-iocooo181-pretoria/?jobindex=3",
+      "found_at": "2026-10-27T08:12:02.158103+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "Pretoria, Gauteng",
+      "province": "Gauteng",
+      "closing_date": "2026-12-26",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Relevant Bachelor's Degree in IT, Computer Science, Information Systems, Engineering, or related field – non negotiable Relevant Microsoft Azure Certification (e.g. AZ-104, AZ-305, DP-300) – non negotiable Microsoft SQL Server certification – non negotiable Advantageous Skills AWS database administration exposure. Experience with MySQL, PostgreSQL, Db2, or NoSQL databases. Azure DevOps, Terraform, CI/CD, and Infrastructure-as-Code experience. Exposure to data platforms such as SSIS, SSRS, SSAS, Azure Data Factory, or Data Warehousing. Other information applicable to the opportunity: Permanent position Location: Pretoria Why work for us? Want to work for an organization that solves complex real-world problems with innovative software solutions? At iOCO, we believe anything is possible with modern technology, software, and development expertise. We are continuously pushing the boundaries of innovative solutions across multiple industries using an array of technologies.? You will be part of a consultancy, working with some of the most knowledgeable minds in the industry on interesting solutions across different business domains.? Our culture of continuous learning will ensure that y",
+      "exact_post": true,
+      "description": "We are looking for an experienced Senior Database Administrator to join our team and take ownership of our database environments across on-premise, hybrid, and cloud platforms. This is an exciting opportunity for a hands-on DBA with strong leadership c... Senior Database Administrator (SQL Server | Azure | Informix), Pretoria - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Senior Database Administrator (SQL Server | Azure | Informix) Pretoria Salary: Market Related Job Type: Permanent Sectors: IT Reference: 209289 Apply before Dec 26 2026 | 61 Days left Apply Vacancy Details Employer: iOCO We are looking for an experienced Senior Database Administrator to join our team and take ownership of our database environments across on-premise, hybrid, and cloud platforms. This is an exciting opportunity for a hands-on"
+    },
+    {
+      "id": "2020f0f6ca651665",
+      "title": "X2 Sales Representative: New Vehicles",
+      "company": "Motus Corporation",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395914-x2-sales-representative-new-vehicles-multifranchise-garsfontein-pretoria/?jobindex=4",
+      "found_at": "2026-10-27T08:12:02.575213+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "Pretoria, Gauteng",
+      "province": "Gauteng",
+      "closing_date": "2026-11-03",
+      "salary": "r 20 000",
+      "job_type": "Full Time",
+      "requirements": "Proven sales experience in the automotive industry preferred - Strong communication, negotiation, and interpersonal skills - Ability to work in a fast-paced, target-driven environment - Familiarity with CRM software and sales tracking tools - Valid driver's license and clean driving record - High school diploma or equivalent; college degree preferred If you are a results-driven individual with a passion for selling new vehicles and enjoy working in a dynamic and collaborative team environment, we want to hear from you. Apply now to join our team as a Sales Representative for new vehicles. Apply 1 person has applied for this job. Previous Next About Motus Corporation Motus is a multi-national provider of automotive mobility solutions and vehicle products and services, delivering 77 years of steady growth and reliable value creation. Our leading market presence in South Africa is enhanced by selected international offerings in the United Kingdom, Australia, Asia and Southern and East Africa. Motus employs over 20 000 people globally and is a diversified (non-manufacturing) business in the automotive sector. Motus is South Africa’s leading automotive group, with unrivalled scale a",
+      "exact_post": true,
+      "description": "We are seeking a highly motivated and goal-oriented Sales Representative to join our team in selling new vehicles. The Sales Representative will be responsible for developing and maintaining relationships with customers, demonstrating... X2 Sales Representative: New Vehicles - Multifranchise Garsfontein , Pretoria - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results X2 Sales Representative: New Vehicles - Multifranchise Garsfontein Pretoria Salary: Market Related Job Type: Permanent Sectors: Sales Automotive Reference: 209285 Apply before Nov 03 2026 | 8 Days left Apply Vacancy Details Employer: Motus Corporation Job Description: We are seeking a highly motivated and goal-oriented Sales Representative to join our team in selling new vehicles. The Sales Representative will be responsible for developing and maintaining relationships with customers, demonstrating the features and"
+    },
+    {
+      "id": "b1a2445ab1f6fa0c",
+      "title": "Sales Assistant",
+      "company": "The Unlimited Group",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395913-sales-assistant-rustenburg/?jobindex=5",
+      "found_at": "2026-10-27T08:12:04.005508+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -155,79 +163,23 @@
         "warnings": []
       },
       "category": "Cashiers & Retail",
-      "location": "Durban Western Suburbs, KwaZulu-Natal",
-      "province": "KwaZulu-Natal",
-      "closing_date": "2026-11-09",
-      "salary": "",
+      "location": "Rustenburg, North West",
+      "province": "North West",
+      "closing_date": "2026-12-26",
+      "salary": "R10000 YEAR",
       "job_type": "Full Time",
-      "requirements": "Essential: Grade 12 / Matric Basic computer skills (Word, Excel and Outlook). SAP. Retail experience Job Specification: Manage and report all customer complements and complaints to management. Establish a professional relationship with customers. Ensure all customer stock queries are dealt with and resolved. Maintain effective external communication with customers when they require feedback. Assist customer with any enquiries and refer customers to the appropriate departments where applicable. Adhere to the customer turnover per hour rate as per company benchmark. Manage the shorts and overs at the point of sale, including the floats. Manage refund and return transactions. Ensure that back shopping and returned goods are handled correctly. Verify and review deliveries and invoices for total accuracy. Assist the Receiving Manager in preparing and logging Distribution Centre claims on the Distribution Centre claims system. Manage and control high risk stock Prepare the run reconciliation on a daily basis. Prepare, order and receive the branch change requirements to ensure cashiers have enough change to ensure the best customer service levels. Maintain effective liaison between rele",
+      "requirements": "for Position: Grade 12 or Equivalent South African Smartphone Excellent oral and written communication skills Superior interpersonal skills and people orientation Ability to take initiative and work independently Confidence Apply 1 person has applied for this job. 2 people have viewed this job. Previous Next Similar Jobs Sales Assistant - Cape Union Mart - Waterfall Rustenburg Job Type: Permanent Posted 26 Oct 2026 | 3 Days left German speaking remote job opportunities Gauteng Job Type: Permanent Posted 07 Sep 2026 | 11 Days left Shop Assistant Klerksdorp Job Type: Permanent Posted 06 Oct 2026 | 40 Days left More Jobs at The Unlimited Group View All (39) External Sales Agent Vereeniging Job Type: Permanent Posted 27 Oct 2026 | 61 Days left Direct Sales Representatives Polokwane Job Type: Permanent Posted 27 Oct 2026 | 61 Days left Call Centre Agent Umhlanga Job Type: Permanent Posted 26 Oct 2026 | 60 Days left Sales Agent Umhlanga Job Type: Permanent Posted 26 Oct 2026 | 60 Days left",
       "exact_post": true,
-      "description": "Dis-Chem Pharmacies’ Pinecrest store has an opportunity available for a Retail Store Assistant to join the team. The main purpose of this role will be to assist with the overall management of the store to ensure, operational and administrative duties a... Retail Store Assistant - Pinecrest, Pinetown - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / KwaZulu-Natal / Durban Western Suburbs Back to Search Results Retail Store Assistant - Pinecrest Pinetown Salary: Market Related Job Type: Permanent Sectors: FMCG General Reference: 188236 Apply before Nov 09 2026 | 14 Days left Apply Vacancy Details Employer: Dis-Chem Pharmacies Limited Dis-Chem Pharmacies’ Pinecrest store has an opportunity available for a Retail Store Assistant to join the team. The main purpose of this role will be to assist with the overall management of the store to ensure, "
+      "description": "is to penetrate the local market through a combination of marketing, sales, and excellent customer experience. If you believe... Sales Assistant, Rustenburg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / North West Back to Search Results Sales Assistant Rustenburg Salary: R833.00 - R1 667.00 Per Month Job Type: Permanent Sectors: Investment Sales Reference: 209284 Apply before Dec 26 2026 | 61 Days left Apply Vacancy Details Employer: The Unlimited Group We are looking for dynamic self-starters who are excited about engaging customers on the daily basis. The main aim of the role is to penetrate the local market through a combination of marketing, sales, and excellent customer experience. If you believe that you have what it takes to determine your own income, and to operate in a target driven environment, then we would be happy to hear from you. Full training will be provided to successful candidates. You will be fully supported with required branding and marketing tools. Earnings are composed as a commission component. We are a grow"
     },
     {
-      "id": "8cb112d1c6438130",
-      "title": "Internal Sales Clerk",
-      "company": "Placement Point (Pty) Ltd",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395845-internal-sales-clerk-durban-south-coast/?jobindex=7",
-      "found_at": "2026-10-27T02:17:58.368650+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Office & Admin",
-      "location": "Durban South Coast, KwaZulu-Natal",
-      "province": "KwaZulu-Natal",
-      "closing_date": "2026-12-25",
-      "salary": "R15000 MONTH",
-      "job_type": "Full Time",
-      "requirements": "· Team Player · Assist the sales teams with processing orders from the Reps and a Retail chain · Process orders, invoice clients, m... Internal Sales Clerk, Durban South Coast - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / KwaZulu-Natal Back to Search Results Internal Sales Clerk Durban South Coast Salary: R15 000.00 Per Month Job Type: Permanent Sectors: Admin Warehousing FMCG Reference: CSIT Apply before Dec 25 2026 | 60 Days left Apply Vacancy Details Employer: Placement Point (Pty) Ltd A well established company based in Uvongo is looking for an Internal Sales Clerk . Requirements : · Team Player · Assist the sales teams with processing orders from the Reps and a Retail chain · Process orders, invoice clients, mark for deliveries · Deal with walk in clients · Process orders · Pastel (latest version) · Must be flexible to work late / long hours · Own car is essential · Working Hours (based on a staff roster) Willing to work Mondays – Fridays and on Weekends and public holidays Apply 9 people have applied for this job. 96 people h",
-      "exact_post": true,
-      "description": "A well established company based in Uvongo is looking for an Internal Sales Clerk. Requirements: · Team Player · Assist the sales teams with processing orders from the Reps and a Retail chain · Process orders, invoice clients, m... Internal Sales Clerk, Durban South Coast - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / KwaZulu-Natal Back to Search Results Internal Sales Clerk Durban South Coast Salary: R15 000.00 Per Month Job Type: Permanent Sectors: Admin Warehousing FMCG Reference: CSIT Apply before Dec 25 2026 | 60 Days left Apply Vacancy Details Employer: Placement Point (Pty) Ltd A well established company based in Uvongo is looking for an Internal Sales Clerk . Requirements : · Team Player · Assist the sales teams with processing orders from the Reps and a Retail chain · Process orders, invoice clients, mark for deliveries · Deal wi"
-    },
-    {
-      "id": "aa916400304fce3d",
-      "title": "Customer Service Co-ordinator",
-      "company": "Ares Holdings",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395842-customer-service-co-ordinator-cape-town/?jobindex=8",
-      "found_at": "2026-10-27T02:17:59.150194+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Office & Admin",
-      "location": "Cape Town, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-11-05",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "The minimum education and experience requirements that are required to be considered Education Grade 12 Relevant tertiary qualification or coursework in Business Administration, Customer Service, Retail Management or a related field (advantageous). Experience Minimum 2–3 years’ experience in a customer service, sales support or administrative support role, preferably within a retail, wholesale or e‑commerce environment. Experience working with customer enquiries, order administration and issue resolution. Exposure to sales administration or order processing is advantageous. Experience using customer service software, CRM systems or ERP tools. Experience working in a fast‑paced, deadline‑driven environment, supporting multiple stakeholders. Industry experience within footwear, apparel or lifestyle brands (Beneficial) Industry Knowledge Working understanding of customer service best practices within a commercial or retail environment. Basic understanding of sales operations processes, including order capture, stock availability and delivery coordination. Familiarity with CRM systems and the importance of accurate data management. Understanding of how Customer Service interacts with",
-      "exact_post": true,
-      "description": "JOB TITLE : Customer Service Co-ordinator Department : Ares Holdings, Brands Reporting to : Sales Operations Manager Direct reports : N/A Key customers :... Customer Service Co-ordinator, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Customer Service Co-ordinator Cape Town Salary: Market Related Job Type: Permanent Sectors: Retail Sales Reference: 208671 Apply before Nov 05 2026 | 10 Days left Apply Vacancy Details Employer: Ares Holdings JOB TITLE : Customer Service Co-ordinator Department : Ares Holdings, Brands Reporting to : Sales Operations Manager Direct reports : N/A Key customers : Marketing team, Warehouse and distribution teams Main purpose : To provide end‑to‑end operational and customer service support to the Sales and Commercial teams by ensuring accurate order processing, effect"
-    },
-    {
-      "id": "d87870f922ee689e",
-      "title": "Armed Response Officer",
+      "id": "d8e9b5e075979d6f",
+      "title": "SKILLS DEVELOPMENT COORDINATOR",
       "company": "Fidelity Services Group",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395841-armed-response-officer-mpumalanga/?jobindex=9",
-      "found_at": "2026-10-27T02:17:59.700043+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395912-skills-development-coordinator-roodepoort/?jobindex=6",
+      "found_at": "2026-10-27T08:12:04.423035+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -238,24 +190,24 @@
         ],
         "warnings": []
       },
-      "category": "Office & Admin",
-      "location": "Mpumalanga, Mpumalanga",
-      "province": "Mpumalanga",
-      "closing_date": "2026-11-02",
+      "category": "Education",
+      "location": "West Rand, Gauteng",
+      "province": "Gauteng",
+      "closing_date": "2026-11-03",
       "salary": "",
       "job_type": "Full Time",
-      "requirements": "Matric Grade C PSIRA accredited and registered with Response Minimum of 3 years in security industry No criminal record Willing to undergo criminal chec... Armed Response Officer , Mpumalanga - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Armed Response Officer Mpumalanga Salary: Market Related Job Type: Permanent Sectors: Security Management Reference: 209216 Apply before Nov 02 2026 | 7 Days left Apply Vacancy Details Employer: Fidelity Services Group Fidelity ADT is looking for armed response officers around Johannesburg with following requirements Matric Grade C PSIRA accredited and registered with Response Minimum of 3 years in security industry No criminal record Willing to undergo criminal checks regularly Must be physically fit and in good health – not afraid of heights Computer literate an advantage Must have estate/residential experience Must reside in short traveling distance to Secunda Firearm Competency – Handgun for Business Purposes Must have valid driver's license. Female candidates are also accept",
+      "requirements": "Matric or equivalent qualification. A relevant diploma or degree in Human Resources, Skills Development, Education and Training, Business Administration, Project Management or a related field. At least three years’ experience in skills development, training administration, grant administration or project coordination. Experience coordinating one or more of the following: discretionary grants, learnerships, internships, bursaries or study assistance. Knowledge of SETA processes and skills development reporting requirements. Proficiency in Microsoft Office, particularly Excel, Word, Outlook and PowerPoint. Experience maintaining project trackers, preparing reports and managing supporting documentation. Key competencies Strong planning, organisation and administrative skills. Ability to manage multiple projects and deadlines. Attention to detail and a commitment to accurate recordkeeping. Good written and verbal communication skills. Ability to build relationships with internal and external stakeholders. Problem-solving and follow-up skills. Ability to work independently and as part of a team. Professional handling of confidential and personal information. We reserve the right not to",
       "exact_post": true,
-      "description": "Fidelity ADT is looking for armed response officers around Johannesburg with following requirementsMatric Grade C PSIRA accredited and registered with Response Minimum of 3 years in security industry No criminal record Willing to undergo criminal chec... Armed Response Officer , Mpumalanga - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Armed Response Officer Mpumalanga Salary: Market Related Job Type: Permanent Sectors: Security Management Reference: 209216 Apply before Nov 02 2026 | 7 Days left Apply Vacancy Details Employer: Fidelity Services Group Fidelity ADT is looking for armed response officers around Johannesburg with following requirements Matric Grade C PSIRA accredited and registered with Response Minimum of 3 years in security industry No criminal record Willing to undergo criminal checks regularly Must be"
+      "description": "VACANCY: SKILLS DEVELOPMENT COORDINATOR Discretionary Grants, Internships and Bursaries Department: Skills Development Reports to: Skills Development Manager Location: Florida, Roodepoort Employment type: Permanent Job purpose We are seeking an o... SKILLS DEVELOPMENT COORDINATOR, Roodepoort - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng / West Rand Back to Search Results SKILLS DEVELOPMENT COORDINATOR Roodepoort Salary: Market Related Job Type: Permanent Sectors: Education Security Reference: 209279 Apply before Nov 03 2026 | 8 Days left Apply Vacancy Details Employer: Fidelity Services Group VACANCY: SKILLS DEVELOPMENT COORDINATOR Discretionary Grants, Internships and Bursaries Department: Skills Development Reports to: Skills Development Manager Location: Florida, Roodepoort Employment type: Permanent Job purpose We are seeking"
     },
     {
-      "id": "0732a0fcd64dda62",
-      "title": "Controller: Vehicle Stock",
-      "company": "Motus Corporation",
+      "id": "279c66968b049f0a",
+      "title": "Merchandiser",
+      "company": "Managed People Solutions",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2395840-controller-vehicle-stock-ud-bloemfontein-bloemfontein/?jobindex=10",
-      "found_at": "2026-10-27T02:18:01.088156+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395911-merchandiser-managed-people-solutions-goodwood-goodwood/?jobindex=7",
+      "found_at": "2026-10-27T08:12:04.914083+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -266,15 +218,99 @@
         ],
         "warnings": []
       },
-      "category": "Office & Admin",
-      "location": "Bloemfontein, Free State",
-      "province": "Free State",
-      "closing_date": "2026-11-02",
-      "salary": "r 20 000",
+      "category": "Cashiers & Retail",
+      "location": "Cape Town Northern Suburbs, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-12-26",
+      "salary": "",
       "job_type": "Full Time",
-      "requirements": "3 years previous stock controller experience Knowledge of Drive and E- UD is essential A minimum of Grade 12 Clear Criminal Record A Valid Driver’s License Computer Literate – Excel & MS Word Good Interpersonal & Communication Skills with ability to operate under pressure and in a team environment Apply 5 people have applied for this job. 100 people have viewed this job. Previous Next About Motus Corporation Motus is a multi-national provider of automotive mobility solutions and vehicle products and services, delivering 77 years of steady growth and reliable value creation. Our leading market presence in South Africa is enhanced by selected international offerings in the United Kingdom, Australia, Asia and Southern and East Africa. Motus employs over 20 000 people globally and is a diversified (non-manufacturing) business in the automotive sector. Motus is South Africa’s leading automotive group, with unrivalled scale and scope across the automotive value chain. Motus offers a differentiated value proposition to OEMs, customers and business partners with a business model that integrates our four business segments: Import and Distribution, Retail and Rental, Mobility Solutions and",
+      "requirements": ". Check vintage, product quality on the shelf, s... Merchandiser | Managed People Solutions | Goodwood , Goodwood - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape / Cape Town Northern Suburbs Back to Search Results Merchandiser | Managed People Solutions | Goodwood Goodwood Salary: Market Related Job Type: Permanent Sectors: Sales Import & Export Reference: 209280 Apply before Dec 26 2026 | 61 Days left Apply Vacancy Details Employer: Managed People Solutions Managed People Solutions is in search of a Merchandiser to work for a large Liquor Company to service the Cape Town area. Key Responsibilities: Determine stock to be merchandised. Draw stock requirements. Check vintage, product quality on the shelf, stock rotation, and price tags. Execute merchandising activities as per cycle brief Feedback on customer complaints, queries, and requests Communicate and upkeep knowledge of product and promotions Effectively record merchandising activities Execute calls as per call cycle Advice RSM on out-of-stock products Requirements Mi",
       "exact_post": true,
-      "description": "Motus UD Bloemfontein currently holds a vacancy for a Controller: Vehicle Stock. The person in this position will be responsible for ensuring that vehicle stock is controlled & procured so as maximize stock turnover. Ensure receipt of vehicle documents... Controller: Vehicle Stock - UD Bloemfontein, Bloemfontein - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Free State Back to Search Results Controller: Vehicle Stock - UD Bloemfontein Bloemfontein Salary: Market Related Job Type: Permanent Sectors: Admin Automotive Reference: 209211 Apply before Nov 02 2026 | 7 Days left Apply Vacancy Details Employer: Motus Corporation Motus UD Bloemfontein currently holds a vacancy for a Controller: Vehicle Stock . The person in this position will be responsible for ensuring that vehicle stock is controlled & procured so as maximize stock turnover. Ensu"
+      "description": "Managed People Solutions is in search of a Merchandiser to work for a large Liquor Company to service the Cape Town area. Key Responsibilities: Determine stock to be merchandised. Draw stock requirements. Check vintage, product quality on the shelf, s... Merchandiser | Managed People Solutions | Goodwood , Goodwood - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape / Cape Town Northern Suburbs Back to Search Results Merchandiser | Managed People Solutions | Goodwood Goodwood Salary: Market Related Job Type: Permanent Sectors: Sales Import & Export Reference: 209280 Apply before Dec 26 2026 | 61 Days left Apply Vacancy Details Employer: Managed People Solutions Managed People Solutions is in search of a Merchandiser to work for a large Liquor Company to service the Cape Town area. Key Responsibilities: Determine stock to be mercha"
+    },
+    {
+      "id": "6f0141b4048ed180",
+      "title": "Production Operations Manager",
+      "company": "Hire Resolve",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395910-production-operations-manager-ladysmith/?jobindex=8",
+      "found_at": "2026-10-27T08:12:05.458538+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "Drakensberg, KwaZulu-Natal",
+      "province": "KwaZulu-Natal",
+      "closing_date": "2026-12-26",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "into account, considering factors like your salary and",
+      "exact_post": true,
+      "description": "An established company in the garment manufacturing industry is seeking an experienced Production Operations Manager to oversee manufacturing operations, optimise production efficiency, manage costs and drive continuous improvement. The successful cand... Production Operations Manager, Ladysmith - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / KwaZulu-Natal / Drakensberg Back to Search Results Production Operations Manager Ladysmith Salary: Market Related Job Type: Permanent Sectors: Manufacturing Management Reference: 209278 Apply before Dec 26 2026 | 61 Days left Apply Vacancy Details Employer: Hire Resolve An established company in the garment manufacturing industry is seeking an experienced Production Operations Manager to oversee manufacturing operations, optimise production efficiency, manage costs and drive continuous improvement. Th"
+    },
+    {
+      "id": "aa8e9a95d0725871",
+      "title": "Cashier (Part-Time)",
+      "company": "Pepkor Lifestyle",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395909-cashier-part-time-randburg/?jobindex=9",
+      "found_at": "2026-10-27T08:12:05.989410+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Cashiers & Retail",
+      "location": "Johannesburg, Gauteng",
+      "province": "Gauteng",
+      "closing_date": "2026-10-29",
+      "salary": "r 7",
+      "job_type": "Other",
+      "requirements": "& Qualifications Education: Grade 12 / Matric certificate . Experience: 2–3 years of experience in a retail environment . Financial/Admin Experience: Practical experience in financial administration or cash handling roles . Technical Skills: Basic computer literacy (MS Word, MS Excel) . SAP experience is advantageous . Experience with cellular and credit vetting processes . Knowledge: Sound understanding of financial compliance legislation, supplier warranty procedures, and store repair agreements . Core Competencies Strong numerical skills and high attention to detail . Excellent interpersonal, verbal, and written communication skills . Strong customer centricity and professional telephone etiquette . Ability to work well in a team, follow instructions, and adhere to principles and values . Target-driven with the ability to cope under pressure and handle setbacks constructively . Apply 8 people have applied for this job. Previous Next About Pepkor Lifestyle Creating a comfortable lifestyle Pepkor Lifestyle gives value-conscious mass-market customers the opportunity and means to create a comfortable lifestyle, transforming houses into homes. Value lifestyle product offering The Pe",
+      "exact_post": true,
+      "description": "We are seeking an attentive, customer-centric, and detail-oriented Cashier to join our retail team. As the primary point of contact at our till points, you will be responsible for accurately processing point-of-sale transactions and maint... Cashier (Part-Time), Randburg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng / Johannesburg Back to Search Results Cashier (Part-Time) Randburg Salary: Market Related Job Type: Part-Time Sectors: Retail Sales Reference: 209115 Apply before Oct 29 2026 | 3 Days left Apply Vacancy Details Employer: Pepkor Lifestyle"
+    },
+    {
+      "id": "0a79797c620f6da7",
+      "title": "Driver - VKB Milling, Christiana",
+      "company": "VKB Group",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395908-driver-vkb-milling-christiana-north-west/?jobindex=10",
+      "found_at": "2026-10-27T08:12:06.399574+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Drivers & Logistics",
+      "location": "North West, North West",
+      "province": "North West",
+      "closing_date": "2026-12-26",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Qualifications Grade 12 or NQF Level 4 with numerical ability and computer literacy. Code 14 driver's licence with a valid PDP. Essential Experience At least 3 years' experience as a driver. Sound knowledge of sales. Experience working in a pressurised operational environment. Availability to work a five-day work week. Availability to work weekends and public holidays according to requirements. Clear criminal record. Competencies Accountability Communication Teamwork and collaboration Customer focus Planning and organising Compliance and attention to detail Personal resilience Problem solving and analysis Skills Required Heavy vehicle operation Product delivery and distribution Customer service Sales awareness Stock control Documentation management Vehicle inspection and housekeeping Fuel consumption management Route and delivery planning Key Responsibilities Deliver products safely and timeously according to delivery schedules. Provide excellent customer service during all customer interactions. Maintain clean, neat, and professional vehicle standards at all times. Monitor and report all incidents and accidents to management promptly. Obtain, verify, and manage all signed and sta",
+      "exact_post": true,
+      "description": "and the values of our organisation. Apply 1 person has applied for this job. 2 people have viewed this job. Previous Next About VKB Group VKB is a South African agricultural enterprise with the unique vision to focus on alliances with industry related stakeholders. These alliances have developed into the dynamic utilisation of a wide range of agricultural value chain solutions. Producers in the area in which we conduct business, own and control the VKB Group. Our strategy therefore remains focused on keeping the company as an authentic agricultural producer business, which could also add value for a broader base of general consumers. The VKB Group continues to capitalize on its rich heritage of almost 100 years by applying the sound cooperative principles of the past. These principles ensure that any association with the Group remains a valuable experience, not only for its shareholders, but also for its suppliers, employees and customers. More Jobs at VKB Group View All (16) Temporary Financial Assistant - VKB Fuels, Head Office Reitz Free State Job Type: Permanent Posted 26 Oct 2026 | 11 Days left Millwright - VKB Engineering Services, Petrus Steyn Free State Job Type: Permanent"
     }
   ]
 }
