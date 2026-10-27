@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-10-27T14:32:21.276381+00:00",
+  "generated_at": "2026-10-27T19:37:20.452260+00:00",
   "version": "2.4",
   "stats": {
-    "total": 7,
+    "total": 10,
     "verified_official": 0
   },
   "groups": [
     {
-      "category": "Drivers & Logistics",
-      "count": 2
+      "category": "Engineering & Trades",
+      "count": 6
+    },
+    {
+      "category": "Office & Admin",
+      "count": 1
+    },
+    {
+      "category": "Cleaners & General Workers",
+      "count": 1
     },
     {
       "category": "Other Jobs",
-      "count": 2
-    },
-    {
-      "category": "Learnerships & Internships",
       "count": 1
     },
     {
-      "category": "Healthcare",
-      "count": 1
-    },
-    {
-      "category": "Engineering & Trades",
+      "category": "Drivers & Logistics",
       "count": 1
     }
   ],
   "jobs": [
     {
-      "id": "b16fabbb7fe7e563",
-      "title": "Store Driver",
-      "company": "Dis-Chem Pharmacies Limited",
+      "id": "0ac5742254fe50c9",
+      "title": "Pest Control Officer/ Pest Control Technician",
+      "company": "Status Staffing",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396132-store-driver-witbank-mpumalanga/?jobindex=1",
-      "found_at": "2026-10-27T14:31:21.523950+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2318745-pest-control-officer-pest-control-technician-cape-town/?jobindex=1",
+      "found_at": "2026-10-27T19:36:42.410517+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -46,24 +46,24 @@
         ],
         "warnings": []
       },
-      "category": "Drivers & Logistics",
-      "location": "Mpumalanga, Mpumalanga",
-      "province": "Mpumalanga",
-      "closing_date": "2026-11-02",
+      "category": "Office & Admin",
+      "location": "Cape Town, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-26",
       "salary": "",
       "job_type": "Full Time",
-      "requirements": "Follow delivery/ pickup instructions from management All collections and store returns must be correctly checked, signed for and returned to the receiving area All delivery paperwork must be signed upon delivery Have the correct names, contact details and addresses of customers before leaving on a delivery trip All invoices recorded on the delivery log sheet must be available and correctly recorded All invoices must be signed in the correct manner and report any discrepancies to the relevant manager Comply with The Local Choice Corporate Stores vehicle policy at all times Complete and maintain an accurate vehicle logbook Process payments on all transaction via EFT and cash payment options. Cheques are not to be accepted The vehicle must be locked at all times during the delivery process Responsible to keep the vehicle clean and washed Inspect vehicle for any defects and safe operational conditions before, during and after trips and report any concerns to the manager Report on all accidents and incidents involving drivers or company equipment immediately Adhere to the road traffic rules and regulations as per the road traffic act Be responsible for any traffic fines allocated to th",
+      "requirements": "Matric Certificate SAPCA Registered – non negotiable Valid Driver License – non negotiable 2 years servicing of Pest Control and Hygiene related products experience. Knowledge of SANS 10206:2010 Knowledge of EH&S DUTIES: Carry out pest control and hygiene services (in accordance with the Fertilizers, Farm Feeds, Agricultural Remedies and Stock Remedies Act) Accurately report the servicing of Pest and Hygiene clients Have job sheets signed off by client(s) SKILLS Customer Service Time management Route planning Record keeping Should you meet all the requirements, apply on our website at www.statusstaffing.com today. Should you not hear back from us within 10 working days, please consider your application as unsuccessful. We will retain your credentials for future similar roles. Apply 10640 people have viewed this job. Previous Next About Status Staffing Welcome to STATUS STAFFING SOLUTIONS, a leading Western Cape based broad spectrum boutique staffing solutions provider. Within our recruitment division we pride ourselves in our ability to match the right person to the right career through a comprehensive range of in-house screening and assessments. We go the extra mile by offering",
       "exact_post": true,
-      "description": "Safely transport products to customer locations in a timely, safe and courteous All the cash and product receipts must be given to the cashier before the close of business The correct products must be delivered to the correct customer within the specified time Fridge line deliveries must be prioritized and transported using cooler boxes and cold packs Use the shortest and most efficient route to the customer and back to the Store Return back to the store immediately after a delivery After completion of deliveries, the vehicle must be repacked to prevent boxes from falling and damaging the stock or vehicle Be fully accountable for all damages and losses throughout the delivery process Provide special care when delivering fragile and hazardous products Comply with minimum standards of efficiency and accuracy, in order to meet The Local Choice Corporate Stores requirements Follow delivery/ pickup instructions from management All collections and store returns must be correctly checked, signed for and returned to the receiving area All delivery paperwork must be signed upon delivery Have the correct names, contact details and addresses of customers before leaving on a delivery trip Al"
+      "description": "Our client, based in Bellville, is seeking a dedicated and customer-focused SAPCA Registered Pest Control Officer to join their team. The ideal candidate will have a passion for the pest control industry and a strong commitment to delivering exceptional customer service. Applicants must have a Matric Certificate, current SAPCA registration (non-negotiable), and a valid driver's licence (non-negotiable). A minimum of two years' experience servicing pest control and hygiene-related products is required, along with sound knowledge of SANS 10206:2010 and Environmental Health and Safety (EH&S) practices. Pest Control Officer/ Pest Control Technician, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Pest Control Officer/ Pest Control Technician Cape Town Salary: Market Related Job Type: Permanent Sect"
     },
     {
-      "id": "4b6f6c7650cb54d9",
-      "title": "Associate",
-      "company": "Broll Property Group",
+      "id": "a555f1252b121495",
+      "title": "Housekeeping Attendant",
+      "company": "Helderberg Personnel cc",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396131-associate-sandton/?jobindex=2",
-      "found_at": "2026-10-27T14:31:21.903345+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396099-housekeeping-attendant-stellenbosch/?jobindex=2",
+      "found_at": "2026-10-27T19:36:42.872598+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -74,136 +74,24 @@
         ],
         "warnings": []
       },
-      "category": "Other Jobs",
-      "location": "Johannesburg, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-10-29",
+      "category": "Cleaners & General Workers",
+      "location": "Stellenbosch, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-26",
       "salary": "",
       "job_type": "Full Time",
       "requirements": "",
       "exact_post": true,
-      "description": "At Broll, our people are the foundation of everything we do. We bring together world-class services, expert advisory, and cutting-edge technology to deliver exceptional outcomes for our clients — and we know that's only possible because ... Associate, Sandton - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng / Johannesburg Back to Search Results Associate Sandton Salary: Market Related Job Type: Permanent Sectors: General Real Estate Reference: 209461 Apply before Oct 29 2026 | 3 Days left Apply Vacancy Details Employer: Broll Property Group"
+      "description": "HOUSEKEEPING ATTENDANTStellenbosch: My client, a popular countryside retreat and guest farm in Stellenbosch, is seeking an experienced and reliable Housekeeping Attendant to join their team. Housekeeping Attendant , Stellenbosch - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Housekeeping Attendant Stellenbosch Salary: Market Related Job Type: Permanent Sectors: Hospitality Reference: SW006681/CL Apply before Nov 26 2026 | 30 Days left Apply External Application Vacancy Details Employer: Helderberg Personnel cc HOUSEKEEPING ATTENDANTStellenbosch: My client, a popular countryside retreat and guest farm in Stellenbosch, is seeking an experienced and reliable Housekeeping Attendant to join their team. RESPONSIBILITIES INCLUDE BUT ARE NOT LIMITED TO: Cleaning and maintaining guest accommodation and common ar"
     },
     {
-      "id": "f0a0269367a8b624",
-      "title": "Used Vehicle Sales Manager",
-      "company": "Motus Corporation",
+      "id": "efeb31f387d95555",
+      "title": "Millwright Ref: 4385",
+      "company": "NDC Personnel & Contractors CC",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396130-sales-manager-used-vehicle-bmw-vereeniging-vereeniging/?jobindex=3",
-      "found_at": "2026-10-27T14:31:23.070262+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Other Jobs",
-      "location": "Vaal, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-11-03",
-      "salary": "r 20 000",
-      "job_type": "Full Time",
-      "requirements": "relevant to used vehicle sales. Requirements - Proven track record in automotive sales management or a related field within a dealership environment. - Demonstrable experience in training and leading a team to meet or exceed sales goals. - Strong negotiation and interpersonal skills, with the ability to connect with diverse customer segments. - Excellent organizational skills with the ability to manage multiple priorities in a fast-paced environment. - Proficiency in using dealership management systems and CRM tools. - Strong analytical skills to assess sales performance and market trends. Preferred Qualifications - Relevant qualifications in business management or automotive sales. - Experience with luxury vehicle brands, particularly in the pre-owned market. - Familiarity with digital marketing strategies and online sales platforms in the automotive sector. - Additional certifications in sales or customer service excellence. BMW Vereeniging is committed to creating an inclusive environment for all employees. We encourage applications from all qualified individuals and do not discriminate based on any protected characteristics as outlined in the Employment Equity Act. Apply 1 per",
-      "exact_post": true,
-      "description": "The Used Vehicle Sales Manager at BMW Vereeniging will oversee the sales operations of our pre-owned vehicle division, ensuring a high standard of service and customer satisfaction. This role focuses on driving sales performance, managi... Used Vehicle Sales Manager | BMW Vereeniging, Vereeniging - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng / Vaal Back to Search Results Used Vehicle Sales Manager | BMW Vereeniging Vereeniging Salary: Market Related Job Type: Permanent Sectors: Sales Automotive Reference: 209460 Apply before Nov 03 2026 | 8 Days left Apply Vacancy Details Employer: Motus Corporation"
-    },
-    {
-      "id": "654e1c708b96acb5",
-      "title": "Operational HR Manager",
-      "company": "Unique Personnel",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396129-operational-hr-manager-south-africa/?jobindex=4",
-      "found_at": "2026-10-27T14:31:23.477028+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Learnerships & Internships",
-      "location": "ZA, ZA",
-      "province": "Gauteng",
-      "closing_date": "2026-11-26",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "require a departure from Group policy, ensuring any deviation is documented, approved, and kept aligned with the intent of the Group framework. Compile and submit monthly people metrics to the HR Manager: headcount, turnover, absenteeism, overtime, EE progress, IR case load, recruitment pipeline, and training completion. Prepare a quarterly consolidated people report for the HR Manager and site leadership, covering trend analysis, transformation (EE/WSP/B-BBEE) progress, and talent/succession risks, in addition to the monthly metrics pack. Analyse trends in the data and flag risks (e.g. rising grievance volumes, turnover in critical roles) with recommended interventions. Support budget input and headcount planning for the site with accurate, current data. Manage end-to-end recruitment for the site: role briefing, sourcing, screening, interviews, offers, and pre-employment checks (references, qualifications, criminal/credit where applicable). Design and run structured onboarding/induction so new starters are compliant, informed, and productive from day one. Manage offboarding: exit interviews, clearance, UI-19s, final documentation, and knowledge transfer; identify retention themes",
-      "exact_post": true,
-      "description": "is the first point of call for line managers on all people related matte... Bachelor's Degree or National Diploma in Human Resources Management, Industrial/Organisational Psychology, or Labour Relations (essential) Postgraduate qualification in HR/IR/Labour Law advantageous Minimum 5–8 years' generalist HR experience, of which at least 3 years in a unionised manufacturing, FMCG, or beverage/production environment Solid understanding of manufacturing/ production operations shift patterns, plant floor dynamics, and how HR decisions affect production continuity Practical experience with workforce planning and workforce reduction strategies, including Section 189/189A restructuring and retrenchment processes Demonstrable hands-on experience coordinating disciplinary and grievance hearings briefing chairpersons, managing process, and ensuring substantive and procedural fairness and managing recognised-union relationships (GIWUSA, NUMSA, FAWU or similar advantageous) Practical experience compiling and submitting EE Plans, WSP/ATR, and supporting B-BBEE data collation Working knowledge of an HRIS platform; Psiber experience strongly advantageous Advanced Excel skills (pivot tables, looku"
-    },
-    {
-      "id": "9f218987bc4565c5",
-      "title": "Pharmacist - Paarl",
-      "company": "Dis-Chem Pharmacies Limited",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396127-pharmacist-paarl-western-cape-western-cape/?jobindex=5",
-      "found_at": "2026-10-27T14:31:24.032525+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Healthcare",
-      "location": "Western Cape, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-11-26",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "Essential: Grade 12 / Matric BPharm / equivalent qualification Registered with the South African Pharmacy Council (SAPC) Min 2- 3 years' experience in Pharmaceutical 2-3 years retail pharmacy experience Computer literate – MS Office Advantageous: Relevant retail/ FMCG experience Third additional language SAP experience E-scripting experience Registered tutor Unisolv experience Duties and Responsibilities Dispensing of Medication: Dispensing of Medication under direct personal supervision of Pharmacist Accurately interpret scripts and act in a professional and responsible manner and within the legal requirements in accordance with the South African Pharmaceutical Council. • Capture script details accurately and verify patient’s details on the system. Ensure accurate picking / packing / labelling and checking of medication and be aware of common dosages as well as important drug interactions. Provide accurate instructions to the patients regarding the correct use of medicine supplied. Keep abreast of changes in medical aid procedures and requirements for claims and dispensing. Customer Service: Advise and assist patients at the dispensary, self-medication counter and front-shop. Fo",
-      "exact_post": true,
-      "description": "Dis-Chem Pharmacies has an opportunity for a Pharmacist at our Paarl Store in Western Cape. You will be responsible for dispensing medications, providing pharmaceutical expertise to patients and healthcare professionals, and ensuring the safe and effe... Pharmacist - Paarl - Western Cape, Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Pharmacist - Paarl - Western Cape Western Cape Salary: Market Related Job Type: Permanent Sectors: General Pharmaceutical Reference: 209456 Apply before Nov 26 2026 | 31 Days left Apply Vacancy Details Employer: Dis-Chem Pharmacies Limited Dis-Chem Pharmacies has an opportunity for a Pharmacist at our Paarl Store in Western Cape. You will be responsible for dispensing medications, providing pharmaceutical expertise to patients and healthcare professionals, and ensuring the s"
-    },
-    {
-      "id": "503b14243a18fdf7",
-      "title": "Maintenance Manager",
-      "company": "Western Cape Recruitment",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396126-maintenance-manager-overberg/?jobindex=6",
-      "found_at": "2026-10-27T14:31:24.447530+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Drivers & Logistics",
-      "location": "Overberg, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-12-26",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "N6 with Trade Test – Fitter & Turner or equivalent Minimum of 5 Years’ working experience in Maintenance environment 3 Years' management experience in a maintenance role Proficiency in MS Office & relevant maintenance software programs Valid SA driver’s license Willing and able to relocate Kindly note that if you have not received any feedback 2 weeks after your application, please consider your application unsuccessful Maintenance Manager, Overberg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Maintenance Manager Overberg Salary: Market Related Job Type: Permanent Sectors: Engineering Management Technical Reference: 2396126 Apply before Dec 26 2026 | 61 Days left Apply Vacancy Details Employer: Western Cape Recruitment Opportunity for an experienced Maintenance Manager in the Western Cape. Our client, a national household brand in the beverage sector, is seeking a Maintenance Manager for one of their plants in the Overberg area. You will be responsible for leading the maintenance team, developin",
-      "exact_post": true,
-      "description": "Opportunity for an experienced Maintenance Manager in the Western Cape. Our client, a national household brand in the beverage sector, is seeking a Maintenance Manager for one of their plants in the Overberg area. You will be responsible for leading th... Requirements: N6 with Trade Test – Fitter & Turner or equivalent Minimum of 5 Years’ working experience in Maintenance environment 3 Years' management experience in a maintenance role Proficiency in MS Office & relevant maintenance software programs Valid SA driver’s license Willing and able to relocate Kindly note that if you have not received any feedback 2 weeks after your application, please consider your application unsuccessful Maintenance Manager, Overberg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Maintenance Manager Overberg Salary: Market"
-    },
-    {
-      "id": "5fa5a2102ca494c8",
-      "title": "Automation Technicians",
-      "company": "Western Cape Recruitment",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396123-automation-technicians-new-zealand-mpumalanga/?jobindex=8",
-      "found_at": "2026-10-27T14:31:25.528034+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395987-millwright-ref-4385-bloemfontein/?jobindex=3",
+      "found_at": "2026-10-27T19:36:43.303378+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -215,14 +103,210 @@
         "warnings": []
       },
       "category": "Engineering & Trades",
-      "location": "Mpumalanga, Mpumalanga",
-      "province": "Mpumalanga",
+      "location": "Bloemfontein, Free State",
+      "province": "Free State",
+      "closing_date": "2026-11-26",
+      "salary": "r 2000",
+      "job_type": "Full Time",
+      "requirements": "of the POPI Act. If you have not heard from us within 14 days from applying, please consider your application unsuccessful. Apply 57 people have viewed this job. Previous Next About NDC Personnel & Contractors CC The Company NDC Personnel & Contractors was established in the year 2000 and cemented itself as a market leader in the Recruitment and Placement of Specialized Technical/Engineering staff for the FMCG, Production, Manufacturing, Engineering, Maritime and Construction Industries.NDC Personnel & Contractors specialises in permanent placements, as well as the sourcing of contract workers, and gives you the option of letting us manage the contract payroll. At NDC Personnel & Contractors we strive to provide excellence in our recruitment services, in order to establish mutually rewarding relationships between our clients and candidates. This commitment to our clients does not only make us Recruitment Specialists in the Engineering and Technical field, but also the preferred vendor for many leading organizations nationally as well as into neighboring countries. We present the client with a Confidential Professional Resume as well as Reference Checks. We also do thorough Backgro",
+      "exact_post": true,
+      "description": "A vacancy is available within the agricultural sector for a Millwright based in the Free State. Millwright Ref: 4385, Bloemfontein - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Free State Back to Search Results Millwright Ref: 4385 Bloemfontein Salary: Market Related Job Type: Permanent Sectors: Engineering Reference: CT004827/Lynds Apply before Nov 26 2026 | 30 Days left Apply External Application Vacancy Details Employer: NDC Personnel & Contractors CC A vacancy is available within the agricultural sector for a Millwright based in the Free State. In this role, you will install, maintain, test, and commission electrical and mechanical systems, including transmission and distribution equipment, while performing preventative maintenance. Experience with stick and CO2 welding will be essential to your success. To be considered, candidates "
+    },
+    {
+      "id": "dd1f88fb61bebc76",
+      "title": "Industrial Refrigeration Technician Ref: 4386",
+      "company": "NDC Personnel & Contractors CC",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396017-industrial-refrigeration-technician-ref-4386-overberg/?jobindex=4",
+      "found_at": "2026-10-27T19:36:43.791383+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Engineering & Trades",
+      "location": "Overberg, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-26",
+      "salary": "r 2000",
+      "job_type": "Full Time",
+      "requirements": "of the POPI Act. If you have not heard from us within 14 days from applying, please consider your application unsuccessful. Apply 34 people have viewed this job. Previous Next About NDC Personnel & Contractors CC The Company NDC Personnel & Contractors was established in the year 2000 and cemented itself as a market leader in the Recruitment and Placement of Specialized Technical/Engineering staff for the FMCG, Production, Manufacturing, Engineering, Maritime and Construction Industries.NDC Personnel & Contractors specialises in permanent placements, as well as the sourcing of contract workers, and gives you the option of letting us manage the contract payroll. At NDC Personnel & Contractors we strive to provide excellence in our recruitment services, in order to establish mutually rewarding relationships between our clients and candidates. This commitment to our clients does not only make us Recruitment Specialists in the Engineering and Technical field, but also the preferred vendor for many leading organizations nationally as well as into neighboring countries. We present the client with a Confidential Professional Resume as well as Reference Checks. We also do thorough Backgro",
+      "exact_post": true,
+      "description": "A career opportunity is available within the FMCG sector for an Industrial Refrigeration Technician based in the Western Cape. Industrial Refrigeration Technician Ref: 4386, Overberg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Industrial Refrigeration Technician Ref: 4386 Overberg Salary: Market Related Job Type: Permanent Sectors: Engineering Reference: CT004828/Lynds Apply before Nov 26 2026 | 30 Days left Apply External Application Vacancy Details Employer: NDC Personnel & Contractors CC A career opportunity is available within the FMCG sector for an Industrial Refrigeration Technician based in the Western Cape. In this role, you will perform corrective and preventative maintenance on ammonia refrigeration equipment and machinery, as well as fault-finding, and repairs. Experience with CA and DCA c"
+    },
+    {
+      "id": "f9681169a65c5448",
+      "title": "Responsible Welding Coordinator Ref: 4387",
+      "company": "NDC Personnel & Contractors CC",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396137-responsible-welding-coordinator-ref-4387-cape-winelands/?jobindex=5",
+      "found_at": "2026-10-27T19:36:44.249064+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Engineering & Trades",
+      "location": "Cape Winelands, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-26",
+      "salary": "r 2000",
+      "job_type": "Full Time",
+      "requirements": ", is essential. To start the",
+      "exact_post": true,
+      "description": "A job opportunity is available within the manufacturing sector for a Responsible Welding Coordinator based in the Western Cape. Responsible Welding Coordinator Ref: 4387, Cape Winelands - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Responsible Welding Coordinator Ref: 4387 Cape Winelands Salary: Market Related Job Type: Permanent Sectors: Engineering Reference: CT004829/Lynds Apply before Nov 26 2026 | 30 Days left Apply External Application Vacancy Details Employer: NDC Personnel & Contractors CC A job opportunity is available within the manufacturing sector for a Responsible Welding Coordinator based in the Western Cape. In this role, you will manage welding coordination activities, inspections, and technical support, while ensuring adherence to ISO 3834-2 standards, welding procedures, and safety re"
+    },
+    {
+      "id": "416e6b77d6b1d96b",
+      "title": "Senior Quantity Surveyor",
+      "company": "Tumaini Consulting",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396152-senior-quantity-surveyor-major-construction-projects-cape-town/?jobindex=6",
+      "found_at": "2026-10-27T19:36:44.681737+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Engineering & Trades",
+      "location": "Cape Town, Western Cape",
+      "province": "Western Cape",
       "closing_date": "2026-12-26",
+      "salary": "R700000 YEAR",
+      "job_type": "Full Time",
+      "requirements": "A BSc, BTech or National Diploma in Quantity Surveying. Minimum 8 years’ experience in Quantity Surveying within the construction industry. Experience managing large-scale construction projects with values exceeding R100 million. Working knowledge of CCS (Candy) or BuildSmart software. Demonstrated team leadership and management capabilities. Strong understanding of construction processes, standard measurement systems and preambles. Knowledge of JBCC, NEC, FIDIC and MBSA contract forms. Excellent commercial, financial and cost management skills. If you have the experience and commercial expertise required to manage complex construction projects, our client would like to hear from you. Only shortlisted candidates will be contacted. Submit your CV to engineering.jobs@tumaini.co.za or call XXX-XXXX. Visit our website for more exciting career opportunities: https://tumaini.co/ Apply Previous Next About Tumaini Consulting Tumaini Consulting is a Recruitment and Staffing agency that focuses on the placement of people on a permanent or contract basis, in both the public and private sectors. Our core areas of expertise lie in the Engineering, Finance, IT, Medical, Trade & Technical, Mini",
+      "exact_post": true,
+      "description": "Take the next step in your career with an opportunity to contribute to major construction developments in Cape Town. Our client requires a highly experienced Senior Quantity Surveyor who can combine technical measurement expertise with strong comm... Senior Quantity Surveyor – Major Construction Projects, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Senior Quantity Surveyor – Major Construction Projects Cape Town Salary: R58 333.00 - R83 333.00 Per Month Job Type: Permanent Sectors: Engineering Reference: 2396152 Apply before Dec 26 2026 | 61 Days left Apply Vacancy Details Employer: Tumaini Consulting Take the next step in your career with an opportunity to contribute to major construction developments in Cape Town. Our client requires a highly experienced Senior Quantity Surveyor who can c"
+    },
+    {
+      "id": "1211dd41b0cc242f",
+      "title": "Operations Engineer",
+      "company": "Tumaini Consulting",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396151-operations-engineer-johannesburg/?jobindex=7",
+      "found_at": "2026-10-27T19:36:45.102605+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Engineering & Trades",
+      "location": "Johannesburg, Gauteng",
+      "province": "Gauteng",
+      "closing_date": "2026-12-26",
+      "salary": "R1800000 YEAR",
+      "job_type": "Full Time",
+      "requirements": "Natio... Operations Engineer, Johannesburg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Operations Engineer Johannesburg Salary: R150 000.00 - R166 667.00 Per Month Job Type: Permanent Sectors: Mining Reference: TM2026102201 Apply before Dec 26 2026 | 61 Days left Apply Vacancy Details Employer: Tumaini Consulting One of our top clients within the mining sector are seeking highly experienced and skilled Operations Engineer (2.13.3.1) to join their team based in Gauteng. To be considered for this role, you will meet the following minimum requirements: National Senior Certificate (Matric) Degree in Electrical/Mechanical Engineering Government Certificate of Competency Mines and Works Registration as a professional certificated engineer would be an advantage. Knowledge and Experience: · 5 years operational experience within Mining/ Plant is essential. · 3 years Project Management experience would be desirable. Should you meet the requirements for this position, please email your CV to mining.jobs@tumain",
+      "exact_post": true,
+      "description": "One of our top clients within the mining sector are seeking highly experienced and skilled Operations Engineer (2.13.3.1) to join their team based in Gauteng. To be considered for this role, you will meet the following minimum requirements: Natio... Operations Engineer, Johannesburg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Operations Engineer Johannesburg Salary: R150 000.00 - R166 667.00 Per Month Job Type: Permanent Sectors: Mining Reference: TM2026102201 Apply before Dec 26 2026 | 61 Days left Apply Vacancy Details Employer: Tumaini Consulting One of our top clients within the mining sector are seeking highly experienced and skilled Operations Engineer (2.13.3.1) to join their team based in Gauteng. To be considered for this role, you will meet the following minimum requirements: National Senior Cer"
+    },
+    {
+      "id": "2f3ccf35fb717c60",
+      "title": "Senior Mechanical Engineer",
+      "company": "Tumaini Consulting",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396150-senior-mechanical-engineer-north-west/?jobindex=8",
+      "found_at": "2026-10-27T19:36:45.533207+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Engineering & Trades",
+      "location": "North West, North West",
+      "province": "North West",
+      "closing_date": "2026-12-26",
+      "salary": "R1000000 YEAR",
+      "job_type": "Full Time",
+      "requirements": "· Matric · BSc / BEng in Mechanical Engineering · GCC (Advantageous) Knowledge and Experience: · Minimum 10 Years of Plant Experience in a Mining, Construction, or Heavy Industry Environment Should you meet the requirements for this position, please email your CV to mining.jobs@tumaini.co.za or you can also connect with and contact our consultants – on XXX-XXXX – or visit our website on www.tumaini.co Correspondence will only be conducted with short listed candidates. Should you not hear from us within 3 days, please consider your application unsuccessful. Apply Previous Next About Tumaini Consulting Tumaini Consulting is a Recruitment and Staffing agency that focuses on the placement of people on a permanent or contract basis, in both the public and private sectors. Our core areas of expertise lie in the Engineering, Finance, IT, Medical, Trade & Technical, Mining and Logistics sectors. At Tumaini Consulting our name embodies one of our core philosophies. In Swahili, our name means “Hope” and we believe in the enduring power of hope, a beacon that guides us in every endeavour. In all that we do, we carry the hope for a brighter tomorrow, the hope to make a profound impact within",
+      "exact_post": true,
+      "description": "One of our top clients within the mining sector are seeking highly experienced Senior Mechanical Engineer to join their department at their operation based in the North West. To be considered for this role, you will need to meet the following minim... Senior Mechanical Engineer, North West - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Senior Mechanical Engineer North West Salary: R83 333.00 - R100 000.00 Per Month Job Type: Permanent Sectors: Mining Reference: MR2026102203 Apply before Dec 26 2026 | 61 Days left Apply Vacancy Details Employer: Tumaini Consulting One of our top clients within the mining sector are seeking highly experienced Senior Mechanical Engineer to join their department at their operation based in the North West. To be considered for this role, you will need to meet the following minimum requirem"
+    },
+    {
+      "id": "7a22a46ab0de5889",
+      "title": "Mine Planner (Medium Term)",
+      "company": "Tumaini Consulting",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396149-mine-planner-medium-term-northern-cape/?jobindex=9",
+      "found_at": "2026-10-27T19:36:45.939829+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "Northern Cape, Northern Cape",
+      "province": "Northern Cape",
+      "closing_date": "2026-12-26",
+      "salary": "R1200000 YEAR",
+      "job_type": "Full Time",
+      "requirements": "... Mine Planner (Medium Term), Northern Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Mine Planner (Medium Term) Northern Cape Salary: R100 000.00 - R108 333.00 Per Month Job Type: Permanent Sectors: Mining Reference: TM2026102202 Apply before Dec 26 2026 | 61 Days left Apply Vacancy Details Employer: Tumaini Consulting One of our top clients within the mining sector are seeking highly experienced and skilled Mine Planner (Medium Term) to join their team based in the Northern Cape. To be considered for this role, you will meet the following minimum requirements: National Senior Certificate (Matric) BSc Degree in Mining Engineering Knowledge and Experience: · 6 years relevant experience in an open-pit mining operation. · Exposure to medium-term mine planning (3-12 months). · Proficient in mine planning, modelling and design software. Should you meet the requirements for this position, please email your CV to mining.jobs@tumaini.co.za or you can also contact on XXX-XXXX or visit our website on www.tumaini.c",
+      "exact_post": true,
+      "description": "One of our top clients within the mining sector are seeking highly experienced and skilled Mine Planner (Medium Term) to join their team based in the Northern Cape. To be considered for this role, you will meet the following minimum requirements: ... Mine Planner (Medium Term), Northern Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Mine Planner (Medium Term) Northern Cape Salary: R100 000.00 - R108 333.00 Per Month Job Type: Permanent Sectors: Mining Reference: TM2026102202 Apply before Dec 26 2026 | 61 Days left Apply Vacancy Details Employer: Tumaini Consulting One of our top clients within the mining sector are seeking highly experienced and skilled Mine Planner (Medium Term) to join their team based in the Northern Cape. To be considered for this role, you will meet the following minimum requirements: Nation"
+    },
+    {
+      "id": "5d62cc82357a97e2",
+      "title": "Online Picker",
+      "company": "Dis-Chem Pharmacies Limited",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396148-online-picker-parow-cape-town/?jobindex=10",
+      "found_at": "2026-10-27T19:36:46.321405+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Drivers & Logistics",
+      "location": "Cape Town, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-10-28",
       "salary": "",
       "job_type": "Full Time",
-      "requirements": "National Diploma or Degree in Mechatronics, Computer Sciences, Electrical or relevant Previous experience in FMCG/Production/Industrial Automation environments Fully bilingual in both Afrikaans and English Able to work or study abroad Accurate with a keen interest in Industrial Automation and systems Kindly note that if you have not received any feedback within two weeks of your application, please consider your application unsuccessful. Automation Technicians – New Zealand, Mpumalanga - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Automation Technicians – New Zealand Mpumalanga Salary: Market Related Job Type: Permanent Sectors: Engineering FMCG Technical Reference: 2396123 Apply before Dec 26 2026 | 61 Days left Apply Vacancy Details Employer: Western Cape Recruitment Join one of our reputable clients in New Zealand for a next-step-opportunity in your career. One of our clients in New Zealand is seeking for Automation Technicians to join their team. You will install, maintain and upgrade various machinery in F",
+      "requirements": "Essential: Grade 12 / Matric Minimum of 1 years’ experience in a relevant retail environment Computer literate – MS Office and Internet browser administration Job Specifications: Assist Online Administrator in keeping accurate records of all Click and Collect orders received, picked, packed and released to customer. Report any system issues as per Dis-Chem standard operating procedures. Report ‘out of stock’ lines to the Online Administrator. Ensure all orders are correctly picked and packed as per picking slip to avoid any customer discrepancies. Ensure customer orders are ready for collection before the customer visits the store to collect their goods purchased. Execute all purchases based on standard and consistent Dis-Chem operating procedures. Maintain operational standards throughout the picking & packing process. Assist with weighing and shipping of orders. Transfer shipped parcels into storage area and assist loading boxes into Courier vehicles upon request. Resolve any customer queries in the fastest most appropriate way possible. Inform management of any customer discrepancies as soon as possible to enhance customer satisfaction. Competencies: Essential: Interpersonal S",
       "exact_post": true,
-      "description": "Join one of our reputable clients in New Zealand for a next-step-opportunity in your career. One of our clients in New Zealand is seeking for Automation Technicians to join their team. You will install, maintain and upgrade various machinery in FMC... Requirements: National Diploma or Degree in Mechatronics, Computer Sciences, Electrical or relevant Previous experience in FMCG/Production/Industrial Automation environments Fully bilingual in both Afrikaans and English Able to work or study abroad Accurate with a keen interest in Industrial Automation and systems Kindly note that if you have not received any feedback within two weeks of your application, please consider your application unsuccessful. Automation Technicians – New Zealand, Mpumalanga - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Automation Technicians – "
+      "description": "is to assist in maintaining the effective in store operation of the Dis-Chem Online Store Click and Collect System by... Online Picker - Parow, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Online Picker - Parow Cape Town Salary: Market Related Job Type: Permanent Sectors: General Retail Reference: 209351 Apply before Oct 28 2026 | 2 Days left Apply Vacancy Details Employer: Dis-Chem Pharmacies Limited Dis-Chem Pharmacies has an exciting opportunity available for an Online Picker for their store in Parow. The main function of the role is to assist in maintaining the effective in store operation of the Dis-Chem Online Store Click and Collect System by ensuring the efficient and accurate picking and packing of stock in line with Dis-Chem standard operational procedures, requirements and customer needs. Minimum Requirements: Essential: Grade 12 / Matric Minimum of 1 years’ experience in a relevant retail environment Computer literate – MS Office and Internet browser administration Job Speci"
     }
   ]
 }
