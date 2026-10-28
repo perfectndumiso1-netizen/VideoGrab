@@ -1,45 +1,101 @@
 {
-  "generated_at": "2026-10-28T08:41:49.388407+00:00",
+  "generated_at": "2026-10-28T15:30:50.564461+00:00",
   "version": "2.4",
   "stats": {
-    "total": 9,
+    "total": 10,
     "verified_official": 0
   },
   "groups": [
     {
-      "category": "Banking & Finance",
-      "count": 2
+      "category": "Office & Admin",
+      "count": 3
     },
     {
-      "category": "Other Jobs",
-      "count": 2
+      "category": "Banking & Finance",
+      "count": 3
+    },
+    {
+      "category": "Engineering & Trades",
+      "count": 1
     },
     {
       "category": "Cashiers & Retail",
-      "count": 2
+      "count": 1
     },
     {
-      "category": "Learnerships & Internships",
+      "category": "Other Jobs",
       "count": 1
     },
     {
       "category": "Hospitality & Food",
       "count": 1
-    },
-    {
-      "category": "IT & Technology",
-      "count": 1
     }
   ],
   "jobs": [
     {
-      "id": "580ab426a0d41487",
-      "title": "Financial Manager",
-      "company": "Unique Personnel",
+      "id": "dcc30915537058e0",
+      "title": "Team Leader (Sales)",
+      "company": "Huntswood",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396228-financial-manager-relocate-to-tzaneen-south-africa/?jobindex=1",
-      "found_at": "2026-10-28T08:41:05.670332+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396400-team-leader-sales-utilities-durban/?jobindex=1",
+      "found_at": "2026-10-28T15:29:42.222765+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "Durban, KwaZulu-Natal",
+      "province": "KwaZulu-Natal",
+      "closing_date": "2026-11-04",
+      "salary": "r 6",
+      "job_type": "Full Time",
+      "requirements": "(daily, weekly, monthly) Drive change initiatives ensure it as the desired outcome within your team Job Requirements You will need to be an existing team leader within the Utilities space You will have at least 12 months experience in sales previously You must be available to start on Thursday 26th November Extensive experience Navigating multiple systems Strong technical problem solving skills High attention to detail Required Skills Able to successfully upskill a team. Continuous improvement Operational Knowledge Prioritization of workload Interview Process: The interview process will consist of 1 stage with our Head of Delivery. This will focus on a review of experience, behavioural capability, and competency‑based questions. Core Behaviour Huntswood’s employees are described as dependable, driven and collaborative. The job holder should align to our 6 Fundamental Values: Bring Your “A” Game Strive For Greater Enable and empower all employees Do the right thing Own it Deliver unbelievable service \"It's not just about what we do, but the way we do it. And it's our values that make us special.\" Apply 2 people have viewed this job. Previous Next More Jobs at Huntswood View All (6)",
+      "exact_post": true,
+      "description": "Managing Performance and achievement of team KPIs Leave/ Absence management ensuring required resourcing is available as per SLA. Disciplinary & HR related matters are attended to as they arise in line with company policy and protocols. Maintains team Motivation. Rewards & Incentives are planned and implemented on an ongoing basis. Ensure that the employee experience is consistent with the HW culture Ongoing coaching provided to the advisors. Regular call listening Team professional development is considered and the necessary conversations (CPD, Succession , Career pathing etc.) On going knowledge sharing activities to keep the team updated Monthly 1-1s with team members Identify and nurture top talent within the team. Identify skills / knowledge gaps and independently address or escalate for assistance All necessary reports are completed in line with department schedule / client requirements (daily, weekly, monthly) Drive change initiatives ensure it as the desired outcome within your team Job Requirements You will need to be an existing team leader within the Utilities space You will have at least 12 months experience in sales previously You must be available to start on Thursda"
+    },
+    {
+      "id": "e48bd1ea3841fafa",
+      "title": "Reception & office administrator",
+      "company": "Raizcorp",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396399-reception-office-administrator-cape-town/?jobindex=2",
+      "found_at": "2026-10-28T15:29:42.589537+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "Cape Town, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-28",
+      "salary": "R120000 YEAR",
+      "job_type": "Full Time",
+      "requirements": "Minimum qualifications Grade 12 certificate Diploma or Degree in Communications, Client Relations, Business Administration, or related field Experience and skills 6–10 years’ experience in a reception, office administration, or centre operations role Strong administrative and organisational background with proven multitasking ability Experience managing cleaning or hospitality staff Strong proficiency in Microsoft Office and Google Suite Experience managing technical equipment (projectors, conferencing tools, etc.) Proven ability to manage busy operational environments Advantageous experience Previous property or hotel industry experience Familiarity with tenant leasing and space management Conflict management and tenant relationship handling Behavioural competencies Professional appearance and conduct Exceptional communication skills (verbal and written) Highly organised, proactive, and dependable Strong attention to detail and administrative accuracy Positive, service-oriented mindset Ability to plan, prioritise, and multitask effectively Strong sense of accountability and responsibility Apply 1 person has viewed this job. Previous Next More Jobs at Raizcorp View All (27) Pastry",
+      "exact_post": true,
+      "description": "The Business Exchange is seeking a highly organised, administration-focused and service-driven Reception & Office Administrator to manage the daily operations of one of our premium business centres. This role is central to ensuring a world-class experi... Reception & office administrator, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Reception & office administrator Cape Town Salary: R10 000.00 - R15 000.00 Per Month Job Type: Permanent Sectors: Call Centre Management Reference: 209661 Apply before Nov 28 2026 | 32 Days left Apply External Application Vacancy Details Employer: Raizcorp The Business Exchange is seeking a highly organised, administration-focused and service-driven Reception & Office Administrator to manage the daily operations of one of our premium business centres. This role i"
+    },
+    {
+      "id": "84292defc41a2e91",
+      "title": "Outbound Client Care Consultant (VAPS)",
+      "company": "King Price Group",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396398-outbound-client-care-consultant-vaps-pretoria/?jobindex=3",
+      "found_at": "2026-10-28T15:29:43.037300+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -51,23 +107,135 @@
         "warnings": []
       },
       "category": "Banking & Finance",
-      "location": "ZA, ZA",
+      "location": "Pretoria, Gauteng",
       "province": "Gauteng",
-      "closing_date": "2026-11-27",
+      "closing_date": "2026-10-30",
       "salary": "",
       "job_type": "Full Time",
-      "requirements": ", acting as the primary liaison with IT service providers across telecoms, systems and data storage. Contribute to the evaluation and potential implementation of an ERP system, aimed at improving control over the group's two largest expense categories: employee costs and maintenance. Candidate Requirements Bachelor's degree in Accounting (BCom Accounting or equivalent). Completed articles at a leading accounting firm preferred (SAICA/SAIPA). 3–5 years' post-articles experience at an intermediate Financial Manager level. Working knowledge of Pastel and Sage, or comparable accounting and payroll systems. Experience with property/rental portfolios and/or trust structures advantageous. Strong financial modelling, analytical and reporting skills, with the ability to assess project feasibility and ROI. Basic knowledge of computer hardware and IT systems advantageous, to support liaison with telecoms, systems and data storage providers. Experience with ERP systems advantageous, particularly in managing employee cost and maintenance expenditure. Based in, or willing to relocate to, Tzaneen, Limpopo. High level of integrity and discretion, given the family office nature of the role. Apply P",
+      "requirements": "Matric or matric equivalent (essential) RE5 (essential) Full FAIS Qualification (advantageous) Previous call centre experience, preferably in client care and/or sales environments (essential) Excellent product knowledge Skills and Attributes: Live the King Price values Excellent attention to detail and quality oriented Strong problem-solving, decision-making and objection handling skills Deadline and results driven Ability to cooperate and communicate with all levels of management and with external clients Strong people skills and client-oriented Team player Show traits of resilience, integrity, ambition and passion Work well under pressure Should you not receive any feedback within ten (10) working days after the",
       "exact_post": true,
-      "description": ". Financial Manager – Relocate to Tzaneen, South Africa - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search Back to Search Results Financial Manager – Relocate to Tzaneen South Africa Salary: (Negotiable) Job Type: Permanent Sectors: Real Estate Reference: 80886 Apply before Nov 27 2026 | 31 Days left Apply External Application Vacancy Details Employer: Unique Personnel Role Purpose The Financial Manager will take ownership of the group's financial function at a time of increasing complexity in the business. Over the next 12-24 months the group is considering a restructuring of the trust holdings, alongside a pipeline of capital expenditure (Capex) projects. The Financial Manager will be a key advisor to the Trustees and General Manager through both processes. Key Responsibilities Manage the day-to-day bookkeeping, management accounts and financial reporting for the group's trusts and entities on Pastel. Oversee payroll processing on Sage. Manage inter-entity loan accounts and cash flow across the group's trusts and related parties. Liaise with the group's"
+      "description": "We’ve got a position available for an outbound client care consultant - value added products Company: King Price Purpose of the position: Providing superior service to internal and external clients. Selling value added products in order to retain ex... Outbound Client Care Consultant (VAPS), Pretoria - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Outbound Client Care Consultant (VAPS) Pretoria Salary: Market Related Job Type: Permanent Sectors: Insurance Sales Reference: 209442 Apply before Oct 30 2026 | 3 Days left Apply Vacancy Details Employer: King Price Group We’ve got a position available for an outbound client care consultant - value added products Company: King Price Purpose of the position: Providing superior service to internal and external clients. Selling value added products in order to retain e"
     },
     {
-      "id": "4565facf1cc7024c",
+      "id": "ae497b4d014d81e3",
+      "title": "Outbound Client Care Consultant",
+      "company": "King Price Group",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396397-outbound-client-care-consultant-pretoria/?jobindex=4",
+      "found_at": "2026-10-28T15:29:44.451754+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "Pretoria, Gauteng",
+      "province": "Gauteng",
+      "closing_date": "2026-10-30",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Matric or matric equivalent (essential) RE5 (essential) Full FAIS qualification (advantageous) Previous call centre experience, preferably in client care and/or sales environments (essential) Relevant experience in short term insurance (advantageous) Excellent product knowledge Skills and Attributes: Live the King Price values Excellent attention to detail and quality oriented Strong problem-solving, decision-making and objection handling skills Deadline and results driven Ability to cooperate and communicate with all levels of management and clients Strong people skills and client-oriented Team player Show traits of resilience, integrity, ambition and passion Work well under pressure Should you not receive any feedback within ten (10) working days after the",
+      "exact_post": true,
+      "description": "We’ve got a position available for an outbound client care consultant Company: King Price Purpose of position: Providing superior service to internal and external clients. Selling products to retain existing clients and attract new business for the org... Outbound Client Care Consultant, Pretoria - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Outbound Client Care Consultant Pretoria Salary: Market Related Job Type: Permanent Sectors: Insurance Sales Reference: 209319 Apply before Oct 30 2026 | 3 Days left Apply Vacancy Details Employer: King Price Group We’ve got a position available for an outbound client care consultant Company: King Price Purpose of position: Providing superior service to internal and external clients. Selling products to retain existing clients and attract new business for the organisati"
+    },
+    {
+      "id": "84813b53bed66000",
+      "title": "ESTIMATING MANAGER / SENIOR ESTIMATOR",
+      "company": "The Recruiter",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396172-estimating-manager-senior-estimator-cape-town/?jobindex=5",
+      "found_at": "2026-10-28T15:29:44.904054+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Engineering & Trades",
+      "location": "Cape Town, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-27",
+      "salary": "R95000 MONTH",
+      "job_type": "Full Time",
+      "requirements": "10–20 years' construction estimating experience - Degree qualified in Quantity Surveying, Construction Management or a related discipline - Strong Candy / CCS experience, with the ability to manage tenders from start to finish - Extensive experience with NEC and JBCC contracts - Proven exposure to both Government and Private Sector projects - Strong understanding of construction methodologies, pricing, subcontractor quotations and tender strategy - Previous experience leading an estimating function or estimating team - Strong commercial and contractual awareness - Excellent leadership, analytical and negotiation skills - Must be able to take full accountability for the estimating function THE ROLE You will take ownership of the company's estimating department and lead a team of three direct reports . This is a senior leadership position requiring someone who can operate independently, provide sound commercial input and ensure tenders are accurate, competitive and strategically positioned. If you are an experienced Estimating Manager or Senior Estimator ready to take ownership of the full estimating function, we would like to hear from you. Apply 111 people have viewed this job. Pr",
+      "exact_post": true,
+      "description": "You will take ownership of the company's estimating department and lead a team of three direct reports . This is a senior leadership position requiring someone who can operate independently, provide sound commercial input and ensure tenders are accurate, competitive and strategically positioned. If you are an experienced Estimating Manager or Senior Estimator ready to take ownership of the full estimating function, we would like to hear from you. Apply 111 people have viewed this job. Previous Next More Jobs at The Recruiter View All (6) Contract Manager / Site Agent Cape Town Job Type: Permanent Posted 28 Oct 2026 | 65 Days left FINISHING FOREMAN / SENIOR FINISHING FOREMAN Cape Town Job Type: Permanent Posted 21 Oct 2026 | 23 Days left General Foreman Cape Town Job Type: Permanent Posted 13 Oct 2026 | 15 Days left Quantity Surveyor Cape Town Northern Suburbs Job Type: Permanent Posted 12 Oct 2026 | 14 Days left"
+    },
+    {
+      "id": "45e8b01700c184c3",
+      "title": "Contract Manager / Site Agent",
+      "company": "The Recruiter",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2392100-contract-manager-site-agent-cape-town/?jobindex=6",
+      "found_at": "2026-10-28T15:29:46.246025+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Cashiers & Retail",
+      "location": "Cape Town, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2027-01-01",
+      "salary": "R70000 MONTH",
+      "job_type": "Full Time",
+      "requirements": "",
+      "exact_post": true,
+      "description": "Contract Manager / Site Agent Contract Manager / Site Agent, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Contract Manager / Site Agent Cape Town Salary: R70 000.00 - R90 000.00 Per Month Job Type: Permanent Sectors: Engineering Reference: CT002536/GJ Apply before Jan 01 2027 | 65 Days left Apply External Application Vacancy Details Employer: The Recruiter Contract Manager / Site Agent Must have 10 to 20 years experience, degree qualified. Must have worked within tier 1 construction companies and gone through the ranks from student to Contract Manager. Candidate must have been exposed to a variety of projects including Commercial, Retail, Schools, etc. The position reports to the Contracts Director and manages multiple projects through site engineers and foremen. Apply 338 people have viewed"
+    },
+    {
+      "id": "1715303bac10154c",
+      "title": "Accountant (Fruit Industry)",
+      "company": "M3 Human Capital Management",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396396-accountant-fruit-industry-western-cape/?jobindex=7",
+      "found_at": "2026-10-28T15:29:48.054807+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "Western Cape, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-11",
+      "salary": "r 2026",
+      "job_type": "Full Time",
+      "requirements": ", skills and experience: • BCom Accounting degree or similar qualification; • Completed articles at a registered auditing firm, or a minimum of 3 years’ relevant accounting experience; • Experience in the fruit industry is essential; • Knowledge of cost accounting and standard costing principles; • Experience in forex handling; • Excellent computer skills (specifically MS Excel); • Fully bilingual (Afrikaans and English); • Own reliable transport. Please apply online at www.m3online.co.za before 09:00 on 11 November 2026. For general enquiries, contact our team at M3 Human Capital Management on 021 863 1444. Please note that only shortlisted candidates are contacted. If no feedback is received within two weeks of the",
+      "exact_post": true,
+      "description": "Our client, operating in the fruit industry with their head office based in Wellington, currently has a Accountant position available. The ideal candidate is motivated and detail-oriented team player with excellent accounting knowledge, strong interp... Accountant (Fruit Industry), Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Accountant (Fruit Industry) Western Cape Salary: On Application Job Type: Permanent Sectors: Agriculture Reference: M5829 Apply before Nov 11 2026 | 15 Days left Apply External Application Vacancy Details Employer: M3 Human Capital Management Our client, operating in the fruit industry with their head office based in Wellington, currently has a Accountant position available. The ideal candidate is motivated and detail-oriented team player with excellent accounting knowledge, strong"
+    },
+    {
+      "id": "bb67471baaca2bdb",
       "title": "Yard Foreman / Supervisor",
       "company": "West Coast Personnel",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396178-yard-foreman-supervisor-stellenbosch/?jobindex=2",
-      "found_at": "2026-10-28T08:41:06.334229+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396178-yard-foreman-supervisor-stellenbosch/?jobindex=8",
+      "found_at": "2026-10-28T15:29:48.548784+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -84,130 +252,18 @@
       "closing_date": "2026-11-27",
       "salary": "R15000 MONTH",
       "job_type": "Full Time",
-      "requirements": "Previous yard, warehouse or dispatch experience. Proven staff supervision and team leadership skills. Knowledge of stock control, product handling and loading procedures. Strong organisational, communication and problem-solving skills. Manufacturing or building materials experience advantageous. Reliable, safety-conscious and comfortable working in a hands-on, on-site role. Matric Licence Apply 33 people have viewed this job. Previous Next About West Coast Personnel Staff recruitment specialists at all levels: Permanent Placements, Temps, Contract Personnel and CV Services. What services do we offer? Successful recruitment and selection processes Personality profiling Professional CV preparation for Jobseekers Verification of qualifications, employment history and all relevant details. Reference checks according to competencies. Suitability for position. West Coast Personnel Permanent Placements Having an impressive database of approved candidates, we search the marketplace to find you the best candidate. Our personalized service means that we actually sit down to find out what precisely you need, and through proven processes, ensure that the right person is chosen for the job. Fi",
+      "requirements": "Previous yard, warehouse or dispatch experience. Proven staff supervision and team leadership skills. Knowledge of stock control, product handling and loading procedures. Strong organisational, communication and problem-solving skills. Manufacturing or building materials experience advantageous. Reliable, safety-conscious and comfortable working in a hands-on, on-site role. Matric Licence Apply 77 people have viewed this job. Previous Next About West Coast Personnel Staff recruitment specialists at all levels: Permanent Placements, Temps, Contract Personnel and CV Services. What services do we offer? Successful recruitment and selection processes Personality profiling Professional CV preparation for Jobseekers Verification of qualifications, employment history and all relevant details. Reference checks according to competencies. Suitability for position. West Coast Personnel Permanent Placements Having an impressive database of approved candidates, we search the marketplace to find you the best candidate. Our personalized service means that we actually sit down to find out what precisely you need, and through proven processes, ensure that the right person is chosen for the job. Fi",
       "exact_post": true,
       "description": "YARD FOREMAN / SUPERVISORMuldersvlei (Stellenbosch) - CPT R15,000–R20,000 p/m, depending on experienceA manufacturing business seeks a hands-on Yard Foreman/Supervisor to oversee daily yard operations, supervise staff and ensure accurate stock control, product quality and efficient order loading. Yard Foreman / Supervisor, Stellenbosch - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Yard Foreman / Supervisor Stellenbosch Salary: R15 000.00 - R20 000.00 Per Month Job Type: Permanent Sectors: Manufacturing Reference: CPT001430/MM Apply before Nov 27 2026 | 30 Days left Apply External Application Vacancy Details Employer: West Coast Personnel YARD FOREMAN / SUPERVISORMuldersvlei (Stellenbosch) - CPT R15,000–R20,000 p/m, depending on experienceA manufacturing business seeks a hands-on Yard Foreman/Supervisor"
     },
     {
-      "id": "c0cec48f719526bc",
-      "title": "Integrated Retail",
-      "company": "Core",
+      "id": "3c3a95134ea31884",
+      "title": "Chef's Franschhoek",
+      "company": "Vine Recruitment",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396227-integrated-retail-regional-supervisor-johannesburg/?jobindex=3",
-      "found_at": "2026-10-28T08:41:07.107983+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Cashiers & Retail",
-      "location": "Johannesburg, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-12-27",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "and operational standards. Manage KPAs, Scorecards and regular performance check-ins for direct reports. Coordinate regional projects, new initiatives and retail rollouts with internal and external stakeholders. Demonstrate and promote Core Group values while creating a culture of accountability, integrity and high performance. Support workforce planning and actively participate in recruiting and selecting new team members. Requirements Matric is essential. Diploma or Degree in Business, Retail Management or a related field is advantageous. 3–5 years' retail experience , with at least 2 years in a management or leadership role . Strong sales, commercial and retail operations experience. Proven experience leading and developing teams. Experience managing performance and disciplinary processes. Exposure to employee relations and CCMA matters would be advantageous. Strong planning, analytical and problem-solving skills. Excellent communication and stakeholder management skills. Own reliable transport is required, as regular travel between retail sites will form part of the role. Must be willing and able to travel to Head Office in Sandton when required. Key Competencies Commercial ac",
-      "exact_post": true,
-      "description": ". Must be willing and able to travel to Head Office in Sandton when required. Key Competencies Commercial acumen Leadership and coaching Results-driven Operational excellence Customer focus Analytical thinking Planning and organisation Stakeholder management Industrial relations knowledge Integrity and accountability As part of our recruitment process, successful candidates may be required to undergo background screening, including criminal, credit, qualification, and reference checks where applicable. Apply Previous Next More Jobs at Core View All (71) Casual Sales Consultant - Store in Store Menlyn, Gauteng Pretoria Job Type: Part-Time Posted 28 Oct 2026 | 61 Days left Service Advisor – Service Centre, Jet Park East Rand Gauteng Job Type: Permanent Posted 27 Oct 2026 | 60 Days left Part Time Sales Consultant - iStore Canal Walk, Cape Town Cape Town Job Type: Part-Time Posted 27 Oct 2026 | 60 Days left Admin Manager Retail - iStore Mall of Africa Midrand Job Type: Permanent Posted 27 Oct 2026 | 60 Days left"
-    },
-    {
-      "id": "0cc9c8b5c4b7d317",
-      "title": "Key Accounts Manager",
-      "company": "Status Staffing",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2390862-key-accounts-manager-parow/?jobindex=4",
-      "found_at": "2026-10-28T08:41:07.791482+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Cashiers & Retail",
-      "location": "Cape Town Northern Suburbs, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-11-27",
-      "salary": "R45 000.00",
-      "job_type": "Full Time",
-      "requirements": "Matric is essential; a business- or sales-related degree or diploma is preferred. 3–5 years’ experience in FMCG key account management, with confectionery or food industry experience being a strong advantage. Proven track record of managing national or major retail accounts, such as Pick n Pay, Shoprite, Checkers, etc. Strong negotiation, numerical, and Excel skills. Own vehicle and a valid driver’s license. DUTIES: Manage relationships and grow a portfolio of key retail and wholesale accounts, such as Pick n Pay, Shoprite, and Checkers, while negotiating trading terms, pricing, and promotional plans. Develop and execute account-specific growth plans aligned with sales targets. Drive new listings and increase shelf and distribution footprint across accounts. Monitor stock levels, sell-through, and demand forecasts in collaboration with procurement and logistics teams. Resolve escalations, including delivery issues, disputes, and returns, while maintaining high service levels. Prepare monthly account reviews, sales reports, and forecasts for management. Track competitor activity and market trends within the confectionery category. HOURS: Monday to Friday: 08:00 – 17:00 Should you",
-      "exact_post": true,
-      "description": "Our client, a well-established company within the FMCG industry, is seeking an experienced Key Accounts Manager to join their team in Parow Industrial, Cape Town. The successful candidate will be responsible for managing and growing key retail accounts, building strong customer relationships, and driving sales performance. The ideal candidate will have 3–5 years’ experience in FMCG key account management, preferably within the confectionery or food sector, with a proven track record managing major retail accounts such as Pick n Pay, Shoprite, or Checkers. Strong negotiation, numerical and Excel skills are essential, along with a valid driver’s license and own vehicle. Key Accounts Manager, Parow - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape / Cape Town Northern Suburbs Back to Search Results Key Accounts Manager Parow Salary"
-    },
-    {
-      "id": "4a988c64e36a5344",
-      "title": "General Maintenance Assistant",
-      "company": "Status Staffing",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2392288-general-maintenance-assistant-durban/?jobindex=5",
-      "found_at": "2026-10-28T08:41:08.684630+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Other Jobs",
-      "location": "Durban, KwaZulu-Natal",
-      "province": "KwaZulu-Natal",
-      "closing_date": "2026-11-27",
-      "salary": "R7000",
-      "job_type": "Full Time",
-      "requirements": "Matric (Grade 12) qualification. Proficiency in spoken and written English. Self-disciplined and highly motivated. Presentable, with a clean and tidy appearance. Basic maintenance skills, including painting, plumbing, basic electrical work, paving, gate and door repairs, and garage repairs. Previous security experience will be advantageous. DUTIES: General Maintenance: Perform routine maintenance, including painting, plumbing, minor electrical work, and paving. Conduct repairs and general upkeep of gates, doors, garages, and other facility infrastructure. Ensure all signage and lighting are in working order and report any faults promptly. Monitor and maintain generator functionality, including regular oil, water, and fuel checks. Report any vandalism, damage, leaks, or maintenance concerns to the Site Manager immediately. Cleaning Duties: Clean ablution facilities, office spaces, and storage units, both inside and outside. Wash and maintain garage doors and lockers. Sweep and mop all storage passages, basements, and parking areas. Clean units immediately after a client vacates and report any damages. Empty bins and remove rubbish, papers, plastics, and cigarette butts throughout",
-      "exact_post": true,
-      "description": "Our client is seeking a reliable, motivated, and presentable General Maintenance Assistant to join their team in Durban, KwaZulu-Natal. The ideal candidate must have a Matric (Grade 12) qualification, be proficient in spoken and written English, and have basic maintenance skills, including painting, plumbing, basic electrical work, paving, and gate, door, and garage repairs. Previous security experience will be advantageous. General Maintenance Assistant, Durban - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / KwaZulu-Natal Back to Search Results General Maintenance Assistant Durban Salary: Market Related Job Type: Permanent Sectors: General Reference: PC002174/AC Apply before Nov 27 2026 | 30 Days left Apply External Application Vacancy Details Employer: Status Staffing Our client is seeking a reliable, motivated, and presentable General M"
-    },
-    {
-      "id": "948c3c2acbabf31e",
-      "title": "Internal Sales Rep",
-      "company": "Status Staffing",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2393259-internal-sales-rep-durban-durban/?jobindex=6",
-      "found_at": "2026-10-28T08:41:09.123812+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Learnerships & Internships",
-      "location": "Durban, KwaZulu-Natal",
-      "province": "KwaZulu-Natal",
-      "closing_date": "2026-11-27",
-      "salary": "R5260.00",
-      "job_type": "Full Time",
-      "requirements": "Matric. Minimum of 5 years’ experience in the sanitaryware industry. Extensive product knowledge of sanitaryware. Retail showroom experience. Excellent customer service skills. Strong sales ability. Proficiency in MS Office and computer skills. Above-average verbal and written English communication skills. Willingness to work weekends and public holidays. Excellent timekeeping, a strong work ethic, and a good attendance record. DUTIES: Provide efficient and effective service to all customers visiting the store. Build strong customer relationships through professional and friendly service. Understand customers’ project requirements and recommend suitable products. Provide customers with the necessary application and technical information regarding the sanitaryware product range. Guide customers through complete bathroom solutions rather than focusing on individual products. Apply sales and marketing techniques to encourage purchases, upselling, and the promotion of additional products. Process customer orders and explain the relevant procedures, including payment at the cashier, delivery arrangements, and dispatch. Conduct telesales and follow up on outstanding orders, quotations,",
-      "exact_post": true,
-      "description": "Our client is seeking an experienced Internal Sales Representative to join their team in Durban, KwaZulu-Natal. The ideal candidate will have a minimum of 5 years’ experience in the sanitaryware industry, extensive product knowledge, and previous retail showroom experience. Strong sales ability, excellent customer service skills, and good computer and communication skills are essential for success in this role. The successful candidate must be willing to work weekends and public holidays and demonstrate excellent timekeeping, a strong work ethic, and a reliable attendance record. Internal Sales Rep - Durban, Durban - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / KwaZulu-Natal Back to Search Results Internal Sales Rep - Durban Durban Salary: Market Related Job Type: Permanent Sectors: Sales Reference: PC002176/MB Apply before Nov 27 2026 | "
-    },
-    {
-      "id": "b3db93cd849b5d32",
-      "title": "Training Manager",
-      "company": "Status Staffing",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2388928-training-manager-sandton/?jobindex=8",
-      "found_at": "2026-10-28T08:41:10.228982+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396262-chefs-franschhoek-western-cape/?jobindex=9",
+      "found_at": "2026-10-28T15:29:48.986501+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -219,70 +275,42 @@
         "warnings": []
       },
       "category": "Hospitality & Food",
-      "location": "Johannesburg, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-11-27",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "3–5+ years’ experience in a Training and Development (L&D) role. Experience within hotels, lodges, restaurants, casinos, resorts, or luxury hospitality. Proven experience in developing and implementing training programmes for operational hospitality staff. Experience conducting induction, onboarding, and refresher training. DUTIES: Class Facilitation & Training: Facilitate a variety of training programmes and classes. Facilitate both practical, in-store training and theoretical, classroom-based training. Develop and write course materials and training content. Annual Training Planning & Tracking: Develop and maintain the annual training planner. Plan and schedule internal and external training programmes throughout the year. Coordinate sponsored training initiatives. Accurately track all training completed across the Group by employee to support effective reporting. Develop and maintain franchisee training planners and brand training packs, including SOPs, systems, and procedures. New Store Opening Training: Deliver brand-specific staff training for new store openings. Provide management training on company systems and procedures, including Kissflow, Magicbox, Micros, and the e-l",
-      "exact_post": true,
-      "description": "of the company. Provide systems and procedures training for newly appointed managers. Present the company organisational structure and reporting lines. Communicate career development and growth opportunities within the Group. Annual Workplace Skills Plan (WSP) Submissions: Track and monitor WSP targets throughout the year. Ensure the annual WSP submission is completed by the end of April. Maintain accurate and up-to-date training records to support WSP compliance and reporting. External Training Sponsorship Management: Manage and regularly update the annual external training sponsorship budget, including DEG funding. Ensure compliance with all sponsorship contract requirements and agreed deliverables. Evaluate and compile reports on the effectiveness and outcomes of sponsored training. Provide accurate and timely reporting to sponsors in line with contractual obligations. Maximize available external training funding opportunities. Additional Responsibilities: Perform additional duties and responsibilities as required to meet operational needs and as directed by Management. HOURS: Monday to Friday: 08:00 – 17:00 Should you meet all the requirements, apply on our website at www.stat"
-    },
-    {
-      "id": "f3251d313e62c75f",
-      "title": "Wealth Planner",
-      "company": "Status Staffing",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2361974-wealth-planner-durban/?jobindex=9",
-      "found_at": "2026-10-28T08:41:11.558882+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Banking & Finance",
-      "location": "Durban, KwaZulu-Natal",
-      "province": "KwaZulu-Natal",
-      "closing_date": "2026-11-27",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "5–10 years’ experience as a Private Client Wealth Manager. 2–5 years’ experience in high-net-worth and ultra-high-net-worth investment advisory and planning, financial planning, and estate planning. Computer literate and technologically savvy. Proficient in Microsoft Office. Grade 12 (Matric). Recognized tertiary qualification in a finance-related field, such as a BCom, BBusSc, or a Wealth Management/Investment Management qualification. A completed Postgraduate Diploma in Financial Planning would be advantageous. Candidates currently completing the qualification will also be considered. Successfully completed the Representative (RE5) examination and currently registered on an FSP license as a Representative providing advice and intermediary services. Registered on an FSP license for relevant product categories (may be under supervision for selected sub-categories). Valid driver’s license. Fluent verbal and written communication skills in English and Afrikaans. Additional qualifications such as RE5, FSP accreditation, and a Diploma in Financial Planning will be advantageous. DUTIES: Acquisition of new private clients and their lump sum investments into the company’s PSP and/or fun",
-      "exact_post": true,
-      "description": "Our client, a reputable financial services organization based in Umhlanga, is seeking a Wealth Planner to join their growing team. The ideal candidate will bring solid experience in private client wealth management, including high and ultra-high net worth investment advisory, financial planning, and estate planning. A relevant finance-related qualification, along with RE5 and FSP registration, is required. This role offers an excellent opportunity for a motivated professional to advance their career within a respected organization in the Durban area. Wealth Planner , Durban - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / KwaZulu-Natal Back to Search Results Wealth Planner Durban Salary: Market Related Job Type: Permanent Sectors: Finance Reference: PC002092/LS Apply before Nov 27 2026 | 30 Days left Apply External Application Vacancy Detai"
-    },
-    {
-      "id": "3592b9a49c4c3ef4",
-      "title": "Travel Consultant",
-      "company": "Status Staffing",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2373400-travel-consultant-cape-town-cape-town/?jobindex=10",
-      "found_at": "2026-10-28T08:41:13.038969+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "IT & Technology",
-      "location": "Cape Town, Western Cape",
+      "location": "Western Cape, Western Cape",
       "province": "Western Cape",
       "closing_date": "2026-11-27",
-      "salary": "R9000.00",
+      "salary": "",
       "job_type": "Full Time",
-      "requirements": "Minimum of 1 year’s work experience Proficiency in MS Word and Excel Experience with reservation systems such as Amadeus (non-negotiable) Matric certificate required Previous experience in the travel industry Strong accuracy and attention to detail Reliable and dependable DUTIES: Build and maintain strong relationships with customers to encourage repeat business and referrals. Design and sell customized travel itineraries tailored to individual customer preferences. Provide expert advice and recommendations on travel destinations and experiences. Identify and maximize sales opportunities to achieve business targets. HOURS: The office operates from 8:00 am to 8:00 pm, Monday to Sunday. Rostered shifts, including weekends. Monday to Friday schedule, from 8:30 am to 5:00 pm Should you meet all the requirements, apply on our website at www.statusstaffing.com today. Should you not hear back from us within 10 working days, please consider your application as unsuccessful. We will retain your credentials for future similar roles. Apply 5386 people have viewed this job. Previous Next About Status Staffing Welcome to STATUS STAFFING SOLUTIONS, a leading Western Cape based broad spectrum b",
+      "requirements": "Relevant culinary qualification or equivalent practical experience. Previous experience in a professional kitchen, restaurant, hotel, or hospitality environment. Knowledge of food preparation techniques, cooking methods, and kitchen procedures. Understanding of food safety, hygiene, and allergen management. Ability to work under pressure and meet service deadlines. Good communication, organisational, and teamwork skills. Flexibility to work shifts, weekends, public holidays, and special events when required. 4. Key Competencies Passion for food and culinary excellence. Strong attention to detail. Good time management and organisational skills. Ability to follow recipes and instructions accurately. Creativity and willingness to learn. Accountability and reliability. Professional conduct and respect for colleagues. Ability to work independently and as part of a team. Please send cv, qualifications, references, salary expectation and photo to: desmaine@vinerecruitment.co.za Apply 56 people have viewed this job. Previous Next About Vine Recruitment Vine Recruitment was established in 2008 and has shown remarkable growth. Our name represents the beautiful Winelands area we call home an",
       "exact_post": true,
-      "description": "Our client is seeking a dedicated and detail-oriented Travel Consultant to join their team in Cape Town. The ideal candidate will have a minimum of 1 year’s experience, previous travel industry experience, and strong knowledge of reservation systems such as Amadeus (non-negotiable). Candidates must have a Matric certificate, proficiency in MS Word and Excel, and demonstrate excellent accuracy, reliability, and attention to detail. If you are passionate about travel and have the required experience, we would love to hear from you. Travel Consultant - Cape Town , Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Travel Consultant - Cape Town Cape Town Salary: Market Related Job Type: Permanent Sectors: Travel & Tourism Reference: PC002119/MB Apply before Nov 27 2026 | 30 Days left Apply External Ap"
+      "description": "requires a passion for food, attention to detail, creativity, and a commitment to delivering an exceptional dining experience to guests visiting the estate.The successful candidate will contribute to the smooth daily operation of the kitchen while maintaining high standards of food quality, hygiene, safety, and teamwork. Chef's Franschhoek, Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Chef's Franschhoek Western Cape Salary: Market Related Job Type: Permanent Sectors: Hospitality Reference: CPT000537/DvdM Apply before Nov 27 2026 | 30 Days left Apply External Application Vacancy Details Employer: Vine Recruitment Our client in Franschhoek is looking for Chef's.The role requires a passion for food, attention to detail, creativity, and a commitment to delivering an exceptional dining experience to guests visiting the estate.The successful candidate will contribute to the smooth daily operation of the kitchen while maintaining high standards of food quality, hygiene, safety, and teamwork. Minimum Requi"
+    },
+    {
+      "id": "6229c83e98ff8251",
+      "title": "Admin Manager",
+      "company": "Western Cape Recruitment",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396304-admin-manager-garden-route/?jobindex=10",
+      "found_at": "2026-10-28T15:29:49.847383+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "Garden Route, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-11",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Must reside in the Garden Route area Minimum Matric Relevant admin qualification would be advantageous Minimum 3 to 5 years’ experience in an administrative or office management role Working knowledge on MS Word, Excel, and Outlook. Clear and understandable written and communication skills Kindly note that if you have not received any feedback 2 weeks after your application, please consider your application unsuccessful. Apply 46 people have viewed this job. Previous Next About Western Cape Recruitment Previously known as Visp Service, recognising the growing opportunities within our home-based province, Western Cape Recruitment emerged. Lets skip the long story and do what we do best: Let us connect you with opportunities. Similar Jobs View All (8) Admin Manager George - Knysna Job Type: Permanent Posted 28 Oct 2026 | 61 Days left Admin Manager Retail - iStore City Bowl, Cape Town Cape Town Job Type: Permanent Posted 29 Sep 2026 | 32 Days left Admin Controller Bellville Job Type: Permanent Posted 28 Oct 2026 | 30 Days left Long term Maths, English and Science Tutors Needed. Fantastic Work from Home Jobs for International KwaZulu-Natal Job Type: Permanent Posted 22 Oct 2026 | 56",
+      "exact_post": true,
+      "description": "Seize the opportunity to grow your career: Join this national benchmarking team at their Knysna office. Admin Manager, Garden Route - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Admin Manager Garden Route Salary: Market Related Job Type: Permanent Sectors: Admin Reference: CPT000385/SLG Apply before Nov 11 2026 | 14 Days left Apply External Application Vacancy Details Employer: Western Cape Recruitment Seize the opportunity to grow your career: Join this national benchmarking team at their Knysna office. Seize the opportunity to grow your career: Join this national benchmarking team at their Knysna office. Our client is looking for a professional, experienced Admin Manager to take ownership of their Office Administration. Your responsibilities will include overseeing of daily administrative operations,"
     }
   ]
 }
