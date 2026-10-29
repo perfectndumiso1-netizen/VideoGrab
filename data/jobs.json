@@ -1,37 +1,265 @@
 {
-  "generated_at": "2026-10-29T12:10:43.597238+00:00",
+  "generated_at": "2026-10-29T18:30:54.520172+00:00",
   "version": "2.4",
   "stats": {
-    "total": 8,
+    "total": 10,
     "verified_official": 0
   },
   "groups": [
     {
       "category": "Engineering & Trades",
-      "count": 3
+      "count": 6
     },
     {
-      "category": "Other Jobs",
-      "count": 2
-    },
-    {
-      "category": "Cashiers & Retail",
-      "count": 2
+      "category": "Drivers & Logistics",
+      "count": 1
     },
     {
       "category": "Office & Admin",
+      "count": 1
+    },
+    {
+      "category": "IT & Technology",
+      "count": 1
+    },
+    {
+      "category": "Other Jobs",
       "count": 1
     }
   ],
   "jobs": [
     {
-      "id": "e6cc4531c378af91",
-      "title": "Fitness Instructor 45 Hr",
-      "company": "Virgin Active South Africa (Pty) Ltd",
+      "id": "1a8762af829e67d0",
+      "title": "Plant Engineering Manager",
+      "company": "Recruitpro Solutions",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396513-fitness-instructor-45-hr-cape-town/?jobindex=1",
-      "found_at": "2026-10-29T12:10:00.200519+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2389385-plant-engineering-manager-east-rand/?jobindex=1",
+      "found_at": "2026-10-29T18:29:50.526119+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Engineering & Trades",
+      "location": "East Rand, Gauteng",
+      "province": "Gauteng",
+      "closing_date": "2026-11-30",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "BEng / BSc Mechanical Engineering Registered International Professional Engineer with ECSA (Int PE) 10+ years' engineering experience in mineral processing, mining or heavy industrial plant projects 5+ years delivering multidisciplinary plant or EPC/EPCM-type projects 3+ years in an engineering leadership or management role Proven competency in MS Office (incl. MS Project) and Inventor, Solid Edge and/or SolidWorks Advantageous Additional degree in Process, Chemical or Metallurgical Engineering Experience across the full cycle: design, procurement, fabrication/construction, commissioning and handover Finite Element Analysis and/or MATLAB The right person will be Strong estimating and costing of engineering hours Excellent report writing and communication Decisive, detail-oriented and deadline-driven Health and safety conscious Willing to support site commissioning Apply 449 people have viewed this job. Previous Next Similar Jobs ENGINEERING MANAGER - PLANT Gauteng Job Type: Permanent Posted 06 Oct 2026 | 38 Days left More Jobs at Recruitpro Solutions View All (47) Process Engineer (Business Development) East Rand Job Type: Permanent Posted 29 Oct 2026 | 32 Days left Document Contr",
+      "exact_post": true,
+      "description": "Our client is a well-established South African OEM that designs, manufactures, tests and commissions mineral processing equipment and plants for the mining industry. They operate an ISO 9001 (TÜV SÜD) certified quality system and follow a concurrent engineering approach across business development, engineering, projects and fabrication. Plant Engineering Manager, East Rand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Plant Engineering Manager East Rand Salary: Market Related Job Type: Permanent Sectors: Engineering Reference: Rec000383/JG Apply before Nov 30 2026 | 32 Days left Apply External Application Vacancy Details Employer: Recruitpro Solutions Our client is a well-established South African OEM that designs, manufactures, tests and commissions mineral processing equipment and plants for the mining in"
+    },
+    {
+      "id": "06765ce4e40173ca",
+      "title": "Process Engineer (Business Development)",
+      "company": "Recruitpro Solutions",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396522-process-engineer-business-development-east-rand/?jobindex=2",
+      "found_at": "2026-10-29T18:29:51.738278+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Engineering & Trades",
+      "location": "East Rand, Gauteng",
+      "province": "Gauteng",
+      "closing_date": "2026-11-30",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Bachelor's degree in Metallurgical or Mechanical Engineering (or relevant tertiary qualification) 5+ years' sales and marketing experience in an OEM engineering and fabrication environment Minimum 3 years in a leadership / management role Proven experience in hydrometallurgy, comminution, beneficiation, flotation, thickening, filtration and/or tailings handling Site commissioning and plant performance testing background (essential) Process simulation software, e.g. METSIM, HSC Chemistry, ASPEN Plus or equivalent Willing to travel locally and internationally Advantageous MBA or related qualification Familiarity with leach tanks, screens, feeders and mills AutoCAD / Inventor The right person will be Strategic thinker with a hands-on leadership style Excellent technical reporting and client-facing presentation skills Coach and mentor to junior technical staff Solid understanding of SHERQ, ISO 9001 and ECSA/EPA requirements Apply 55 people have viewed this job. Previous Next More Jobs at Recruitpro Solutions View All (47) Plant Engineering Manager East Rand Job Type: Permanent Posted 29 Oct 2026 | 32 Days left Document Controller East Rand Job Type: Permanent Posted 29 Oct 2026 | 10 D",
+      "exact_post": true,
+      "description": "Our client is a well-established South African OEM that designs, manufactures, tests and commissions mineral processing equipment and plants for the mining industry. They operate an ISO 9001 (TÜV SÜD) certified quality system and follow a concurrent engineering approach across business development, engineering, projects and fabrication. Process Engineer (Business Development), East Rand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Process Engineer (Business Development) East Rand Salary: Market Related Job Type: Permanent Sectors: Engineering Reference: Rec000384/JG Apply before Nov 30 2026 | 32 Days left Apply External Application Vacancy Details Employer: Recruitpro Solutions Our client is a well-established South African OEM that designs, manufactures, tests and commissions mineral processing equipment "
+    },
+    {
+      "id": "3f637a1cf7dddfc5",
+      "title": "Document Controller",
+      "company": "Recruitpro Solutions",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2389388-document-controller-east-rand/?jobindex=3",
+      "found_at": "2026-10-29T18:29:52.154430+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Drivers & Logistics",
+      "location": "East Rand, Gauteng",
+      "province": "Gauteng",
+      "closing_date": "2026-11-08",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Matric (Grade 12) or equivalent Degree in Project Management, Engineering or Business Administration, OR a Project Management / Business Administration certificate Understanding of document control principles and document management systems Computer literate: MS Word, Excel and PowerPoint Advantageous Previous experience as a Document Controller, Expeditor, Project Administrator or similar Experience in an engineering, manufacturing or projects environment The right person will be Meticulous attention to detail Strong organisational and follow-up skills Clear communicator with suppliers and internal teams Able to work to tight deadlines Apply 737 people have viewed this job. Previous Next Similar Jobs Document Controller Gauteng Job Type: Permanent Posted 15 Sep 2026 | 2 Days left DOCUMENT CONTROLLER AND EXPEDITOR Gauteng Job Type: Permanent Posted 05 Oct 2026 | 37 Days left Projects Engineer Gauteng Job Type: Permanent Posted 05 Oct 2026 | 37 Days left More Jobs at Recruitpro Solutions View All (47) Plant Engineering Manager East Rand Job Type: Permanent Posted 29 Oct 2026 | 32 Days left Process Engineer (Business Development) East Rand Job Type: Permanent Posted 29 Oct 2026 | 32",
+      "exact_post": true,
+      "description": "Manage and control all project documentation and make sure it is accurate and up to date, while expediting the timely delivery of project materials, drawings, manuals and document registers. You will also give administrative support to the project team.You will report to the Project Engineer / Project Manager and oversee the Trainee Junior Project Administrator. Document Controller, East Rand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Document Controller East Rand Salary: Market Related Job Type: Permanent Sectors: Engineering Reference: Rec000387/JG Apply before Nov 08 2026 | 10 Days left Apply External Application Vacancy Details Employer: Recruitpro Solutions Our client is a well-established South African OEM that designs, manufactures, tests and commissions mineral processing equipment and plants for the mining industry. They operate an ISO 9001 (TÜV SÜD) certified quality system and follow a concurrent engineering approach across business development, engineering, projects and fabrication.About"
+    },
+    {
+      "id": "eea37cad7ee0ffe5",
+      "title": "Project Management Administrator",
+      "company": "Recruitpro Solutions",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396523-project-management-administrator-east-rand/?jobindex=4",
+      "found_at": "2026-10-29T18:29:53.310849+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "East Rand, Gauteng",
+      "province": "Gauteng",
+      "closing_date": "2026-11-08",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "",
+      "exact_post": true,
+      "description": "Our client, an established engineering company, is looking for an organised and detail-driven Project Management Administrator to join their Projects Office. You'll support Project Managers and Project Engineers and help keep projects on time, on budget and well documented.What you'll doCreate and maintain project documentation, including plans, schedules and status reportsSchedule project meetings, prepare agendas, take minutes and send out summariesTrack tasks and milestones, and follow up with team members on deadlinesMonitor project budgets and expenses with Finance and the Project ManagersCoordinate resources (materials and manpower) with Procurement and HRCompile project reports and KPIs, and support risk, issue and quality processesKeep communication flowing between project teams, clients and stakeholders Project Management Administrator, East Rand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Ema"
+    },
+    {
+      "id": "4be790b06d0255d6",
+      "title": "Project Engineer",
+      "company": "Recruitpro Solutions",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2391097-project-engineer-east-rand/?jobindex=5",
+      "found_at": "2026-10-29T18:29:55.302084+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Engineering & Trades",
+      "location": "East Rand, Gauteng",
+      "province": "Gauteng",
+      "closing_date": "2026-11-30",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Bachelor's degree in Engineering or a related field 3â5 years' engineering experience Inventor, Solid Edge and/or SolidWorks Strong MS Office and MS Project skills Experience with ISO 9001:2015 quality and SHERQ requirements Advantageous Master's degree in Engineering or Project Management Pr Eng registration with ECSA The right person will be Strong analytical and problem-solving ability Clear communicator of technical information Leadership and team guidance Good time management under deadlines Apply 370 people have viewed this job. Previous Next Similar Jobs View All (31) Project Engineer Johannesburg Job Type: Permanent Posted 23 Sep 2026 | 25 Days left Project Engineer Johannesburg Job Type: Contract Posted 05 Oct 2026 | 37 Days left Project Engineer East Rand Job Type: Permanent Posted 14 Oct 2026 | 15 Days left Electrical Graduate Project Engineer (solar) Centurion Job Type: Permanent Posted 16 Oct 2026 | 17 Days left More Jobs at Recruitpro Solutions View All (47) Plant Engineering Manager East Rand Job Type: Permanent Posted 29 Oct 2026 | 32 Days left Process Engineer (Business Development) East Rand Job Type: Permanent Posted 29 Oct 2026 | 32 Days left Document Control",
+      "exact_post": true,
+      "description": "Our client is a well-established South African OEM that designs, manufactures, tests and commissions mineral processing equipment and plants for the mining industry. They operate an ISO 9001 (TÃV SÃD) certified quality system and follow a concurrent engineering approach across business development, engineering, projects and fabrication.Manage the engineering and technical side of projects from conception to completion. You will plan, execute and deliver projects on time, within budget and to high quality, working closely with project managers, administrators and document controllers and providing technical guidance to the team.You will report to the Senior Project Manager and oversee the Junior Project Engineer/Manager, Project Administrator and Document Controller. Project Engineer , East Rand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Afri"
+    },
+    {
+      "id": "a87396932effff56",
+      "title": "Architectural Technologist",
+      "company": "Recruitpro Solutions",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2392537-architectural-technologist-midrand/?jobindex=6",
+      "found_at": "2026-10-29T18:29:55.740965+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "IT & Technology",
+      "location": "Johannesburg, Gauteng",
+      "province": "Gauteng",
+      "closing_date": "2026-11-30",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Qualification in Architectural Technology Strong proficiency in Revit and BIM workflows, including Revit family creation Knowledge of SANS standards, building regulations, and fire and accessibility requirements Ability to prepare hardware schedules and technical specifications Excellent presentation and communication skills Commercially minded and target-driven Advantageous Experience in architectural hardware, ironmongery or building products Specification sales or business development experience An existing network within the architectural and construction industry Personal Attributes Outgoing, confident personality with a natural ability to build networks Comfortable presenting to professional audiences Self-motivated, proactive and relationship-driven Strong attention to technical detail Apply 250 people have viewed this job. Previous Next Similar Jobs Senior Architectural Technologist Johannesburg Job Type: Permanent Posted 29 Oct 2026 | 61 Days left More Jobs at Recruitpro Solutions View All (47) Plant Engineering Manager East Rand Job Type: Permanent Posted 29 Oct 2026 | 32 Days left Process Engineer (Business Development) East Rand Job Type: Permanent Posted 29 Oct 2026 |",
+      "exact_post": true,
+      "description": "Our client, a supplier of architectural hardware solutions, is looking for an Architectural Technologist who brings both strong BIM and Revit skills and a confident, outgoing personality. This is a hybrid technical and business development role. The successful candidate will use BIM expertise to get the company’s hardware products specified on projects, while building a strong network within the architectural and construction community and converting specifications into sales. Architectural Technologist , Midrand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng / Johannesburg Back to Search Results Architectural Technologist Midrand Salary: Market Related Job Type: Permanent Sectors: Design Services Reference: Rec000408/JG Apply before Nov 30 2026 | 32 Days left Apply External Application Vacancy Details Employer: Recruitpro Solutio"
+    },
+    {
+      "id": "05d9664f9ee1a4ec",
+      "title": "Process Engineer",
+      "company": "Recruitpro Solutions",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396524-process-engineer-east-rand/?jobindex=7",
+      "found_at": "2026-10-29T18:29:56.171655+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Engineering & Trades",
+      "location": "East Rand, Gauteng",
+      "province": "Gauteng",
+      "closing_date": "2026-11-30",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "",
+      "exact_post": true,
+      "description": "We are recruiting a Process Engineer for a well-established mineral processing equipment and solutions provider. This is a permanent, client-facing role covering the full project cycle: front-end design, simulation, test work, site audits, sales support and commissioning.It suits an engineer who enjoys variety — office-based design and modelling one week, test plant or client site the next. Process Engineer, East Rand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Process Engineer East Rand Salary: Market Related Job Type: Permanent Sectors: Engineering Reference: Rec000412/JG Apply before Nov 30 2026 | 32 Days left Apply External Application Vacancy Details Employer: Recruitpro Solutions We are recruiting a Process Engineer for a well-established mineral processing equipment and solutions provider. This is "
+    },
+    {
+      "id": "491e82d18ff9e3e0",
+      "title": "Senior Mechanical Design Engineer",
+      "company": "Recruitpro Solutions",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2392538-senior-mechanical-design-engineer-centurion/?jobindex=8",
+      "found_at": "2026-10-29T18:29:56.525763+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Engineering & Trades",
+      "location": "Pretoria, Gauteng",
+      "province": "Gauteng",
+      "closing_date": "2026-11-30",
+      "salary": "R50000 MONTH",
+      "job_type": "Full Time",
+      "requirements": "BEng in Mechanical or Mechatronic Engineering (a Master’s degree is a strong advantage) Proven experience in mechanical design, product development and engineering consulting (all three essential) A track record of leading and owning design projects from concept to release Strong CAD and design software experience In-depth understanding of drawings, BOMs, revision control, manufacturing and design release processes Proven client consulting experience, with the confidence to engage engineering managers, technical teams and international stakeholders Strong problem-solving, communication and project delivery skills Advantageous Experience with international clients across multiple regions and time zones Experience with PDM, PLM, ERP or engineering data management systems Exposure to FEA, CFD or other simulation tools Experience with design automation, templates, workflows or engineering process improvement Apply 303 people have viewed this job. Previous Next More Jobs at Recruitpro Solutions View All (47) Plant Engineering Manager East Rand Job Type: Permanent Posted 29 Oct 2026 | 32 Days left Process Engineer (Business Development) East Rand Job Type: Permanent Posted 29 Oct 2026 |",
+      "exact_post": true,
+      "description": "combines hands-on mechanical design leadership with client consulting. You will work with international clients as a trusted technical advisor while also mentoring and developing junior engineers. Senior Mechanical Design Engineer, Centurion - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng / Pretoria Back to Search Results Senior Mechanical Design Engineer Centurion Salary: R50 000.00 - R70 000.00 Per Month Job Type: Permanent Sectors: Engineering Reference: Rec000409/JG Apply before Nov 30 2026 | 32 Days left Apply External Application Vacancy Details Employer: Recruitpro Solutions Our client is looking for a Senior Mechanical Design Engineer with strong product development experience and a proven record of owning projects from concept to release. The role combines hands-on mechanical design leadership with client consulting. You will work with international clients as a trusted technical advisor while also mentoring and developing junior engineers. Key Responsibilities Lead and take full ownership of product development proje"
+    },
+    {
+      "id": "92bd8947118075c3",
+      "title": "Yard Foreman",
+      "company": "West Coast Personnel",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396178-yard-foreman-stellenbosch/?jobindex=9",
+      "found_at": "2026-10-29T18:29:56.982394+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -43,135 +271,23 @@
         "warnings": []
       },
       "category": "Other Jobs",
-      "location": "Cape Town, Western Cape",
+      "location": "Stellenbosch, Western Cape",
       "province": "Western Cape",
-      "closing_date": "2026-11-03",
-      "salary": "r 45",
+      "closing_date": "2026-11-28",
+      "salary": "R15000 MONTH",
       "job_type": "Full Time",
-      "requirements": "... We can't live without... Matric qualification Industry recognized fitness qualification essential A minimum of 6 months experience within fitness First Aid qualification with AED certification Ability to work shifts which includes weekends and public holidays Experience in member service (customer service) Must be a people’s person and be able to assist and guide our members We’d like you to have… Adaptability (must be able to adapt to a fast paced, changing environment) Be curious (must be willing to succeed, seek opportunities to learn and grow) Have a winning mentality (must be willing to go over and above to achieve success) Must be motivated to achieve success. A commitment to making a difference in people’s lives. A Growth mindset The ability to work independently. Trustworthiness (must always act in doing the right thing) A drive to create moments of magic for our members. The ability to make decisions and take ownership and responsibility for the decision. Action orientation We'd love you to have... Wellness knowledge, beyond the health club The ability to make quick and bold decisions. The ability to be agile. The ability to be collaborative. High Interpersonal skills",
+      "requirements": "Matric / Grade 12. Minimum 3 years' experience in a manufacturing, warehouse, yard or dispatch environment. At least 1 year of staff supervisory experience. Proven stock control and physical stocktaking experience. Forklift licence or willingness to obtain one within 3 months. Basic computer skills, including Excel and stock systems. Strong leadership, organisational and communication skills. Experience in building materials, bricks, paving or tiles advantageous. ERP system experience (Sage, SAP or similar) advantageous. Apply 260 people have viewed this job. Previous Next About West Coast Personnel Staff recruitment specialists at all levels: Permanent Placements, Temps, Contract Personnel and CV Services. What services do we offer? Successful recruitment and selection processes Personality profiling Professional CV preparation for Jobseekers Verification of qualifications, employment history and all relevant details. Reference checks according to competencies. Suitability for position. West Coast Personnel Permanent Placements Having an impressive database of approved candidates, we search the marketplace to find you the best candidate. Our personalized service means that we act",
       "exact_post": true,
-      "description": "of the Fitness Instructor is to promote our world-class fitness products and to increase member retention through effective new member induction. This role will also be responsible to prom... Fitness Instructor 45 Hr, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Fitness Instructor 45 Hr Cape Town Salary: Market Related Job Type: Permanent Sectors: General Health Fitness & Beauty Reference: 209810 Apply before Nov 03 2026 | 6 Days left Apply Vacancy Details Employer: Virgin Active South Africa (Pty) Ltd Your Purpose... To inspire people to live active lives The role of the Fitness Instructor is to promote our world-class fitness products and to increase member retention through effective new member induction. This role will also be responsible to promote existing and new fitness initiatives as well as products and services to members. Your Duties and Responsibilities... To at all times do your bit towards achieving our purpose to Inspire people to live an active life, this is achieved by"
+      "description": "YARD FOREMANMuldersvlei (Stellenbosch) - CPT R15,000–R20,000 p/m, depending on experienceAn established manufacturing company is seeking an experienced, hands-on Yard Foreman to oversee daily yard operations, stock control, dispatch activities and staff supervision.The successful candidate must be organised, reliable and capable of managing a busy yard environment while ensuring stock accuracy, efficient order preparation and safe working practices. Yard Foreman , Stellenbosch - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Yard Foreman Stellenbosch Salary: R15 000.00 - R20 000.00 Per Month Job Type: Permanent Sectors: Manufacturing Reference: CPT001430/MM Apply before Nov 28 2026 | 30 Days left Apply External Application Vacancy Details Employer: West Coast Personnel YARD FOREMANMuldersvlei (Stellenbosc"
     },
     {
-      "id": "befa49968eba8dfc",
-      "title": "Trader/ Store Manager",
-      "company": "Mambos Storage & Home (Pty) Ltd",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396512-trader-store-manager-retail-midrand/?jobindex=2",
-      "found_at": "2026-10-29T12:10:00.607418+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Cashiers & Retail",
-      "location": "Johannesburg, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-12-28",
-      "salary": "R360000 YEAR",
-      "job_type": "Full Time",
-      "requirements": "",
-      "exact_post": true,
-      "description": "jjjWe’re looking for more than a manager—we’re looking for a trader, leader, and brand-builder to drive our store in Gauteng’s most competitive retail market. Location: Midrand–Kyalami, Muchroon Farm Retail centre Gauteng Company Values: • Honesty • Re... Trader/ Store Manager - Retail, Midrand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng / Johannesburg Back to Search Results Trader/ Store Manager - Retail Midrand Salary: R30 000.00 - R33 333.00 Per Month Job Type: Permanent Sectors: Retail Management Reference: 209809 Apply before Dec 28 2026 | 61 Days left Apply Vacancy Details Employer: Mambos Storage & Home (Pty) Ltd jjj We’re looking for more than a manager—we’re looking for a trader, leader, and brand-builder to drive our store in Gauteng’s most competitive retail market. Location: Midrand–Kyalami, Muchroon Farm Retail cen"
-    },
-    {
-      "id": "574fa367384d7de2",
-      "title": "Semi-skilled Artisan",
-      "company": "NDC Personnel & Contractors CC",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396511-semi-skilled-artisan-cape-winelands/?jobindex=3",
-      "found_at": "2026-10-29T12:10:01.948532+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Engineering & Trades",
-      "location": "Cape Winelands, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-12-28",
-      "salary": "r 2000",
-      "job_type": "Full Time",
-      "requirements": "of the POPI Act. If you have not heard from us within 14 days from applying, please consider your application unsuccessful. Semi-skilled Artisan, Cape Winelands - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Semi-skilled Artisan Cape Winelands Salary: Market Related Job Type: Permanent Sectors: FMCG Trades & Services Reference: 4392 Apply before Dec 28 2026 | 61 Days left Apply Vacancy Details Employer: NDC Personnel & Contractors CC A vacancy is available within the FMCG sector for a Semi-skilled Artisan based in the Cape Winelands. In this role, you will assist with mechanical and electrical maintenance. Candidate Requirements To start the",
-      "exact_post": true,
-      "description": "A vacancy is available within the FMCG sector for a Semi-skilled Artisan based in the Cape Winelands. In this role, you will assist with mechanical and electrical maintenance. To start the application process, send your CV to NDC Personnel and Contractors: submit@ndcpersonnel.co.za / lyndsay@ndcpersonnel.co.za NDC Personnel & Contractors adheres to the requirements of the POPI Act. If you have not heard from us within 14 days from applying, please consider your application unsuccessful. Semi-skilled Artisan, Cape Winelands - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Semi-skilled Artisan Cape Winelands Salary: Market Related Job Type: Permanent Sectors: FMCG Trades & Services Reference: 4392 Apply before Dec 28 2026 | 61 Days left Apply Vacancy Details Employer: NDC Personnel & Contractors CC A vacanc"
-    },
-    {
-      "id": "ba9a70e456e001e5",
-      "title": "Millwright",
-      "company": "NDC Personnel & Contractors CC",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396509-millwright-cape-winelands/?jobindex=5",
-      "found_at": "2026-10-29T12:10:04.055759+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Engineering & Trades",
-      "location": "Cape Winelands, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-12-28",
-      "salary": "r 2000",
-      "job_type": "Full Time",
-      "requirements": "of the POPI Act. If you have not heard from us within 14 days from applying, please consider your application unsuccessful. Millwright, Cape Winelands - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Millwright Cape Winelands Salary: Market Related Job Type: Permanent Sectors: FMCG Trades & Services Reference: 4391 Apply before Dec 28 2026 | 61 Days left Apply Vacancy Details Employer: NDC Personnel & Contractors CC A career opportunity is available within the FMCG sector for a Millwright based in the Western Cape. In this role, you will tasked with performing maintenance and fault-finding on machinery. Candidate Requirements To start the",
-      "exact_post": true,
-      "description": "A career opportunity is available within the FMCG sector for a Millwright based in the Western Cape. In this role, you will tasked with performing maintenance and fault-finding on machinery. To start the application process, send your CV to NDC Personnel and Contractors: submit@ndcpersonnel.co.za / lyndsay@ndcpersonnel.co.za NDC Personnel & Contractors adheres to the requirements of the POPI Act. If you have not heard from us within 14 days from applying, please consider your application unsuccessful. Millwright, Cape Winelands - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Millwright Cape Winelands Salary: Market Related Job Type: Permanent Sectors: FMCG Trades & Services Reference: 4391 Apply before Dec 28 2026 | 61 Days left Apply Vacancy Details Employer: NDC Personnel & Contractors CC A career oppo"
-    },
-    {
-      "id": "ee1a1bed0369673d",
-      "title": "Frontshop Assistant",
-      "company": "Dis-Chem Pharmacies Limited",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396507-frontshop-assistant-aloe-eastern-cape/?jobindex=7",
-      "found_at": "2026-10-29T12:10:06.014515+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Cashiers & Retail",
-      "location": "Eastern Cape, Eastern Cape",
-      "province": "Eastern Cape",
-      "closing_date": "2026-11-12",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "Essential: Grade 12 – Matric ... Frontshop Assistant - Aloe, Eastern Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Frontshop Assistant - Aloe Eastern Cape Salary: Market Related Job Type: Permanent Sectors: FMCG Sales Reference: 209808 Apply before Nov 12 2026 | 15 Days left Apply Vacancy Details Employer: Dis-Chem Pharmacies Limited Dis-Chem Aloe store requires Frontshop Assistants, to uphold the merchandising standards whilst supporting the customer service at point of sales in accordance with Dis-Chem policies and procedures. Minimum Requirements: Essential: Grade 12 – Matric or Senior Certificate 0 – 6 Months Retail work experience Advantageous: 1 Year work experience within Retail Certification in Retail Business Management Job Description: Ensure that full ranges of products are on the shelves at all times and neatly presented. Maintain the stock on the shelves to ensure it has not reached its sell by date. Restock merchandise when needed to ensure maximum sales. All out of stock queries from custome",
-      "exact_post": true,
-      "description": "Ensure that full ranges of products are on the shelves at all times and neatly presented. Maintain the stock on the shelves to ensure it has not reached its sell by date. Restock merchandise when needed to ensure maximum sales. All out of stock queries from customers must be followed up on, in line with the customer service out of stock list and ensure they are dealt with in a timeous manner. Ensure delivered stock and/ or stock pulled from the storeroom are stored and packed in the correct space. Ensure merchandise displays, labels and pricing are correct at all times and report all price discrepancies to management. Ensure the storeroom organised, neat and tidy. Keep up to date with new product knowledge to effectively assist customers. Assist with restocking of merchandise and supplies when needed to ensure maximum sales. Assist with back shopping when required. All merchandise must be handled carefully to prevent any losses. Transact all purchases – receive, verify and processes all payments such as cash, cards, vouchers, coupons and any other acceptable payments. Exchange merchandise for customers and accept returned goods by customers when authorised to do so by the Frontsh"
-    },
-    {
-      "id": "b6f1f57a6a6a3a0f",
+      "id": "cd72bdb0ffd3c6c6",
       "title": "MECHANICAL TRADE-TESTED FITTER & TURNER",
       "company": "West Coast Personnel",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396495-mechanical-trade-tested-fitter-turner-cape-town/?jobindex=8",
-      "found_at": "2026-10-29T12:10:06.460859+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396495-mechanical-trade-tested-fitter-turner-cape-town/?jobindex=10",
+      "found_at": "2026-10-29T18:29:58.160422+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -191,62 +307,6 @@
       "requirements": ". Read and interpret workshop orders, picking tickets, assembly instructions and technical manuals. Identify and check components using measuring equipment, including verniers. Perform shaft preparation, torque fasteners and fit components according to assembly procedures. Apply gear ratio charts, lubrication requirements and motor specifications. Use hand tools, pneumatic tools and assembly machinery safely. Inspect completed assemblies and meet production and quality standards. Assist with workshop and on-site repairs when required. Maintain a clean, organised and safe work area. Essential requirements: Recognised Fitter & Turner trade test certificate. Practical mechanical fitting, assembly or industrial workshop experience. Sound understanding of mechanical components and assembly procedures. Ability to interpret technical instructions and use precision measuring equipment. Qualified Artisan (Mechanical preferred). Reliable transport to work. Consistent attendance, punctuality and a responsible approach to teamwork. Technical high school graduate with relevant practical experience. Experience with gearboxes, geared motors, electric motors, pumps, hydraulics or industrial equipm",
       "exact_post": true,
       "description": "involves assembling industrial gearboxes, geared motors and electric motors to precise specifications, with a strong emphasis on quality, accuracy and safe working practices. MECHANICAL TRADE-TESTED FITTER & TURNER , Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results MECHANICAL TRADE-TESTED FITTER & TURNER Cape Town Salary: Up to R18 000.00 Per Month Job Type: Permanent Sectors: Automotive"
-    },
-    {
-      "id": "92bd8947118075c3",
-      "title": "Yard Foreman",
-      "company": "West Coast Personnel",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396178-yard-foreman-stellenbosch/?jobindex=9",
-      "found_at": "2026-10-29T12:10:06.952985+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Other Jobs",
-      "location": "Stellenbosch, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-11-28",
-      "salary": "R15000 MONTH",
-      "job_type": "Full Time",
-      "requirements": "Matric / Grade 12. Minimum 3 years' experience in a manufacturing, warehouse, yard or dispatch environment. At least 1 year of staff supervisory experience. Proven stock control and physical stocktaking experience. Forklift licence or willingness to obtain one within 3 months. Basic computer skills, including Excel and stock systems. Strong leadership, organisational and communication skills. Experience in building materials, bricks, paving or tiles advantageous. ERP system experience (Sage, SAP or similar) advantageous. Apply 195 people have viewed this job. Previous Next About West Coast Personnel Staff recruitment specialists at all levels: Permanent Placements, Temps, Contract Personnel and CV Services. What services do we offer? Successful recruitment and selection processes Personality profiling Professional CV preparation for Jobseekers Verification of qualifications, employment history and all relevant details. Reference checks according to competencies. Suitability for position. West Coast Personnel Permanent Placements Having an impressive database of approved candidates, we search the marketplace to find you the best candidate. Our personalized service means that we act",
-      "exact_post": true,
-      "description": "YARD FOREMANMuldersvlei (Stellenbosch) - CPT R15,000–R20,000 p/m, depending on experienceAn established manufacturing company is seeking an experienced, hands-on Yard Foreman to oversee daily yard operations, stock control, dispatch activities and staff supervision.The successful candidate must be organised, reliable and capable of managing a busy yard environment while ensuring stock accuracy, efficient order preparation and safe working practices. Yard Foreman , Stellenbosch - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Yard Foreman Stellenbosch Salary: R15 000.00 - R20 000.00 Per Month Job Type: Permanent Sectors: Manufacturing Reference: CPT001430/MM Apply before Nov 28 2026 | 30 Days left Apply External Application Vacancy Details Employer: West Coast Personnel YARD FOREMANMuldersvlei (Stellenbosc"
-    },
-    {
-      "id": "b723e805e0b2f650",
-      "title": "Operations Administrator (Maternity Contract)",
-      "company": "Vine Recruitment",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2393109-operations-administrator-maternity-contract-bellville-bellville/?jobindex=10",
-      "found_at": "2026-10-29T12:10:07.372551+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Office & Admin",
-      "location": "Cape Town Northern Suburbs, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-11-30",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "Grade 12 Computer literate. Knowledge of Sage financial system an advantage. Good to excellent Excel experience. Experience is stores / warehouse an advantage. Good communication skills, verbal and written. Excellent sense of responsibility and impeccable time-keeping. Team player and friendly disposition towards fellow workers and suppliers. Must be able to apply attention to detail within repetitive cycles and procedures. Sense of urgency essential. Ability to work independently and proactively. Contactable work references essential. RESPONSIBILITIES Perform all stores administration activities, including generating reports, extracting and using relevant report data, updating stock sheets, processing delivery notes, and filing signed delivery notes. Capture order information in Sage and issue purchase orders. Record delivery notes in Sage. Processing of invoices and submitting to finance for payment. A friendly, professional and personable manner is essential, as the successful candidate will represent the company while having contact with suppliers and transporters. Scheduling appointments for persons visiting the stores. Resolving queries resulting from deliveries / collectio",
-      "exact_post": true,
-      "description": "Our client in Bellville is looking for a Operations Administrator.Reporting to the Stores Manager and the Procurement and Logistics Supervisor for the Western Cape, the Stores Administrator is responsible for delivering accurate, efficient administration that supports the smooth operation of the stores.The successful candidate will complete assigned tasks efficiently, support the professional management of stores operations, and help the Company meet its contractual obligations and performance targets. Operations Administrator (Maternity Contract) - Bellville, Bellville - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape / Cape Town Northern Suburbs Back to Search Results Operations Administrator (Maternity Contract) - Bellville Bellville Salary: Market Related Job Type: Permanent Sectors: Logistics Reference: CPT000521/DvdM Apply"
     }
   ]
 }
