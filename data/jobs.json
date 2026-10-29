@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T18:30:54.520172+00:00",
+  "generated_at": "2026-10-29T22:57:04.603874+00:00",
   "version": "2.4",
   "stats": {
     "total": 10,
@@ -7,35 +7,31 @@
   },
   "groups": [
     {
-      "category": "Engineering & Trades",
-      "count": 6
+      "category": "Banking & Finance",
+      "count": 4
     },
     {
-      "category": "Drivers & Logistics",
-      "count": 1
-    },
-    {
-      "category": "Office & Admin",
-      "count": 1
+      "category": "Cashiers & Retail",
+      "count": 4
     },
     {
       "category": "IT & Technology",
       "count": 1
     },
     {
-      "category": "Other Jobs",
+      "category": "Office & Admin",
       "count": 1
     }
   ],
   "jobs": [
     {
-      "id": "1a8762af829e67d0",
-      "title": "Plant Engineering Manager",
-      "company": "Recruitpro Solutions",
+      "id": "848308ca96d28684",
+      "title": "Finance Assistant",
+      "company": "Anchora",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2389385-plant-engineering-manager-east-rand/?jobindex=1",
-      "found_at": "2026-10-29T18:29:50.526119+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396582-finance-assistant-junior-level-gauteng/?jobindex=1",
+      "found_at": "2026-10-29T22:56:29.857965+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -46,24 +42,24 @@
         ],
         "warnings": []
       },
-      "category": "Engineering & Trades",
-      "location": "East Rand, Gauteng",
+      "category": "Banking & Finance",
+      "location": "Gauteng, Gauteng",
       "province": "Gauteng",
-      "closing_date": "2026-11-30",
+      "closing_date": "2026-12-28",
       "salary": "",
       "job_type": "Full Time",
-      "requirements": "BEng / BSc Mechanical Engineering Registered International Professional Engineer with ECSA (Int PE) 10+ years' engineering experience in mineral processing, mining or heavy industrial plant projects 5+ years delivering multidisciplinary plant or EPC/EPCM-type projects 3+ years in an engineering leadership or management role Proven competency in MS Office (incl. MS Project) and Inventor, Solid Edge and/or SolidWorks Advantageous Additional degree in Process, Chemical or Metallurgical Engineering Experience across the full cycle: design, procurement, fabrication/construction, commissioning and handover Finite Element Analysis and/or MATLAB The right person will be Strong estimating and costing of engineering hours Excellent report writing and communication Decisive, detail-oriented and deadline-driven Health and safety conscious Willing to support site commissioning Apply 449 people have viewed this job. Previous Next Similar Jobs ENGINEERING MANAGER - PLANT Gauteng Job Type: Permanent Posted 06 Oct 2026 | 38 Days left More Jobs at Recruitpro Solutions View All (47) Process Engineer (Business Development) East Rand Job Type: Permanent Posted 29 Oct 2026 | 32 Days left Document Contr",
+      "requirements": "Qualifications and Skills Strong organizational skills and attention to detail. Advance proficiency in Microsoft Excel. (required) Previous experience with QuickBooks is an advantage. (preferred) Strong written and verbal communication skills. Reliable, responsive, and able to follow instructions and follow through on assigned tasks. Willingness to learn new systems, tools, and processes. Comfortable performing repetitive, detail-oriented administrative tasks. Able to work independently after training while collaborating effectively with a team. Willingness to ask questions and escalate discrepancies when needed. This is a great opportunity for someone looking to develop their skills in bookkeeping, finance administration, and operational support. To proceed with your application, please fill out this form: https://forms.monday.com/forms/a46809d2f083eb673714a051ecca8c03?r=use1 Apply 17 people have applied for this job. 121 people have viewed this job. Previous Next More Jobs at Anchora View All (8) IT Tech Support Gauteng Job Type: Permanent Posted 16 Oct 2026 | 47 Days left BPO Client and Service Delivery Manager Gauteng Job Type: Permanent Posted 12 Oct 2026 | 43 Days left Full",
       "exact_post": true,
-      "description": "Our client is a well-established South African OEM that designs, manufactures, tests and commissions mineral processing equipment and plants for the mining industry. They operate an ISO 9001 (TÜV SÜD) certified quality system and follow a concurrent engineering approach across business development, engineering, projects and fabrication. Plant Engineering Manager, East Rand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Plant Engineering Manager East Rand Salary: Market Related Job Type: Permanent Sectors: Engineering Reference: Rec000383/JG Apply before Nov 30 2026 | 32 Days left Apply External Application Vacancy Details Employer: Recruitpro Solutions Our client is a well-established South African OEM that designs, manufactures, tests and commissions mineral processing equipment and plants for the mining in"
+      "description": "We are seeking a detail-oriented and dependable Jun... Qualifications and Skills Strong organizational skills and attention to detail. Advance proficiency in Microsoft Excel. (required) Previous experience with QuickBooks is an advantage. (preferred) Strong written and verbal communication skills. Reliable, responsive, and able to follow instructions and follow through on assigned tasks. Willingness to learn new systems, tools, and processes. Comfortable performing repetitive, detail-oriented administrative tasks. Able to work independently after training while collaborating effectively with a team. Willingness to ask questions and escalate discrepancies when needed. This is a great opportunity for someone looking to develop their skills in bookkeeping, finance administration, and operational support. To proceed with your application, please fill out this form: https://forms.monday.com/forms/a46809d2f083eb673714a051ecca8c03?r=use1 Finance Assistant – Junior Level, Gauteng - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Re"
     },
     {
-      "id": "06765ce4e40173ca",
-      "title": "Process Engineer (Business Development)",
-      "company": "Recruitpro Solutions",
+      "id": "f5988b64f90c8a47",
+      "title": "Cashier",
+      "company": "Pepkor Lifestyle",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396522-process-engineer-business-development-east-rand/?jobindex=2",
-      "found_at": "2026-10-29T18:29:51.738278+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396581-cashier-gauteng/?jobindex=2",
+      "found_at": "2026-10-29T22:56:30.259515+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -74,24 +70,52 @@
         ],
         "warnings": []
       },
-      "category": "Engineering & Trades",
-      "location": "East Rand, Gauteng",
+      "category": "Cashiers & Retail",
+      "location": "Gauteng, Gauteng",
       "province": "Gauteng",
-      "closing_date": "2026-11-30",
-      "salary": "",
+      "closing_date": "2026-12-28",
+      "salary": "r 7",
+      "job_type": "Contractor",
+      "requirements": "& Qualifications Education: Grade 12 / Matric certificate. Experience: 2–3 years of experience in a retail environment. Financial/Admin Experience: Practical experience in financial administration or cash handling roles. Technical Skills: Apply 26 people have applied for this job. 120 people have viewed this job. Previous Next About Pepkor Lifestyle Creating a comfortable lifestyle Pepkor Lifestyle gives value-conscious mass-market customers the opportunity and means to create a comfortable lifestyle, transforming houses into homes. Value lifestyle product offering The Pepkor Lifestyle brands provide quality, value-for-money furniture, appliances and household goods from well-known international brands to locally manufactured household names. Products cover all aspects of life, from leisure for families to small office requirements for entrepreneurs. Join our team and be part of our exciting journey as we continue to transform homes and enrich the lives of our customers and employees. \"Talent wins games, but teamwork and intelligence wins championships\" - Michael Jordan Similar Jobs View All (110) Cashier/Administrator Pretoria Job Type: Permanent Posted 17 Sep 2026 | 18 Days left",
+      "exact_post": true,
+      "description": "We are seeking an attentive, customer-centric, and detail-oriented Cashier to join our retail team. As the primary point of contact at our till points, you will be responsible for accurately processing point-of-sale transactions and maint... Cashier, Gauteng - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Cashier Gauteng Salary: Market Related Job Type: Contract Sectors: Retail Sales Reference: 209760 Apply before Dec 28 2026 | 60 Days left Apply Vacancy Details Employer: Pepkor Lifestyle"
+    },
+    {
+      "id": "efa90ababbbb2bb8",
+      "title": "Fuel Station Manager (FREE-STATE)",
+      "company": "HMTS Motors (Pty) Ltd",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396580-fuel-station-manager-free-state-free-state/?jobindex=3",
+      "found_at": "2026-10-29T22:56:30.580874+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Cashiers & Retail",
+      "location": "Free State, Free State",
+      "province": "Free State",
+      "closing_date": "2026-12-29",
+      "salary": "R11000 MONTH",
       "job_type": "Full Time",
-      "requirements": "Bachelor's degree in Metallurgical or Mechanical Engineering (or relevant tertiary qualification) 5+ years' sales and marketing experience in an OEM engineering and fabrication environment Minimum 3 years in a leadership / management role Proven experience in hydrometallurgy, comminution, beneficiation, flotation, thickening, filtration and/or tailings handling Site commissioning and plant performance testing background (essential) Process simulation software, e.g. METSIM, HSC Chemistry, ASPEN Plus or equivalent Willing to travel locally and internationally Advantageous MBA or related qualification Familiarity with leach tanks, screens, feeders and mills AutoCAD / Inventor The right person will be Strategic thinker with a hands-on leadership style Excellent technical reporting and client-facing presentation skills Coach and mentor to junior technical staff Solid understanding of SHERQ, ISO 9001 and ECSA/EPA requirements Apply 55 people have viewed this job. Previous Next More Jobs at Recruitpro Solutions View All (47) Plant Engineering Manager East Rand Job Type: Permanent Posted 29 Oct 2026 | 32 Days left Document Controller East Rand Job Type: Permanent Posted 29 Oct 2026 | 10 D",
+      "requirements": ". No matter the size of your station or the products/services you offer, station manager are responsible for the entire operation running smoothly and ensuring the needs of customers and employees are met. Final requirements: (NON-NEGOTIONABLE) Mature Male/Female 40 years of age or above Single Own Transport (Travelling distance form nearest town) Required Skills Management: 5 to 6 years Sales Candidate Requirements Qualifications: Matric 5 - 10 Years in a Retail Environment Must have previous Fuel Station management experience (non negotionable) Be Proficient in ARCH System (OK Brand) and Winbranch Proficient in Excel Apply 26 people have viewed this job. Previous Next",
       "exact_post": true,
-      "description": "Our client is a well-established South African OEM that designs, manufactures, tests and commissions mineral processing equipment and plants for the mining industry. They operate an ISO 9001 (TÜV SÜD) certified quality system and follow a concurrent engineering approach across business development, engineering, projects and fabrication. Process Engineer (Business Development), East Rand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Process Engineer (Business Development) East Rand Salary: Market Related Job Type: Permanent Sectors: Engineering Reference: Rec000384/JG Apply before Nov 30 2026 | 32 Days left Apply External Application Vacancy Details Employer: Recruitpro Solutions Our client is a well-established South African OEM that designs, manufactures, tests and commissions mineral processing equipment "
+      "description": "Fuel station managers oversee the daily operations of fuel stations and act as leaders for the station’s employees and the assistant managers who work under them. Managers also set employee schedules, manage fuel/inventory shipments, hire/train etc emp... Qualifications: Matric 5 - 10 Years in a Retail Environment Must have previous Fuel Station management experience (non negotionable) Be Proficient in ARCH System (OK Brand) and Winbranch Proficient in Excel Fuel Station Manager (FREE-STATE), Free State - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Fuel Station Manager (FREE-STATE) Free State Salary: R11 000.00 - R20 000.00 Per Month (Negotiable) Bonus: Bonuses are paid at the discretion of the company and based on performance. Commission: N/a Job Type: Permanent Sectors: General Retail Management Benefits: Bonus Tra"
     },
     {
-      "id": "3f637a1cf7dddfc5",
-      "title": "Document Controller",
-      "company": "Recruitpro Solutions",
+      "id": "cc9eb7bd73f67e31",
+      "title": "Frotnshop Assistant",
+      "company": "Dis-Chem Pharmacies Limited",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2389388-document-controller-east-rand/?jobindex=3",
-      "found_at": "2026-10-29T18:29:52.154430+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396579-frotnshop-assistant-hobart-grove-johannesburg/?jobindex=4",
+      "found_at": "2026-10-29T22:56:30.901370+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -102,52 +126,24 @@
         ],
         "warnings": []
       },
-      "category": "Drivers & Logistics",
-      "location": "East Rand, Gauteng",
+      "category": "Cashiers & Retail",
+      "location": "Johannesburg, Gauteng",
       "province": "Gauteng",
-      "closing_date": "2026-11-08",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "Matric (Grade 12) or equivalent Degree in Project Management, Engineering or Business Administration, OR a Project Management / Business Administration certificate Understanding of document control principles and document management systems Computer literate: MS Word, Excel and PowerPoint Advantageous Previous experience as a Document Controller, Expeditor, Project Administrator or similar Experience in an engineering, manufacturing or projects environment The right person will be Meticulous attention to detail Strong organisational and follow-up skills Clear communicator with suppliers and internal teams Able to work to tight deadlines Apply 737 people have viewed this job. Previous Next Similar Jobs Document Controller Gauteng Job Type: Permanent Posted 15 Sep 2026 | 2 Days left DOCUMENT CONTROLLER AND EXPEDITOR Gauteng Job Type: Permanent Posted 05 Oct 2026 | 37 Days left Projects Engineer Gauteng Job Type: Permanent Posted 05 Oct 2026 | 37 Days left More Jobs at Recruitpro Solutions View All (47) Plant Engineering Manager East Rand Job Type: Permanent Posted 29 Oct 2026 | 32 Days left Process Engineer (Business Development) East Rand Job Type: Permanent Posted 29 Oct 2026 | 32",
-      "exact_post": true,
-      "description": "Manage and control all project documentation and make sure it is accurate and up to date, while expediting the timely delivery of project materials, drawings, manuals and document registers. You will also give administrative support to the project team.You will report to the Project Engineer / Project Manager and oversee the Trainee Junior Project Administrator. Document Controller, East Rand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Document Controller East Rand Salary: Market Related Job Type: Permanent Sectors: Engineering Reference: Rec000387/JG Apply before Nov 08 2026 | 10 Days left Apply External Application Vacancy Details Employer: Recruitpro Solutions Our client is a well-established South African OEM that designs, manufactures, tests and commissions mineral processing equipment and plants for the mining industry. They operate an ISO 9001 (TÜV SÜD) certified quality system and follow a concurrent engineering approach across business development, engineering, projects and fabrication.About"
-    },
-    {
-      "id": "eea37cad7ee0ffe5",
-      "title": "Project Management Administrator",
-      "company": "Recruitpro Solutions",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396523-project-management-administrator-east-rand/?jobindex=4",
-      "found_at": "2026-10-29T18:29:53.310849+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Office & Admin",
-      "location": "East Rand, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-11-08",
+      "closing_date": "2026-11-04",
       "salary": "",
       "job_type": "Full Time",
       "requirements": "",
       "exact_post": true,
-      "description": "Our client, an established engineering company, is looking for an organised and detail-driven Project Management Administrator to join their Projects Office. You'll support Project Managers and Project Engineers and help keep projects on time, on budget and well documented.What you'll doCreate and maintain project documentation, including plans, schedules and status reportsSchedule project meetings, prepare agendas, take minutes and send out summariesTrack tasks and milestones, and follow up with team members on deadlinesMonitor project budgets and expenses with Finance and the Project ManagersCoordinate resources (materials and manpower) with Procurement and HRCompile project reports and KPIs, and support risk, issue and quality processesKeep communication flowing between project teams, clients and stakeholders Project Management Administrator, East Rand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Ema"
+      "description": "Ensure that full ranges of products are on the shelves at all times and neatly presented. Maintain the stock on the shelves to ensure it has not reached its sell by date. Restock merchandise when needed to ensure maximum sales. All out of stock queries from customers must be followed up on, in line with the customer service out of stock list and ensure they are dealt with in a timeous manner. Ensure delivered stock and/ or stock pulled from the storeroom are stored and packed in the correct space. Ensure merchandise displays, labels and pricing are correct at all times and report all price discrepancies to management. Ensure the storeroom organised, neat and tidy. Keep up to date with new product knowledge to effectively assist customers. Assist with restocking of merchandise and supplies when needed to ensure maximum sales. Assist with back shopping when required. All merchandise must be handled carefully to prevent any losses. Transact all purchases – receive, verify and processes all payments such as cash, cards, vouchers, coupons and any other acceptable payments. Exchange merchandise for customers and accept returned goods by customers when authorised to do so by the Frontsh"
     },
     {
-      "id": "4be790b06d0255d6",
-      "title": "Project Engineer",
-      "company": "Recruitpro Solutions",
+      "id": "fd3a6a72ba1f13b4",
+      "title": "Financial Accountant",
+      "company": "AVI Limited",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2391097-project-engineer-east-rand/?jobindex=5",
-      "found_at": "2026-10-29T18:29:55.302084+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396578-financial-accountant-johannesburg/?jobindex=5",
+      "found_at": "2026-10-29T22:56:31.269998+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -158,24 +154,24 @@
         ],
         "warnings": []
       },
-      "category": "Engineering & Trades",
-      "location": "East Rand, Gauteng",
+      "category": "Banking & Finance",
+      "location": "Johannesburg, Gauteng",
       "province": "Gauteng",
-      "closing_date": "2026-11-30",
+      "closing_date": "2026-11-20",
       "salary": "",
       "job_type": "Full Time",
-      "requirements": "Bachelor's degree in Engineering or a related field 3â5 years' engineering experience Inventor, Solid Edge and/or SolidWorks Strong MS Office and MS Project skills Experience with ISO 9001:2015 quality and SHERQ requirements Advantageous Master's degree in Engineering or Project Management Pr Eng registration with ECSA The right person will be Strong analytical and problem-solving ability Clear communicator of technical information Leadership and team guidance Good time management under deadlines Apply 370 people have viewed this job. Previous Next Similar Jobs View All (31) Project Engineer Johannesburg Job Type: Permanent Posted 23 Sep 2026 | 25 Days left Project Engineer Johannesburg Job Type: Contract Posted 05 Oct 2026 | 37 Days left Project Engineer East Rand Job Type: Permanent Posted 14 Oct 2026 | 15 Days left Electrical Graduate Project Engineer (solar) Centurion Job Type: Permanent Posted 16 Oct 2026 | 17 Days left More Jobs at Recruitpro Solutions View All (47) Plant Engineering Manager East Rand Job Type: Permanent Posted 29 Oct 2026 | 32 Days left Process Engineer (Business Development) East Rand Job Type: Permanent Posted 29 Oct 2026 | 32 Days left Document Control",
+      "requirements": "from government departments. Approve purchase orders on SAP and approve payments on SAP and Banking platform Confirm validity and accuracy of local and foreign payments and release thereof. Confirm validity and accuracy of purchase orders, ensuring necessary authorization and support is received and cost center allocation is appropriate Collate the Italy Salaries payment Report monthly and send to the Senior Financial Manager for review Collate all approved expense reimbursements relating to Italian employees and submit them to the Italian payroll provider for payslip processing Audit Assist with internal and external audit processes by preparing and providing accurate supporting schedules, reconciliations, and requested documentation, responding to auditor enquiries, and implementing audit recommendations to ensure compliance with IFRS and internal control frameworks. Ad-Hoc finance related projects Assistance with ad hoc requests from business and various finance projects. What It Takes to Succeed: Experience that set you up for success: SAIPA / SAICA Articles and 3 years post article experience as a Financial Accountant 5 years of experience as a Financial Accountant Qualificat",
       "exact_post": true,
-      "description": "Our client is a well-established South African OEM that designs, manufactures, tests and commissions mineral processing equipment and plants for the mining industry. They operate an ISO 9001 (TÃV SÃD) certified quality system and follow a concurrent engineering approach across business development, engineering, projects and fabrication.Manage the engineering and technical side of projects from conception to completion. You will plan, execute and deliver projects on time, within budget and to high quality, working closely with project managers, administrators and document controllers and providing technical guidance to the team.You will report to the Senior Project Manager and oversee the Junior Project Engineer/Manager, Project Administrator and Document Controller. Project Engineer , East Rand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Afri"
+      "description": "GROW A GREAT CAREER WITH THE COMPANY THAT GROWS GREAT BRANDS! At Spitz, we are a leading force in premium footwear and apparel, offering world-class brands such as Carvela, Gianni Chiarini, Lacoste, Nina Roche, and Tosoni. With the addition of Carvela ... Financial Accountant, Johannesburg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Financial Accountant Johannesburg Salary: Market Related Job Type: Permanent Sectors: Retail Finance Reference: 209866 Apply before Nov 20 2026 | 22 Days left Apply External Application Vacancy Details Employer: AVI Limited GROW A GREAT CAREER WITH THE COMPANY THAT GROWS GREAT BRANDS! At Spitz , we are a leading force in premium footwear and apparel, offering world-class brands such as C arvela, Gianni Chiarini, Lacoste, Nina Roche, and Tosoni . With the addition of Carvela Do"
     },
     {
-      "id": "a87396932effff56",
-      "title": "Architectural Technologist",
-      "company": "Recruitpro Solutions",
+      "id": "710ae03acd8bdde3",
+      "title": "Audit Professional",
+      "company": "MSP Staffing (PTY) LTD",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2392537-architectural-technologist-midrand/?jobindex=6",
-      "found_at": "2026-10-29T18:29:55.740965+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396576-audit-professional-johannesburg/?jobindex=6",
+      "found_at": "2026-10-29T22:56:31.630401+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -189,21 +185,21 @@
       "category": "IT & Technology",
       "location": "Johannesburg, Gauteng",
       "province": "Gauteng",
-      "closing_date": "2026-11-30",
+      "closing_date": "2026-12-28",
       "salary": "",
       "job_type": "Full Time",
-      "requirements": "Qualification in Architectural Technology Strong proficiency in Revit and BIM workflows, including Revit family creation Knowledge of SANS standards, building regulations, and fire and accessibility requirements Ability to prepare hardware schedules and technical specifications Excellent presentation and communication skills Commercially minded and target-driven Advantageous Experience in architectural hardware, ironmongery or building products Specification sales or business development experience An existing network within the architectural and construction industry Personal Attributes Outgoing, confident personality with a natural ability to build networks Comfortable presenting to professional audiences Self-motivated, proactive and relationship-driven Strong attention to technical detail Apply 250 people have viewed this job. Previous Next Similar Jobs Senior Architectural Technologist Johannesburg Job Type: Permanent Posted 29 Oct 2026 | 61 Days left More Jobs at Recruitpro Solutions View All (47) Plant Engineering Manager East Rand Job Type: Permanent Posted 29 Oct 2026 | 32 Days left Process Engineer (Business Development) East Rand Job Type: Permanent Posted 29 Oct 2026 |",
+      "requirements": "for this position, you can forward your comprehensive CV to finance.jobs@mspstaffing.co.za. Alternatively, you can phone the team on XXX-XXXX For more finance jobs, visit our website on www.mspstaffingza.co Correspondence will only be conducted with short-listed candidates. Should you not hear from us within 3 days, please consider your application unsuccessful. Apply 40 people have viewed this job. Previous Next About MSP Staffing (PTY) LTD MSP Staffing is a Specialist Recruitment Agency that focuses on the Engineering & Construction, Mining, Finance, Trade & Technical, Supply Chain, Information Technology and Medical and Pharmaceutical sectors. MSP Staffing is dedicated to connecting top talent with opportunities both locally and abroad. With this in mind, our team of seasoned professionals bring a wealth of industry knowledge and a global perspective to the table. We have a deep understanding of the dynamic employment landscape and a proven track record of matching top-tier professionals with prestigious companies. Whether you're a talented individual seeking the perfect role or a forward-thinking organization in need of exceptional talent, MSP Staffing have the expertise to ma",
       "exact_post": true,
-      "description": "Our client, a supplier of architectural hardware solutions, is looking for an Architectural Technologist who brings both strong BIM and Revit skills and a confident, outgoing personality. This is a hybrid technical and business development role. The successful candidate will use BIM expertise to get the company’s hardware products specified on projects, while building a strong network within the architectural and construction community and converting specifications into sales. Architectural Technologist , Midrand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng / Johannesburg Back to Search Results Architectural Technologist Midrand Salary: Market Related Job Type: Permanent Sectors: Design Services Reference: Rec000408/JG Apply before Nov 30 2026 | 32 Days left Apply External Application Vacancy Details Employer: Recruitpro Solutio"
+      "description": "Love high-level auditing, but want to skip the stress of managing junior staff? A dynamic firm in Bedfordview is looking for an Experienced Auditor who is truly passionate about the craft. Everyone on the team operates on an equal level, allowing you ... Audit Professional, Johannesburg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Audit Professional Johannesburg Salary: Market Related Job Type: Permanent Sectors: Finance Reference: 2396576 Apply before Dec 28 2026 | 60 Days left Apply Vacancy Details Employer: MSP Staffing (PTY) LTD Love high-level auditing, but want to skip the stress of managing junior staff? A dynamic firm in Bedfordview is looking for an Experienced Auditor who is truly passionate about the craft. Everyone on the team operates on an equal level, allowing you to focus 100% on technical "
     },
     {
-      "id": "05d9664f9ee1a4ec",
-      "title": "Process Engineer",
-      "company": "Recruitpro Solutions",
+      "id": "f2b31205c1d85c83",
+      "title": "Junior Microsoft Dynamics 365 Platform Consultant",
+      "company": "confidential",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396524-process-engineer-east-rand/?jobindex=7",
-      "found_at": "2026-10-29T18:29:56.171655+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396575-junior-microsoft-dynamics-365-platform-consultant-western-cape/?jobindex=7",
+      "found_at": "2026-10-29T22:56:32.017017+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -214,24 +210,52 @@
         ],
         "warnings": []
       },
-      "category": "Engineering & Trades",
-      "location": "East Rand, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-11-30",
+      "category": "Office & Admin",
+      "location": "Western Cape, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-28",
+      "salary": "R20000 MONTH",
+      "job_type": "Full Time",
+      "requirements": "Typically 1–2 years in IT, software, technical support, cloud administration or a Microsoft technology role. • Diploma or degree in IT, Computer Science, Information Systems or a related field preferred; equivalent practical experience considered. • General technical aptitude, structured troubleshooting, and basic understanding of cloud or business applications. • Afrikaans proficiency is required, both written and spoken. • Reliable, organised, attentive to detail and adaptable. Apply 36 people have viewed this job. Previous Next",
+      "exact_post": true,
+      "description": "involves hands-on platform operations across either the Finance and Supply Chain Management track or the Cus... • Typically 1–2 years in IT, software, technical support, cloud administration or a Microsoft technology role. • Diploma or degree in IT, Computer Science, Information Systems or a related field preferred; equivalent practical experience considered. • General technical aptitude, structured troubleshooting, and basic understanding of cloud or business applications. • Afrikaans proficiency is required, both written and spoken. • Reliable, organised, attentive to detail and adaptable. Junior Microsoft Dynamics 365 Platform Consultant, Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Junior Microsoft Dynamics 365 Platform Consultant Western Cape Salary: R20 000.00 - R25 000.00 Per Month Job Type: Permanent Sectors: IT Reference: RA-C007D3D9 Apply before Nov 28 2026 | 30 Days left Apply External Application Vacancy Details A junior role focused on the operation, governance, security, and monitorin"
+    },
+    {
+      "id": "48089de7418954dc",
+      "title": "Finance Manager",
+      "company": "MSP Staffing (PTY) LTD",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396574-finance-manager-kwazulu-natal/?jobindex=8",
+      "found_at": "2026-10-29T22:56:32.367353+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "KwaZulu-Natal, KwaZulu-Natal",
+      "province": "KwaZulu-Natal",
+      "closing_date": "2026-12-28",
       "salary": "",
       "job_type": "Full Time",
-      "requirements": "",
+      "requirements": "for this position, you can forward your comprehensive CV to finance.jobs@mspstaffing.co.za. Alternatively, you can phone the team on XXX-XXXX For more finance jobs, visit our website on www.mspstaffingza.co Correspondence will only be conducted with short-listed candidates. Should you not hear from us within 3 days, please consider your application unsuccessful. Apply 1 person has applied for this job. 42 people have viewed this job. Previous Next About MSP Staffing (PTY) LTD MSP Staffing is a Specialist Recruitment Agency that focuses on the Engineering & Construction, Mining, Finance, Trade & Technical, Supply Chain, Information Technology and Medical and Pharmaceutical sectors. MSP Staffing is dedicated to connecting top talent with opportunities both locally and abroad. With this in mind, our team of seasoned professionals bring a wealth of industry knowledge and a global perspective to the table. We have a deep understanding of the dynamic employment landscape and a proven track record of matching top-tier professionals with prestigious companies. Whether you're a talented individual seeking the perfect role or a forward-thinking organization in need of exceptional talent, MS",
       "exact_post": true,
-      "description": "We are recruiting a Process Engineer for a well-established mineral processing equipment and solutions provider. This is a permanent, client-facing role covering the full project cycle: front-end design, simulation, test work, site audits, sales support and commissioning.It suits an engineer who enjoys variety — office-based design and modelling one week, test plant or client site the next. Process Engineer, East Rand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Process Engineer East Rand Salary: Market Related Job Type: Permanent Sectors: Engineering Reference: Rec000412/JG Apply before Nov 30 2026 | 32 Days left Apply External Application Vacancy Details Employer: Recruitpro Solutions We are recruiting a Process Engineer for a well-established mineral processing equipment and solutions provider. This is "
+      "description": "Are you a hands-on Finance Manager ready to drive commercial growth and financial stability for a leading manufacturing operation in KZN? We are seeking a strategic, commercially minded Financial Manager to oversee effective financial management, pr... Finance Manager, KwaZulu-Natal - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Finance Manager KwaZulu-Natal Salary: Market Related Job Type: Permanent Sectors: Finance Reference: 2396574 Apply before Dec 28 2026 | 60 Days left Apply Vacancy Details Employer: MSP Staffing (PTY) LTD Are you a hands-on Finance Manager ready to drive commercial growth and financial stability for a leading manufacturing operation in KZN? We are seeking a strategic, commercially minded Financial Manager to oversee effective financial management, procurement, operational budgeting, and managem"
     },
     {
-      "id": "491e82d18ff9e3e0",
-      "title": "Senior Mechanical Design Engineer",
-      "company": "Recruitpro Solutions",
+      "id": "d85cb6f043784fd1",
+      "title": "Associate (Real Estate Investments)",
+      "company": "MSP Staffing (PTY) LTD",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2392538-senior-mechanical-design-engineer-centurion/?jobindex=8",
-      "found_at": "2026-10-29T18:29:56.525763+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396573-associate-real-estate-investments-sandton/?jobindex=9",
+      "found_at": "2026-10-29T22:56:32.751478+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -242,24 +266,24 @@
         ],
         "warnings": []
       },
-      "category": "Engineering & Trades",
-      "location": "Pretoria, Gauteng",
+      "category": "Banking & Finance",
+      "location": "Johannesburg, Gauteng",
       "province": "Gauteng",
-      "closing_date": "2026-11-30",
-      "salary": "R50000 MONTH",
+      "closing_date": "2026-12-28",
+      "salary": "",
       "job_type": "Full Time",
-      "requirements": "BEng in Mechanical or Mechatronic Engineering (a Master’s degree is a strong advantage) Proven experience in mechanical design, product development and engineering consulting (all three essential) A track record of leading and owning design projects from concept to release Strong CAD and design software experience In-depth understanding of drawings, BOMs, revision control, manufacturing and design release processes Proven client consulting experience, with the confidence to engage engineering managers, technical teams and international stakeholders Strong problem-solving, communication and project delivery skills Advantageous Experience with international clients across multiple regions and time zones Experience with PDM, PLM, ERP or engineering data management systems Exposure to FEA, CFD or other simulation tools Experience with design automation, templates, workflows or engineering process improvement Apply 303 people have viewed this job. Previous Next More Jobs at Recruitpro Solutions View All (47) Plant Engineering Manager East Rand Job Type: Permanent Posted 29 Oct 2026 | 32 Days left Process Engineer (Business Development) East Rand Job Type: Permanent Posted 29 Oct 2026 |",
+      "requirements": "for this position, you can forward your comprehensive CV to finance.jobs@mspstaffing.co.za. Alternatively, you can phone the team on XXX-XXXX For more finance jobs, visit our website on www.mspstaffingza.co Correspondence will only be conducted with short-listed candidates. Should you not hear from us within 3 days, please consider your application unsuccessful. Apply 1 person has applied for this job. 62 people have viewed this job. Previous Next About MSP Staffing (PTY) LTD MSP Staffing is a Specialist Recruitment Agency that focuses on the Engineering & Construction, Mining, Finance, Trade & Technical, Supply Chain, Information Technology and Medical and Pharmaceutical sectors. MSP Staffing is dedicated to connecting top talent with opportunities both locally and abroad. With this in mind, our team of seasoned professionals bring a wealth of industry knowledge and a global perspective to the table. We have a deep understanding of the dynamic employment landscape and a proven track record of matching top-tier professionals with prestigious companies. Whether you're a talented individual seeking the perfect role or a forward-thinking organization in need of exceptional talent, MS",
       "exact_post": true,
-      "description": "combines hands-on mechanical design leadership with client consulting. You will work with international clients as a trusted technical advisor while also mentoring and developing junior engineers. Senior Mechanical Design Engineer, Centurion - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng / Pretoria Back to Search Results Senior Mechanical Design Engineer Centurion Salary: R50 000.00 - R70 000.00 Per Month Job Type: Permanent Sectors: Engineering Reference: Rec000409/JG Apply before Nov 30 2026 | 32 Days left Apply External Application Vacancy Details Employer: Recruitpro Solutions Our client is looking for a Senior Mechanical Design Engineer with strong product development experience and a proven record of owning projects from concept to release. The role combines hands-on mechanical design leadership with client consulting. You will work with international clients as a trusted technical advisor while also mentoring and developing junior engineers. Key Responsibilities Lead and take full ownership of product development proje"
+      "description": "We are currently recruiting a CA(SA)-qualified Investment Associate for a premier real estate investment firm. This is an exceptional opportunity for an ambitious finance professional to play a hands-on role in transaction execution, financial modellin... Associate (Real Estate Investments), Sandton - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng / Johannesburg Back to Search Results Associate (Real Estate Investments) Sandton Salary: Market Related Job Type: Permanent Sectors: Finance Reference: 2396573 Apply before Dec 28 2026 | 60 Days left Apply Vacancy Details Employer: MSP Staffing (PTY) LTD We are currently recruiting a CA(SA)-qualified Investment Associate for a premier real estate investment firm. This is an exceptional opportunity for an ambitious finance professional to play a hands-on role in transaction execution, fina"
     },
     {
-      "id": "92bd8947118075c3",
-      "title": "Yard Foreman",
-      "company": "West Coast Personnel",
+      "id": "1feb46910e7c37ef",
+      "title": "Health Merchandiser",
+      "company": "Dis-Chem Pharmacies Limited",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396178-yard-foreman-stellenbosch/?jobindex=9",
-      "found_at": "2026-10-29T18:29:56.982394+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396572-health-merchandiser-ballito-junction-kwazulu-natal/?jobindex=10",
+      "found_at": "2026-10-29T22:56:33.134992+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -270,43 +294,15 @@
         ],
         "warnings": []
       },
-      "category": "Other Jobs",
-      "location": "Stellenbosch, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-11-28",
-      "salary": "R15000 MONTH",
+      "category": "Cashiers & Retail",
+      "location": "KwaZulu-Natal, KwaZulu-Natal",
+      "province": "KwaZulu-Natal",
+      "closing_date": "2026-11-12",
+      "salary": "",
       "job_type": "Full Time",
-      "requirements": "Matric / Grade 12. Minimum 3 years' experience in a manufacturing, warehouse, yard or dispatch environment. At least 1 year of staff supervisory experience. Proven stock control and physical stocktaking experience. Forklift licence or willingness to obtain one within 3 months. Basic computer skills, including Excel and stock systems. Strong leadership, organisational and communication skills. Experience in building materials, bricks, paving or tiles advantageous. ERP system experience (Sage, SAP or similar) advantageous. Apply 260 people have viewed this job. Previous Next About West Coast Personnel Staff recruitment specialists at all levels: Permanent Placements, Temps, Contract Personnel and CV Services. What services do we offer? Successful recruitment and selection processes Personality profiling Professional CV preparation for Jobseekers Verification of qualifications, employment history and all relevant details. Reference checks according to competencies. Suitability for position. West Coast Personnel Permanent Placements Having an impressive database of approved candidates, we search the marketplace to find you the best candidate. Our personalized service means that we act",
+      "requirements": "Essential: Grade 12 / Matric Up to 6 months’ retail experience Computer literate – MS Office Willing and able to work retail hours Advantageous: Diploma or degree within the Health Focus category At least 1 year retail experience Job Specification: Restock merchandise as per business requirements. Ensure delivered stock/stock pulled from the store room, is stored and packed in the correct space. Ensure full range of products is on the shelves at all times. Facilitate rotation of stock on a regular, First In First Out basis. Assist with general stocktaking. Ensure front shop shelves and products are neatly presented and visible at all times, with correct labels and pricing. Ensure merchandising displays are built, faced up, stocked and maintained. Maintain daily physical upkeep of store and merchandise displays, and be responsible for your designated stock in the store room as well as on the shop floor. Assist with back shopping. Ensure all customer stock queries are dealt with and resolved. Competencies Essential: Strong command of the English language Presentable Effective engagement with customers, management and staff Trustworthy and honest Time management Advantageous: Biling",
       "exact_post": true,
-      "description": "YARD FOREMANMuldersvlei (Stellenbosch) - CPT R15,000–R20,000 p/m, depending on experienceAn established manufacturing company is seeking an experienced, hands-on Yard Foreman to oversee daily yard operations, stock control, dispatch activities and staff supervision.The successful candidate must be organised, reliable and capable of managing a busy yard environment while ensuring stock accuracy, efficient order preparation and safe working practices. Yard Foreman , Stellenbosch - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Yard Foreman Stellenbosch Salary: R15 000.00 - R20 000.00 Per Month Job Type: Permanent Sectors: Manufacturing Reference: CPT001430/MM Apply before Nov 28 2026 | 30 Days left Apply External Application Vacancy Details Employer: West Coast Personnel YARD FOREMANMuldersvlei (Stellenbosc"
-    },
-    {
-      "id": "cd72bdb0ffd3c6c6",
-      "title": "MECHANICAL TRADE-TESTED FITTER & TURNER",
-      "company": "West Coast Personnel",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396495-mechanical-trade-tested-fitter-turner-cape-town/?jobindex=10",
-      "found_at": "2026-10-29T18:29:58.160422+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Engineering & Trades",
-      "location": "Cape Town, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-11-28",
-      "salary": "R18 000",
-      "job_type": "Full Time",
-      "requirements": ". Read and interpret workshop orders, picking tickets, assembly instructions and technical manuals. Identify and check components using measuring equipment, including verniers. Perform shaft preparation, torque fasteners and fit components according to assembly procedures. Apply gear ratio charts, lubrication requirements and motor specifications. Use hand tools, pneumatic tools and assembly machinery safely. Inspect completed assemblies and meet production and quality standards. Assist with workshop and on-site repairs when required. Maintain a clean, organised and safe work area. Essential requirements: Recognised Fitter & Turner trade test certificate. Practical mechanical fitting, assembly or industrial workshop experience. Sound understanding of mechanical components and assembly procedures. Ability to interpret technical instructions and use precision measuring equipment. Qualified Artisan (Mechanical preferred). Reliable transport to work. Consistent attendance, punctuality and a responsible approach to teamwork. Technical high school graduate with relevant practical experience. Experience with gearboxes, geared motors, electric motors, pumps, hydraulics or industrial equipm",
-      "exact_post": true,
-      "description": "involves assembling industrial gearboxes, geared motors and electric motors to precise specifications, with a strong emphasis on quality, accuracy and safe working practices. MECHANICAL TRADE-TESTED FITTER & TURNER , Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results MECHANICAL TRADE-TESTED FITTER & TURNER Cape Town Salary: Up to R18 000.00 Per Month Job Type: Permanent Sectors: Automotive"
+      "description": "Dis-Chem Pharmacies requires a Health Merchandiser for their Gateway store. Your responsibilities lie in ensuring Dis-Chem’s basic merchandising standards are properly executed and maintained. Provide customers with outstanding customer service. Mini... Health Merchandiser - Ballito Junction, KwaZulu-Natal - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Health Merchandiser - Ballito Junction KwaZulu-Natal Salary: Market Related Job Type: Permanent Sectors: FMCG General Reference: 209860 Apply before Nov 12 2026 | 14 Days left Apply Vacancy Details Employer: Dis-Chem Pharmacies Limited Dis-Chem Pharmacies requires a Health Merchandiser for their Gateway store. Your responsibilities lie in ensuring Dis-Chem’s basic merchandising standards are properly executed and maintained. Provide customers with outstanding customer s"
     }
   ]
 }
