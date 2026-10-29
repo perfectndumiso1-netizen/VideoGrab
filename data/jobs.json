@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T00:16:48.326159+00:00",
+  "generated_at": "2026-10-29T05:54:11.558236+00:00",
   "version": "2.4",
   "stats": {
     "total": 10,
@@ -15,7 +15,7 @@
       "count": 3
     },
     {
-      "category": "Cashiers & Retail",
+      "category": "Drivers & Logistics",
       "count": 1
     },
     {
@@ -23,23 +23,107 @@
       "count": 1
     },
     {
-      "category": "Drivers & Logistics",
+      "category": "Other Jobs",
       "count": 1
     },
     {
-      "category": "Cleaners & General Workers",
+      "category": "Cashiers & Retail",
       "count": 1
     }
   ],
   "jobs": [
     {
-      "id": "c38a1c446efceafd",
+      "id": "bba82afd180deef8",
+      "title": "Junior Sales & Project Manager",
+      "company": "Status Staffing",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396408-junior-sales-project-manager-brackenfell/?jobindex=1",
+      "found_at": "2026-10-29T05:53:28.936427+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Drivers & Logistics",
+      "location": "Cape Town Northern Suburbs, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-28",
+      "salary": "R10 000",
+      "job_type": "Full Time",
+      "requirements": "Completed Matric (Grade 12). Basic knowledge of Microsoft Office and Outlook. Some formal education or training in project management, particularly for project management roles. Willingness to learn, attend training, and grow within the business. Good communication and organisational skills. A proactive attitude, reliability, and a strong work ethic. Relevant trade test qualification. Experience in HVAC (Heating, Ventilation, and Air Conditioning). Valid driver’s license. Knowledge of VRV (Variable Refrigerant Volume) systems. DUTIES: Assist with planning, coordinating, and monitoring projects from initiation to completion. Liaise with clients, suppliers, and internal departments to ensure that project requirements are met. Track project timelines, deadlines, budgets, and deliverables. Prepare project documentation, progress reports, and status updates. Coordinate meetings, schedules, resources, and project activities. Follow up on outstanding tasks and resolve project-related queries. Ensure that projects are completed in accordance with client specifications and required quality standards. HOURS: Monday to Thursday: 07:30 – 17:00 Fridays: 07:30 – 16:15 Should you meet all the r",
+      "exact_post": true,
+      "description": ". If you are reliable, eager to learn, and have a strong work ethic, we encourage you to apply! Junior Sales & Project Manager, Brackenfell - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape / Cape Town Northern Suburbs Back to Search Results Junior Sales & Project Manager Brackenfell Salary: Market Related Job Type: Permanent Sectors: Sales Management Reference: PC002186/MB Apply before Nov 28 2026 | 31 Days left Apply External Application Vacancy Details Employer: Status Staffing Our client is seeking a motivated and proactive Junior Sales & Project Manager to join their team in Brackenfell, Cape Town. The ideal candidate will have Matric, good communication and organisational skills, and a willingness to learn, attend training, and grow within the business. Proficiency in Microsoft Office and Outlook is required. Previous project management training or experience, HVAC knowledge, a relevant trade test, a valid driver’s license, and knowledge of VRV systems will be advantageous, depending on the role. If you are reliable, e"
+    },
+    {
+      "id": "8f80b3bd44b2823a",
+      "title": "Demand Planner",
+      "company": "Hire Resolve",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396407-demand-planner-eastern-cape/?jobindex=2",
+      "found_at": "2026-10-29T05:53:30.297322+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Engineering & Trades",
+      "location": "Eastern Cape, Eastern Cape",
+      "province": "Eastern Cape",
+      "closing_date": "2026-12-28",
+      "salary": "R360000 YEAR",
+      "job_type": "Full Time",
+      "requirements": "Education: Bachelor’s Degree in Engineering (Industrial Engineering preferred). Experience Level: Early-career professional (approx. mid-20s to early-30s). Excel: Expert/advanced MS Excel capabilities for daily data modeling and analysis. Problem-Solving: Highly analytical, quick learner, and adaptable under pressure. Languages: Business-fluent English (written and spoken) and functional Afrikaans comprehension (listening/reading; spoken Afrikaans not required). Transport: Must have a valid driver’s license and reliable personal transport. Desirable / Advantageous Skills Software Development / Coding: Ability to code or build systems to help implement and automate Twente's custom planning and forecasting tools.",
+      "exact_post": true,
+      "description": "an international food and beverage and fresh produce company specializing in the global citrus trade is seeking an analytical, data-driven Demand Planner to serve as the critical bridge between production, supply, demand, and commercial operations. Re... Demand Planner, Eastern Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Demand Planner Eastern Cape Salary: R30 000.00 - R40 000.00 Per Month Job Type: Permanent Sectors: Engineering Hospitality Reference: 209689 Apply before Dec 28 2026 | 61 Days left Apply Vacancy Details Employer: Hire Resolve an international food and beverage and fresh produce company specializing in the global citrus trade is seeking an analytical, data-driven Demand Planner to serve as the critical bridge between production, supply, demand, and commercial operations. Responsibilities: Analy"
+    },
+    {
+      "id": "3d5321a176ff17ea",
+      "title": "Production Manager",
+      "company": "Hire Resolve",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396406-production-manager-cape-town/?jobindex=3",
+      "found_at": "2026-10-29T05:53:31.622411+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "Cape Town, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-29",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Proven experience in production management or a similar supervisory role. Experience in wood manufacturing, carpentry, joinery, shelving or exhibition stand production is highly advantageous. Previous experience managing a team in a manufacturing or workshop environment. Strong organisational, leadership and problem-solving skills. Ability to work under pressure and meet production deadlines. Reliable transport is essential. Willingness to work overtime and night shifts when required.",
+      "exact_post": true,
+      "description": "We are seeking an experienced Production Manager to oversee daily production operations within a manufacturing environment specialising in wood products, carpentry, shelving, joinery and exhibition stands. The successful candidate will be responsible f... Production Manager, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Production Manager Cape Town Salary: Market Related Job Type: Permanent Sectors: Marketing Management Reference: 209659 Apply before Nov 29 2026 | 32 Days left Apply Vacancy Details Employer: Hire Resolve We are seeking an experienced Production Manager to oversee daily production operations within a manufacturing environment specialising in wood products, carpentry, shelving, joinery and exhibition stands. The successful candidate will be responsible for managing production a"
+    },
+    {
+      "id": "5a30f8dfa8e0956c",
       "title": "Frontline Supervisor",
       "company": "Dis-Chem Pharmacies Limited",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396404-frontline-supervisor-waterfall-midrand/?jobindex=1",
-      "found_at": "2026-10-29T00:16:08.942053+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396404-frontline-supervisor-waterfall-midrand/?jobindex=4",
+      "found_at": "2026-10-29T05:53:32.045467+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -61,13 +145,13 @@
       "description": "Dis-Chem Pharmacies require a Frontline Supervisor for their Waterfall Region. Support customer service to ensure a world class shopping experience. Liaise between management and cashiers. Supervise day-to-day operations of Cashiers to ensure smooth ru... Frontline Supervisor - Waterfall, Midrand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng / Johannesburg Back to Search Results Frontline Supervisor - Waterfall Midrand Salary: Market Related Job Type: Permanent Sectors: Retail Sales Reference: 209686 Apply before Nov 03 2026 | 6 Days left Apply Vacancy Details Employer: Dis-Chem Pharmacies Limited Dis-Chem Pharmacies require a Frontline Supervisor for their Waterfall Region. Support customer service to ensure a world class shopping experience. Liaise between management and cashiers. Supervise day-to-day operations of Cashiers to "
     },
     {
-      "id": "9fe06502c0551350",
+      "id": "f9308729a2f20b6b",
       "title": "Team Leader (Sales)",
       "company": "Huntswood",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396400-team-leader-sales-utilities-durban/?jobindex=2",
-      "found_at": "2026-10-29T00:16:09.455224+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396400-team-leader-sales-utilities-durban/?jobindex=5",
+      "found_at": "2026-10-29T05:53:32.479702+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -84,18 +168,18 @@
       "closing_date": "2026-11-04",
       "salary": "r 6",
       "job_type": "Full Time",
-      "requirements": "(daily, weekly, monthly) Drive change initiatives ensure it as the desired outcome within your team Job Requirements You will need to be an existing team leader within the Utilities space You will have at least 12 months experience in sales previously You must be available to start on Thursday 26th November Extensive experience Navigating multiple systems Strong technical problem solving skills High attention to detail Required Skills Able to successfully upskill a team. Continuous improvement Operational Knowledge Prioritization of workload Interview Process: The interview process will consist of 1 stage with our Head of Delivery. This will focus on a review of experience, behavioural capability, and competency‑based questions. Core Behaviour Huntswood’s employees are described as dependable, driven and collaborative. The job holder should align to our 6 Fundamental Values: Bring Your “A” Game Strive For Greater Enable and empower all employees Do the right thing Own it Deliver unbelievable service \"It's not just about what we do, but the way we do it. And it's our values that make us special.\" Apply 5 people have applied for this job. 71 people have viewed this job. Previous Nex",
+      "requirements": "(daily, weekly, monthly) Drive change initiatives ensure it as the desired outcome within your team Job Requirements You will need to be an existing team leader within the Utilities space You will have at least 12 months experience in sales previously You must be available to start on Thursday 26th November Extensive experience Navigating multiple systems Strong technical problem solving skills High attention to detail Required Skills Able to successfully upskill a team. Continuous improvement Operational Knowledge Prioritization of workload Interview Process: The interview process will consist of 1 stage with our Head of Delivery. This will focus on a review of experience, behavioural capability, and competency‑based questions. Core Behaviour Huntswood’s employees are described as dependable, driven and collaborative. The job holder should align to our 6 Fundamental Values: Bring Your “A” Game Strive For Greater Enable and empower all employees Do the right thing Own it Deliver unbelievable service \"It's not just about what we do, but the way we do it. And it's our values that make us special.\" Apply 8 people have applied for this job. 110 people have viewed this job. Previous Ne",
       "exact_post": true,
       "description": "Managing Performance and achievement of team KPIs Leave/ Absence management ensuring required resourcing is available as per SLA. Disciplinary & HR related matters are attended to as they arise in line with company policy and protocols. Maintains team Motivation. Rewards & Incentives are planned and implemented on an ongoing basis. Ensure that the employee experience is consistent with the HW culture Ongoing coaching provided to the advisors. Regular call listening Team professional development is considered and the necessary conversations (CPD, Succession , Career pathing etc.) On going knowledge sharing activities to keep the team updated Monthly 1-1s with team members Identify and nurture top talent within the team. Identify skills / knowledge gaps and independently address or escalate for assistance All necessary reports are completed in line with department schedule / client requirements (daily, weekly, monthly) Drive change initiatives ensure it as the desired outcome within your team Job Requirements You will need to be an existing team leader within the Utilities space You will have at least 12 months experience in sales previously You must be available to start on Thursda"
     },
     {
-      "id": "d50bbbcaeb8a1256",
+      "id": "8008358d8b21467a",
       "title": "Reception & office administrator",
       "company": "Raizcorp",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396399-reception-office-administrator-cape-town/?jobindex=3",
-      "found_at": "2026-10-29T00:16:09.849028+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396399-reception-office-administrator-cape-town/?jobindex=6",
+      "found_at": "2026-10-29T05:53:32.973577+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -112,18 +196,18 @@
       "closing_date": "2026-11-28",
       "salary": "R120000 YEAR",
       "job_type": "Full Time",
-      "requirements": "Minimum qualifications Grade 12 certificate Diploma or Degree in Communications, Client Relations, Business Administration, or related field Experience and skills 6–10 years’ experience in a reception, office administration, or centre operations role Strong administrative and organisational background with proven multitasking ability Experience managing cleaning or hospitality staff Strong proficiency in Microsoft Office and Google Suite Experience managing technical equipment (projectors, conferencing tools, etc.) Proven ability to manage busy operational environments Advantageous experience Previous property or hotel industry experience Familiarity with tenant leasing and space management Conflict management and tenant relationship handling Behavioural competencies Professional appearance and conduct Exceptional communication skills (verbal and written) Highly organised, proactive, and dependable Strong attention to detail and administrative accuracy Positive, service-oriented mindset Ability to plan, prioritise, and multitask effectively Strong sense of accountability and responsibility Apply 96 people have viewed this job. Previous Next More Jobs at Raizcorp View All (27) Past",
+      "requirements": "Minimum qualifications Grade 12 certificate Diploma or Degree in Communications, Client Relations, Business Administration, or related field Experience and skills 6–10 years’ experience in a reception, office administration, or centre operations role Strong administrative and organisational background with proven multitasking ability Experience managing cleaning or hospitality staff Strong proficiency in Microsoft Office and Google Suite Experience managing technical equipment (projectors, conferencing tools, etc.) Proven ability to manage busy operational environments Advantageous experience Previous property or hotel industry experience Familiarity with tenant leasing and space management Conflict management and tenant relationship handling Behavioural competencies Professional appearance and conduct Exceptional communication skills (verbal and written) Highly organised, proactive, and dependable Strong attention to detail and administrative accuracy Positive, service-oriented mindset Ability to plan, prioritise, and multitask effectively Strong sense of accountability and responsibility Apply 171 people have viewed this job. Previous Next More Jobs at Raizcorp View All (26) Pas",
       "exact_post": true,
       "description": "The Business Exchange is seeking a highly organised, administration-focused and service-driven Reception & Office Administrator to manage the daily operations of one of our premium business centres. This role is central to ensuring a world-class experi... Reception & office administrator, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Reception & office administrator Cape Town Salary: R10 000.00 - R15 000.00 Per Month Job Type: Permanent Sectors: Call Centre Management Reference: 209661 Apply before Nov 28 2026 | 31 Days left Apply External Application Vacancy Details Employer: Raizcorp The Business Exchange is seeking a highly organised, administration-focused and service-driven Reception & Office Administrator to manage the daily operations of one of our premium business centres. This role i"
     },
     {
-      "id": "4b36f973972fda08",
+      "id": "421fed290ff2e9f3",
       "title": "Outbound Client Care Consultant (VAPS)",
       "company": "King Price Group",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396398-outbound-client-care-consultant-vaps-pretoria/?jobindex=4",
-      "found_at": "2026-10-29T00:16:11.022452+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396398-outbound-client-care-consultant-vaps-pretoria/?jobindex=7",
+      "found_at": "2026-10-29T05:53:33.423764+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -145,13 +229,13 @@
       "description": "We’ve got a position available for an outbound client care consultant - value added products Company: King Price Purpose of the position: Providing superior service to internal and external clients. Selling value added products in order to retain ex... Outbound Client Care Consultant (VAPS), Pretoria - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Outbound Client Care Consultant (VAPS) Pretoria Salary: Market Related Job Type: Permanent Sectors: Insurance Sales Reference: 209442 Apply before Oct 30 2026 | 2 Days left Apply Vacancy Details Employer: King Price Group We’ve got a position available for an outbound client care consultant - value added products Company: King Price Purpose of the position: Providing superior service to internal and external clients. Selling value added products in order to retain e"
     },
     {
-      "id": "20afba15289f1166",
+      "id": "706f44a7fc41c1ea",
       "title": "Outbound Client Care Consultant",
       "company": "King Price Group",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396397-outbound-client-care-consultant-pretoria/?jobindex=5",
-      "found_at": "2026-10-29T00:16:11.409240+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396397-outbound-client-care-consultant-pretoria/?jobindex=8",
+      "found_at": "2026-10-29T05:53:33.856522+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -173,13 +257,13 @@
       "description": "We’ve got a position available for an outbound client care consultant Company: King Price Purpose of position: Providing superior service to internal and external clients. Selling products to retain existing clients and attract new business for the org... Outbound Client Care Consultant, Pretoria - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Outbound Client Care Consultant Pretoria Salary: Market Related Job Type: Permanent Sectors: Insurance Sales Reference: 209319 Apply before Oct 30 2026 | 2 Days left Apply Vacancy Details Employer: King Price Group We’ve got a position available for an outbound client care consultant Company: King Price Purpose of position: Providing superior service to internal and external clients. Selling products to retain existing clients and attract new business for the organisati"
     },
     {
-      "id": "6f62a34d0188cfc5",
+      "id": "11077f7bc17161f0",
       "title": "Accountant (Fruit Industry)",
       "company": "M3 Human Capital Management",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396396-accountant-fruit-industry-western-cape/?jobindex=6",
-      "found_at": "2026-10-29T00:16:11.854465+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396396-accountant-fruit-industry-western-cape/?jobindex=9",
+      "found_at": "2026-10-29T05:53:34.287262+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -201,13 +285,13 @@
       "description": "Our client, operating in the fruit industry with their head office based in Wellington, currently has a Accountant position available. The ideal candidate is motivated and detail-oriented team player with excellent accounting knowledge, strong interp... Accountant (Fruit Industry), Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Accountant (Fruit Industry) Western Cape Salary: On Application Job Type: Permanent Sectors: Agriculture Reference: M5829 Apply before Nov 11 2026 | 14 Days left Apply External Application Vacancy Details Employer: M3 Human Capital Management Our client, operating in the fruit industry with their head office based in Wellington, currently has a Accountant position available. The ideal candidate is motivated and detail-oriented team player with excellent accounting knowledge, strong"
     },
     {
-      "id": "9817894634ef06c1",
+      "id": "ae4eaf16e25e8aa3",
       "title": "Finance Clerk",
       "company": "M3 Human Capital Management",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396395-finance-clerk-western-cape/?jobindex=7",
-      "found_at": "2026-10-29T00:16:12.275999+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396395-finance-clerk-western-cape/?jobindex=10",
+      "found_at": "2026-10-29T05:53:34.696381+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -227,90 +311,6 @@
       "requirements": ", skills and experience: • Diploma or Degree in Finance or Accounting; • Experience in a similar role will be advantageous, but recent graduates looking to start their career are welcome to apply; • Excellent computer skills (specifically MS Excel); • Fully bilingual (Afrikaans and English); • Own reliable transport. Please apply online at www.m3online.co.za before 09:00 on 11 November 2026. For general enquiries, contact our team at M3 Human Capital Management on 021 863 1444. Please note that only shortlisted candidates are contacted. If no feedback is received within two weeks of the",
       "exact_post": true,
       "description": "Our client, operating in the fruit industry with their head office based in Wellington, has a position available for a Finance Clerk. The ideal candidate is motivated and detail-oriented team player with strong interpersonal skills, attention to detai... Finance Clerk , Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Finance Clerk Western Cape Salary: On Application Job Type: Permanent Sectors: Agriculture Reference: M5828 Apply before Nov 11 2026 | 14 Days left Apply External Application Vacancy Details Employer: M3 Human Capital Management Our client, operating in the fruit industry with their head office based in Wellington, has a position available for a Finance Clerk. The ideal candidate is motivated and detail-oriented team player with strong interpersonal skills, attention to detail, and the ability"
-    },
-    {
-      "id": "383b00c2b3cf736d",
-      "title": "Data Engineer",
-      "company": "Tumaini Consulting",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396394-data-engineer-cape-town/?jobindex=8",
-      "found_at": "2026-10-29T00:16:12.808880+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Engineering & Trades",
-      "location": "Cape Town, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-12-27",
-      "salary": "R60000 MONTH",
-      "job_type": "Full Time",
-      "requirements": "· Bachelor's degree in computer science, Information Systems, or a related field · Proficiency in Python and SQL · Strong command of da... Data Engineer, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Data Engineer Cape Town Salary: R60 000.00 - R65 000.00 Per Month Job Type: Permanent Sectors: IT Reference: Data Engineer Apply before Dec 27 2026 | 60 Days left Apply Vacancy Details Employer: Tumaini Consulting My client is looking for a Data Engineer to join their dynamic team. Requirements: · Bachelor's degree in computer science, Information Systems, or a related field · Proficiency in Python and SQL · Strong command of data engineering concepts, including ETL/ELT pipelines · Hands-on experience with cloud platforms such as Amazon Web Services, Microsoft Azure, or Google Cloud · Practical experience working with big data technologies · Proficiency in Linux environments and scripting · Strong understanding of DevOps principles and automation practices · Proven problem-solving capabilit",
-      "exact_post": true,
-      "description": "My client is looking for a Data Engineer to join their dynamic team. Requirements: · Bachelor's degree in computer science, Information Systems, or a related field · Proficiency in Python and SQL · Strong command of da... Data Engineer, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Data Engineer Cape Town Salary: R60 000.00 - R65 000.00 Per Month Job Type: Permanent Sectors: IT Reference: Data Engineer Apply before Dec 27 2026 | 60 Days left Apply Vacancy Details Employer: Tumaini Consulting My client is looking for a Data Engineer to join their dynamic team. Requirements: · Bachelor's degree in computer science, Information Systems, or a related field · Proficiency in Python and SQL · Strong command of data engineering concepts, including ETL/ELT pipelines · Hands-on experience with cloud pl"
-    },
-    {
-      "id": "c99d496ef3cb4200",
-      "title": "Warehouse and Distribution Manager",
-      "company": "Unique Personnel",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396393-warehouse-and-distribution-manager-south-africa/?jobindex=9",
-      "found_at": "2026-10-29T00:16:13.372896+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Drivers & Logistics",
-      "location": "ZA, ZA",
-      "province": "Gauteng",
-      "closing_date": "2026-11-27",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": ". Ensure any hazardous materials are stored in accordance with requirements. Establish, monitor and maintain high standards of security in the warehouse by setting security procedures. Ensure effective management of the labelling machine. Continuously liaise with Value 4pl partner in terms of daily planning and deliveries Stock Management and Control: Oversee all stock receipts onto the system. Investigate stock variances and recommend rectification plan Compliance: Operates within controls and procedures in order to ensure the integrity of the company. Identifies and monitors risks within own department and area of responsibility. Assists in the maintenance of a risk register, report discrepancies or areas of concern to management. Ensures compliance with all relevant regulations and policy frameworks to prevent fruitless, wasteful and irregular expenditure. Provide a safe working environment, adhering to Health, Safety and Environmental procedures and ensuring they are understood and practiced by the team at all times. Maintain safe and healthy work environment by establishing, following, and enforcing standards and procedures, complying with legal regulations Customer Service Ma",
-      "exact_post": true,
-      "description": "Reporting to the Regional Manager Direct Subordinates: Warehouse Supervisor, Warehouse Debriefing Clerk Job Purpose To ensure operational efficiencies and optimizsation levels are achieved in the warehouse and distribution environment whilst maintaini... Minimum Qualifications: Diploma in Warehouse Management / Distribution / Logistics (NQF 6) Advantageous: Bachelor’s Degree in Warehouse Management / Distribution / Logistics (NQF 7) Experience: 5 years’ experience in Warehouse or Distribution / Logistics in a Manufacturing environment of which: Up to 3 years should be at Supervisory level Computer Literacy (MS Office Suite; other relevant discipline-specific software programs). Knowledge of Warehousing and Distribution processes and procedures Must have solid supervisory skills and experience in leading and managing teams Warehouse and Distribution Manager, South Africa - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name "
-    },
-    {
-      "id": "6f2acd2e42f7df53",
-      "title": "Cleaner",
-      "company": "Brights Hardware",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396392-cleaner-housekeeping-department-western-cape/?jobindex=10",
-      "found_at": "2026-10-29T00:16:13.797693+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Cleaners & General Workers",
-      "location": "Western Cape, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-11-11",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "Matric equivalent or Recognition for Prior Learning Ability to clean efficiently and effectively Have a good understanding of proper hygiene & good housekeeping Ability to be flexible and perform good teamwork with other colleagues Communication skills Kindly note that if you are not contacted within 2 weeks after the",
-      "exact_post": true,
-      "description": "Purpose: The purpose of this job is to provide a high standard of hygiene in such a manner as to ensure proper upkeep of good housekeeping and cleaning, therefore good service delivery and maintaining good customer service in order to eliminate dirt an... Cleaner - Housekeeping Department, Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Cleaner - Housekeeping Department Western Cape Salary: Market Related Job Type: Permanent Sectors: General Retail Reference: 209652 Apply before Nov 11 2026 | 14 Days left Apply Vacancy Details Employer: Brights Hardware Purpose: The purpose of this job is to provide a high standard of hygiene in such a manner as to ensure proper upkeep of good housekeeping and cleaning, therefore good service delivery and maintaining good customer service in order to eliminate dirt and unt"
     }
   ]
 }
