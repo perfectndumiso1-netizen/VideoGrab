@@ -1,15 +1,11 @@
 {
-  "generated_at": "2026-10-30T08:54:25.285466+00:00",
+  "generated_at": "2026-10-30T15:31:35.983273+00:00",
   "version": "2.4",
   "stats": {
-    "total": 10,
+    "total": 9,
     "verified_official": 0
   },
   "groups": [
-    {
-      "category": "Drivers & Logistics",
-      "count": 3
-    },
     {
       "category": "Banking & Finance",
       "count": 2
@@ -19,111 +15,35 @@
       "count": 2
     },
     {
-      "category": "Education",
-      "count": 1
-    },
-    {
       "category": "Office & Admin",
       "count": 1
     },
     {
-      "category": "Learnerships & Internships",
+      "category": "Healthcare",
+      "count": 1
+    },
+    {
+      "category": "Education",
+      "count": 1
+    },
+    {
+      "category": "Drivers & Logistics",
+      "count": 1
+    },
+    {
+      "category": "Engineering & Trades",
       "count": 1
     }
   ],
   "jobs": [
     {
-      "id": "ebc4f085301e1f09",
-      "title": "Project Manager I Payments I Contract",
-      "company": "iqbusiness South Africa",
+      "id": "dbeffbaf20e18265",
+      "title": "Liberty",
+      "company": "EQ-FIN",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/now-hiring/5075-iqbusiness-south-africa/jobs/adverts/2396637-project-manager-i-payments-i-contract-johannesburg/?jobindex=1",
-      "found_at": "2026-10-30T08:53:45.117979+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Drivers & Logistics",
-      "location": "Johannesburg, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-11-30",
-      "salary": "",
-      "job_type": "Contractor",
-      "requirements": "",
-      "exact_post": true,
-      "description": "Role Summary iqbusiness is seeking an experienced Project Manager with Payments experience for contracting opportunities. We are looking for a hands-on delivery professional with proven experience managing payments-related projects within a banking or ... Project Manager I Payments I Contract, Johannesburg - Careers24 11 Live Jobs Home / Job Search / South Africa / Gauteng Back to Search Results Project Manager I Payments I Contract Johannesburg Salary: Market Related Job Type: Contract Sectors: Investment Management Reference: 209941 Apply before Nov 30 2026 | 32 Days left Apply Vacancy Details Employer: iqbusiness South Africa Role Summary iqbusiness is seeking an experienced Project Manager with Payments experience for contracting opportunities. We are looking for a hands-on delivery professional with proven experience managing payments-related projects within a banking or financial services environment. The ideal candidate will be comfortable driving projects from initiation throug"
-    },
-    {
-      "id": "fb914d4a7135b211",
-      "title": "Wembley College: Senior Boarding House Parent",
-      "company": "Plennegy (Pty) Ltd",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396636-wembley-college-senior-boarding-house-parent-kwazulu-natal/?jobindex=2",
-      "found_at": "2026-10-30T08:53:45.567850+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Education",
-      "location": "KwaZulu-Natal, KwaZulu-Natal",
-      "province": "KwaZulu-Natal",
-      "closing_date": "2026-11-28",
-      "salary": "r 10pm",
-      "job_type": "Full Time",
-      "requirements": "REQUIREMENTS: Matric. Certification in child related courses. Clear Criminal Record. Good with children of all ages. 1 - 2 years of previous boarding establishment experience (Preferrable). Drivers License. Apply Previous Next About Plennegy (Pty) Ltd Plennegy (Pty) Ltd was founded in 1955 and is both a trading and holding company with its core business being related to agriculture and property investments. Together with its associated companies, the group develops, produces and distributes seed, as well as supplies farming equipment, fuel and vehicles to the agricultural and retail industries. With a reach that extrends across South Africa, Africa and over fifty countries worldwide, we are committed to an extensive research program to continually develop new seeds and products, improved farming practices and the provision of superior agricultural solutions and service. More Jobs at Plennegy (Pty) Ltd Starke Ayres: Cashier (Talent Pool; Cape Town; Rosebank) Cape Town CBD Job Type: Contract Posted 15 Oct 2026 | 15 Days left Plennegy Research: Research Field Assistant Western Cape Job Type: Permanent Posted 14 Oct 2026 | 14 Days left Triton Truck and Trailer: Dealer Administrator M",
-      "exact_post": true,
-      "description": "Introduction: Wembley College is a leading, English Medium, co-educational, independent school situated on a beautiful campus amongst the rolling hills of Greytown in the KwaZulu Natal Midlands. An hour from Pietermaritzburg and an hour from Ballito m... Wembley College: Senior Boarding House Parent, KwaZulu-Natal - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Wembley College: Senior Boarding House Parent KwaZulu-Natal Salary: Market Related Job Type: Permanent Sectors: Education Reference: S101001 Apply before Nov 28 2026 | 30 Days left Apply External Application Vacancy Details Employer: Plennegy (Pty) Ltd Introduction: Wembley College is a leading, English Medium, co-educational, independent school situated on a beautiful campus amongst the rolling hills of Greytown in the KwaZulu Natal Midlands. An hour from Piete"
-    },
-    {
-      "id": "827f5da1d16e596c",
-      "title": "Marketing Specialist",
-      "company": "Lesaka Technologies",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396635-marketing-specialist-durban/?jobindex=3",
-      "found_at": "2026-10-30T08:53:45.948323+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Drivers & Logistics",
-      "location": "Durban, KwaZulu-Natal",
-      "province": "KwaZulu-Natal",
-      "closing_date": "2026-12-29",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "Qualifications Bachelor’s degree or national diploma in Graphic Design, Visual Communication, Marketing or a related field (NQF level 6 or higher). A recognised marketing qualification is an advantage. Experience At least 5 years’ graphic design experience in a marketing, advertising or corporate environment, with a strong portfolio. At least 2 years in a supervisory or management role, leading a creative or marketing team. Proven experience managing a corporate identity and enforcing brand guidelines. Hands-on experience sourcing and managing print, signage and promotional-material suppliers, including quotations and budgets. Experience in fintech, prepaid, retail or utilities marketing is an advantage. Technical skills Expert in Adobe Creative Suite (Photoshop, Illustrator, InDesign); working knowledge of Figma or similar, and basic video or motion editing. Sound knowledge of print production, colour management, file preparation and finishing processes. Working knowledge of digital and social media design, and of web banner and email formats. Proficient in Microsoft Office (Excel and PowerPoint in particular) for budgets, reporting and presentations. Other Valid driver’s licence",
-      "exact_post": true,
-      "description": "is office-based in Durban, with occasional travel to suppliers, events and other company sites, and occasional work outside normal hours to meet campaign deadlines. Lesaka is committed to employment equity. In line with the Employment Equity Act and our equity plan, preference may be given to suitably qualified candidates from designated groups. This job specification does not form part of the employment contract and may be updated as the business unit’s needs change . Apply Previous Next Similar Jobs Senior SEO/SEM Digital Marketing Specialist Gauteng Job Type: Permanent Posted 21 Sep 2026 | 22 Days left More Jobs at Lesaka Technologies View All (23) Team Leader (Acornhoek) Mpumalanga Job Type: Permanent Posted 28 Oct 2026 | 13 Days left Sales and Service Consultant ( Westrand Vaal) Vereeniging Job Type: Permanent Posted 27 Oct 2026 | 5 Days left Sales and Service Consultant ( Tshwane) Gauteng Job Type: Permanent Posted 27 Oct 2026 | 5 Days left Sales and Service Consultant (Westbury) Johannesburg Job Type: Permanent Posted 27 Oct 2026 | 5 Days left"
-    },
-    {
-      "id": "068045fa2bed38a5",
-      "title": "Tax Technical Research Specialist",
-      "company": "Blum And Hofmeyr",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396634-tax-technical-research-specialist-johannesburg/?jobindex=4",
-      "found_at": "2026-10-30T08:53:46.839166+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396818-liberty-wealth-planner-training-from-1st-day-western-cape/?jobindex=1",
+      "found_at": "2026-10-30T15:30:55.584188+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -135,51 +55,23 @@
         "warnings": []
       },
       "category": "Banking & Finance",
-      "location": "Johannesburg, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-12-29",
-      "salary": "R1000 MONTH",
-      "job_type": "Full Time",
-      "requirements": "Provide expert techncial guidance to curren and prospective clients on withholding tax recovery strategies and claim eligibility. Tax Office Queries Training and knowledge sharing Candidate Requirements Honours degree in Accounting, Taxation, Law, Finance or related field. A master's degree is a plus Technical knowledge, strong understanding of taxation principles, with a focus on Double Taxation Treaties, EU tax regulations, and ECJ case law preferred. Analytical skills Exceptional written and verbal communication skills, with the ability to translate techncial information for diverse audiences. Teamwork Attention to detail, high level of accuracy in research, documentation, and execution Apply Previous Next More Jobs at Blum And Hofmeyr View All (49) FRENCH CLIENT SERVICE EXECUTIVE Johannesburg Job Type: Permanent Posted 30 Oct 2026 | 61 Days left Store Ambassador Gauteng Job Type: Permanent Posted 26 Oct 2026 | 57 Days left Marketing and Communications Manager KwaZulu-Natal Job Type: Permanent Posted 23 Oct 2026 | 54 Days left Marketing and Communications Manager Western Cape Job Type: Permanent Posted 23 Oct 2026 | 54 Days left",
-      "exact_post": true,
-      "description": "Conduct in-depth research on international tax treaties,domestic tax laws, and EU directives relevant to withholding tax reclaims Work closely with internal teams, including Sales, Client Servies and Operations Partner with external tax advisors and ... Honours degree in Accounting, Taxation, Law, Finance or related field. A master's degree is a plus Technical knowledge, strong understanding of taxation principles, with a focus on Double Taxation Treaties, EU tax regulations, and ECJ case law preferred. Analytical skills Exceptional written and verbal communication skills, with the ability to translate techncial information for diverse audiences. Teamwork Attention to detail, high level of accuracy in research, documentation, and execution Tax Technical Research Specialist, Johannesburg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gaute"
-    },
-    {
-      "id": "d6b0268e3e30c981",
-      "title": "Management Accountant (Costing)",
-      "company": "Recruitpro Solutions",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396632-management-accountant-costing-east-rand/?jobindex=5",
-      "found_at": "2026-10-30T08:53:47.232923+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Banking & Finance",
-      "location": "East Rand, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-11-30",
+      "location": "Western Cape, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-10-31",
       "salary": "",
       "job_type": "Full Time",
-      "requirements": "CIMA (CGMA) qualified BCom Accounting, BCom Cost & Management Accounting or an equivalent degree 5–8 years' costing experience in a manufacturing environment, including standard costing and inventory valuation Strong knowledge of standard and actual costing, overhead absorption, variance analysis and inventory valuation Hands-on ERP experience (SYSPRO an advantage) and advanced Excel Advantageous Experience in a mining or mining-supply environment SQL or Power BI Experience with multi-entity, imported or international cost bases A track record of improving processes, and practical use of AI-enabled tools Apply 2 people have viewed this job. Previous Next More Jobs at Recruitpro Solutions View All (48) Plant Engineering Manager East Rand Job Type: Permanent Posted 29 Oct 2026 | 31 Days left Process Engineer (Business Development) East Rand Job Type: Permanent Posted 29 Oct 2026 | 31 Days left Document Controller East Rand Job Type: Permanent Posted 29 Oct 2026 | 9 Days left Project Management Administrator East Rand Job Type: Permanent Posted 29 Oct 2026 | 9 Days left",
+      "requirements": "Before applying, you'll need: ✅ South African ID ✅ Matric certificate ✅ Own reliable vehicle ✅ Clear credit record (no listed debt) ✅ No criminal record ✅ Laptop and cell phone is essential ✅ Min 3 years working experience Apply 2 people have viewed this job. Previous Next About EQ-FIN EQ-FIN is an outsourced assurance management company which represents Liberty Life and Stanlib in the South African financial services industry. While we distribute Liberty life insurance and risk products, retirement planning solutions, short and long-term savings products, medical aids and corporate",
       "exact_post": true,
-      "description": "This position is based at a manufacturing company in CenturionThis is a senior, hands-on role reporting to the Group Financial Manager. This person will work closely with engineering, production and procurement in a finance team Management Accountant (Costing), East Rand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Management Accountant (Costing) East Rand Salary: Market Related Job Type: Permanent Sectors: Finance Reference: Rec000403/JG Apply before Nov 30 2026 | 32 Days left Apply External Application Vacancy Details Employer: Recruitpro Solutions This position is based at a manufacturing company in CenturionThis is a senior, hands-on role reporting to the Group Financial Manager. This person will work closely with engineering, production and procurement in a finance team Key responsibilities Standard c"
+      "description": "What if your next career move isn't in the same industry you're in today? Let's be honest. Most people don't wake up one morning and decide they want to become a Wealth Planner. In fact, many of the most successful advisers at Liberty started their ... Before applying, you'll need: ✅ South African ID ✅ Matric certificate ✅ Own reliable vehicle ✅ Clear credit record (no listed debt) ✅ No criminal record ✅ Laptop and cell phone is essential ✅ Min 3 years working experience Liberty | Wealth Planner | Training from 1st day, Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Liberty | Wealth Planner | Training from 1st day Western Cape Salary: Market Related Bonus: Yes Job Type: Permanent Sectors: Procurement Benefits: Bonus Training Reference: Procurement Apply before Oct 31 2026 | 2 Days left Apply Vacancy Detai"
     },
     {
-      "id": "eaf9f342568f9228",
-      "title": "Marketing Manager",
-      "company": "Status Staffing",
+      "id": "a774af539a85bf32",
+      "title": "Finance and Administration Officer",
+      "company": "Tailormade Solution",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396286-marketing-manager-cape-town/?jobindex=6",
-      "found_at": "2026-10-30T08:53:47.690292+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396817-finance-and-administration-officer-south-africa/?jobindex=3",
+      "found_at": "2026-10-30T15:30:57.285856+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -191,23 +83,23 @@
         "warnings": []
       },
       "category": "Office & Admin",
-      "location": "Cape Town, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-11-29",
-      "salary": "R70 000",
+      "location": "ZA, ZA",
+      "province": "Gauteng",
+      "closing_date": "2026-12-29",
+      "salary": "R12000 MONTH",
       "job_type": "Full Time",
-      "requirements": "Relevant tertiary qualification in Marketing, Business, Communications, or a related field. A minimum of 5–7 years of marketing experience, including at least 2–3 years in a marketing management or senior leadership role. Experience in FMCG, food, ingredients, manufacturing, or a related industry would be advantageous. Proven managerial experience, including the ability to manage people, agencies, marketing campaigns, and budgets. A sound understanding of marketing principles, brand management, trade marketing, digital marketing, and customer marketing. Experience working closely with sales teams in a commercially driven environment. Strong analytical skills, with the ability to evaluate marketing performance, interpret data, and translate insights into actionable strategies. Excellent project management, organisational, and communication skills. Proficiency in Microsoft Office, particularly Outlook, and experience using relevant business systems. A strong understanding of the FMCG industry would be advantageous. Confident leader: Able to manage a team, make decisions, and take accountability with minimal supervision. Commercially minded: Understands how marketing contributes to",
+      "requirements": "Grade 12 / Matric is essential. - Minimum 2 years' practical experience in bookkeeping, accounts or a similar finance role. - Experience with bank reconciliations, debtors, creditors, VAT processing and monthly reporting. - Good understanding of budget-versus-actual reporting and cash flow forecasting. - Experience using Odoo, Sage Pastel or a comparable accounting package. - Strong Microsoft Excel skills, including formulas, lookups and pivot tables. - Excellent numerical accuracy and attention to detail. - Good written and verbal communication skills. - Ability to work independently, maintain confidentiality and meet deadlines. Advantageous - Relevant bookkeeping or accounting qualification. - Experience in the skills development, training or SETA environment. - Exposure to project-based financial administration. Apply If you have practical bookkeeping experience and are confident managing a broad finance and administration function, we would like to hear from you. Please submit your updated CV, detailing your relevant accounting experience and software exposure. Apply 1 person has viewed this job. Previous Next About Tailormade Solution Our Strength lies in our passion for pe",
       "exact_post": true,
-      "description": "Our client, based in Epping, Cape Town, is seeking an experienced Marketing Manager to drive brand growth and lead marketing strategies within the FMCG sector. The ideal candidate will have a relevant tertiary qualification, 5–7 years of marketing experience, including 2–3 years in a management role, and strong knowledge of brand management, digital and trade marketing. Experience in FMCG, food, or manufacturing is advantageous. Strong leadership, analytical, organisational, and communication skills, as well as proficiency in Microsoft Office, are essential. Marketing Manager, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Marketing Manager Cape Town Salary: Market Related Job Type: Permanent Sectors: Marketing Management Reference: PC002185/AC Apply before Nov 29 2026 | 30 Days left Apply Ext"
+      "description": "We are seeking a capable and detail-oriented Finance and Administration... Finance and Administration Officer, South Africa - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search Back to Search Results Finance and Administration Officer South Africa Salary: R12 000.00 - R15 000.00 Per Month Job Type: Permanent Sectors: Accounting Education Reference: fd6cf494-a32b-44a5-9db0-c64789bb027a Apply before Dec 29 2026 | 61 Days left Apply External Application Vacancy Details Employer: Tailormade Solution Finance and Administration Officer Location: Durban, KwaZulu-Natal Salary: R12,000 – R15,000 gross per month, depending on experience Employment Type: Full-time"
     },
     {
-      "id": "9eb3d1ea1c9aae0d",
-      "title": "Internal Sales Rep",
-      "company": "Status Staffing",
+      "id": "007252de1859ba79",
+      "title": "Clinic Nurse Practitioner",
+      "company": "Dis-Chem Pharmacies Limited",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2393260-internal-sales-rep-cape-town-cape-town/?jobindex=7",
-      "found_at": "2026-10-30T08:53:48.215819+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396816-clinic-nurse-practitioner-cornubia-umhlanga/?jobindex=4",
+      "found_at": "2026-10-30T15:30:58.520700+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -218,24 +110,24 @@
         ],
         "warnings": []
       },
-      "category": "Learnerships & Internships",
-      "location": "Cape Town, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-11-29",
-      "salary": "R5260.00",
+      "category": "Healthcare",
+      "location": "Durban Northern Suburbs, KwaZulu-Natal",
+      "province": "KwaZulu-Natal",
+      "closing_date": "2026-11-13",
+      "salary": "",
       "job_type": "Full Time",
-      "requirements": "Matric. Minimum of 5 years’ experience in the sanitaryware industry. Extensive product knowledge of sanitaryware. Retail showroom experience. Excellent customer service skills. Strong sales ability. Proficiency in MS Office and computer skills. Above-average verbal and written English communication skills. Willingness to work weekends and public holidays. Excellent timekeeping, a strong work ethic, and a good attendance record. DUTIES: Provide efficient and effective service to all customers visiting the store. Build strong customer relationships through professional and friendly service. Understand customers’ project requirements and recommend suitable products. Provide customers with the necessary application and technical information regarding the sanitaryware product range. Guide customers through complete bathroom solutions rather than focusing on individual products. Apply sales and marketing techniques to encourage purchases, upselling, and the promotion of additional products. Process customer orders and explain the relevant procedures, including payment at the cashier, delivery arrangements, and dispatch. Conduct telesales and follow up on outstanding orders, quotations,",
+      "requirements": "Essential: Grade 12 – Matric Tertiary qualification in General Nursing Degree/Diploma in Midwifery Registered with South African Nursing Council (SANC) Nursing practitioner must obtain BHF registration 2-3 years’ experience in practicing as a Primary Health Care Clinic Sister Computer skills – Microsoft Office: Word, Excel, PowerPoint and Outlook. Advantageous: Minimum 5 years practicing as a Primary Health Care Sister Patient Record System & CKS & Allegra Job Description: Perform Clinic Sister duties according to industry regulations and industry best Manage the average “feet-per-hour” rate and set clinic objectives to enhance patient Ensure all clinic services are available at the Keep accurate records of patient details, and ensure communication is followed up Ensure that the Clinic is open and operational according to the hours stated in the operational Process claims accurately and timeously according to industry Ensure all stock and equipment in the clinic is in a working condition according to industry Ensure stock is sufficient in the Clinic according to business Build and maintain healthy relationships with the following stakeholders: Patients, Store and Dispensary Manag",
       "exact_post": true,
-      "description": "Our client is seeking an experienced Internal Sales Representative to join their team in Cape Town. The ideal candidate will have a minimum of 5 years’ experience in the sanitaryware industry, extensive product knowledge, and previous retail showroom experience. Strong sales ability, excellent customer service skills, and good computer and communication skills are essential for success in this role. The successful candidate must be willing to work weekends and public holidays and demonstrate excellent timekeeping, a strong work ethic, and a reliable attendance record. Internal Sales Rep - Cape Town, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Internal Sales Rep - Cape Town Cape Town Salary: Market Related Job Type: Permanent Sectors: Sales Reference: PC002177/MB Apply before Nov 29 2026 | 3"
+      "description": "Perform Clinic Sister duties according to industry regulations and industry best Manage the average “feet-per-hour” rate and set clinic objectives to enhance patient Ensure all clinic services are available at the Keep accurate records of patient details, and ensure communication is followed up Ensure that the Clinic is open and operational according to the hours stated in the operational Process claims accurately and timeously according to industry Ensure all stock and equipment in the clinic is in a working condition according to industry Ensure stock is sufficient in the Clinic according to business Build and maintain healthy relationships with the following stakeholders: Patients, Store and Dispensary Manager, Colleagues, Medical Aids, Suppliers/Reps, key role players in the community, and other Healthcare Competencies: Essential: Knowledge of community health nursing, primary health care and/or occupational health nursing, family planning, cytology, IUD, pharmacology, EPI/cold chain management, STDs, emergency care, HIV/AIDS pre- and post-counseling, breastfeeding, pathology, wound care Quarterly CPD training; in-service training with Dis-Chem Strong command of English (writ"
     },
     {
-      "id": "fa8426ea4e76a17d",
-      "title": "External Retail Sales Assistant",
-      "company": "Status Staffing",
+      "id": "613f326f05027c87",
+      "title": "Merchandiser - Ballito (Talent Pool)",
+      "company": "Dis-Chem Pharmacies Limited",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2393702-external-retail-sales-assistant-sandton/?jobindex=8",
-      "found_at": "2026-10-30T08:53:48.688712+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396815-merchandiser-ballito-talent-pool-kwazulu-natal/?jobindex=5",
+      "found_at": "2026-10-30T15:30:59.012770+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -247,23 +139,107 @@
         "warnings": []
       },
       "category": "Cashiers & Retail",
-      "location": "Johannesburg, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-11-29",
+      "location": "KwaZulu-Natal, KwaZulu-Natal",
+      "province": "KwaZulu-Natal",
+      "closing_date": "2026-11-06",
       "salary": "",
-      "job_type": "Full Time",
-      "requirements": "Minimum of 3 years’ experience as a Sales Representative. At least 1 year of experience in the leather, upholstery, fabric, or hospitality industry. Matric certificate is essential. Tertiary education will be an advantage. A clear credit record is essential. Proven track record in sales, telemarketing, and customer service. Demonstrated ability to achieve targets and deliver required results. Self-motivated and proactive, with the ability to work independently and as part of a team. Strong time management and organisational skills. High level of emotional intelligence. Excellent relationship-building skills. Effective verbal and written communication skills. Proficiency in Microsoft Excel and Word. Own reliable vehicle and a valid driver’s license are essential. DUTIES: Service and maintain the active customer base assigned to you. Increase repeat business from the existing active customer base. Reactivate inactive customers and develop them into active customers. Identify and secure new business opportunities by sourcing prospective customers. Meet and exceed monthly sales targets. Complete all administrative tasks and adhere to the company’s policies and procedures. HOURS: Mond",
+      "job_type": "Contractor",
+      "requirements": "Essential: Grade 12 / Matric Up to 6 months’ retail experience Computer literate – MS Office Willing and able to work retail hours Advantageous: At least 1 year retail experience Job Description: Restock merchandise as needed to ensure maximum sales Ensure delivered stock/stock pulled from the storeroom, is stored and packed in the correct space timeously Ensure stock on shelves has not reached sell-by date Ensure the full range of products is on the shelves at all times Facilitate rotation of stock on a regular, FIFO basis Report low stock levels, out-of-stock items, damaged stock and expired stock to management Assist with counting of stock files and general stocktaking Adhere to Dis-Chem’s operating standards, store layout and planograms Ensure boxes are flattened after unpacking stock, and taken to the designated area Ensure front shop shelves and products are neatly presented and visible at all times, with correct labels and pricing Report all price discrepancies to management Keep abreast of current and new products Ensure merchandising displays are built, faced up, stocked and maintained Maintain daily physical upkeep of store and merchandise displays, and be responsible",
       "exact_post": true,
-      "description": "Our client, based in Woodstock, Cape Town, is seeking a motivated and results-driven External Retail Sales Assistant to join their team. The ideal candidate will have a minimum of 3 years’ sales representative experience, with at least 1 year of experience in the leather, upholstery, fabric, or hospitality industry. A Matric certificate and a clear credit record are essential, while tertiary education will be an advantage. External Retail Sales Assistant, Sandton - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng / Johannesburg Back to Search Results External Retail Sales Assistant Sandton Salary: Market Related Job Type: Permanent Sectors: Sales Reference: PC002178/MB Apply before Nov 29 2026 | 30 Days left Apply External Application Vacancy Details Employer: Status Staffing Our client, based in Woodstock, Cape Town, is seeking a mot"
+      "description": "Restock merchandise as needed to ensure maximum sales Ensure delivered stock/stock pulled from the storeroom, is stored and packed in the correct space timeously Ensure stock on shelves has not reached sell-by date Ensure the full range of products is on the shelves at all times Facilitate rotation of stock on a regular, FIFO basis Report low stock levels, out-of-stock items, damaged stock and expired stock to management Assist with counting of stock files and general stocktaking Adhere to Dis-Chem’s operating standards, store layout and planograms Ensure boxes are flattened after unpacking stock, and taken to the designated area Ensure front shop shelves and products are neatly presented and visible at all times, with correct labels and pricing Report all price discrepancies to management Keep abreast of current and new products Ensure merchandising displays are built, faced up, stocked and maintained Maintain daily physical upkeep of store and merchandise displays, and be responsible for your designated stock in the storeroom as well as on the shop floor Assist with loading and off-loading of stock Ensure items without barcodes are clearly marked Assist with back shopping Assis"
     },
     {
-      "id": "6941a358d5a80dc8",
-      "title": "Warehouse Manager",
-      "company": "Status Staffing",
+      "id": "642ab5891b3ca0c5",
+      "title": "Customer Experience Administrator Retail (Customer Experience department)",
+      "company": "Brights Hardware",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2394226-warehouse-manager-somerset-west/?jobindex=9",
-      "found_at": "2026-10-30T08:53:50.023993+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396814-customer-experience-administrator-retail-customer-experience-department-western-cape/?jobindex=6",
+      "found_at": "2026-10-30T15:30:59.363226+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Cashiers & Retail",
+      "location": "Western Cape, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-13",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Matric or Equivalent Brights Induction (service excellence) 1-2 Years minimum experience in a similar role (social media – Omnichannel Experience highly preferred) Ability to handle pressure Problem solving skills Ability to communicate effectively (verbal & written) at all levels, proficient in English (Great speaking voice) Planning, time management & organizing skills Excellent professional work standards, including grammar and oral proficiency Computer & Typing (minimum of 35 wpm) skills Decision making skills Willing to take on responsibility Attention to detail and high level of accuracy Professional and neat Available to work retail hours Kindly note that if you are not contacted within 2 weeks after the",
+      "exact_post": true,
+      "description": "Purpose: The purpose of this job is to effectively ensure exceptional customer service and experience across all the touchpoints of the Brights customer’s journey. The Customer Experience Administrator will offer support to customers who have questions... Customer Experience Administrator Retail (Customer Experience department), Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Customer Experience Administrator Retail (Customer Experience department) Western Cape Salary: Market Related Job Type: Permanent Sectors: Retail Sales Reference: 210026 Apply before Nov 13 2026 | 15 Days left Apply Vacancy Details Employer: Brights Hardware Purpose: The purpose of this job is to effectively ensure exceptional customer service and experience across all the touchpoints of the Brights customer’s journey. The Customer Ex"
+    },
+    {
+      "id": "626356671eafec56",
+      "title": "Cook Cape Town Job Type: Contract Posted: 30 Oct 2026 32 Days left",
+      "company": "Empact Group",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396813-cook-cape-town/?jobindex=7",
+      "found_at": "2026-10-30T15:30:59.922412+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Education",
+      "location": "Cape Town, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-30",
+      "salary": "",
+      "job_type": "Contractor",
+      "requirements": ". By applying for a role within Empact Group (Proprietary) Limited, all Personal Information that you provide to the Company will be held and/ or stored securely for the purpose of recruitment. Your Personal Information will be stored electronically in a database. Where appropriate, some information may be retained in hard copy. In either event, storage will be secure and audited regularly regarding the safety and security of the information in accordance with the Protection of Personal Information. Apply 16 people have viewed this job. Previous Next Similar Jobs Cook Western Cape Job Type: Contract Posted 01 Oct 2026 | 6 Hours left More Jobs at Empact Group View All (28) Financial Manager Sandton Job Type: Permanent Posted 29 Oct 2026 | 21 Days left Contract Manager - Commercial Cleaning Eastern Cape Job Type: Permanent Posted 26 Oct 2026 | 57 Days left Stores Manager Durban Job Type: Permanent Posted 26 Oct 2026 | 15 Days left Regional Manager Eastern Cape Job Type: Permanent Posted 26 Oct 2026 | 57 Days left",
+      "exact_post": true,
+      "description": "The Main Purpose of the job The successful applicant will be responsible for the preparation of food for daily kitchen production in order to provide quality food service. Education and Experience required: Minimum of 2 years’ experience as a Cook in... Cook, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Cook Cape Town Salary: Market Related Job Type: Contract Sectors: Hospitality General Reference: 210029 Apply before Nov 30 2026 | 32 Days left Apply Vacancy Details Employer: Empact Group The Main Purpose of the job The successful applicant will be responsible for the preparation of food for daily kitchen production in order to provide quality food service. Education and Experience required: Minimum of 2 years’ experience as a Cook in a contract catering environment is essential Customer Ser"
+    },
+    {
+      "id": "37f1ec7fdf6a5586",
+      "title": "Management Accountant (Costing)",
+      "company": "Recruitpro Solutions",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396632-management-accountant-costing-east-rand/?jobindex=8",
+      "found_at": "2026-10-30T15:31:00.294723+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "East Rand, Gauteng",
+      "province": "Gauteng",
+      "closing_date": "2026-11-30",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "CIMA (CGMA) qualified BCom Accounting, BCom Cost & Management Accounting or an equivalent degree 5–8 years' costing experience in a manufacturing environment, including standard costing and inventory valuation Strong knowledge of standard and actual costing, overhead absorption, variance analysis and inventory valuation Hands-on ERP experience (SYSPRO an advantage) and advanced Excel Advantageous Experience in a mining or mining-supply environment SQL or Power BI Experience with multi-entity, imported or international cost bases A track record of improving processes, and practical use of AI-enabled tools Apply 89 people have viewed this job. Previous Next More Jobs at Recruitpro Solutions View All (48) Plant Engineering Manager East Rand Job Type: Permanent Posted 29 Oct 2026 | 31 Days left Process Engineer (Business Development) East Rand Job Type: Permanent Posted 29 Oct 2026 | 31 Days left Project Engineer East Rand Job Type: Permanent Posted 29 Oct 2026 | 31 Days left Senior Mechanical Design Engineer Centurion Job Type: Permanent Posted 29 Oct 2026 | 31 Days left",
+      "exact_post": true,
+      "description": "This position is based at a manufacturing company in CenturionThis is a senior, hands-on role reporting to the Group Financial Manager. This person will work closely with engineering, production and procurement in a finance team Management Accountant (Costing), East Rand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Management Accountant (Costing) East Rand Salary: Market Related Job Type: Permanent Sectors: Finance Reference: Rec000403/JG Apply before Nov 30 2026 | 31 Days left Apply External Application Vacancy Details Employer: Recruitpro Solutions This position is based at a manufacturing company in CenturionThis is a senior, hands-on role reporting to the Group Financial Manager. This person will work closely with engineering, production and procurement in a finance team Key responsibilities Standard c"
+    },
+    {
+      "id": "3a4af0ee51a3c268",
+      "title": "Forklift Technician with QCTO Auto Electrician, Diesel Mechanic, or Millwright.",
+      "company": "West Coast Personnel",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2386371-forklift-technician-with-qcto-auto-electrician-diesel-mechanic-or-millwright-cape-winelands/?jobindex=9",
+      "found_at": "2026-10-30T15:31:01.054918+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -275,23 +251,23 @@
         "warnings": []
       },
       "category": "Drivers & Logistics",
-      "location": "Helderberg, Western Cape",
+      "location": "Cape Winelands, Western Cape",
       "province": "Western Cape",
-      "closing_date": "2026-11-29",
-      "salary": "R40 000.00",
+      "closing_date": "2026-12-13",
+      "salary": "R2028 MONTH",
       "job_type": "Full Time",
-      "requirements": "Qualification in Warehouse Management, Supply Chain, Logistics or a related field. Minimum 5 years’ relevant industry experience. 3–5 years’ experience in a supervisory role (non-negotiable). Minimum 3 years’ experience working with Sage and stock management systems (non-negotiable); Sage X3 experience is advantageous. Proven experience managing a multi-shift warehouse within a cold-chain or food environment. Working knowledge of FSSC 22000, HACCP and Good Manufacturing Practice (GMP) requirements. Experience in stock control using an ERP system, including cycle counting, FEFO (First Expired, First Out) and batch traceability. Proven ability to lead teams through supervisors, including performance management and disciplinary processes in line with applicable labour legislation. Experience preparing, managing and controlling a departmental budget. Proficiency in MS Office. Experience in delivery fleet routing and optimization. Experience managing third-party or external cold-storage facilities against agreed Service Level Agreements (SLAs). Experience managing warehouse operations across multiple sites. Knowledge of quality assurance and process improvement. Experience in equipmen",
+      "requirements": ", employment history and all relevant details. Reference checks according to competencies. Suitability for position. West Coast Personnel Permanent Placements Having an impressive database of approved candidates, we search the marketplace to find you the best candidate. Our personalized service means that we actually sit down to find out what precisely you need, and through proven processes, ensure that the right person is chosen for the job. Filling your gaps! West Coast Personnel Temps Our Temps are the perfect staffing solution. Clients hire professional skills per hour and have access to flexible, no-fuss employees at competitive rates; we take care of the complete payroll administration and offer negotiable Temp to Perm Placement fees. More Jobs at West Coast Personnel View All (114) Yard Foreman Stellenbosch Job Type: Permanent Posted 29 Oct 2026 | 29 Days left MECHANICAL TRADE-TESTED FITTER & TURNER Cape Town Job Type: Permanent Posted 29 Oct 2026 | 29 Days left Junior Electrical Apprentice - Cape Town Bellville Job Type: Permanent Posted 29 Oct 2026 | 28 Days left Junior Electrical Apprentice - Johannesburg Sandton Job Type: Permanent Posted 29 Oct 2026 | 28 Days left",
       "exact_post": true,
-      "description": "Our client in Somerset West, Cape Town, is seeking an experienced Warehouse Manager to oversee warehouse operations in a fast-paced environment. The ideal candidate will hold a qualification in Warehouse Management, Supply Chain, Logistics or a related field, with a minimum of 5 years’ relevant industry experience and 3–5 years’ supervisory experience (non-negotiable). A minimum of 3 years’ experience working with Sage and stock management systems is essential, with Sage X3 experience being advantageous. The successful candidate will be highly organized, with strong leadership, communication and problem-solving skills, and the ability to ensure efficient warehouse operations and accurate stock management. Warehouse Manager, Somerset West - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape / Helderberg Back to Search Results Wareho"
+      "description": "FORKLIFT TECHNICIANR20 000 to R28 000 p/m (Depending on experience) & Company Vehicle.Atlantis, Cape TownCan you find the fault, fix the forklift and get it safely back to work? Our client is looking for a hands-on technician with solid forklift maintenance/fault finding experience across electric, diesel and LPG machines. Forklift Technician with QCTO Auto Electrician, Diesel Mechanic, or Millwright., Cape Winelands - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Forklift Technician with QCTO Auto Electrician, Diesel Mechanic, or Millwright. Cape Winelands Salary: R2 028.00+ Per Month Job Type: Permanent Sectors: Warehousing Reference: CPT001332/SM Apply before Dec 13 2026 | 44 Days left Apply External Application Vacancy Details Employer: West Coast Personnel FORKLIFT TECHNICIANR20 000 to R28 000 p/m ("
     },
     {
-      "id": "9ef2a60a860126c6",
-      "title": "Brand Manager",
-      "company": "Status Staffing",
+      "id": "e07b18ac179ef914",
+      "title": "Engineering Manager",
+      "company": "Western Cape Recruitment",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396562-brand-manager-east-rand/?jobindex=10",
-      "found_at": "2026-10-30T08:53:50.582259+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2392523-engineering-manager-cape-town-northern-suburbs/?jobindex=10",
+      "found_at": "2026-10-30T15:31:01.853448+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -302,15 +278,15 @@
         ],
         "warnings": []
       },
-      "category": "Cashiers & Retail",
-      "location": "East Rand, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-11-29",
-      "salary": "R30 000",
+      "category": "Engineering & Trades",
+      "location": "Cape Town Northern Suburbs, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-13",
+      "salary": "",
       "job_type": "Full Time",
-      "requirements": "Bachelor’s Degree in Marketing, Business Management, Communications, or a related field. Postgraduate qualification will be advantageous. Professional marketing certification will be advantageous. 3–5 years’ experience in marketing or brand management. Minimum of 2 years’ experience in a Brand Manager role. Proven experience managing marketing campaigns and budgets. Experience within the FMCG, manufacturing, retail, consumer goods, or a related industry. Demonstrated track record of driving brand growth and increasing market share. Experience managing social media platforms, including Instagram, Facebook, and other relevant channels. Previous experience in the pet food, pet care, animal health, veterinary, or broader pet industry will be highly advantageous. A genuine passion for pets, animal welfare, and the pet care industry. Valid driver’s license and reliable personal transport. Willingness and ability to travel nationally as required. Flexibility to work extended or irregular hours to support promotions, product launches, trade shows, customer events, and retail activations. Availability to work selected weekends and public holidays during major promotional campaigns, exhibi",
+      "requirements": "Minimum: Degree in Engineering field. 5 Years related Engineering experience with at least 2 years in a managerial role. Government Certificate of Competency (GCC) Â Kindly note that if you have not received any feedback 2 weeks after your application, please consider your application unsuccessful. Apply 361 people have viewed this job. Previous Next About Western Cape Recruitment Previously known as Visp Service, recognising the growing opportunities within our home-based province, Western Cape Recruitment emerged. Lets skip the long story and do what we do best: Let us connect you with opportunities. Similar Jobs View All (22) Engineering Manager Cape Town Job Type: Permanent Posted 16 Sep 2026 | 17 Days left Engineering Manager Cape Town Northern Suburbs Job Type: Permanent Posted 30 Oct 2026 | 61 Days left Engineering Manager Western Cape Job Type: Permanent Posted 30 Oct 2026 | 61 Days left Group Engineering Manager Cape Town Job Type: Permanent Posted 15 Oct 2026 | 6 Hours left More Jobs at Western Cape Recruitment View All (56) Forklift Technician Cape Town Northern Suburbs Job Type: Permanent Posted 30 Oct 2026 | 14 Days left Admin Manager Garden Route Job Type: Permanent",
       "exact_post": true,
-      "description": "also requires national travel, flexible working hours, and availability for selected weekends and public holidays to support promotional campaigns, product launches, trade shows, and other brand-related events. Brand Manager , East Rand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Brand Manager East Rand Salary: Market Related Job Type: Permanent Sectors: Marketing Reference: PC002187/MB Apply before Nov 29 2026 | 30 Days left Apply External Application Vacancy Details Employer: Status Staffing Our client is seeking a Brand Manager to join their team in Modderfontein, Gauteng. The ideal candidate will hold a Bachelor’s Degree in Marketing, Business Management, Communications, or a related field, with a postgraduate qualification or professional marketing certification being advantageous. Applicants should have 3–5 years’ experience in marketing or brand management, including at least 2 years in a Brand Manager role, with a proven track record in campaign and budget management, brand growth, and increa"
+      "description": "FMCG Company in Cape Town is looking for an experienced Engineering Manager to guide and manage their Engineering Department. Engineering Manager, Cape Town Northern Suburbs - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Engineering Manager Cape Town Northern Suburbs Salary: Market Related Job Type: Permanent Sectors: Engineering Reference: CPT000382/SLG Apply before Nov 13 2026 | 14 Days left Apply External Application Vacancy Details Employer: Western Cape Recruitment FMCG Company in Cape Town is looking for an experienced Engineering Manager to guide and manage their Engineering Department. FMCG Company in Cape Town is looking for an experienced Engineering Manager to guide and manage their Engineering Department. The successful candidate would be responsible for efficiently and effectively managing "
     }
   ]
 }
