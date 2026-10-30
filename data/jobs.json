@@ -1,217 +1,41 @@
 {
-  "generated_at": "2026-10-30T15:31:35.983273+00:00",
+  "generated_at": "2026-10-30T20:03:28.075947+00:00",
   "version": "2.4",
   "stats": {
-    "total": 9,
+    "total": 10,
     "verified_official": 0
   },
   "groups": [
+    {
+      "category": "Office & Admin",
+      "count": 3
+    },
     {
       "category": "Banking & Finance",
       "count": 2
     },
     {
-      "category": "Cashiers & Retail",
+      "category": "Drivers & Logistics",
       "count": 2
     },
     {
-      "category": "Office & Admin",
-      "count": 1
-    },
-    {
-      "category": "Healthcare",
-      "count": 1
-    },
-    {
-      "category": "Education",
-      "count": 1
-    },
-    {
-      "category": "Drivers & Logistics",
-      "count": 1
-    },
-    {
       "category": "Engineering & Trades",
+      "count": 2
+    },
+    {
+      "category": "Other Jobs",
       "count": 1
     }
   ],
   "jobs": [
     {
-      "id": "dbeffbaf20e18265",
-      "title": "Liberty",
-      "company": "EQ-FIN",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396818-liberty-wealth-planner-training-from-1st-day-western-cape/?jobindex=1",
-      "found_at": "2026-10-30T15:30:55.584188+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Banking & Finance",
-      "location": "Western Cape, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-10-31",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "Before applying, you'll need: ✅ South African ID ✅ Matric certificate ✅ Own reliable vehicle ✅ Clear credit record (no listed debt) ✅ No criminal record ✅ Laptop and cell phone is essential ✅ Min 3 years working experience Apply 2 people have viewed this job. Previous Next About EQ-FIN EQ-FIN is an outsourced assurance management company which represents Liberty Life and Stanlib in the South African financial services industry. While we distribute Liberty life insurance and risk products, retirement planning solutions, short and long-term savings products, medical aids and corporate",
-      "exact_post": true,
-      "description": "What if your next career move isn't in the same industry you're in today? Let's be honest. Most people don't wake up one morning and decide they want to become a Wealth Planner. In fact, many of the most successful advisers at Liberty started their ... Before applying, you'll need: ✅ South African ID ✅ Matric certificate ✅ Own reliable vehicle ✅ Clear credit record (no listed debt) ✅ No criminal record ✅ Laptop and cell phone is essential ✅ Min 3 years working experience Liberty | Wealth Planner | Training from 1st day, Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Liberty | Wealth Planner | Training from 1st day Western Cape Salary: Market Related Bonus: Yes Job Type: Permanent Sectors: Procurement Benefits: Bonus Training Reference: Procurement Apply before Oct 31 2026 | 2 Days left Apply Vacancy Detai"
-    },
-    {
-      "id": "a774af539a85bf32",
-      "title": "Finance and Administration Officer",
-      "company": "Tailormade Solution",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396817-finance-and-administration-officer-south-africa/?jobindex=3",
-      "found_at": "2026-10-30T15:30:57.285856+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Office & Admin",
-      "location": "ZA, ZA",
-      "province": "Gauteng",
-      "closing_date": "2026-12-29",
-      "salary": "R12000 MONTH",
-      "job_type": "Full Time",
-      "requirements": "Grade 12 / Matric is essential. - Minimum 2 years' practical experience in bookkeeping, accounts or a similar finance role. - Experience with bank reconciliations, debtors, creditors, VAT processing and monthly reporting. - Good understanding of budget-versus-actual reporting and cash flow forecasting. - Experience using Odoo, Sage Pastel or a comparable accounting package. - Strong Microsoft Excel skills, including formulas, lookups and pivot tables. - Excellent numerical accuracy and attention to detail. - Good written and verbal communication skills. - Ability to work independently, maintain confidentiality and meet deadlines. Advantageous - Relevant bookkeeping or accounting qualification. - Experience in the skills development, training or SETA environment. - Exposure to project-based financial administration. Apply If you have practical bookkeeping experience and are confident managing a broad finance and administration function, we would like to hear from you. Please submit your updated CV, detailing your relevant accounting experience and software exposure. Apply 1 person has viewed this job. Previous Next About Tailormade Solution Our Strength lies in our passion for pe",
-      "exact_post": true,
-      "description": "We are seeking a capable and detail-oriented Finance and Administration... Finance and Administration Officer, South Africa - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search Back to Search Results Finance and Administration Officer South Africa Salary: R12 000.00 - R15 000.00 Per Month Job Type: Permanent Sectors: Accounting Education Reference: fd6cf494-a32b-44a5-9db0-c64789bb027a Apply before Dec 29 2026 | 61 Days left Apply External Application Vacancy Details Employer: Tailormade Solution Finance and Administration Officer Location: Durban, KwaZulu-Natal Salary: R12,000 – R15,000 gross per month, depending on experience Employment Type: Full-time"
-    },
-    {
-      "id": "007252de1859ba79",
-      "title": "Clinic Nurse Practitioner",
-      "company": "Dis-Chem Pharmacies Limited",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396816-clinic-nurse-practitioner-cornubia-umhlanga/?jobindex=4",
-      "found_at": "2026-10-30T15:30:58.520700+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Healthcare",
-      "location": "Durban Northern Suburbs, KwaZulu-Natal",
-      "province": "KwaZulu-Natal",
-      "closing_date": "2026-11-13",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "Essential: Grade 12 – Matric Tertiary qualification in General Nursing Degree/Diploma in Midwifery Registered with South African Nursing Council (SANC) Nursing practitioner must obtain BHF registration 2-3 years’ experience in practicing as a Primary Health Care Clinic Sister Computer skills – Microsoft Office: Word, Excel, PowerPoint and Outlook. Advantageous: Minimum 5 years practicing as a Primary Health Care Sister Patient Record System & CKS & Allegra Job Description: Perform Clinic Sister duties according to industry regulations and industry best Manage the average “feet-per-hour” rate and set clinic objectives to enhance patient Ensure all clinic services are available at the Keep accurate records of patient details, and ensure communication is followed up Ensure that the Clinic is open and operational according to the hours stated in the operational Process claims accurately and timeously according to industry Ensure all stock and equipment in the clinic is in a working condition according to industry Ensure stock is sufficient in the Clinic according to business Build and maintain healthy relationships with the following stakeholders: Patients, Store and Dispensary Manag",
-      "exact_post": true,
-      "description": "Perform Clinic Sister duties according to industry regulations and industry best Manage the average “feet-per-hour” rate and set clinic objectives to enhance patient Ensure all clinic services are available at the Keep accurate records of patient details, and ensure communication is followed up Ensure that the Clinic is open and operational according to the hours stated in the operational Process claims accurately and timeously according to industry Ensure all stock and equipment in the clinic is in a working condition according to industry Ensure stock is sufficient in the Clinic according to business Build and maintain healthy relationships with the following stakeholders: Patients, Store and Dispensary Manager, Colleagues, Medical Aids, Suppliers/Reps, key role players in the community, and other Healthcare Competencies: Essential: Knowledge of community health nursing, primary health care and/or occupational health nursing, family planning, cytology, IUD, pharmacology, EPI/cold chain management, STDs, emergency care, HIV/AIDS pre- and post-counseling, breastfeeding, pathology, wound care Quarterly CPD training; in-service training with Dis-Chem Strong command of English (writ"
-    },
-    {
-      "id": "613f326f05027c87",
-      "title": "Merchandiser - Ballito (Talent Pool)",
-      "company": "Dis-Chem Pharmacies Limited",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396815-merchandiser-ballito-talent-pool-kwazulu-natal/?jobindex=5",
-      "found_at": "2026-10-30T15:30:59.012770+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Cashiers & Retail",
-      "location": "KwaZulu-Natal, KwaZulu-Natal",
-      "province": "KwaZulu-Natal",
-      "closing_date": "2026-11-06",
-      "salary": "",
-      "job_type": "Contractor",
-      "requirements": "Essential: Grade 12 / Matric Up to 6 months’ retail experience Computer literate – MS Office Willing and able to work retail hours Advantageous: At least 1 year retail experience Job Description: Restock merchandise as needed to ensure maximum sales Ensure delivered stock/stock pulled from the storeroom, is stored and packed in the correct space timeously Ensure stock on shelves has not reached sell-by date Ensure the full range of products is on the shelves at all times Facilitate rotation of stock on a regular, FIFO basis Report low stock levels, out-of-stock items, damaged stock and expired stock to management Assist with counting of stock files and general stocktaking Adhere to Dis-Chem’s operating standards, store layout and planograms Ensure boxes are flattened after unpacking stock, and taken to the designated area Ensure front shop shelves and products are neatly presented and visible at all times, with correct labels and pricing Report all price discrepancies to management Keep abreast of current and new products Ensure merchandising displays are built, faced up, stocked and maintained Maintain daily physical upkeep of store and merchandise displays, and be responsible",
-      "exact_post": true,
-      "description": "Restock merchandise as needed to ensure maximum sales Ensure delivered stock/stock pulled from the storeroom, is stored and packed in the correct space timeously Ensure stock on shelves has not reached sell-by date Ensure the full range of products is on the shelves at all times Facilitate rotation of stock on a regular, FIFO basis Report low stock levels, out-of-stock items, damaged stock and expired stock to management Assist with counting of stock files and general stocktaking Adhere to Dis-Chem’s operating standards, store layout and planograms Ensure boxes are flattened after unpacking stock, and taken to the designated area Ensure front shop shelves and products are neatly presented and visible at all times, with correct labels and pricing Report all price discrepancies to management Keep abreast of current and new products Ensure merchandising displays are built, faced up, stocked and maintained Maintain daily physical upkeep of store and merchandise displays, and be responsible for your designated stock in the storeroom as well as on the shop floor Assist with loading and off-loading of stock Ensure items without barcodes are clearly marked Assist with back shopping Assis"
-    },
-    {
-      "id": "642ab5891b3ca0c5",
-      "title": "Customer Experience Administrator Retail (Customer Experience department)",
-      "company": "Brights Hardware",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396814-customer-experience-administrator-retail-customer-experience-department-western-cape/?jobindex=6",
-      "found_at": "2026-10-30T15:30:59.363226+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Cashiers & Retail",
-      "location": "Western Cape, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-11-13",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "Matric or Equivalent Brights Induction (service excellence) 1-2 Years minimum experience in a similar role (social media – Omnichannel Experience highly preferred) Ability to handle pressure Problem solving skills Ability to communicate effectively (verbal & written) at all levels, proficient in English (Great speaking voice) Planning, time management & organizing skills Excellent professional work standards, including grammar and oral proficiency Computer & Typing (minimum of 35 wpm) skills Decision making skills Willing to take on responsibility Attention to detail and high level of accuracy Professional and neat Available to work retail hours Kindly note that if you are not contacted within 2 weeks after the",
-      "exact_post": true,
-      "description": "Purpose: The purpose of this job is to effectively ensure exceptional customer service and experience across all the touchpoints of the Brights customer’s journey. The Customer Experience Administrator will offer support to customers who have questions... Customer Experience Administrator Retail (Customer Experience department), Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Customer Experience Administrator Retail (Customer Experience department) Western Cape Salary: Market Related Job Type: Permanent Sectors: Retail Sales Reference: 210026 Apply before Nov 13 2026 | 15 Days left Apply Vacancy Details Employer: Brights Hardware Purpose: The purpose of this job is to effectively ensure exceptional customer service and experience across all the touchpoints of the Brights customer’s journey. The Customer Ex"
-    },
-    {
-      "id": "626356671eafec56",
-      "title": "Cook Cape Town Job Type: Contract Posted: 30 Oct 2026 32 Days left",
-      "company": "Empact Group",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396813-cook-cape-town/?jobindex=7",
-      "found_at": "2026-10-30T15:30:59.922412+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Education",
-      "location": "Cape Town, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-11-30",
-      "salary": "",
-      "job_type": "Contractor",
-      "requirements": ". By applying for a role within Empact Group (Proprietary) Limited, all Personal Information that you provide to the Company will be held and/ or stored securely for the purpose of recruitment. Your Personal Information will be stored electronically in a database. Where appropriate, some information may be retained in hard copy. In either event, storage will be secure and audited regularly regarding the safety and security of the information in accordance with the Protection of Personal Information. Apply 16 people have viewed this job. Previous Next Similar Jobs Cook Western Cape Job Type: Contract Posted 01 Oct 2026 | 6 Hours left More Jobs at Empact Group View All (28) Financial Manager Sandton Job Type: Permanent Posted 29 Oct 2026 | 21 Days left Contract Manager - Commercial Cleaning Eastern Cape Job Type: Permanent Posted 26 Oct 2026 | 57 Days left Stores Manager Durban Job Type: Permanent Posted 26 Oct 2026 | 15 Days left Regional Manager Eastern Cape Job Type: Permanent Posted 26 Oct 2026 | 57 Days left",
-      "exact_post": true,
-      "description": "The Main Purpose of the job The successful applicant will be responsible for the preparation of food for daily kitchen production in order to provide quality food service. Education and Experience required: Minimum of 2 years’ experience as a Cook in... Cook, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Cook Cape Town Salary: Market Related Job Type: Contract Sectors: Hospitality General Reference: 210029 Apply before Nov 30 2026 | 32 Days left Apply Vacancy Details Employer: Empact Group The Main Purpose of the job The successful applicant will be responsible for the preparation of food for daily kitchen production in order to provide quality food service. Education and Experience required: Minimum of 2 years’ experience as a Cook in a contract catering environment is essential Customer Ser"
-    },
-    {
-      "id": "37f1ec7fdf6a5586",
+      "id": "3b1ae818b46bebf9",
       "title": "Management Accountant (Costing)",
       "company": "Recruitpro Solutions",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396632-management-accountant-costing-east-rand/?jobindex=8",
-      "found_at": "2026-10-30T15:31:00.294723+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396632-management-accountant-costing-east-rand/?jobindex=1",
+      "found_at": "2026-10-30T20:02:47.186281+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -228,18 +52,18 @@
       "closing_date": "2026-11-30",
       "salary": "",
       "job_type": "Full Time",
-      "requirements": "CIMA (CGMA) qualified BCom Accounting, BCom Cost & Management Accounting or an equivalent degree 5–8 years' costing experience in a manufacturing environment, including standard costing and inventory valuation Strong knowledge of standard and actual costing, overhead absorption, variance analysis and inventory valuation Hands-on ERP experience (SYSPRO an advantage) and advanced Excel Advantageous Experience in a mining or mining-supply environment SQL or Power BI Experience with multi-entity, imported or international cost bases A track record of improving processes, and practical use of AI-enabled tools Apply 89 people have viewed this job. Previous Next More Jobs at Recruitpro Solutions View All (48) Plant Engineering Manager East Rand Job Type: Permanent Posted 29 Oct 2026 | 31 Days left Process Engineer (Business Development) East Rand Job Type: Permanent Posted 29 Oct 2026 | 31 Days left Project Engineer East Rand Job Type: Permanent Posted 29 Oct 2026 | 31 Days left Senior Mechanical Design Engineer Centurion Job Type: Permanent Posted 29 Oct 2026 | 31 Days left",
+      "requirements": "CIMA (CGMA) qualified BCom Accounting, BCom Cost & Management Accounting or an equivalent degree 5–8 years' costing experience in a manufacturing environment, including standard costing and inventory valuation Strong knowledge of standard and actual costing, overhead absorption, variance analysis and inventory valuation Hands-on ERP experience (SYSPRO an advantage) and advanced Excel Advantageous Experience in a mining or mining-supply environment SQL or Power BI Experience with multi-entity, imported or international cost bases A track record of improving processes, and practical use of AI-enabled tools Apply 131 people have viewed this job. Previous Next More Jobs at Recruitpro Solutions View All (48) Plant Engineering Manager East Rand Job Type: Permanent Posted 29 Oct 2026 | 31 Days left Process Engineer (Business Development) East Rand Job Type: Permanent Posted 29 Oct 2026 | 31 Days left Project Engineer East Rand Job Type: Permanent Posted 29 Oct 2026 | 31 Days left Senior Mechanical Design Engineer Centurion Job Type: Permanent Posted 29 Oct 2026 | 31 Days left",
       "exact_post": true,
       "description": "This position is based at a manufacturing company in CenturionThis is a senior, hands-on role reporting to the Group Financial Manager. This person will work closely with engineering, production and procurement in a finance team Management Accountant (Costing), East Rand - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results Management Accountant (Costing) East Rand Salary: Market Related Job Type: Permanent Sectors: Finance Reference: Rec000403/JG Apply before Nov 30 2026 | 31 Days left Apply External Application Vacancy Details Employer: Recruitpro Solutions This position is based at a manufacturing company in CenturionThis is a senior, hands-on role reporting to the Group Financial Manager. This person will work closely with engineering, production and procurement in a finance team Key responsibilities Standard c"
     },
     {
-      "id": "3a4af0ee51a3c268",
+      "id": "30dd0834f0ee86b1",
       "title": "Forklift Technician with QCTO Auto Electrician, Diesel Mechanic, or Millwright.",
       "company": "West Coast Personnel",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2386371-forklift-technician-with-qcto-auto-electrician-diesel-mechanic-or-millwright-cape-winelands/?jobindex=9",
-      "found_at": "2026-10-30T15:31:01.054918+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2386371-forklift-technician-with-qcto-auto-electrician-diesel-mechanic-or-millwright-cape-winelands/?jobindex=2",
+      "found_at": "2026-10-30T20:02:47.750744+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -256,18 +80,74 @@
       "closing_date": "2026-12-13",
       "salary": "R2028 MONTH",
       "job_type": "Full Time",
-      "requirements": ", employment history and all relevant details. Reference checks according to competencies. Suitability for position. West Coast Personnel Permanent Placements Having an impressive database of approved candidates, we search the marketplace to find you the best candidate. Our personalized service means that we actually sit down to find out what precisely you need, and through proven processes, ensure that the right person is chosen for the job. Filling your gaps! West Coast Personnel Temps Our Temps are the perfect staffing solution. Clients hire professional skills per hour and have access to flexible, no-fuss employees at competitive rates; we take care of the complete payroll administration and offer negotiable Temp to Perm Placement fees. More Jobs at West Coast Personnel View All (114) Yard Foreman Stellenbosch Job Type: Permanent Posted 29 Oct 2026 | 29 Days left MECHANICAL TRADE-TESTED FITTER & TURNER Cape Town Job Type: Permanent Posted 29 Oct 2026 | 29 Days left Junior Electrical Apprentice - Cape Town Bellville Job Type: Permanent Posted 29 Oct 2026 | 28 Days left Junior Electrical Apprentice - Johannesburg Sandton Job Type: Permanent Posted 29 Oct 2026 | 28 Days left",
+      "requirements": ", employment history and all relevant details. Reference checks according to competencies. Suitability for position. West Coast Personnel Permanent Placements Having an impressive database of approved candidates, we search the marketplace to find you the best candidate. Our personalized service means that we actually sit down to find out what precisely you need, and through proven processes, ensure that the right person is chosen for the job. Filling your gaps! West Coast Personnel Temps Our Temps are the perfect staffing solution. Clients hire professional skills per hour and have access to flexible, no-fuss employees at competitive rates; we take care of the complete payroll administration and offer negotiable Temp to Perm Placement fees. More Jobs at West Coast Personnel View All (114) Junior Electrical Apprentice - Cape Town Bellville Job Type: Permanent Posted 29 Oct 2026 | 28 Days left Yard Foreman Stellenbosch Job Type: Permanent Posted 29 Oct 2026 | 29 Days left MECHANICAL TRADE-TESTED FITTER & TURNER Cape Town Job Type: Permanent Posted 29 Oct 2026 | 29 Days left Junior Electrical Apprentice - Johannesburg Sandton Job Type: Permanent Posted 29 Oct 2026 | 28 Days left",
       "exact_post": true,
       "description": "FORKLIFT TECHNICIANR20 000 to R28 000 p/m (Depending on experience) & Company Vehicle.Atlantis, Cape TownCan you find the fault, fix the forklift and get it safely back to work? Our client is looking for a hands-on technician with solid forklift maintenance/fault finding experience across electric, diesel and LPG machines. Forklift Technician with QCTO Auto Electrician, Diesel Mechanic, or Millwright., Cape Winelands - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Forklift Technician with QCTO Auto Electrician, Diesel Mechanic, or Millwright. Cape Winelands Salary: R2 028.00+ Per Month Job Type: Permanent Sectors: Warehousing Reference: CPT001332/SM Apply before Dec 13 2026 | 44 Days left Apply External Application Vacancy Details Employer: West Coast Personnel FORKLIFT TECHNICIANR20 000 to R28 000 p/m ("
     },
     {
-      "id": "e07b18ac179ef914",
+      "id": "5d263ff82d80cdef",
+      "title": "Sales & Marketing Coordinator",
+      "company": "Western Cape Recruitment",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2376109-sales-marketing-coordinator-cape-town-northern-suburbs/?jobindex=3",
+      "found_at": "2026-10-30T20:02:48.393900+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "Cape Town Northern Suburbs, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-13",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Min Grade 12 / Matric Tertiary Qualification in Marketing would be highly advantageous 2 â 4 yearsâ experience in a Marketing and Sales role Experience with social media management and digital marketing Ability to create and manage content across multiple platforms Highly motivated and sales driven Strong administrative and organisational skills Excellent communication and interpersonal skills Computer literate in MS Office Â Kindly note that if you have not received any feedback within two weeks of your application, please consider your application unsuccessful. Apply 1198 people have viewed this job. Previous Next About Western Cape Recruitment Previously known as Visp Service, recognising the growing opportunities within our home-based province, Western Cape Recruitment emerged. Lets skip the long story and do what we do best: Let us connect you with opportunities. Similar Jobs Sales & Marketing Coordinator Western Cape Job Type: Permanent Posted 30 Oct 2026 | 61 Days left Sales & Marketing Coordinator Cape Town Northern Suburbs Job Type: Permanent Posted 30 Oct 2026 | 61 Days left More Jobs at Western Cape Recruitment View All (56) Senior Plumber Cape Town Northern Suburb",
+      "exact_post": true,
+      "description": "Sales & Marketing Coordinator required for a manufacturing company to develop and drive marketing campaign, drive online sales on social media, and website. Sales & Marketing Coordinator, Cape Town Northern Suburbs - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Sales & Marketing Coordinator Cape Town Northern Suburbs Salary: Market Related Job Type: Permanent Sectors: Sales Reference: CPT000370/SLG Apply before Nov 13 2026 | 14 Days left Apply External Application Vacancy Details Employer: Western Cape Recruitment Sales & Marketing Coordinator required for a manufacturing company to develop and drive marketing campaign, drive online sales on social media, and website. A well-established manufacturing company based in the Northern Suburbs of Cape Town is seeking an organised and creative Sales & Marketin"
+    },
+    {
+      "id": "70f86b9a1a4ddd89",
+      "title": "Property Finance Specialist",
+      "company": "Western Cape Recruitment",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2387900-property-finance-specialist-cape-town-northern-suburbs/?jobindex=4",
+      "found_at": "2026-10-30T20:02:48.965142+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Banking & Finance",
+      "location": "Cape Town Northern Suburbs, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-13",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "National Senior Certificate (Matric â NQF Level 4) Valid South African driverâs license and own vehicle Minimum 2 yearsâ experience in a self-driven external sales environment Strong administrative skills and attention to detail Â Kindly note that if you have not received any feedback 2 weeks after your application, please consider your application unsuccessful. Apply 577 people have viewed this job. Previous Next About Western Cape Recruitment Previously known as Visp Service, recognising the growing opportunities within our home-based province, Western Cape Recruitment emerged. Lets skip the long story and do what we do best: Let us connect you with opportunities. Similar Jobs Property Finance Specialist Cape Town Northern Suburbs Job Type: Permanent Posted 30 Oct 2026 | 61 Days left Property Finance Specialist Western Cape Job Type: Permanent Posted 30 Oct 2026 | 61 Days left More Jobs at Western Cape Recruitment View All (56) Senior Plumber Cape Town Northern Suburbs Job Type: Permanent Posted 30 Oct 2026 | 14 Days left Debtors Clerk Cape Town Northern Suburbs Job Type: Permanent Posted 30 Oct 2026 | 14 Days left Sales & Marketing Coordinator Cape Town Northern Suburbs",
+      "exact_post": true,
+      "description": "Level Up Your Career: Join the New Era of Home Finance Property Finance Specialist, Cape Town Northern Suburbs - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Property Finance Specialist Cape Town Northern Suburbs Salary: Market Related Job Type: Permanent Sectors: Sales Reference: CPT000380/SLG Apply before Nov 13 2026 | 14 Days left Apply External Application Vacancy Details Employer: Western Cape Recruitment Level Up Your Career: Join the New Era of Home Finance The Opportunity: More Than Just a Job Are you tired of hitting a ceiling in your sales job? Do you have the grit to hunt, the agility to pivot, and the hunger to earn what youâre actually worth? We are looking for vibrant, resilient, and unstoppable Sales Champions ready to dominate the home loan market. Our client offers a high-octane envir"
+    },
+    {
+      "id": "fc99d026493e3d48",
       "title": "Engineering Manager",
       "company": "Western Cape Recruitment",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2392523-engineering-manager-cape-town-northern-suburbs/?jobindex=10",
-      "found_at": "2026-10-30T15:31:01.853448+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2392523-engineering-manager-cape-town-northern-suburbs/?jobindex=5",
+      "found_at": "2026-10-30T20:02:49.409689+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -284,9 +164,149 @@
       "closing_date": "2026-11-13",
       "salary": "",
       "job_type": "Full Time",
-      "requirements": "Minimum: Degree in Engineering field. 5 Years related Engineering experience with at least 2 years in a managerial role. Government Certificate of Competency (GCC) Â Kindly note that if you have not received any feedback 2 weeks after your application, please consider your application unsuccessful. Apply 361 people have viewed this job. Previous Next About Western Cape Recruitment Previously known as Visp Service, recognising the growing opportunities within our home-based province, Western Cape Recruitment emerged. Lets skip the long story and do what we do best: Let us connect you with opportunities. Similar Jobs View All (22) Engineering Manager Cape Town Job Type: Permanent Posted 16 Sep 2026 | 17 Days left Engineering Manager Cape Town Northern Suburbs Job Type: Permanent Posted 30 Oct 2026 | 61 Days left Engineering Manager Western Cape Job Type: Permanent Posted 30 Oct 2026 | 61 Days left Group Engineering Manager Cape Town Job Type: Permanent Posted 15 Oct 2026 | 6 Hours left More Jobs at Western Cape Recruitment View All (56) Forklift Technician Cape Town Northern Suburbs Job Type: Permanent Posted 30 Oct 2026 | 14 Days left Admin Manager Garden Route Job Type: Permanent",
+      "requirements": "Minimum: Degree in Engineering field. 5 Years related Engineering experience with at least 2 years in a managerial role. Government Certificate of Competency (GCC) Â Kindly note that if you have not received any feedback 2 weeks after your application, please consider your application unsuccessful. Apply 383 people have viewed this job. Previous Next About Western Cape Recruitment Previously known as Visp Service, recognising the growing opportunities within our home-based province, Western Cape Recruitment emerged. Lets skip the long story and do what we do best: Let us connect you with opportunities. Similar Jobs View All (22) Engineering Manager Cape Town Job Type: Permanent Posted 16 Sep 2026 | 17 Days left Engineering Manager Cape Town Northern Suburbs Job Type: Permanent Posted 30 Oct 2026 | 61 Days left Engineering Manager Western Cape Job Type: Permanent Posted 30 Oct 2026 | 61 Days left Group Engineering Manager Cape Town Job Type: Permanent Posted 15 Oct 2026 | 1 Hour left More Jobs at Western Cape Recruitment View All (56) Sales & Marketing Coordinator Cape Town Northern Suburbs Job Type: Permanent Posted 30 Oct 2026 | 14 Days left Property Finance Specialist Cape Town",
       "exact_post": true,
       "description": "FMCG Company in Cape Town is looking for an experienced Engineering Manager to guide and manage their Engineering Department. Engineering Manager, Cape Town Northern Suburbs - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Engineering Manager Cape Town Northern Suburbs Salary: Market Related Job Type: Permanent Sectors: Engineering Reference: CPT000382/SLG Apply before Nov 13 2026 | 14 Days left Apply External Application Vacancy Details Employer: Western Cape Recruitment FMCG Company in Cape Town is looking for an experienced Engineering Manager to guide and manage their Engineering Department. FMCG Company in Cape Town is looking for an experienced Engineering Manager to guide and manage their Engineering Department. The successful candidate would be responsible for efficiently and effectively managing "
+    },
+    {
+      "id": "20969ebd6d509995",
+      "title": "Forklift Technician",
+      "company": "Western Cape Recruitment",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2393961-forklift-technician-cape-town-northern-suburbs/?jobindex=6",
+      "found_at": "2026-10-30T20:02:49.840896+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Drivers & Logistics",
+      "location": "Cape Town Northern Suburbs, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-13",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Forklift Mechanic Trade Test Minimum 5 yearsâ working experience Valid driverâs license and own transport Â Â Â Â Â Â Â Â Kindly note that if you have not received any feedback 2 weeks after your application, please consider your application unsuccessful. Apply 262 people have viewed this job. Previous Next About Western Cape Recruitment Previously known as Visp Service, recognising the growing opportunities within our home-based province, Western Cape Recruitment emerged. Lets skip the long story and do what we do best: Let us connect you with opportunities. Similar Jobs View All (5) Forklift Technician Somerset West Job Type: Contract Posted 10 Sep 2026 | 11 Days left Forklift Technician Cape Town Northern Suburbs Job Type: Permanent Posted 30 Oct 2026 | 61 Days left Forklift Technician with QCTO Auto Electrician, Diesel Mechanic, or Millwright. Cape Winelands Job Type: Permanent Posted 30 Oct 2026 | 44 Days left Forklift Technician Western Cape Job Type: Permanent Posted 30 Oct 2026 | 61 Days left More Jobs at Western Cape Recruitment View All (56) Sales & Marketing Coordinator Cape Town Northern Suburbs Job Type: Permanent Posted 30 Oct 2026 | 14 Days left Property Financ",
+      "exact_post": true,
+      "description": "Opportunity for experienced Forklift Technicians Forklift Technician, Cape Town Northern Suburbs - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Forklift Technician Cape Town Northern Suburbs Salary: Market Related Job Type: Permanent Sectors: Engineering Reference: CPT000384/SLG Apply before Nov 13 2026 | 14 Days left Apply External Application Vacancy Details Employer: Western Cape Recruitment Opportunity for experienced Forklift Technicians We are seeking experienced Forklift Technicians!! Our client, a prominent service provider in Cape Town, is seeking Forklift Technicians to service their fleet of forklifts which consist of diesel, gas and electric forklifts. Requirements: Forklift Mechanic Trade Test Minimum 5 yearsâ working experience Valid driverâs license and own transport Â Â Â Â Â Â Â Â K"
+    },
+    {
+      "id": "a0ec7ce43b60ed82",
+      "title": "Billing Administrator",
+      "company": "Western Cape Recruitment",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2385891-billing-administrator-cape-town-northern-suburbs/?jobindex=7",
+      "found_at": "2026-10-30T20:02:51.514616+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "Cape Town Northern Suburbs, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-13",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "National Senior Certificate/ Matric Fully Bilingual in both English and Afrikaans Working knowledge of Billing System software (Infosoft/SAGE X3/ICE) Computer Literacy with working knowledge of Microsoft Excel Willingness to work overtime as required Own vehicle with valid Driverâs License Â Kindly note that if you have not received any feedback within two weeks of your application, please consider your application unsuccessful. Apply 982 people have viewed this job. Previous Next About Western Cape Recruitment Previously known as Visp Service, recognising the growing opportunities within our home-based province, Western Cape Recruitment emerged. Lets skip the long story and do what we do best: Let us connect you with opportunities. Similar Jobs Billing Administrator Western Cape Job Type: Permanent Posted 30 Oct 2026 | 61 Days left Billing Administrator Cape Town Northern Suburbs Job Type: Permanent Posted 30 Oct 2026 | 61 Days left Financial Administrator Cape Town CBD Job Type: Permanent Posted 06 Oct 2026 | 37 Days left More Jobs at Western Cape Recruitment View All (56) Sales & Marketing Coordinator Cape Town Northern Suburbs Job Type: Permanent Posted 30 Oct 2026 | 14 Day",
+      "exact_post": true,
+      "description": "Technical Services Provider is seeking a Billing Administrator to join their team. Billing Administrator, Cape Town Northern Suburbs - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Billing Administrator Cape Town Northern Suburbs Salary: Market Related Job Type: Permanent Sectors: Finance Reference: CPT000320/SLG Apply before Nov 13 2026 | 14 Days left Apply External Application Vacancy Details Employer: Western Cape Recruitment Technical Services Provider is seeking a Billing Administrator to join their team. A reliable Technical Services Provider is seeking a Billing Administrator with basic working knowledge of financial and accounting concepts to join their team. You will be responsible for the reconciliation of accounts and preparing account statements. You will also need to pick up and identify mis"
+    },
+    {
+      "id": "e2c3748d171fea10",
+      "title": "Senior Plumber",
+      "company": "Western Cape Recruitment",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2381235-senior-plumber-cape-town-northern-suburbs/?jobindex=8",
+      "found_at": "2026-10-30T20:02:52.072396+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Engineering & Trades",
+      "location": "Cape Town Northern Suburbs, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-13",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Valid Driverâs Licence Red Seal Qualified as a Plumber Minimum of 3 Yearsâ experience in Commercial & Residential Maintenance Plumbing Previous experience in the installation of water meters Knowledge and understanding of Plumbing SANS codes Fully Bilingual in both English and Afrikaans Experience working with copper, galvanized, Mepla, and Hep2O pipes and fittings Â Kindly note that if you have not received any feedback 2 weeks after your application, please consider your application unsuccessful. Apply 989 people have viewed this job. Previous Next About Western Cape Recruitment Previously known as Visp Service, recognising the growing opportunities within our home-based province, Western Cape Recruitment emerged. Lets skip the long story and do what we do best: Let us connect you with opportunities. Similar Jobs Senior Plumber Cape Town Northern Suburbs Job Type: Permanent Posted 30 Oct 2026 | 61 Days left Senior Plumber Western Cape Job Type: Permanent Posted 30 Oct 2026 | 61 Days left More Jobs at Western Cape Recruitment View All (56) Debtors Clerk Cape Town Northern Suburbs Job Type: Permanent Posted 30 Oct 2026 | 14 Days left Sales & Marketing Coordinator Cape Town No",
+      "exact_post": true,
+      "description": "Lead Plumber required for a Technical Services Provider based in Cape Town. Senior Plumber, Cape Town Northern Suburbs - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Senior Plumber Cape Town Northern Suburbs Salary: Market Related Job Type: Permanent Sectors: Engineering Reference: CPT000321/SLG Apply before Nov 13 2026 | 14 Days left Apply External Application Vacancy Details Employer: Western Cape Recruitment Lead Plumber required for a Technical Services Provider based in Cape Town. Our client, who is a reputable Technical Services Provider in Cape Town, is seeking a Senior Plumber with strong leadership skills and a hands-on approach to join their team. In this role, you will be responsible for the installation of water meters of various sizes and related plumbing tasks for both Commercial & Residen"
+    },
+    {
+      "id": "7f026c6368c5de22",
+      "title": "Debtors Clerk",
+      "company": "Western Cape Recruitment",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2392521-debtors-clerk-cape-town-northern-suburbs/?jobindex=9",
+      "found_at": "2026-10-30T20:02:53.360830+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "Cape Town Northern Suburbs, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-13",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "National Senior Certificate/Matric Fully bilingual in English and Afrikaans with strong communication skills and professional client interaction Computer literate with proficiency in Microsoft Excel Minimum 1 year experience in a Debtors/Accounts Receivable role Ability to perform account reconciliations accurately Excellent attention to detail and time-management abilities Own vehicle with a valid Driverâs License Â Kindly note that if you have not received any feedback within two weeks of your application, please consider your application unsuccessful. Apply 458 people have viewed this job. Previous Next About Western Cape Recruitment Previously known as Visp Service, recognising the growing opportunities within our home-based province, Western Cape Recruitment emerged. Lets skip the long story and do what we do best: Let us connect you with opportunities. Similar Jobs View All (22) Debtors Clerk Cape Winelands Job Type: Permanent Posted 20 Oct 2026 | 51 Days left Debtors Clerk Cape Town Job Type: Permanent Posted 20 Oct 2026 | 51 Days left Debtors Clerk Somerset West Job Type: Permanent Posted 16 Oct 2026 | 16 Days left Debtors Clerk Western Cape Job Type: Permanent Posted 2",
+      "exact_post": true,
+      "description": "A reputable technical services provider is seeking a Debtors Clerk to join their team. Debtors Clerk, Cape Town Northern Suburbs - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Debtors Clerk Cape Town Northern Suburbs Salary: Market Related Job Type: Permanent Sectors: Finance Reference: CPT000337/SLG Apply before Nov 13 2026 | 14 Days left Apply External Application Vacancy Details Employer: Western Cape Recruitment A reputable technical services provider is seeking a Debtors Clerk to join their team. A well-established Technical Services Provider is seeking an experienced Debtors Clerk with solid foundational knowledge of accounting and financial processes to join their team in Cape Town. The successful candidate will be responsible for managing debtor accounts, processing payments, performing reconcil"
+    },
+    {
+      "id": "dc244a5bfb9b3f44",
+      "title": "Legal Secretary",
+      "company": "Western Cape Recruitment",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2382861-legal-secretary-cape-winelands/?jobindex=10",
+      "found_at": "2026-10-30T20:02:53.772813+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "Cape Winelands, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-13",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "10+ years of experience in RAF litigation Proficient in Court Online, Caselines, and Microsoft Office Computer literate Admin, time-management, and organisational work strength Attention to detail Strong verbal and written communication skills Legal drafting knowledge Proven experience in providing client service care efficiently Â Kindly note that if you have not received any feedback 2 weeks after your application, please consider your application unsuccessful. Apply 1160 people have viewed this job. Previous Next About Western Cape Recruitment Previously known as Visp Service, recognising the growing opportunities within our home-based province, Western Cape Recruitment emerged. Lets skip the long story and do what we do best: Let us connect you with opportunities. Similar Jobs View All (6) Legal Secretary Cape Winelands Job Type: Permanent Posted 30 Oct 2026 | 61 Days left Legal Secretary Western Cape Job Type: Permanent Posted 30 Oct 2026 | 61 Days left Legal / HR Admin / PA Durbanville Job Type: Permanent Posted 19 Oct 2026 | 19 Days left Liberty | Wealth Planner | Training from 1st day Western Cape Job Type: Permanent Posted 30 Oct 2026 | 2 Days left More Jobs at Western C",
+      "exact_post": true,
+      "description": "Trusted law firm that specialises in Fund Claims Assistance is seeking a Legal Secretary with experience in Road Accident Fund (RAF) litigation. Legal Secretary, Cape Winelands - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Legal Secretary Cape Winelands Salary: Market Related Job Type: Permanent Sectors: Admin Legal Reference: CPT000378/SLG Apply before Nov 13 2026 | 14 Days left Apply External Application Vacancy Details Employer: Western Cape Recruitment Trusted law firm that specialises in Fund Claims Assistance is seeking a Legal Secretary with experience in Road Accident Fund (RAF) litigation. A trusted law firm in the Boland, that specialises in fund claims assistance, is seeking a Legal Secretary with experience in Road Accident Fund (RAF) litigation. Responsibilities are to provide administrati"
     }
   ]
 }
