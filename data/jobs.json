@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T02:47:46.914727+00:00",
+  "generated_at": "2026-10-31T08:58:27.873984+00:00",
   "version": "2.4",
   "stats": {
     "total": 9,
@@ -7,43 +7,151 @@
   },
   "groups": [
     {
-      "category": "Cashiers & Retail",
-      "count": 3
-    },
-    {
-      "category": "Drivers & Logistics",
-      "count": 1
+      "category": "Hospitality & Food",
+      "count": 2
     },
     {
       "category": "Other Jobs",
-      "count": 1
+      "count": 2
     },
     {
-      "category": "Hospitality & Food",
-      "count": 1
-    },
-    {
-      "category": "Banking & Finance",
-      "count": 1
+      "category": "Cashiers & Retail",
+      "count": 2
     },
     {
       "category": "Office & Admin",
       "count": 1
     },
     {
-      "category": "Healthcare",
+      "category": "Drivers & Logistics",
+      "count": 1
+    },
+    {
+      "category": "Banking & Finance",
       "count": 1
     }
   ],
   "jobs": [
     {
-      "id": "91f69af5b80f0118",
+      "id": "12d2cddea35c4d32",
+      "title": "Chef de Partie",
+      "company": "Helderberg Personnel cc",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396825-chef-de-partie-stellenbosch/?jobindex=1",
+      "found_at": "2026-10-31T08:57:37.229076+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Hospitality & Food",
+      "location": "Stellenbosch, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-30",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Formal culinary qualification from an accredited training institution 2–3 years practical experience working in a professional kitchen Excellent culinary skills with a genuine passion for food and quality Sound knowledge of professional kitchen procedures, food preparation and hygiene standards Impeccable personal and food hygiene standards Good interpersonal and communication skills Ability to work effectively as part of a team Ability to remain calm, organised and productive under pressure Strong work ethic, reliability and attention to detail Professional presentation and a positive, hands-on approach Responsibilities Include But Are Not Limited To: Preparing and cooking food to the required quality and presentation standards Taking responsibility for the efficient operation and organisation of the designated section Ensuring consistency, attention to detail and high standards throughout food preparation and service Maintaining impeccable standards of personal, food and kitchen hygiene Following recipes, preparation methods and instructions from senior kitchen management Ensuring ingredients and prepared food are handled, stored and rotated correctly Assisting with maintaining",
+      "exact_post": true,
+      "description": "To ensure the consistent preparation and delivery of quality food in accordance with established culinary standards, while maintaining excellent kitchen hygiene, organisation and efficiency. Requirements: Formal culinary qualification from an accredited training institution 2–3 years practical experience working in a professional kitchen Excellent culinary skills with a genuine passion for food and quality Sound knowledge of professional kitchen procedures, food preparation and hygiene standards Impeccable personal and food hygiene standards Good interpersonal and communication skills Ability to work effectively as part of a team Ability to remain calm, organised and productive under pressure Strong work ethic, reliability and attention to detail Professional presentation and a positive, hands-on approach Responsibilities Include But Are Not Limited To: Preparing and cooking food to the required quality and presentation standards Taking responsibility for the efficient operation and organisation of the designated section Ensuring consistency, attention to detail and high standards throughout food preparation and service Maintaining impeccable standards of personal, food and kitche"
+    },
+    {
+      "id": "5f76c8fbdd940c10",
+      "title": "German Speaking Representatives",
+      "company": "Jai Search Consultancy",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2193284-german-speaking-representatives-cape-town/?jobindex=2",
+      "found_at": "2026-10-31T08:57:38.395635+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "Cape Town, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-12-30",
+      "salary": "R24000 MONTH",
+      "job_type": "Full Time",
+      "requirements": "● Speak, read & write German Hours of operation: ● 8am - 8pm (European time), Monday - Saturday, on a rotational shift basis Salary: ● R2 5 000 CTC",
+      "exact_post": true,
+      "description": "Duties: ●Responding to customer queries and services via Email and Chat ●Provide accurate information, troubleshoot technical issues, and resolve customer concerns ●Maintain detailed records of customer interactions and transactions ●Stay up to dat... German Speaking Representatives, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results German Speaking Representatives Cape Town Salary: R24 000.00 - R25 000.00 Per Month (Negotiable) Job Type: Permanent Sectors: Consulting Reference: 2193284 Apply before Dec 30 2026 | 61 Days left Apply Vacancy Details Employer: Jai Search Consultancy Duties: ● Responding to customer queries and services via Email and Chat ● Provide accurate information, troubleshoot technical issues, and resolve customer concerns ● Maintain detailed records of customer interactions an"
+    },
+    {
+      "id": "dc2280799a610b2b",
+      "title": "French speaking Quality Assurance",
+      "company": "Jai Search Consultancy",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2359431-french-speaking-quality-assurance-johannesburg/?jobindex=3",
+      "found_at": "2026-10-31T08:57:38.797401+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "Johannesburg, Gauteng",
+      "province": "Gauteng",
+      "closing_date": "2026-12-30",
+      "salary": "R25000 MONTH",
+      "job_type": "Full Time",
+      "requirements": "to deliver excellent customer experience. Ensures that transaction monitoring goals requirements are met. This monitoring should lead to relevant findings that will impact business needs Reporting - Creates & updates Customer Experience reports (e.g., Daily Internal Errors, Scorecard Upload, MIS, Verint 11, etc.) for the account by retrieving and updating the respective files and data. Maintains the files updated for accurate analysis and process improvement / innovation. Targeted analysis - Reviews, analyzes, and interprets data that affects Customer Experience metrics. Highlights areas for improving immediate necessities, and overall strengths impacting customer experience. Creates effective recommendations to drive account performance. Flagging behaviours - Investigates customer complaints and/or non-compliance to Customer Experience standards. Required skills: French language (read, speak and write) 3 years working experience in a call centre and at least 2 years within the quality role with impeccable performance. Analytical skills. Problem-solving and decision-making skills. Excellent oral and written communication skills. Adaptive to changing work schedules. Active listenin",
+      "exact_post": true,
+      "description": "Position: Quality Assurance - French speaking Department: Customer Experience Functional Responsibilities: Transaction Monitoring - Monitors and audits transactions performed by CSRs against internal and/or external quality assurance r... French speaking Quality Assurance, Johannesburg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results French speaking Quality Assurance Johannesburg Salary: R25 000.00 - R25 500.00 Per Month (Negotiable) Job Type: Permanent Sectors: Call Centre Benefits: Medical Aid Pension Reference: 2359431 Apply before Dec 30 2026 | 61 Days left Apply Vacancy Details Employer: Jai Search Consultancy Position: Quality Assurance - French speaking Department: Customer Experience Functional Responsibilities: Transaction Monitoring - Monitors and audits transactions performed by CSRs against interna"
+    },
+    {
+      "id": "dce87d7a76d6e5ef",
+      "title": "DC Checker",
+      "company": "Dis-Chem Pharmacies Limited",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396826-dc-checker-cape-town-cape-town/?jobindex=4",
+      "found_at": "2026-10-31T08:57:39.139628+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Cashiers & Retail",
+      "location": "Cape Town, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-01",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Essential: Matric – With English and Mathematics 1 Year relevant experience, in a Distribution, Logistics or Supply Chain Environment Computer Literacy - MS Office Advantageous: Supply-Chain or Logistics Degree or Diploma Computer Skills – Word, Excel, Outlook Job Description: Ensure that a high standard of accuracy is maintained during checking of picked orders Ensure that all picked stock is scanned to verify order against required quantity, batch and expiry date Ensure that stock is packed in a manner that will prevent cross-contamination and damages during transport to stores Ensure that once checked that: Either the pack-slip is included in the box or label with the description of goods in the Stock box or tote Ensure that all goods when packed for dispatch to stores are labelled with labels required. (Use the store name/ invoice number and number of boxes) Do not allow stock to be removed from the warehouse, without proper documentation or the approval of the supervisor or manager/pharmacist Meet set targets set by management with emphasis on accuracy Report and record, on all errors made by pickers, to supervisors or management Report on the damage or malfunction of all ch",
+      "exact_post": true,
+      "description": "Ensure that a high standard of accuracy is maintained during checking of picked orders Ensure that all picked stock is scanned to verify order against required quantity, batch and expiry date Ensure that stock is packed in a manner that will prevent cross-contamination and damages during transport to stores Ensure that once checked that: Either the pack-slip is included in the box or label with the description of goods in the Stock box or tote Ensure that all goods when packed for dispatch to stores are labelled with labels required. (Use the store name/ invoice number and number of boxes) Do not allow stock to be removed from the warehouse, without proper documentation or the approval of the supervisor or manager/pharmacist Meet set targets set by management with emphasis on accuracy Report and record, on all errors made by pickers, to supervisors or management Report on the damage or malfunction of all checking equipment Confer with supervisors or management regularly regarding stock errors and damages Clean and maintain supplies, tools, equipment and storage areas to ensure compliance with safety regulations Ensure that the checking area storage and space utilization is optimi"
+    },
+    {
+      "id": "155a5f78c5328adb",
       "title": "Au Pair & Personal Assistant",
       "company": "JobConnect",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396823-au-pair-personal-assistant-sandton/?jobindex=1",
-      "found_at": "2026-10-31T02:46:57.402885+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396823-au-pair-personal-assistant-sandton/?jobindex=5",
+      "found_at": "2026-10-31T08:57:39.543014+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -60,18 +168,18 @@
       "closing_date": "2026-12-29",
       "salary": "R10000 MONTH",
       "job_type": "Full Time",
-      "requirements": "Matric (Grade 12) First Aid and CPR certificate Childcare / Early Childhood Development certificate - Advantageous Driver's licence - Essential for school collections Previous Au Pair or childcare experience - Highly desirable Apply 4 people have applied for this job. 80 people have viewed this job. Previous Next More Jobs at JobConnect View All (16) Assistant Buyer Sandton Job Type: Permanent Posted 30 Oct 2026 | 60 Days left Apparel and Textiles Buyer Sandton Job Type: Permanent Posted 25 Oct 2026 | 55 Days left Production Planner Sandton Job Type: Permanent Posted 14 Oct 2026 | 44 Days left Junior Graphic Designer Sandton Job Type: Permanent Posted 13 Oct 2026 | 43 Days left",
+      "requirements": "Matric (Grade 12) First Aid and CPR certificate Childcare / Early Childhood Development certificate - Advantageous Driver's licence - Essential for school collections Previous Au Pair or childcare experience - Highly desirable Apply 19 people have applied for this job. 190 people have viewed this job. Previous Next More Jobs at JobConnect View All (16) Assistant Buyer Sandton Job Type: Permanent Posted 30 Oct 2026 | 60 Days left Apparel and Textiles Buyer Sandton Job Type: Permanent Posted 25 Oct 2026 | 55 Days left Production Planner Sandton Job Type: Permanent Posted 14 Oct 2026 | 44 Days left Junior Graphic Designer Sandton Job Type: Permanent Posted 13 Oct 2026 | 43 Days left",
       "exact_post": true,
       "description": "Au Pair & Personal Assistant – Sandton A warm and welcoming family based in Sandton is seeking an enthusiastic, caring and organised Au Pair to look after their two young boys while providing additional Personal Assistant support. This is a wonderful... Matric (Grade 12) First Aid and CPR certificate Childcare / Early Childhood Development certificate - Advantageous Driver's licence - Essential for school collections Previous Au Pair or childcare experience - Highly desirable Au Pair & Personal Assistant, Sandton - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng / Johannesburg Back to Search Results Au Pair & Personal Assistant Sandton Salary: R10 000.00 - R18 000.00 Per Month (Negotiable) Job Type: Permanent Sectors: General Reference: 2396823 Apply before Dec 29 2026 | 60 Days left Apply Vacancy Details Employer: JobConnect Au Pair"
     },
     {
-      "id": "61d5340ead3e59d1",
+      "id": "7ef4ce3c38a0366a",
       "title": "Assistant Buyer",
       "company": "JobConnect",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396822-assistant-buyer-sandton/?jobindex=2",
-      "found_at": "2026-10-31T02:46:57.778531+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396822-assistant-buyer-sandton/?jobindex=6",
+      "found_at": "2026-10-31T08:57:39.936509+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -93,13 +201,13 @@
       "description": "ASSISTANT TO SENIOR BUYER Location: Sandton, Johannesburg An established and dynamic corporate gifts and promotions company based in Sandton is looking for an enthusiastic, detail-oriented individual to join its procurement team as an Assistant to the... Previous experience within the clothing or apparel sector is essential. Good understanding of garment quality, fabric specifications and quality checking. Awareness of current clothing trends, market developments and product styles. Assistant Buyer, Sandton - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng / Johannesburg Back to Search Results Assistant Buyer Sandton Salary: R15 000.00 - R20 000.00 Per Month (Negotiable) Job Type: Permanent Sectors: Clothing Fashion Procurement Reference: 2396822 Apply before Dec 29 2026 | 60 Days left Apply Vacancy Details Employer: JobConnect ASSIS"
     },
     {
-      "id": "87c4ed63730b1a74",
+      "id": "e63c5b46f2caa616",
       "title": "Cashier",
       "company": "Empact Group",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396821-cashier-cape-town/?jobindex=3",
-      "found_at": "2026-10-31T02:46:58.204512+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396821-cashier-cape-town/?jobindex=7",
+      "found_at": "2026-10-31T08:57:40.329571+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -116,18 +224,18 @@
       "closing_date": "2026-11-20",
       "salary": "",
       "job_type": "Contractor",
-      "requirements": ". By applying for a role within Empact Group (Proprietary) Limited, all Personal Information that you provide to the Company will be held and/ or stored securely for the purpose of recruitment. Your Personal Information will be stored electronically in a database. Where appropriate, some information may be retained in hard copy. In either event, storage will be secure and audited regularly regarding the safety and security of the information in accordance with the Protection of Personal Information. Apply 18 people have applied for this job. 156 people have viewed this job. Previous Next Similar Jobs View All (37) Cashier - BUCO Cape Town (City) Cape Town CBD Job Type: Permanent Posted 23 Oct 2026 | 22 Days left Cashier - Sitari Fields Cape Town Job Type: Permanent Posted 27 Oct 2026 | 11 Days left Casual Cashier (Fixed Term) - Kenilworth Cape Town Job Type: Permanent Posted 23 Oct 2026 | 7 Days left Casual Cashier (Fixed Term) - Ottery Cape Town Job Type: Contract Posted 23 Oct 2026 | 7 Days left More Jobs at Empact Group View All (26) Barista Cape Town Job Type: Contract Posted 30 Oct 2026 | 21 Days left Cook Cape Town Job Type: Contract Posted 30 Oct 2026 | 31 Days left Financia",
+      "requirements": ". By applying for a role within Empact Group (Proprietary) Limited, all Personal Information that you provide to the Company will be held and/ or stored securely for the purpose of recruitment. Your Personal Information will be stored electronically in a database. Where appropriate, some information may be retained in hard copy. In either event, storage will be secure and audited regularly regarding the safety and security of the information in accordance with the Protection of Personal Information. Apply 27 people have applied for this job. 231 people have viewed this job. Previous Next Similar Jobs View All (37) Cashier - BUCO Cape Town (City) Cape Town CBD Job Type: Permanent Posted 23 Oct 2026 | 22 Days left Cashier - Sitari Fields Cape Town Job Type: Permanent Posted 27 Oct 2026 | 11 Days left Casual Cashier (Fixed Term) - Kenilworth Cape Town Job Type: Permanent Posted 23 Oct 2026 | 7 Days left Casual Cashier (Fixed Term) - Ottery Cape Town Job Type: Contract Posted 23 Oct 2026 | 7 Days left More Jobs at Empact Group View All (26) Barista Cape Town Job Type: Contract Posted 30 Oct 2026 | 21 Days left Cook Cape Town Job Type: Contract Posted 30 Oct 2026 | 31 Days left Financia",
       "exact_post": true,
       "description": "The main purpose of the job: The successful candidate will perform cashiering duties, restock all beverages, general supplies and also perform general food service duties. Education and experience required: Matric is essential Minimum of 1-year experie... Cashier, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Cashier Cape Town Salary: Market Related Job Type: Contract Sectors: Hospitality General Reference: 210035 Apply before Nov 20 2026 | 21 Days left Apply Vacancy Details Employer: Empact Group The main purpose of the job: The successful candidate will perform cashiering duties, restock all beverages, general supplies and also perform general food service duties. Education and experience required: Matric is essential Minimum of 1-year experience in the same role is essential Experience in "
     },
     {
-      "id": "e4d5ecc05c2387d6",
+      "id": "0e220ffa1c83684c",
       "title": "Barista",
       "company": "Empact Group",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396820-barista-cape-town/?jobindex=4",
-      "found_at": "2026-10-31T02:46:58.636252+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396820-barista-cape-town/?jobindex=8",
+      "found_at": "2026-10-31T08:57:40.684545+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -149,13 +257,13 @@
       "description": "To serve customers in a polite and friendly manner, offering coffee selections, assisting with basic food preparation, handling cash transactions, and actively supporting unit sales promotions. Education and Experience Requirements... Barista, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Barista Cape Town Salary: Market Related Job Type: Contract Sectors: Hospitality General Reference: 210034 Apply before Nov 20 2026 | 21 Days left Apply Vacancy Details Employer: Empact Group Purpose of the Role: To serve customers in a polite and friendly manner, offering coffee selections, assisting with basic food preparation, handling cash transactions, and actively supporting unit sales promotions. Education and Experience Requirements Matric (Grade 12) is essential Customer service experience is essential Experience in a similar role is required Key Areas of Responsibility Provide friendly, professional service to all customers Prepare and serve basic food and beverage items Operate the cash regi"
     },
     {
-      "id": "84a550d11bdd50e7",
+      "id": "dbf804f3a1feed6f",
       "title": "Liberty",
       "company": "EQ-FIN",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396818-liberty-wealth-planner-training-from-1st-day-western-cape/?jobindex=5",
-      "found_at": "2026-10-31T02:46:59.059777+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396818-liberty-wealth-planner-training-from-1st-day-western-cape/?jobindex=9",
+      "found_at": "2026-10-31T08:57:41.065671+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -172,121 +280,9 @@
       "closing_date": "2026-10-31",
       "salary": "",
       "job_type": "Full Time",
-      "requirements": "Before applying, you'll need: ✅ South African ID ✅ Matric certificate ✅ Own reliable vehicle ✅ Clear credit record (no listed debt) ✅ No criminal record ✅ Laptop and cell phone is essential ✅ Min 3 years working experience Apply 1 person has applied for this job. 63 people have viewed this job. Previous Next About EQ-FIN EQ-FIN is an outsourced assurance management company which represents Liberty Life and Stanlib in the South African financial services industry. While we distribute Liberty life insurance and risk products, retirement planning solutions, short and long-term savings products, medical aids and corporate",
+      "requirements": "Before applying, you'll need: ✅ South African ID ✅ Matric certificate ✅ Own reliable vehicle ✅ Clear credit record (no listed debt) ✅ No criminal record ✅ Laptop and cell phone is essential ✅ Min 3 years working experience Apply 2 people have applied for this job. 106 people have viewed this job. Previous Next About EQ-FIN EQ-FIN is an outsourced assurance management company which represents Liberty Life and Stanlib in the South African financial services industry. While we distribute Liberty life insurance and risk products, retirement planning solutions, short and long-term savings products, medical aids and corporate",
       "exact_post": true,
-      "description": "What if your next career move isn't in the same industry you're in today? Let's be honest. Most people don't wake up one morning and decide they want to become a Wealth Planner. In fact, many of the most successful advisers at Liberty started their ... Before applying, you'll need: ✅ South African ID ✅ Matric certificate ✅ Own reliable vehicle ✅ Clear credit record (no listed debt) ✅ No criminal record ✅ Laptop and cell phone is essential ✅ Min 3 years working experience Liberty | Wealth Planner | Training from 1st day, Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Liberty | Wealth Planner | Training from 1st day Western Cape Salary: Market Related Bonus: Yes Job Type: Permanent Sectors: Procurement Benefits: Bonus Training Reference: Procurement Apply before Oct 31 2026 | 19 Hours left Apply Vacancy Det"
-    },
-    {
-      "id": "94bd84ad97f10ed9",
-      "title": "Finance and Administration Officer",
-      "company": "Tailormade Solution",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396817-finance-and-administration-officer-south-africa/?jobindex=7",
-      "found_at": "2026-10-31T02:46:59.950592+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Office & Admin",
-      "location": "ZA, ZA",
-      "province": "Gauteng",
-      "closing_date": "2026-12-29",
-      "salary": "R12000 MONTH",
-      "job_type": "Full Time",
-      "requirements": "Grade 12 / Matric is essential. - Minimum 2 years' practical experience in bookkeeping, accounts or a similar finance role. - Experience with bank reconciliations, debtors, creditors, VAT processing and monthly reporting. - Good understanding of budget-versus-actual reporting and cash flow forecasting. - Experience using Odoo, Sage Pastel or a comparable accounting package. - Strong Microsoft Excel skills, including formulas, lookups and pivot tables. - Excellent numerical accuracy and attention to detail. - Good written and verbal communication skills. - Ability to work independently, maintain confidentiality and meet deadlines. Advantageous - Relevant bookkeeping or accounting qualification. - Experience in the skills development, training or SETA environment. - Exposure to project-based financial administration. Apply If you have practical bookkeeping experience and are confident managing a broad finance and administration function, we would like to hear from you. Please submit your updated CV, detailing your relevant accounting experience and software exposure. Apply 92 people have viewed this job. Previous Next About Tailormade Solution Our Strength lies in our passion for",
-      "exact_post": true,
-      "description": "We are seeking a capable and detail-oriented Finance and Administration... Finance and Administration Officer, South Africa - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search Back to Search Results Finance and Administration Officer South Africa Salary: R12 000.00 - R15 000.00 Per Month Job Type: Permanent Sectors: Accounting Education Reference: fd6cf494-a32b-44a5-9db0-c64789bb027a Apply before Dec 29 2026 | 60 Days left Apply External Application Vacancy Details Employer: Tailormade Solution Finance and Administration Officer Location: Durban, KwaZulu-Natal Salary: R12,000 – R15,000 gross per month, depending on experience Employment Type: Full-time"
-    },
-    {
-      "id": "5491f7689065af04",
-      "title": "Clinic Nurse Practitioner",
-      "company": "Dis-Chem Pharmacies Limited",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396816-clinic-nurse-practitioner-cornubia-umhlanga/?jobindex=8",
-      "found_at": "2026-10-31T02:47:00.421010+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Healthcare",
-      "location": "Durban Northern Suburbs, KwaZulu-Natal",
-      "province": "KwaZulu-Natal",
-      "closing_date": "2026-11-13",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "Essential: Grade 12 – Matric Tertiary qualification in General Nursing Degree/Diploma in Midwifery Registered with South African Nursing Council (SANC) Nursing practitioner must obtain BHF registration 2-3 years’ experience in practicing as a Primary Health Care Clinic Sister Computer skills – Microsoft Office: Word, Excel, PowerPoint and Outlook. Advantageous: Minimum 5 years practicing as a Primary Health Care Sister Patient Record System & CKS & Allegra Job Description: Perform Clinic Sister duties according to industry regulations and industry best Manage the average “feet-per-hour” rate and set clinic objectives to enhance patient Ensure all clinic services are available at the Keep accurate records of patient details, and ensure communication is followed up Ensure that the Clinic is open and operational according to the hours stated in the operational Process claims accurately and timeously according to industry Ensure all stock and equipment in the clinic is in a working condition according to industry Ensure stock is sufficient in the Clinic according to business Build and maintain healthy relationships with the following stakeholders: Patients, Store and Dispensary Manag",
-      "exact_post": true,
-      "description": "Perform Clinic Sister duties according to industry regulations and industry best Manage the average “feet-per-hour” rate and set clinic objectives to enhance patient Ensure all clinic services are available at the Keep accurate records of patient details, and ensure communication is followed up Ensure that the Clinic is open and operational according to the hours stated in the operational Process claims accurately and timeously according to industry Ensure all stock and equipment in the clinic is in a working condition according to industry Ensure stock is sufficient in the Clinic according to business Build and maintain healthy relationships with the following stakeholders: Patients, Store and Dispensary Manager, Colleagues, Medical Aids, Suppliers/Reps, key role players in the community, and other Healthcare Competencies: Essential: Knowledge of community health nursing, primary health care and/or occupational health nursing, family planning, cytology, IUD, pharmacology, EPI/cold chain management, STDs, emergency care, HIV/AIDS pre- and post-counseling, breastfeeding, pathology, wound care Quarterly CPD training; in-service training with Dis-Chem Strong command of English (writ"
-    },
-    {
-      "id": "9ffaab3b82cc3c8d",
-      "title": "Merchandiser - Ballito (Talent Pool)",
-      "company": "Dis-Chem Pharmacies Limited",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396815-merchandiser-ballito-talent-pool-kwazulu-natal/?jobindex=9",
-      "found_at": "2026-10-31T02:47:01.645926+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Cashiers & Retail",
-      "location": "KwaZulu-Natal, KwaZulu-Natal",
-      "province": "KwaZulu-Natal",
-      "closing_date": "2026-11-06",
-      "salary": "",
-      "job_type": "Contractor",
-      "requirements": "Essential: Grade 12 / Matric Up to 6 months’ retail experience Computer literate – MS Office Willing and able to work retail hours Advantageous: At least 1 year retail experience Job Description: Restock merchandise as needed to ensure maximum sales Ensure delivered stock/stock pulled from the storeroom, is stored and packed in the correct space timeously Ensure stock on shelves has not reached sell-by date Ensure the full range of products is on the shelves at all times Facilitate rotation of stock on a regular, FIFO basis Report low stock levels, out-of-stock items, damaged stock and expired stock to management Assist with counting of stock files and general stocktaking Adhere to Dis-Chem’s operating standards, store layout and planograms Ensure boxes are flattened after unpacking stock, and taken to the designated area Ensure front shop shelves and products are neatly presented and visible at all times, with correct labels and pricing Report all price discrepancies to management Keep abreast of current and new products Ensure merchandising displays are built, faced up, stocked and maintained Maintain daily physical upkeep of store and merchandise displays, and be responsible",
-      "exact_post": true,
-      "description": "Restock merchandise as needed to ensure maximum sales Ensure delivered stock/stock pulled from the storeroom, is stored and packed in the correct space timeously Ensure stock on shelves has not reached sell-by date Ensure the full range of products is on the shelves at all times Facilitate rotation of stock on a regular, FIFO basis Report low stock levels, out-of-stock items, damaged stock and expired stock to management Assist with counting of stock files and general stocktaking Adhere to Dis-Chem’s operating standards, store layout and planograms Ensure boxes are flattened after unpacking stock, and taken to the designated area Ensure front shop shelves and products are neatly presented and visible at all times, with correct labels and pricing Report all price discrepancies to management Keep abreast of current and new products Ensure merchandising displays are built, faced up, stocked and maintained Maintain daily physical upkeep of store and merchandise displays, and be responsible for your designated stock in the storeroom as well as on the shop floor Assist with loading and off-loading of stock Ensure items without barcodes are clearly marked Assist with back shopping Assis"
-    },
-    {
-      "id": "cecf5364b6e07a42",
-      "title": "Customer Experience Administrator Retail (Customer Experience department)",
-      "company": "Brights Hardware",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396814-customer-experience-administrator-retail-customer-experience-department-western-cape/?jobindex=10",
-      "found_at": "2026-10-31T02:47:02.007673+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Cashiers & Retail",
-      "location": "Western Cape, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-11-13",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "Matric or Equivalent Brights Induction (service excellence) 1-2 Years minimum experience in a similar role (social media – Omnichannel Experience highly preferred) Ability to handle pressure Problem solving skills Ability to communicate effectively (verbal & written) at all levels, proficient in English (Great speaking voice) Planning, time management & organizing skills Excellent professional work standards, including grammar and oral proficiency Computer & Typing (minimum of 35 wpm) skills Decision making skills Willing to take on responsibility Attention to detail and high level of accuracy Professional and neat Available to work retail hours Kindly note that if you are not contacted within 2 weeks after the",
-      "exact_post": true,
-      "description": "Purpose: The purpose of this job is to effectively ensure exceptional customer service and experience across all the touchpoints of the Brights customer’s journey. The Customer Experience Administrator will offer support to customers who have questions... Customer Experience Administrator Retail (Customer Experience department), Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Customer Experience Administrator Retail (Customer Experience department) Western Cape Salary: Market Related Job Type: Permanent Sectors: Retail Sales Reference: 210026 Apply before Nov 13 2026 | 14 Days left Apply Vacancy Details Employer: Brights Hardware Purpose: The purpose of this job is to effectively ensure exceptional customer service and experience across all the touchpoints of the Brights customer’s journey. The Customer Ex"
+      "description": "What if your next career move isn't in the same industry you're in today? Let's be honest. Most people don't wake up one morning and decide they want to become a Wealth Planner. In fact, many of the most successful advisers at Liberty started their ... Before applying, you'll need: ✅ South African ID ✅ Matric certificate ✅ Own reliable vehicle ✅ Clear credit record (no listed debt) ✅ No criminal record ✅ Laptop and cell phone is essential ✅ Min 3 years working experience Liberty | Wealth Planner | Training from 1st day, Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Liberty | Wealth Planner | Training from 1st day Western Cape Salary: Market Related Bonus: Yes Job Type: Permanent Sectors: Procurement Benefits: Bonus Training Reference: Procurement Apply before Oct 31 2026 | 13 Hours left Apply Vacancy Det"
     }
   ]
 }
