@@ -1,13 +1,17 @@
 {
-  "generated_at": "2026-10-31T08:58:27.873984+00:00",
+  "generated_at": "2026-10-31T15:00:10.866581+00:00",
   "version": "2.4",
   "stats": {
-    "total": 9,
+    "total": 10,
     "verified_official": 0
   },
   "groups": [
     {
-      "category": "Hospitality & Food",
+      "category": "Office & Admin",
+      "count": 3
+    },
+    {
+      "category": "Drivers & Logistics",
       "count": 2
     },
     {
@@ -15,16 +19,8 @@
       "count": 2
     },
     {
-      "category": "Cashiers & Retail",
+      "category": "Engineering & Trades",
       "count": 2
-    },
-    {
-      "category": "Office & Admin",
-      "count": 1
-    },
-    {
-      "category": "Drivers & Logistics",
-      "count": 1
     },
     {
       "category": "Banking & Finance",
@@ -33,125 +29,13 @@
   ],
   "jobs": [
     {
-      "id": "12d2cddea35c4d32",
-      "title": "Chef de Partie",
-      "company": "Helderberg Personnel cc",
+      "id": "f905dcd46a484c77",
+      "title": "PROJECT SCHEDULER",
+      "company": "West Coast Personnel",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396825-chef-de-partie-stellenbosch/?jobindex=1",
-      "found_at": "2026-10-31T08:57:37.229076+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Hospitality & Food",
-      "location": "Stellenbosch, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-11-30",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "Formal culinary qualification from an accredited training institution 2–3 years practical experience working in a professional kitchen Excellent culinary skills with a genuine passion for food and quality Sound knowledge of professional kitchen procedures, food preparation and hygiene standards Impeccable personal and food hygiene standards Good interpersonal and communication skills Ability to work effectively as part of a team Ability to remain calm, organised and productive under pressure Strong work ethic, reliability and attention to detail Professional presentation and a positive, hands-on approach Responsibilities Include But Are Not Limited To: Preparing and cooking food to the required quality and presentation standards Taking responsibility for the efficient operation and organisation of the designated section Ensuring consistency, attention to detail and high standards throughout food preparation and service Maintaining impeccable standards of personal, food and kitchen hygiene Following recipes, preparation methods and instructions from senior kitchen management Ensuring ingredients and prepared food are handled, stored and rotated correctly Assisting with maintaining",
-      "exact_post": true,
-      "description": "To ensure the consistent preparation and delivery of quality food in accordance with established culinary standards, while maintaining excellent kitchen hygiene, organisation and efficiency. Requirements: Formal culinary qualification from an accredited training institution 2–3 years practical experience working in a professional kitchen Excellent culinary skills with a genuine passion for food and quality Sound knowledge of professional kitchen procedures, food preparation and hygiene standards Impeccable personal and food hygiene standards Good interpersonal and communication skills Ability to work effectively as part of a team Ability to remain calm, organised and productive under pressure Strong work ethic, reliability and attention to detail Professional presentation and a positive, hands-on approach Responsibilities Include But Are Not Limited To: Preparing and cooking food to the required quality and presentation standards Taking responsibility for the efficient operation and organisation of the designated section Ensuring consistency, attention to detail and high standards throughout food preparation and service Maintaining impeccable standards of personal, food and kitche"
-    },
-    {
-      "id": "5f76c8fbdd940c10",
-      "title": "German Speaking Representatives",
-      "company": "Jai Search Consultancy",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2193284-german-speaking-representatives-cape-town/?jobindex=2",
-      "found_at": "2026-10-31T08:57:38.395635+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Other Jobs",
-      "location": "Cape Town, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-12-30",
-      "salary": "R24000 MONTH",
-      "job_type": "Full Time",
-      "requirements": "● Speak, read & write German Hours of operation: ● 8am - 8pm (European time), Monday - Saturday, on a rotational shift basis Salary: ● R2 5 000 CTC",
-      "exact_post": true,
-      "description": "Duties: ●Responding to customer queries and services via Email and Chat ●Provide accurate information, troubleshoot technical issues, and resolve customer concerns ●Maintain detailed records of customer interactions and transactions ●Stay up to dat... German Speaking Representatives, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results German Speaking Representatives Cape Town Salary: R24 000.00 - R25 000.00 Per Month (Negotiable) Job Type: Permanent Sectors: Consulting Reference: 2193284 Apply before Dec 30 2026 | 61 Days left Apply Vacancy Details Employer: Jai Search Consultancy Duties: ● Responding to customer queries and services via Email and Chat ● Provide accurate information, troubleshoot technical issues, and resolve customer concerns ● Maintain detailed records of customer interactions an"
-    },
-    {
-      "id": "dc2280799a610b2b",
-      "title": "French speaking Quality Assurance",
-      "company": "Jai Search Consultancy",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2359431-french-speaking-quality-assurance-johannesburg/?jobindex=3",
-      "found_at": "2026-10-31T08:57:38.797401+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Office & Admin",
-      "location": "Johannesburg, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-12-30",
-      "salary": "R25000 MONTH",
-      "job_type": "Full Time",
-      "requirements": "to deliver excellent customer experience. Ensures that transaction monitoring goals requirements are met. This monitoring should lead to relevant findings that will impact business needs Reporting - Creates & updates Customer Experience reports (e.g., Daily Internal Errors, Scorecard Upload, MIS, Verint 11, etc.) for the account by retrieving and updating the respective files and data. Maintains the files updated for accurate analysis and process improvement / innovation. Targeted analysis - Reviews, analyzes, and interprets data that affects Customer Experience metrics. Highlights areas for improving immediate necessities, and overall strengths impacting customer experience. Creates effective recommendations to drive account performance. Flagging behaviours - Investigates customer complaints and/or non-compliance to Customer Experience standards. Required skills: French language (read, speak and write) 3 years working experience in a call centre and at least 2 years within the quality role with impeccable performance. Analytical skills. Problem-solving and decision-making skills. Excellent oral and written communication skills. Adaptive to changing work schedules. Active listenin",
-      "exact_post": true,
-      "description": "Position: Quality Assurance - French speaking Department: Customer Experience Functional Responsibilities: Transaction Monitoring - Monitors and audits transactions performed by CSRs against internal and/or external quality assurance r... French speaking Quality Assurance, Johannesburg - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng Back to Search Results French speaking Quality Assurance Johannesburg Salary: R25 000.00 - R25 500.00 Per Month (Negotiable) Job Type: Permanent Sectors: Call Centre Benefits: Medical Aid Pension Reference: 2359431 Apply before Dec 30 2026 | 61 Days left Apply Vacancy Details Employer: Jai Search Consultancy Position: Quality Assurance - French speaking Department: Customer Experience Functional Responsibilities: Transaction Monitoring - Monitors and audits transactions performed by CSRs against interna"
-    },
-    {
-      "id": "dce87d7a76d6e5ef",
-      "title": "DC Checker",
-      "company": "Dis-Chem Pharmacies Limited",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396826-dc-checker-cape-town-cape-town/?jobindex=4",
-      "found_at": "2026-10-31T08:57:39.139628+00:00",
-      "verification": {
-        "status": "board_listing",
-        "confidence": 55,
-        "checks": [
-          "Found on a known SA job board",
-          "Not yet confirmed on the employer's own site",
-          "Apply link opens the exact vacancy post (not a careers homepage)"
-        ],
-        "warnings": []
-      },
-      "category": "Cashiers & Retail",
-      "location": "Cape Town, Western Cape",
-      "province": "Western Cape",
-      "closing_date": "2026-11-01",
-      "salary": "",
-      "job_type": "Full Time",
-      "requirements": "Essential: Matric – With English and Mathematics 1 Year relevant experience, in a Distribution, Logistics or Supply Chain Environment Computer Literacy - MS Office Advantageous: Supply-Chain or Logistics Degree or Diploma Computer Skills – Word, Excel, Outlook Job Description: Ensure that a high standard of accuracy is maintained during checking of picked orders Ensure that all picked stock is scanned to verify order against required quantity, batch and expiry date Ensure that stock is packed in a manner that will prevent cross-contamination and damages during transport to stores Ensure that once checked that: Either the pack-slip is included in the box or label with the description of goods in the Stock box or tote Ensure that all goods when packed for dispatch to stores are labelled with labels required. (Use the store name/ invoice number and number of boxes) Do not allow stock to be removed from the warehouse, without proper documentation or the approval of the supervisor or manager/pharmacist Meet set targets set by management with emphasis on accuracy Report and record, on all errors made by pickers, to supervisors or management Report on the damage or malfunction of all ch",
-      "exact_post": true,
-      "description": "Ensure that a high standard of accuracy is maintained during checking of picked orders Ensure that all picked stock is scanned to verify order against required quantity, batch and expiry date Ensure that stock is packed in a manner that will prevent cross-contamination and damages during transport to stores Ensure that once checked that: Either the pack-slip is included in the box or label with the description of goods in the Stock box or tote Ensure that all goods when packed for dispatch to stores are labelled with labels required. (Use the store name/ invoice number and number of boxes) Do not allow stock to be removed from the warehouse, without proper documentation or the approval of the supervisor or manager/pharmacist Meet set targets set by management with emphasis on accuracy Report and record, on all errors made by pickers, to supervisors or management Report on the damage or malfunction of all checking equipment Confer with supervisors or management regularly regarding stock errors and damages Clean and maintain supplies, tools, equipment and storage areas to ensure compliance with safety regulations Ensure that the checking area storage and space utilization is optimi"
-    },
-    {
-      "id": "155a5f78c5328adb",
-      "title": "Au Pair & Personal Assistant",
-      "company": "JobConnect",
-      "source_name": "Careers24",
-      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396823-au-pair-personal-assistant-sandton/?jobindex=5",
-      "found_at": "2026-10-31T08:57:39.543014+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2392575-project-scheduler-cape-town-northern-suburbs/?jobindex=1",
+      "found_at": "2026-10-31T14:59:34.905704+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -163,23 +47,23 @@
         "warnings": []
       },
       "category": "Drivers & Logistics",
-      "location": "Johannesburg, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-12-29",
-      "salary": "R10000 MONTH",
+      "location": "Cape Town Northern Suburbs, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-08",
+      "salary": "",
       "job_type": "Full Time",
-      "requirements": "Matric (Grade 12) First Aid and CPR certificate Childcare / Early Childhood Development certificate - Advantageous Driver's licence - Essential for school collections Previous Au Pair or childcare experience - Highly desirable Apply 19 people have applied for this job. 190 people have viewed this job. Previous Next More Jobs at JobConnect View All (16) Assistant Buyer Sandton Job Type: Permanent Posted 30 Oct 2026 | 60 Days left Apparel and Textiles Buyer Sandton Job Type: Permanent Posted 25 Oct 2026 | 55 Days left Production Planner Sandton Job Type: Permanent Posted 14 Oct 2026 | 44 Days left Junior Graphic Designer Sandton Job Type: Permanent Posted 13 Oct 2026 | 43 Days left",
+      "requirements": "into detailed schedules with clear milestones, dependencies and resource needs. Keep the programme grounded in reality: Gather updates from site teams and subcontractors, assess actual progress and revise forecasts. Protect the critical path: Identify the activities that determine completion dates and flag constraints requiring immediate attention. Turn delays into action: Assess the impact of slippage and recommend practical adjustments to help recover progress. Give management a clear picture: Produce reports that show what is on track, what is at risk and where decisions are needed. Bring teams into alignment: Coordinate scheduling inputs so engineering, site and subcontractor activities work towards the same deadlines. Keep a reliable planning record: Document baselines, revisions, assumptions and approvals to support project controls and reporting. What Youâll Bring At least 3 yearsâ project planning or scheduling experience, preferably in electrical infrastructure, construction or engineering. Grade 12. Proven ability to build and manage schedules using Microsoft Project, Primavera P6 or similar software. A solid understanding of critical path analysis, dependencies, pro",
       "exact_post": true,
-      "description": "Au Pair & Personal Assistant – Sandton A warm and welcoming family based in Sandton is seeking an enthusiastic, caring and organised Au Pair to look after their two young boys while providing additional Personal Assistant support. This is a wonderful... Matric (Grade 12) First Aid and CPR certificate Childcare / Early Childhood Development certificate - Advantageous Driver's licence - Essential for school collections Previous Au Pair or childcare experience - Highly desirable Au Pair & Personal Assistant, Sandton - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng / Johannesburg Back to Search Results Au Pair & Personal Assistant Sandton Salary: R10 000.00 - R18 000.00 Per Month (Negotiable) Job Type: Permanent Sectors: General Reference: 2396823 Apply before Dec 29 2026 | 60 Days left Apply Vacancy Details Employer: JobConnect Au Pair"
+      "description": "PROJECT SCHEDULER â ELECTRICAL INFRASTRUCTURENorthern Suburbs, Cape Town | Market Related SalaryGreat project delivery starts with a planner who sees whatâs coming.An established electrical engineering contractor is seeking a Project Scheduler who can connect site realities with a workable programme. If you can spot a bottleneck, explain its impact and help the project team respond before a milestone slips, this opportunity deserves your attention.Youâll work directly with project managers, engineers and site teams to build credible schedules and keep everyone focused on the activities that drive delivery. PROJECT SCHEDULER , Cape Town Northern Suburbs - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results PROJECT SCHEDULER Cape Town Northern Suburbs Salary: Market Related Job Type: Permanent Sectors: Con"
     },
     {
-      "id": "7ef4ce3c38a0366a",
-      "title": "Assistant Buyer",
-      "company": "JobConnect",
+      "id": "86c1e14ca6aa512f",
+      "title": "Yard Foreman",
+      "company": "West Coast Personnel",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396822-assistant-buyer-sandton/?jobindex=6",
-      "found_at": "2026-10-31T08:57:39.936509+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396178-yard-foreman-stellenbosch/?jobindex=2",
+      "found_at": "2026-10-31T14:59:35.292137+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -191,23 +75,23 @@
         "warnings": []
       },
       "category": "Other Jobs",
-      "location": "Johannesburg, Gauteng",
-      "province": "Gauteng",
-      "closing_date": "2026-12-29",
+      "location": "Stellenbosch, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-28",
       "salary": "R15000 MONTH",
       "job_type": "Full Time",
-      "requirements": "Previous experience within the clothing or apparel sector is essential. Good understanding of garment quality, fabric specifications and quality checking. Awareness of current clothing trends, market developments and product styles. Strong organisational skills and excellent attention to detail. A proactive attitude with a willingness to learn and take on new challenges. An interest in procurement, buying and supplier relationships. You will work closely with the Senior Buyer, assisting with purchasing activities, garment quality assessments, product research and keeping up to date with the latest market trends. Salary: Negotiable, depending on experience and expertise. If you have a passion for clothing, an eye for quality and are looking for an opportunity to grow your career in procurement, we would love to hear from you! Required Skills Garment Technology: 2 to 3 years Clothing: 2 to 3 years Market Trends: 2 to 3 years Candidate Requirements Previous experience within the clothing or apparel sector is essential. Good understanding of garment quality, fabric specifications and quality checking. Awareness of current clothing trends, market developments and product styles. Apply",
+      "requirements": "Matric / Grade 12. Minimum 3 years' experience in a manufacturing, warehouse, yard or dispatch environment. At least 1 year of staff supervisory experience. Proven stock control and physical stocktaking experience. Forklift licence or willingness to obtain one within 3 months. Basic computer skills, including Excel and stock systems. Strong leadership, organisational and communication skills. Experience in building materials, bricks, paving or tiles advantageous. ERP system experience (Sage, SAP or similar) advantageous. Apply 387 people have viewed this job. Previous Next About West Coast Personnel Staff recruitment specialists at all levels: Permanent Placements, Temps, Contract Personnel and CV Services. What services do we offer? Successful recruitment and selection processes Personality profiling Professional CV preparation for Jobseekers Verification of qualifications, employment history and all relevant details. Reference checks according to competencies. Suitability for position. West Coast Personnel Permanent Placements Having an impressive database of approved candidates, we search the marketplace to find you the best candidate. Our personalized service means that we act",
       "exact_post": true,
-      "description": "ASSISTANT TO SENIOR BUYER Location: Sandton, Johannesburg An established and dynamic corporate gifts and promotions company based in Sandton is looking for an enthusiastic, detail-oriented individual to join its procurement team as an Assistant to the... Previous experience within the clothing or apparel sector is essential. Good understanding of garment quality, fabric specifications and quality checking. Awareness of current clothing trends, market developments and product styles. Assistant Buyer, Sandton - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Gauteng / Johannesburg Back to Search Results Assistant Buyer Sandton Salary: R15 000.00 - R20 000.00 Per Month (Negotiable) Job Type: Permanent Sectors: Clothing Fashion Procurement Reference: 2396822 Apply before Dec 29 2026 | 60 Days left Apply Vacancy Details Employer: JobConnect ASSIS"
+      "description": "YARD FOREMANMuldersvlei (Stellenbosch) - CPT R15,000âR20,000 p/m, depending on experienceAn established manufacturing company is seeking an experienced, hands-on Yard Foreman to oversee daily yard operations, stock control, dispatch activities and staff supervision.The successful candidate must be organised, reliable and capable of managing a busy yard environment while ensuring stock accuracy, efficient order preparation and safe working practices. Yard Foreman , Stellenbosch - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Yard Foreman Stellenbosch Salary: R15 000.00 - R20 000.00 Per Month Job Type: Permanent Sectors: Manufacturing Reference: CPT001430/MM Apply before Nov 28 2026 | 28 Days left Apply External Application Vacancy Details Employer: West Coast Personnel YARD FOREMANMuldersvlei (Stellenbo"
     },
     {
-      "id": "e63c5b46f2caa616",
-      "title": "Cashier",
-      "company": "Empact Group",
+      "id": "eaca6889433a3cbc",
+      "title": "JUNIOR BODY CORPORATE PORTFOLIO ADMINISTRATOR",
+      "company": "West Coast Personnel",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396821-cashier-cape-town/?jobindex=7",
-      "found_at": "2026-10-31T08:57:40.329571+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2395957-junior-body-corporate-portfolio-administrator-milnerton/?jobindex=3",
+      "found_at": "2026-10-31T14:59:35.655022+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -218,24 +102,24 @@
         ],
         "warnings": []
       },
-      "category": "Cashiers & Retail",
-      "location": "Cape Town, Western Cape",
+      "category": "Office & Admin",
+      "location": "West Coast, Western Cape",
       "province": "Western Cape",
-      "closing_date": "2026-11-20",
-      "salary": "",
-      "job_type": "Contractor",
-      "requirements": ". By applying for a role within Empact Group (Proprietary) Limited, all Personal Information that you provide to the Company will be held and/ or stored securely for the purpose of recruitment. Your Personal Information will be stored electronically in a database. Where appropriate, some information may be retained in hard copy. In either event, storage will be secure and audited regularly regarding the safety and security of the information in accordance with the Protection of Personal Information. Apply 27 people have applied for this job. 231 people have viewed this job. Previous Next Similar Jobs View All (37) Cashier - BUCO Cape Town (City) Cape Town CBD Job Type: Permanent Posted 23 Oct 2026 | 22 Days left Cashier - Sitari Fields Cape Town Job Type: Permanent Posted 27 Oct 2026 | 11 Days left Casual Cashier (Fixed Term) - Kenilworth Cape Town Job Type: Permanent Posted 23 Oct 2026 | 7 Days left Casual Cashier (Fixed Term) - Ottery Cape Town Job Type: Contract Posted 23 Oct 2026 | 7 Days left More Jobs at Empact Group View All (26) Barista Cape Town Job Type: Contract Posted 30 Oct 2026 | 21 Days left Cook Cape Town Job Type: Contract Posted 30 Oct 2026 | 31 Days left Financia",
+      "closing_date": "2026-11-26",
+      "salary": "R14000 MONTH",
+      "job_type": "Full Time",
+      "requirements": "Â Minimum 1â2 years' experience in body corporate or sectional title administration preferred. Previous experience working for a body corporate managing agent or sectional title management company is essential. Good understanding of sectional title legislation, trustee responsibilities and body corporate procedures. Experience with conduct rules, breach notices, warning letters and fines. Knowledge of trustee meetings, AGMs and SGMs. Proficient in Microsoft Word, Excel and email. WeConnectU or similar property management software experience advantageous. Excellent written and verbal English communication skills. Strong organisational, administrative and problem-solving abilities. Must reside in Cape Town and have reliable transport arrangements to Milnerton. Willingness to attend trustee meetings and AGMs after normal working hours when required. Â Key Responsibilities: Â Body Corporate Administration Assist with the daily administration of approximately 15 body corporate schemes. Liaise with trustees, owners, residents, contractors and service providers. Prepare correspondence, notices, circulars and reports. Maintain accurate records and follow up on outstanding matters. Â Me",
       "exact_post": true,
-      "description": "The main purpose of the job: The successful candidate will perform cashiering duties, restock all beverages, general supplies and also perform general food service duties. Education and experience required: Matric is essential Minimum of 1-year experie... Cashier, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Cashier Cape Town Salary: Market Related Job Type: Contract Sectors: Hospitality General Reference: 210035 Apply before Nov 20 2026 | 21 Days left Apply Vacancy Details Employer: Empact Group The main purpose of the job: The successful candidate will perform cashiering duties, restock all beverages, general supplies and also perform general food service duties. Education and experience required: Matric is essential Minimum of 1-year experience in the same role is essential Experience in "
+      "description": "JUNIOR BODY CORPORATE PORTFOLIO ADMINISTRATORÂ Location: Milnerton, Cape TownSalary: R14 000 TO R16 000 per monthEmployment Type: PermanentWorking Hours: Monday â Friday, 08h15 â 17h00Â An established property management company based in Milnerton is seeking an experienced, organised and proactive Junior Body Corporate Portfolio Administrator to join its team.The successful candidate will assist with the administration of approximately 15 sectional title schemes, working closely with the Portfolio Manager and supporting the daily operations of body corporate management.This is NOT an entry-level position. Previous practical experience in body corporate or sectional title administration is ESSENTIAL. JUNIOR BODY CORPORATE PORTFOLIO ADMINISTRATOR, Milnerton - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape / West Coast Back to"
     },
     {
-      "id": "0e220ffa1c83684c",
-      "title": "Barista",
-      "company": "Empact Group",
+      "id": "13e64a387ec7f008",
+      "title": "QUALITY DOCUMENT CONTROLLER",
+      "company": "West Coast Personnel",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396820-barista-cape-town/?jobindex=8",
-      "found_at": "2026-10-31T08:57:40.684545+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2391240-quality-document-controller-cape-town/?jobindex=4",
+      "found_at": "2026-10-31T14:59:35.963816+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -246,24 +130,136 @@
         ],
         "warnings": []
       },
-      "category": "Hospitality & Food",
+      "category": "Office & Admin",
       "location": "Cape Town, Western Cape",
       "province": "Western Cape",
-      "closing_date": "2026-11-20",
+      "closing_date": "2026-11-06",
       "salary": "",
-      "job_type": "Contractor",
-      "requirements": "... Barista, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Barista Cape Town Salary: Market Related Job Type: Contract Sectors: Hospitality General Reference: 210034 Apply before Nov 20 2026 | 21 Days left Apply Vacancy Details Employer: Empact Group Purpose of the Role: To serve customers in a polite and friendly manner, offering coffee selections, assisting with basic food preparation, handling cash transactions, and actively supporting unit sales promotions. Education and Experience Requirements Matric (Grade 12) is essential Customer service experience is essential Experience in a similar role is required Key Areas of Responsibility Provide friendly, professional service to all customers Prepare and serve basic food and beverage items Operate the cash register and manage transactions efficiently Promote daily specials and sales promotions to customers Always maintain a clean and organized work area Knowledge, Skills, and Competencies Knowledge of coffee types and coffee preparation Ba",
+      "job_type": "Full Time",
+      "requirements": ", employment history and all relevant details. Reference checks according to competencies. Suitability for position. West Coast Personnel Permanent Placements Having an impressive database of approved candidates, we search the marketplace to find you the best candidate. Our personalized service means that we actually sit down to find out what precisely you need, and through proven processes, ensure that the right person is chosen for the job. Filling your gaps! West Coast Personnel Temps Our Temps are the perfect staffing solution. Clients hire professional skills per hour and have access to flexible, no-fuss employees at competitive rates; we take care of the complete payroll administration and offer negotiable Temp to Perm Placement fees. More Jobs at West Coast Personnel View All (112) PROJECT SCHEDULER Cape Town Northern Suburbs Job Type: Permanent Posted 31 Oct 2026 | 8 Days left Yard Foreman Stellenbosch Job Type: Permanent Posted 31 Oct 2026 | 28 Days left JUNIOR BODY CORPORATE PORTFOLIO ADMINISTRATOR Milnerton Job Type: Permanent Posted 31 Oct 2026 | 26 Days left STORES MANAGER Cape Town Northern Suburbs Job Type: Permanent Posted 31 Oct 2026 | 8 Days left",
       "exact_post": true,
-      "description": "To serve customers in a polite and friendly manner, offering coffee selections, assisting with basic food preparation, handling cash transactions, and actively supporting unit sales promotions. Education and Experience Requirements... Barista, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results Barista Cape Town Salary: Market Related Job Type: Contract Sectors: Hospitality General Reference: 210034 Apply before Nov 20 2026 | 21 Days left Apply Vacancy Details Employer: Empact Group Purpose of the Role: To serve customers in a polite and friendly manner, offering coffee selections, assisting with basic food preparation, handling cash transactions, and actively supporting unit sales promotions. Education and Experience Requirements Matric (Grade 12) is essential Customer service experience is essential Experience in a similar role is required Key Areas of Responsibility Provide friendly, professional service to all customers Prepare and serve basic food and beverage items Operate the cash regi"
+      "description": "QUALITY DOCUMENT CONTROLLEREngineering / Construction Projects | Cape TownCompetitive SalaryIf drawings, revisions, registers and transmittals are your world â we want to hear from you.We are recruiting an experienced Quality Document Controller to join a well-established engineering and construction environment where accuracy, traceability and quality are non-negotiable.This is not simply an admin position. You will take ownership of the document control process across technical and project documentation, ensuring that engineering drawings, specifications, quality records and project information are correctly controlled, tracked, issued and ultimately handed over.Â QUALITY DOCUMENT CONTROLLER, Cape Town - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results QUALITY DOCUMENT CONTROLLER Cape Town Salary: Marke"
     },
     {
-      "id": "dbf804f3a1feed6f",
-      "title": "Liberty",
-      "company": "EQ-FIN",
+      "id": "79146571ee2cf981",
+      "title": "STORES MANAGER",
+      "company": "West Coast Personnel",
       "source_name": "Careers24",
       "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
-      "apply_url": "https://www.careers24.com/jobs/adverts/2396818-liberty-wealth-planner-training-from-1st-day-western-cape/?jobindex=9",
-      "found_at": "2026-10-31T08:57:41.065671+00:00",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2392535-stores-manager-cape-town-northern-suburbs/?jobindex=5",
+      "found_at": "2026-10-31T14:59:36.278806+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Engineering & Trades",
+      "location": "Cape Town Northern Suburbs, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-08",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "with project managers, site supervisors and suppliers. Monitor stock levels and address shortages, damages and discrepancies. Supervise stores staff and maintain safety and housekeeping standards. Maintain stock security, traceability and accountability. Assist with stock audits, cycle counts and stock reconciliations. Requirements Grade 12. Previous stores, warehouse or inventory management experience, preferably within electrical, construction, engineering or infrastructure environments. Sound knowledge of stock control, receiving, issuing and inventory administration. Computer literacy in Microsoft Office and stock management systems. Ability to interpret material requisitions, delivery notes and supplier documentation. Strong leadership, communication, planning and problem-solving skills. Valid driverâs licence and willingness to travel to project sites. A forklift licence and knowledge of electrical materials would be advantageous. We are looking for an honest, dependable and proactive individual with strong attention to detail and the ability to meet operational deadlines. Thank you for your interest in this vacancy. If you are shortlisted, you will be contacted within 2 w",
+      "exact_post": true,
+      "description": "STORES MANAGER â ELECTRICAL ENGINEERING & CONSTRUCTIONLocation: Northern Suburbs, Cape TownSalary: Market RelatedYour experience in stores management could help drive major electrical and renewable energy projects.An electrical engineering contractor in Cape Townâs Northern Suburbs is looking for an experienced Stores Manager to take ownership of its storeâs operation. Bring your strengths in stock control, team leadership and keeping project teams supplied with the right materials, tools and equipmentâand put them to work in a role where your contribution matters every day. STORES MANAGER , Cape Town Northern Suburbs - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results STORES MANAGER Cape Town Northern Suburbs Salary: Market Related Job Type: Permanent Sectors: Construction Engineering Reference: CPT"
+    },
+    {
+      "id": "b2709eac1ff3fc0b",
+      "title": "Financial Administrators",
+      "company": "West Coast Personnel",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2394283-financial-administrators-parow/?jobindex=6",
+      "found_at": "2026-10-31T14:59:36.642735+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Office & Admin",
+      "location": "Cape Town Northern Suburbs, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-20",
+      "salary": "R15000 MONTH",
+      "job_type": "Full Time",
+      "requirements": "3â5 years' experience in financial administration or bookkeeping. Proven working experience with Pastel Partner â essential. Sound understanding of bookkeeping and accounting principles. Experience with creditors and debtors. Strong Microsoft Excel skills. Experience with bank, supplier and General Ledger reconciliations. Good computer literacy and administrative skills. Excellent attention to detail and numerical accuracy. Strong organisational and time-management abilities. Ability to work independently and meet deadlines. Good communication and problem-solving skills. Experience handling daily cash-ups and multiple store accounts will be advantageous. Personal Attributes We are looking for someone who is:Â Meticulous, accurate and detail-oriented. Responsible, trustworthy and dependable. Proactive and able to take initiative. Well-organised and deadline-driven. Confident working with numbers and financial records. A team player who can also work independently. Apply 403 people have viewed this job. Previous Next About West Coast Personnel Staff recruitment specialists at all levels: Permanent Placements, Temps, Contract Personnel and CV Services. What services do we offer?",
+      "exact_post": true,
+      "description": "FINANCIAL ADMINISTRATORLocation: Parow, Cape Town, Western CapeSalary: R15 000 â R20 000 per monthExperience: 3â5 YearsEssential: Pastel Partner ExperienceAre you a detail-oriented Financial Administrator who enjoys working with numbers, keeping financial records accurate and ensuring everything balances?We are looking for a reliable, organised and experienced Financial Administrator to join a busy finance team in Parow.The ideal candidate will have strong bookkeeping knowledge, excellent Excel skills and hands-on experience with Pastel Partner, creditors, debtors, reconciliations and financial administration.This position is ideal for someone who takes pride in accuracy, works independently and can confidently manage multiple financial responsibilities while meeting deadlines. Financial Administrators, Parow - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Se"
+    },
+    {
+      "id": "b5fe5a8de16d12a2",
+      "title": "LOGISTICS COORDINATOR / COMMERCIAL ASSISTANT",
+      "company": "West Coast Personnel",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2394808-logistics-coordinator-commercial-assistant-stellenbosch/?jobindex=7",
+      "found_at": "2026-10-31T14:59:36.963133+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Drivers & Logistics",
+      "location": "Stellenbosch, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-20",
+      "salary": "R30 MONTH",
+      "job_type": "Full Time",
+      "requirements": "Minimum 3 to 8 years' experience in the fruit export industry Practical experience in export logistics, shipping coordination or freight forwarding. Direct exposure to shipping lines, vessel bookings, container planning and export documentation. Experience in a high-volume export environment. Good understanding of the operational requirements of international shipping. Strong Microsoft Excel skills and confidence working with logistics systems. Diploma or Degree in Logistics, Supply Chain Management or a related field. Strong communication, organisational and problem-solving skills. Ability to work under pressure and manage competing deadlines. Experience with QX or similar export management systems will be advantageous. Apply 196 people have viewed this job. Previous Next About West Coast Personnel Staff recruitment specialists at all levels: Permanent Placements, Temps, Contract Personnel and CV Services. What services do we offer? Successful recruitment and selection processes Personality profiling Professional CV preparation for Jobseekers Verification of qualifications, employment history and all relevant details. Reference checks according to competencies. Suitability for po",
+      "exact_post": true,
+      "description": "LOGISTICS COORDINATOR / COMMERCIAL ASSISTANTÂ ð Stellenbosch, Western Capeð° R 30Â 000 to R 45Â 000 depending on experienceFRUIT EXPORT EXPERIENCE ESSENTIAL! LOGISTICS COORDINATOR / COMMERCIAL ASSISTANT, Stellenbosch - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results LOGISTICS COORDINATOR / COMMERCIAL ASSISTANT Stellenbosch Salary: R30.00 - R45.00 Per Month Job Type: Permanent Sectors: Agriculture Reference: CPT001414/MM Apply before Nov 20 2026 | 20 Days left Apply External Application Vacancy Details Employer: West Coast Personnel LOGISTICS COORDINATOR / COMMERCIAL ASSISTANTÂ ðŸ“ Stellenbosch, Western CapeðŸ’° R 30Â 000 to R 45Â 000 depending on experienceFRUIT EXPORT EXPERIENCE ESSENTIAL! Key Responsibilities: Â Essential Duties â Export Logistics & Operations Coordinate export shipments, vessel "
+    },
+    {
+      "id": "fef9784f786eda7a",
+      "title": "ELECTRICIAN",
+      "company": "West Coast Personnel",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396401-electrician-western-cape/?jobindex=8",
+      "found_at": "2026-10-31T14:59:37.323771+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Engineering & Trades",
+      "location": "Western Cape, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-27",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Relevant Electrical Trade Qualification â ESSENTIAL. 3â5 years' relevant electrical maintenance experience , preferably within a manufacturing or industrial environment. Practical experience in electrical fault finding, repairs and preventative maintenance. Knowledge of PLC programming, troubleshooting and maintenance. Understanding of industrial electrical systems, control panels and equipment. Feed milling experience will be highly advantageous. Valid driver's licence and own reliable transport. Must be comfortable working at heights. Willingness to work shifts and standby â ESSENTIAL. Strong problem-solving skills and attention to detail. Ability to work independently and effectively within a maintenance team. Apply 166 people have viewed this job. Previous Next About West Coast Personnel Staff recruitment specialists at all levels: Permanent Placements, Temps, Contract Personnel and CV Services. What services do we offer? Successful recruitment and selection processes Personality profiling Professional CV preparation for Jobseekers Verification of qualifications, employment history and all relevant details. Reference checks according to competencies. Suitability for posi",
+      "exact_post": true,
+      "description": "An exciting opportunity exists for a skilled and experienced Electrician to join a well-established manufacturing operation based in Malmesbury.The successful candidate will be responsible for electrical maintenance, fault finding, repairs and preventative maintenance of production equipment within a feed milling facility.This position reports directly to the Maintenance Manager and plays an important role in ensuring safe, reliable and efficient plant operations while minimising equipment downtime. ELECTRICIAN , Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results ELECTRICIAN Western Cape Salary: Market Related Job Type: Permanent Sectors: Manufacturing Reference: CPT001432/MM Apply before Nov 27 2026 | 27 Days left Apply External Application Vacancy Details Employer: West Coast Personnel ELECTRICIAN â€“ MANUFACTURINGLocation: Malmesbury, Western CapeSalary: Competitive Salary Package +"
+    },
+    {
+      "id": "0fa4ab4088b528eb",
+      "title": "NATIONAL OPERATIONS MANAGER",
+      "company": "West Coast Personnel",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396402-national-operations-manager-cape-winelands/?jobindex=9",
+      "found_at": "2026-10-31T14:59:37.729630+00:00",
       "verification": {
         "status": "board_listing",
         "confidence": 55,
@@ -275,14 +271,42 @@
         "warnings": []
       },
       "category": "Banking & Finance",
-      "location": "Western Cape, Western Cape",
+      "location": "Cape Winelands, Western Cape",
       "province": "Western Cape",
-      "closing_date": "2026-10-31",
+      "closing_date": "2026-11-27",
       "salary": "",
       "job_type": "Full Time",
-      "requirements": "Before applying, you'll need: ✅ South African ID ✅ Matric certificate ✅ Own reliable vehicle ✅ Clear credit record (no listed debt) ✅ No criminal record ✅ Laptop and cell phone is essential ✅ Min 3 years working experience Apply 2 people have applied for this job. 106 people have viewed this job. Previous Next About EQ-FIN EQ-FIN is an outsourced assurance management company which represents Liberty Life and Stanlib in the South African financial services industry. While we distribute Liberty life insurance and risk products, retirement planning solutions, short and long-term savings products, medical aids and corporate",
+      "requirements": "Relevant 3-year tertiary qualification in Engineering, Operations Management, Agriculture or a related field. 8â12 years' experience within a manufacturing environment, preferably animal feed manufacturing or a related industry. Proven experience managing multi-site manufacturing operations â ESSENTIAL. Demonstrated ability to lead and manage operational management teams. Strong financial and commercial expertise, including budgeting, cost control and profitability management. Sound understanding of manufacturing processes, plant performance and operational efficiency. Experience implementing continuous improvement and productivity initiatives. Strong leadership, communication, problem-solving and relationship-building skills. Highly motivated, proactive and capable of working independently. Willingness to travel nationally between operational facilities. Apply 150 people have viewed this job. Previous Next About West Coast Personnel Staff recruitment specialists at all levels: Permanent Placements, Temps, Contract Personnel and CV Services. What services do we offer? Successful recruitment and selection processes Personality profiling Professional CV preparation for Jobseeker",
       "exact_post": true,
-      "description": "What if your next career move isn't in the same industry you're in today? Let's be honest. Most people don't wake up one morning and decide they want to become a Wealth Planner. In fact, many of the most successful advisers at Liberty started their ... Before applying, you'll need: ✅ South African ID ✅ Matric certificate ✅ Own reliable vehicle ✅ Clear credit record (no listed debt) ✅ No criminal record ✅ Laptop and cell phone is essential ✅ Min 3 years working experience Liberty | Wealth Planner | Training from 1st day, Western Cape - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa Back to Search Results Liberty | Wealth Planner | Training from 1st day Western Cape Salary: Market Related Bonus: Yes Job Type: Permanent Sectors: Procurement Benefits: Bonus Training Reference: Procurement Apply before Oct 31 2026 | 13 Hours left Apply Vacancy Det"
+      "description": "An exciting opportunity exists for an experienced and results-driven National Operations Manager to join a well-established manufacturing business.The successful candidate will oversee four feed manufacturing facilities across South Africa, ensuring operational excellence, production efficiency, cost optimisation and profitability.This senior management position requires a strategic leader with extensive manufacturing experience, proven multi-site operational management expertise and strong financial and commercial acumen. NATIONAL OPERATIONS MANAGER, Cape Winelands - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results NATIONAL OPERATIONS MANAGER Cape Winelands Salary: Market Related Job Type: Permanent Sectors: Manufacturing Reference: CPT001431/MM Apply before Nov 27 2026 | 27 Days left Apply External Application Vacancy Details Employer: West Coast Personnel NATIONAL OPERATIONS MANAGERLocation: Wellington, Western CapeSalary: Competitive Salary Package +"
+    },
+    {
+      "id": "38e3f7309b29894e",
+      "title": "TECHNICAL ADVISOR (MONOGASTRIC)",
+      "company": "West Coast Personnel",
+      "source_name": "Careers24",
+      "source_url": "https://www.careers24.com/jobs/lc-south-africa/",
+      "apply_url": "https://www.careers24.com/jobs/adverts/2396403-technical-advisor-monogastric-cape-winelands/?jobindex=10",
+      "found_at": "2026-10-31T14:59:38.079635+00:00",
+      "verification": {
+        "status": "board_listing",
+        "confidence": 55,
+        "checks": [
+          "Found on a known SA job board",
+          "Not yet confirmed on the employer's own site",
+          "Apply link opens the exact vacancy post (not a careers homepage)"
+        ],
+        "warnings": []
+      },
+      "category": "Other Jobs",
+      "location": "Cape Winelands, Western Cape",
+      "province": "Western Cape",
+      "closing_date": "2026-11-27",
+      "salary": "",
+      "job_type": "Full Time",
+      "requirements": "Relevant Agricultural Degree â ESSENTIAL , such as: BSc Agriculture B Agric MSc Agriculture Or an equivalent recognised agricultural qualification 2â4 years' experience in a similar agricultural technical sales or advisory role. Sound knowledge of agricultural products, animal nutrition or livestock production. Ability to provide practical technical advice to livestock producers. Strong communication, negotiation and customer relationship management skills. Proficient in Microsoft Office applications. Good planning, organisational and reporting abilities. Self-motivated, results-driven and capable of working independently. Strong interpersonal and teamwork skills. Valid driver's licence and own reliable transport â ESSENTIAL. Willingness to travel to customers and farms throughout the Western Cape. Apply 135 people have viewed this job. Previous Next About West Coast Personnel Staff recruitment specialists at all levels: Permanent Placements, Temps, Contract Personnel and CV Services. What services do we offer? Successful recruitment and selection processes Personality profiling Professional CV preparation for Jobseekers Verification of qualifications, employment history and",
+      "exact_post": true,
+      "description": "An exciting opportunity exists for a qualified and motivated Technical Advisor (Monogastric) to join a well-established business within the agricultural industry.Based in Wellington, the successful candidate will service customers throughout the Western Cape, providing expert technical advice on animal feed products, nutritional solutions and best feeding practices to help livestock producers achieve optimal production performance.This position requires an individual who combines agricultural technical knowledge with excellent customer relationship management, communication and advisory skills.The successful candidate will report directly to the Regional Sales Manager. TECHNICAL ADVISOR (MONOGASTRIC), Cape Winelands - Careers24 Share This Vacancy × Send an email about this job to a friend or to yourself. Your Name Recipient's Name Recipient's Email Address Message CLOSE SEND Home / Job Search / South Africa / Western Cape Back to Search Results TECHNICAL ADVISOR (MONOGASTRIC) Cape Winelands Salary: Market Related Job Type: Permanent Sectors: Agriculture Reference: CPT001433/MM Apply before Nov 27 2026 | 27 Days left Apply External Application Vacancy Details Employer: West Coast Pe"
     }
   ]
 }
